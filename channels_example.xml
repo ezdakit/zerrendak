@@ -51,28 +51,12 @@
                 </subitem>
 
                 <subitem>
-                <title>tv1-2</title>
+                <title>tv1-bis</title>
                 <link>http://some/place/channel_4.mp4</link>
                 <thumbnail>http://thumb.png</thumbnail>
                 </subitem>
             </subitems>	
     </subchannel>
-    </channel>
-    
-    <channel>
-    <items>
-        <item>
-        <title>FILM 4</title>
-        <link>mms://some/place</link>
-        <thumbnail>http://thumb.png </thumbnail>
-        </item>
-
-        <item>
-        <title>CHANNEL 4</title>
-        <link>http://some/place/channel_4.mp4</link>
-        <thumbnail>http://thumb.png</thumbnail>
-        </item>
-    </items>	
     </channel>
 
 </channels>	
