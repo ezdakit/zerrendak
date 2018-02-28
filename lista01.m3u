@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="Rai1.it" tvg-name="Rai 1 HD" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/899_home.png" group-title="Italiani",Rai 1 HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/87.ts
+#EXTINF:-1 tvg-ID="Rai2.it" tvg-name="Rai 2 HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_D4A_1450_13E_820000_0_0_0.png" group-title="Italiani",Rai 2 HD
+http://newlook-secure.com:80/live/amy1_795ab2/932376/127.ts
+#EXTINF:-1 tvg-ID="Rai3.it" tvg-name="Rai 3 HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_D4B_1450_13E_820000_0_0_0.png" group-title="Italiani",Rai 3 HD
