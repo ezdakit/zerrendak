@@ -2,7 +2,7 @@
 
 <channels>
     <channels_info> <!-- this is opitonal -->
-      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <title>Prueba 01</title> <!-- if channels_info, a title is required, other elements are optional -->
       <genre>News</genre>
       <description>this is the descripton string</description>
       <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
@@ -56,9 +56,10 @@
                 <thumbnail>http://thumb.png</thumbnail>
                 </subitem>
             </subitems>	
-        </channel>
     </subchannel>
+    </channel>
     
+    <channel>
     <items>
         <item>
         <title>FILM 4</title>
