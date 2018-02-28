@@ -3,30 +3,19 @@
 <channels>
     <channels_info> <!-- this is opitonal -->
       <title>RFB Zerrenda</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>TV VIP</genre>
-      <description></description>
-      <thumbnail></thumbnail>
-      <fanart></fanart>
-      <date></date>
       <credits>RFB</credits>
     </channels_info>
     
     <channel>
     <name>Movistar</name>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
     <subchannel>
         <name>#0</name>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
             <subitems>
                 <subitem>
                 <title>Link 1</title>
                 <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8</link>
-                <thumbnail></thumbnail>
                 </subitem>
             </subitems>	
-        </channel>
     </subchannel>
     </channel>
 
@@ -45,7 +34,6 @@
                 <thumbnail></thumbnail>
                 </subitem>
             </subitems>	
-        </channel>
     </subchannel>
     </channel>
 
