@@ -2,7 +2,7 @@
 
 <channels>
     <channels_info> <!-- this is opitonal -->
-      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <title>RFB Prueba</title> <!-- if channels_info, a title is required, other elements are optional -->
       <genre>News</genre>
       <description>this is the descripton string</description>
       <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
@@ -51,8 +51,8 @@
                 </subitem>
 
                 <subitem>
-                <title>tv1-2</title>
-                <link>http://some/place/channel_4.mp4</link>
+                <title>BEIN SPORTS HD</title>
+                <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8</link>
                 <thumbnail>http://thumb.png</thumbnail>
                 </subitem>
             </subitems>	
