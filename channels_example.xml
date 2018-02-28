@@ -20,17 +20,19 @@
         <thumbnail>http://television.png</thumbnail>
         <fanart>http://fanart.jpg</fanart>
             <subitems>
+                
                 <subitem>
                 <title>link 1</title>
                 <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8</link>
                 <thumbnail>http://thumb.png </thumbnail>
                 </subitem>
-
+                
                 <subitem>
                 <title>link 2</title>
                 <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8</link>
                 <thumbnail>http://thumb.png</thumbnail>
                 </subitem>
+                
             </subitems>	
     </subchannel>
     </channel>
