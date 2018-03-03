@@ -15,64 +15,99 @@
         <name>Movistar</name>
         <thumbnail>http://television.png</thumbnail>
         <fanart>http://fanart.jpg</fanart>
+
         <subchannel>
             <name>Movistar #0</name>
-            <thumbnail>http://thumb.png </thumbnail>
+            <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
                         <title>Movistar #0 - 1</title>
                         <link>http://51.15.144.38:3222/play/a02a/index.m3u8<link>
-                        <thumbnail>http://thumb.png </thumbnail>
+                        <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
                         <title>Movistar #0 - 2</title>
                         <link>http://51.15.144.38:3222/play/a02d/index.m3u8<link>
-                        <thumbnail>http://thumb.png </thumbnail>
+                        <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
                         <title>Movistar #0 - 3  [EMPTY]</title>
                         <link><link>
-                        <thumbnail>http://thumb.png </thumbnail>
+                        <fanart>http://fanart.jpg</fanart>
                     </subitem>
                 </subitems>
         </subchannel>
+
         <subchannel>
             <name>Movistar LaLigaTV</name>
             <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
-                    <title>Movistar LaLigaTV - 1</title>
-                    <link>http://51.15.144.38:3222/play/a03g/index.m3u8</link>
-                    <thumbnail>http://thumb.png </thumbnail>
+                        <title>Movistar LaLigaTV - 1</title>
+                        <link>http://51.15.144.38:3222/play/a03g/index.m3u8<link>
+                        <fanart>http://fanart.jpg</fanart>
                     </subitem>
-                </subitems> 
+                    <subitem>
+                        <title>Movistar LaLigaTV - 2  [EMPTY]</title>
+                        <link><link>
+                        <fanart>http://fanart.jpg</fanart>
+                    </subitem>
+                    <subitem>
+                        <title>Movistar LaLigaTV - 3  [EMPTY]</title>
+                        <link><link>
+                        <fanart>http://fanart.jpg</fanart>
+                    </subitem>
+                </subitems>
         </subchannel>
+
         <subchannel>
             <name>Movistar Futbol</name>
             <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
-                    <title>Movistar Futbol - 1</title>
-                    <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8</link>
-                    <thumbnail>http://thumb.png </thumbnail>
+                        <title>Movistar Futbol - 1</title>
+                        <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8<link>
+                        <fanart>http://fanart.jpg</fanart>
                     </subitem>
-                </subitems> 
+                    <subitem>
+                        <title>Movistar Futbol - 2  [EMPTY]</title>
+                        <link><link>
+                        <fanart>http://fanart.jpg</fanart>
+                    </subitem>
+                    <subitem>
+                        <title>Movistar Futbol - 3  [EMPTY]</title>
+                        <link><link>
+                        <fanart>http://fanart.jpg</fanart>
+                    </subitem>
+                </subitems>
         </subchannel>
+
         <subchannel>
             <name>Movistar F1</name>
             <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
-                    <title>Movistar F1 - 1</title>
-                    <link>http://51.15.144.38:3222/play/a01w/index.m3u8</link>
-                    <thumbnail>http://thumb.png </thumbnail>
+                        <title>Movistar F1 - 1</title>
+                        <link>http://51.15.144.38:3222/play/a01w/index.m3u8<link>
+                        <fanart>http://fanart.jpg</fanart>
                     </subitem>
-                </subitems> 
-        </subchannel> 
+                    <subitem>
+                        <title>Movistar F1 - 2  [EMPTY]</title>
+                        <link><link>
+                        <fanart>http://fanart.jpg</fanart>
+                    </subitem>
+                    <subitem>
+                        <title>Movistar F1 - 3  [EMPTY]</title>
+                        <link><link>
+                        <fanart>http://fanart.jpg</fanart>
+                    </subitem>
+                </subitems>
+        </subchannel>
+
     </channel>
 
     <channel>
