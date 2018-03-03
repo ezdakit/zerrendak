@@ -25,28 +25,45 @@
                         <link>http://51.15.144.38:3222/play/a02a/index.m3u8</link>
                         <thumbnail>http://thumb.png </thumbnail>
                     </subitem>
+                    <subitem>
+                        <title>#0 - 2</title>
+                        <link>http://51.15.144.38:3222/play/a02d/index.m3u8</link>
+                        <thumbnail>http://thumb.png </thumbnail>
+                    </subitem>
                 </subitems> 
         </subchannel>
         <subchannel>
-            <name>Futbol HD</name>http://xtream.pro:8000/live/S1sF16t6Bq/xE6YNocZAL/479.ts
+            <name>LaLigaTV</name>
             <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
-                    <title>Futbol HD - 1 (onlybest)</title>
+                    <title>LaLigaTV - 1</title>
+                    <link>http://51.15.144.38:3222/play/a03g/index.m3u8</link>
+                    <thumbnail>http://thumb.png </thumbnail>
+                    </subitem>
+                </subitems> 
+        </subchannel>
+        <subchannel>
+            <name>Futbol</name>
+            <thumbnail>http://television.png</thumbnail>
+            <fanart>http://fanart.jpg</fanart>
+                <subitems>
+                    <subitem>
+                    <title>Futbol - 1</title>
                     <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8</link>
                     <thumbnail>http://thumb.png </thumbnail>
                     </subitem>
                 </subitems> 
         </subchannel>
         <subchannel>
-            <name>F1 HD</name>
+            <name>F1</name>
             <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
-                    <title>F1 HD - 1 (onlybest)</title>
-                    <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8</link>
+                    <title>F1 - 1</title>
+                    <link>http://51.15.144.38:3222/play/a01w/index.m3u8</link>
                     <thumbnail>http://thumb.png </thumbnail>
                     </subitem>
                 </subitems> 
@@ -58,25 +75,35 @@
         <thumbnail>http://television.png</thumbnail>
         <fanart>http://fanart.jpg</fanart>
         <subchannel>
-            <name>Bein Sports HD</name>
+            <name>Bein Sports</name>
             <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
-                    <title>Bein Sports HD - 1 (onlybest)</title>
-                    <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8</link>
-                    <thumbnail>http://thumb.png </thumbnail>
+                        <title>Bein Sports - 1</title>
+                        <link>http://51.15.144.38:3222/play/a02b/index.m3u8</link>
+                        <thumbnail>http://thumb.png </thumbnail>
+                    </subitem>
+                    <subitem>
+                        <title>Bein Sports - 2</title>
+                        <link>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8</link>
+                        <thumbnail>http://thumb.png </thumbnail>
+                    </subitem>
+                    <subitem>
+                        <title>Bein Sports - 2</title>
+                        <link>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8</link>
+                        <thumbnail>http://thumb.png </thumbnail>
                     </subitem>
                 </subitems> 
         </subchannel>
         <subchannel>
-            <name>Bein LaLiga HD</name>
+            <name>Bein LaLiga</name>
             <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
-                    <title>Bein LaLiga HD - 1 (onlybest)</title>
-                    <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8</link>
+                    <title>Bein LaLiga - 1</title>
+                    <link>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8</link>
                     <thumbnail>http://thumb.png </thumbnail>
                     </subitem>
                 </subitems> 
