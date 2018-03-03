@@ -16,53 +16,53 @@
         <thumbnail>http://television.png</thumbnail>
         <fanart>http://fanart.jpg</fanart>
         <subchannel>
-            <name>#0</name>
+            <name>Movistar #0</name>
             <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
-                        <title>#0 - 1</title>
+                        <title>Movistar #0 - 1</title>
                         <link>http://51.15.144.38:3222/play/a02a/index.m3u8</link>
                         <thumbnail>http://thumb.png </thumbnail>
                     </subitem>
                     <subitem>
-                        <title>#0 - 2</title>
+                        <title>Movistar #0 - 2</title>
                         <link>http://51.15.144.38:3222/play/a02d/index.m3u8</link>
                         <thumbnail>http://thumb.png </thumbnail>
                     </subitem>
                 </subitems> 
         </subchannel>
         <subchannel>
-            <name>LaLigaTV</name>
+            <name>Movistar LaLigaTV</name>
             <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
-                    <title>LaLigaTV - 1</title>
+                    <title>Movistar LaLigaTV - 1</title>
                     <link>http://51.15.144.38:3222/play/a03g/index.m3u8</link>
                     <thumbnail>http://thumb.png </thumbnail>
                     </subitem>
                 </subitems> 
         </subchannel>
         <subchannel>
-            <name>Futbol</name>
+            <name>Movistar Futbol</name>
             <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
-                    <title>Futbol - 1</title>
+                    <title>Movistar Futbol - 1</title>
                     <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8</link>
                     <thumbnail>http://thumb.png </thumbnail>
                     </subitem>
                 </subitems> 
         </subchannel>
         <subchannel>
-            <name>F1</name>
+            <name>Movistar F1</name>
             <thumbnail>http://television.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
-                    <title>F1 - 1</title>
+                    <title>Movistar F1 - 1</title>
                     <link>http://51.15.144.38:3222/play/a01w/index.m3u8</link>
                     <thumbnail>http://thumb.png </thumbnail>
                     </subitem>
@@ -87,11 +87,6 @@
                     <subitem>
                         <title>Bein Sports - 2</title>
                         <link>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8</link>
-                        <thumbnail>http://thumb.png </thumbnail>
-                    </subitem>
-                    <subitem>
-                        <title>Bein Sports - 2</title>
-                        <link>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8</link>
                         <thumbnail>http://thumb.png </thumbnail>
                     </subitem>
                 </subitems> 
