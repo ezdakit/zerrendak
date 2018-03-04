@@ -14,12 +14,12 @@
 
     <channel>
         <name>Movistar</name>
-        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/512px-Logo_Movistar.svg.png</thumbnail>
+        <thumbnail>https://github.com/ezdakit/zerrendak/blob/master/logos%20IPTV/movistar.png</thumbnail>
         <fanart>http://fanart.jpg</fanart>
 
         <subchannel>
             <name>Movistar #0</name>
-            <thumbnail>https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/-0_M%2B_copie.png/revision/latest?cb=20160225071110</thumbnail>
+            <thumbnail>https://github.com/ezdakit/zerrendak/blob/master/logos%20IPTV/movistar-%230.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
@@ -65,7 +65,7 @@
 
         <subchannel>
             <name>Movistar Futbol</name>
-            <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png</thumbnail>
+            <thumbnail>https://github.com/ezdakit/zerrendak/blob/master/logos%20IPTV/movistar-futbol.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
@@ -88,7 +88,7 @@
 
         <subchannel>
             <name>Movistar F1</name>
-            <thumbnail>http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png</thumbnail>
+            <thumbnail>https://github.com/ezdakit/zerrendak/blob/master/logos%20IPTV/movistar-F1.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
@@ -113,12 +113,12 @@
 
     <channel>
         <name>Bein</name>
-        <thumbnail>http://bein.net/en/wp-content/uploads/sites/3/2015/09/bein-Logo.png</thumbnail>
+        <thumbnail>https://github.com/ezdakit/zerrendak/blob/master/logos%20IPTV/bein.png</thumbnail>
         <fanart>http://fanart.jpg</fanart>
 
         <subchannel>
             <name>Bein Sports</name>
-            <thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png</thumbnail>
+            <thumbnail>https://github.com/ezdakit/zerrendak/blob/master/logos%20IPTV/bein-sports.png</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
@@ -141,7 +141,7 @@
 
         <subchannel>
             <name>Bein LaLiga</name>
-            <thumbnail>https://fotos.subefotos.com/bbe0571f9eac14301075851364b2da63o.png</thumbnail>
+            <thumbnail>https://github.com/ezdakit/zerrendak/blob/master/logos%20IPTV/bein-sports-laliga.jpg</thumbnail>
             <fanart>http://fanart.jpg</fanart>
                 <subitems>
                     <subitem>
