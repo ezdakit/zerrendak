@@ -1,9 +1,8 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
 
-    <channels_info> <!-- this is opitonal assdfs -->
+    <channels_info> <!-- this is opitonal -->
         <title>Piratak IPTV</title> <!-- if channels_info, a title is required, other elements are optional -->
         <genre>TV</genre>
         <description>this is the descripton string</description>
@@ -15,7 +14,7 @@
 
     <channel>
         <name>Movistar</name>
-        <thumbnail>http://television.png</thumbnail>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/512px-Logo_Movistar.svg.png</thumbnail>
         <fanart>http://fanart.jpg</fanart>
 
         <subchannel>
@@ -114,7 +113,7 @@
 
     <channel>
         <name>Bein</name>
-        <thumbnail>http://television.png</thumbnail>
+        <thumbnail>http://bein.net/en/wp-content/uploads/sites/3/2015/09/bein-Logo.png</thumbnail>
         <fanart>http://fanart.jpg</fanart>
 
         <subchannel>
