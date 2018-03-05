@@ -24,12 +24,12 @@
                 <subitems>
                     <subitem>
                         <title>Movistar #0 - op1</title>
-                        <link>http://51.15.144.38:3222/play/a02a/index.m3u8<link>
+                        <link>http://51.15.144.38:3222/play/a02d/index.m3u8<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
                         <title>Movistar #0 - op2</title>
-                        <link>http://51.15.144.38:3222/play/a02d/index.m3u8<link>
+                        <link>http://51.15.144.38:3222/play/a02a/index.m3u8<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
@@ -47,7 +47,7 @@
                 <subitems>
                     <subitem>
                         <title>Movistar LaLigaTV - op1</title>
-                        <link>http://51.15.144.38:3222/play/a03g/index.m3u8<link>
+                        <link>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
@@ -70,7 +70,7 @@
                 <subitems>
                     <subitem>
                         <title>Movistar Futbol - op1</title>
-                        <link>http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8<link>
+                        <link>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
@@ -93,17 +93,17 @@
                 <subitems>
                     <subitem>
                         <title>Movistar F1 - op1</title>
-                        <link>http://51.15.144.38:3222/play/a01w/index.m3u8<link>
+                        <link>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
-                        <title>Movistar F1 - op2  [EMPTY]</title>
-                        <link><link>
+                        <title>Movistar F1 - op2</title>
+                        <link>http://163.172.202.69:4022/formula1hd<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
-                        <title>Movistar F1 - op3  [EMPTY]</title>
-                        <link><link>
+                        <title>Movistar F1 - op3</title>
+                        <link>http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                 </subitems>
@@ -123,17 +123,17 @@
                 <subitems>
                     <subitem>
                         <title>Bein Sports - op1</title>
-                        <link>http://51.15.144.38:3222/play/a02b/index.m3u8<link>
+                        <link>http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
                         <title>Bein Sports - op2</title>
-                        <link>http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8<link>
+                        <link>http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
-                        <title>Bein Sports - op3  [EMPTY]</title>
-                        <link><link>
+                        <title>Bein Sports - op3</title>
+                        <link>http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                 </subitems>
@@ -155,8 +155,8 @@
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
-                        <title>Bein LaLiga - op3  [EMPTY]</title>
-                        <link><link>
+                        <title>Bein LaLiga - op3</title>
+                        <link>http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                 </subitems>
