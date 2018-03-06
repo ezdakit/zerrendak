@@ -24,17 +24,17 @@
                 <subitems>
                     <subitem>
                         <title>Movistar #0 - op1</title>
-                        <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/AntonioGarcia/12345/14591.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0<link>
+                        <link>plugin://plugin.video.f4mTester/?url=http://servergates.net:8080/live/agrocom14/ocEt9htqR2/30231.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
                         <title>Movistar #0 - op2</title>
-                        <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/AntonioGarcia/12345/14590.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0<link>
+                        <link>plugin://plugin.video.f4mTester/?url=http://servergates.net:8080/live/agrocom14/ocEt9htqR2/8935.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
-                        <title>Movistar #0 - op3  [EMPTY]</title>
-                        <link><link>
+                        <title>Movistar #0 - op3</title>
+                        <link>plugin://plugin.video.f4mTester/?url=http://servergates.net:8080/live/agrocom14/ocEt9htqR2/16124.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                 </subitems>
