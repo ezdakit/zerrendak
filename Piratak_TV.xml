@@ -24,12 +24,12 @@
                 <subitems>
                     <subitem>
                         <title>Movistar #0 - op1</title>
-                        <link>http://51.15.144.38:3222/play/a02d/index.m3u8<link>
+                        <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/AntonioGarcia/12345/14591.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
                         <title>Movistar #0 - op2</title>
-                        <link>http://51.15.144.38:3222/play/a02a/index.m3u8<link>
+                        <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/AntonioGarcia/12345/14590.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0<link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
@@ -56,8 +56,8 @@
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                     <subitem>
-                        <title>Movistar LaLigaTV - op3</title>
-                        <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/AntonioGarcia/12345/14591.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0<link>
+                        <title>Movistar LaLigaTV - op3  [EMPTY]</title>
+                        <link><link>
                         <fanart>http://fanart.jpg</fanart>
                     </subitem>
                 </subitems>
