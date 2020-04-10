@@ -1,37 +1,37 @@
 #EXTM3U 
-#EXTINF: -1 tvg-name="#0" tvg-chno="1" tvg-logo="https://github.com/ezdakit/zerrendak/blob/master/logos/%230.png?raw=true" group-title="MOVISTAR", #0
+#EXTINF: -1 tvg-name="#0 HD" tvg-chno="1" tvg-logo="https://github.com/ezdakit/zerrendak/blob/master/logos/%230.png?raw=true" group-title="MOVISTAR", #0
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1232
-#EXTINF: -1 tvg-name="#VAMOS" tvg-chno="2" tvg-logo="https://github.com/ezdakit/zerrendak/blob/master/logos/%23vamos.png?raw=true" group-title="MOVISTAR", #VAMOS
+#EXTINF: -1 tvg-name="#VAMOS HD" tvg-chno="2" tvg-logo="https://github.com/ezdakit/zerrendak/blob/master/logos/%23vamos.png?raw=true" group-title="MOVISTAR", #VAMOS
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1504
-#EXTINF: -1 tvg-name="CINEDOC&ROLL" tvg-chno="3" tvg-logo="https://github.com/ezdakit/zerrendak/blob/master/logos/docandroll.png?raw=true" group-title="MOVISTAR", CINEDOC&ROLL
+#EXTINF: -1 tvg-name="M.CineDocRoll" tvg-chno="3" tvg-logo="https://github.com/ezdakit/zerrendak/blob/master/logos/docandroll.png?raw=true" group-title="MOVISTAR", CINEDOC&ROLL
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1219
-#EXTINF: -1 tvg-name="TCM" tvg-chno="4" tvg-logo="https://github.com/ezdakit/zerrendak/blob/master/logos/TCM.png?raw=true" group-title="PREMIUM", TCM
+#EXTINF: -1 tvg-name="TCM HD" tvg-chno="4" tvg-logo="https://github.com/ezdakit/zerrendak/blob/master/logos/TCM.png?raw=true" group-title="PREMIUM", TCM
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1266
 #EXTINF: -1 tvg-name="HISTORIA" tvg-chno="5" tvg-logo="https://github.com/ezdakit/zerrendak/blob/master/logos/HISTORIA.png?raw=true" group-title="PREMIUM", HISTORIA
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1288
-#EXTINF: -1 tvg-name="DISCOVERY CHANNEL" tvg-chno="6" group-title="PREMIUM", DISCOVERY CHANNEL
+#EXTINF: -1 tvg-name="DISCOVERY" tvg-chno="6" group-title="PREMIUM", DISCOVERY CHANNEL
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1299
-#EXTINF: -1 tvg-name="ODISEA" tvg-chno="7" group-title="PREMIUM", ODISEA
+#EXTINF: -1 tvg-name="CANAL ODISEA" tvg-chno="7" group-title="PREMIUM", ODISEA
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1296
-#EXTINF: -1 tvg-name="NATIONAL GEOGRAPHIC" tvg-chno="8" group-title="PREMIUM", NATIONAL GEOGRAPHIC
+#EXTINF: -1 tvg-name="NAT GEO HD" tvg-chno="8" group-title="PREMIUM", NATIONAL GEOGRAPHIC
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1279
-#EXTINF: -1 tvg-name="NATIONAL GEO WILD" tvg-chno="9" group-title="PREMIUM", NATIONAL GEO WILD
+#EXTINF: -1 tvg-name="NAT GEO WILD" tvg-chno="9" group-title="PREMIUM", NATIONAL GEO WILD
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1282
-#EXTINF: -1 tvg-name="COMEDY CENTRAL" tvg-chno="10" group-title="PREMIUM", COMEDY CENTRAL
+#EXTINF: -1 tvg-name="COMEDYCENTRAL HD" tvg-chno="10" group-title="PREMIUM", COMEDY CENTRAL
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1250
-#EXTINF: -1 tvg-name="SYFY" tvg-chno="11" group-title="PREMIUM", SYFY
+#EXTINF: -1 tvg-name="SYFY HD" tvg-chno="11" group-title="PREMIUM", SYFY
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1263
-#EXTINF: -1 tvg-name="AMC" tvg-chno="12" group-title="PREMIUM", AMC
+#EXTINF: -1 tvg-name="AMC HD" tvg-chno="12" group-title="PREMIUM", AMC
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1257
-#EXTINF: -1 tvg-name="FOX" tvg-chno="13" group-title="PREMIUM", FOX
+#EXTINF: -1 tvg-name="FOX HD" tvg-chno="13" group-title="PREMIUM", FOX
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1235
-#EXTINF: -1 tvg-name="AXN" tvg-chno="14" group-title="PREMIUM", AXN
+#EXTINF: -1 tvg-name="AXN HD" tvg-chno="14" group-title="PREMIUM", AXN
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1238
-#EXTINF: -1 tvg-name="AXN WHITE" tvg-chno="15" group-title="PREMIUM", AXN WHITE
+#EXTINF: -1 tvg-name="AXN WHITE HD" tvg-chno="15" group-title="PREMIUM", AXN WHITE
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1241
-#EXTINF: -1 tvg-name="TNT" tvg-chno="16" group-title="PREMIUM", TNT
+#EXTINF: -1 tvg-name="TNT HD" tvg-chno="16" group-title="PREMIUM", TNT
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1244
-#EXTINF: -1 tvg-name="CALLE 13" tvg-chno="17" group-title="PREMIUM", CALLE 13
+#EXTINF: -1 tvg-name="CALLE 13 HD" tvg-chno="17" group-title="PREMIUM", CALLE 13
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1247
 #EXTINF: -1 tvg-name="FOX LIFE" tvg-chno="18" group-title="PREMIUM", FOX LIFE
 http://free-anacondatv.net:2052/gratis19/jhP3vyUI7t/1260
