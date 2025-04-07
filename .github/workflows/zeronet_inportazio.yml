@@ -105,13 +105,13 @@ jobs:
       # 1. Verificar y copiar el archivo original (si existe)
       - name: Backup original file
         run: |
-          if [ -f "$OUTPUT_FOLDER/$OUTPUT_FILE_4" ]; then
+          if [ -f "$AUX_FOLDER/$OUTPUT_FILE_4" ]; then
             echo "El archivo $OUTPUT_FILE_4 existe, creando copia como $OUTPUT_FILE_5"
-            cp "$OUTPUT_FOLDER/$OUTPUT_FILE_4" "$OUTPUT_FOLDER/$OUTPUT_FILE_5"
-            ls -la "$OUTPUT_FOLDER/"  # Opcional: mostrar contenido del directorio
+            cp "$AUX_FOLDER/$OUTPUT_FILE_4" "$AUX_FOLDER/$OUTPUT_FILE_5"
+            ls -la "$AUX_FOLDER/"  # Opcional: mostrar contenido del directorio
           else
             echo "El archivo $OUTPUT_FILE_4 no existe aún, se creará uno nuevo"
-            touch "$OUTPUT_FOLDER/$OUTPUT_FILE_5"  # Crear archivo vacío para evitar errores
+            touch "$AUX_FOLDER/$OUTPUT_FILE_5"  # Crear archivo vacío para evitar errores
           fi
 
       # Ejecutar el script
@@ -121,12 +121,12 @@ jobs:
       - name: Compare files after script execution
         run: |
           # Verificar existencia de ambos archivos primero
-          if [ ! -f "$OUTPUT_FOLDER/$OUTPUT_FILE_4" ]; then
+          if [ ! -f "$AUX_FOLDER/$OUTPUT_FILE_4" ]; then
             echo "::error::El archivo $OUTPUT_FILE_4 no existe!"
             exit 1
           fi
           
-          if [ ! -f "$OUTPUT_FOLDER/$OUTPUT_FILE_5" ]; then
+          if [ ! -f "$AUX_FOLDER/$OUTPUT_FILE_5" ]; then
             echo "::error::El archivo de copia $OUTPUT_FILE_5 no existe!"
             exit 1
           fi
