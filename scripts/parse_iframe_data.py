@@ -6,18 +6,43 @@ import argparse  # Añadir este import
 
 # Configurar el parser de argumentos
 parser = argparse.ArgumentParser(description='Procesar eventos desde HTML a CSV y M3U')
-parser.add_argument('--html', required=True, help='Archivo HTML de entrada')
-parser.add_argument('--csv', required=True, help='Archivo CSV de salida para eventos')
-parser.add_argument('--m3u_events', required=True, help='Archivo M3U de salida para eventos')
-parser.add_argument('--m3u_channels', required=True, help='Archivo M3U de salida para canales')
+parser.add_argument('--aux_folder', required=True, help='Directorio auxiliar para entrada HTML y salida CSV')
+parser.add_argument('--listas_folder', required=True, help='Directorio para los archivos M3U de salida')
+parser.add_argument('--html_file', help='Nombre del archivo HTML de entrada (sin ruta)')
+parser.add_argument('--csv_file', help='Nombre del archivo CSV de salida (sin ruta)')
+parser.add_argument('--m3u_events_file', help='Nombre del archivo M3U de eventos (sin ruta)')
+parser.add_argument('--m3u_channels_file', help='Nombre del archivo M3U de canales (sin ruta)')
 
 args = parser.parse_args()
 
-# Usar los argumentos recibidos
-html_file = args.html
-csv_ekitaldiak_file_name = args.csv
-m3u_ekitaldiak_file_name = args.m3u_events
-m3u_kanalak_jatorrizko_file_name = args.m3u_channels
+# Establecer nombres por defecto si no se especifican
+html_filename = args.html_file
+csv_filename = args.csv_file
+m3u_events_filename = args.m3u_events_file
+m3u_channels_filename = args.m3u_channels_file
+
+# Obtener la ruta del directorio padre del script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(script_dir)
+
+# Construir rutas completas
+aux_folder = os.path.join(parent_dir, args.aux_folder)
+listas_folder = os.path.join(parent_dir, args.listas_folder)
+
+# Crear directorios si no existen
+os.makedirs(aux_folder, exist_ok=True)
+os.makedirs(listas_folder, exist_ok=True)
+
+# Rutas completas de archivos
+html_file = os.path.join(aux_folder, html_filename)
+csv_ekitaldiak_file_name = os.path.join(aux_folder, csv_filename)
+m3u_ekitaldiak_file_name = os.path.join(listas_folder, m3u_events_filename)
+m3u_kanalak_jatorrizko_file_name = os.path.join(listas_folder, m3u_channels_filename)
+
+# Verificar que el archivo HTML existe
+if not os.path.exists(html_file):
+    print(f"Error: El archivo HTML {html_file} no existe")
+    sys.exit(1)
 
 def extract_and_save_kanalak_m3u(input_file, output_file):
     # Leer el contenido del archivo HTML
