@@ -2,12 +2,22 @@ from bs4 import BeautifulSoup
 import csv
 import re
 from datetime import datetime
+import argparse  # Añadir este import
 
-# Input and output file paths
-html_file = 'testing/testing/new_all.txt'
-csv_ekitaldiak_file_name = 'testing/testing/eventos_acestream.csv'
-m3u_ekitaldiak_file_name = 'testing/testing/eventos_acestream.m3u'
-m3u_kanalak_jatorrizko_file_name = 'testing/testing/canales_acestream.m3u'
+# Configurar el parser de argumentos
+parser = argparse.ArgumentParser(description='Procesar eventos desde HTML a CSV y M3U')
+parser.add_argument('--html', required=True, help='Archivo HTML de entrada')
+parser.add_argument('--csv', required=True, help='Archivo CSV de salida para eventos')
+parser.add_argument('--m3u_events', required=True, help='Archivo M3U de salida para eventos')
+parser.add_argument('--m3u_channels', required=True, help='Archivo M3U de salida para canales')
+
+args = parser.parse_args()
+
+# Usar los argumentos recibidos
+html_file = args.html
+csv_ekitaldiak_file_name = args.csv
+m3u_ekitaldiak_file_name = args.m3u_events
+m3u_kanalak_jatorrizko_file_name = args.m3u_channels
 
 def extract_and_save_kanalak_m3u(input_file, output_file):
     # Leer el contenido del archivo HTML
