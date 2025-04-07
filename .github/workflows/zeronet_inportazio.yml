@@ -100,10 +100,6 @@ jobs:
           echo "http://127.0.0.1:43110/${SRC}"
           node scripts/page_iframe_download.js "http://127.0.0.1:43110/${SRC}" "$AUX_FOLDER" "$OUTPUT_FILE_1"
 
-      # Ejecutar el script
-      - name: Run Python script
-        run: python scripts/parse_iframe_data.py  --html_file "$OUTPUT_FILE_1" --csv_file "$OUTPUT_FILE_2" --m3u_events_file "$OUTPUT_FILE_3" --m3u_channels_file "$OUTPUT_FILE_4" --aux_folder "$AUX_FOLDER" --listas_folder "$OUTPUT_FOLDER"
-
       - name: Check for file changes
         id: check_changes
         run: |
@@ -114,6 +110,16 @@ jobs:
             echo "$cambios"
           else
             echo "changes_detected=false" >> $GITHUB_ENV
+          fi
+
+      - name: Check for OUTPUT_FILE_4 changes
+        if: env.changes_detected == 'true'
+        run: |
+          cambios_file4=$(git diff --name-only HEAD^ HEAD -- "$OUTPUT_FOLDER/$OUTPUT_FILE_4")
+          if [ -n "$cambios_file4" ]; then
+            echo "El fichero $OUTPUT_FILE_4 ha cambiado"
+          else
+            echo "El fichero $OUTPUT_FILE_4 NO ha cambiado"
           fi
 
       - name: Add and commit changes
