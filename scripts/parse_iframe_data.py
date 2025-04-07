@@ -39,7 +39,7 @@ os.makedirs(listas_folder, exist_ok=True)
 html_file = os.path.join(aux_folder, html_filename)
 csv_ekitaldiak_file_name = os.path.join(aux_folder, csv_filename)
 m3u_ekitaldiak_file_name = os.path.join(listas_folder, m3u_events_filename)
-m3u_kanalak_jatorrizko_file_name = os.path.join(listas_folder, m3u_channels_filename)
+m3u_kanalak_jatorrizko_file_name = os.path.join(aux_folder, m3u_channels_filename)
 
 # Verificar que el archivo HTML existe
 if not os.path.exists(html_file):
