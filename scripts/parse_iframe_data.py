@@ -5,12 +5,11 @@ from datetime import datetime
 
 # Input and output file paths
 html_file = 'testing/testing/new_all.txt'
-csv_file = 'testing/testing/eventos_acestream.csv'
-m3u_file = 'testing/testing/eventos_acestream.m3u'
-m3u_file_2 = 'testing/testing/eventos_acestream_2.m3u'
-output_file = 'testing/testing/canales_acestream.m3u'
+csv_ekitaldiak_file_name = 'testing/testing/eventos_acestream.csv'
+m3u_ekitaldiak_file_name = 'testing/testing/eventos_acestream.m3u'
+m3u_kanalak_jatorrizko_file_name = 'testing/testing/canales_acestream.m3u'
 
-def extract_and_save_m3u(input_file, output_file):
+def extract_and_save_kanalak_m3u(input_file, output_file):
     # Leer el contenido del archivo HTML
     with open(input_file, 'r', encoding='utf-8') as file:
         content = file.read()
@@ -82,7 +81,7 @@ with open(html_file, 'r', encoding='utf-8') as file:
     soup = BeautifulSoup(file.read(), 'html.parser')
 
 # Ejecutar la extracción m3u
-extract_and_save_m3u(html_file, output_file)
+extract_and_save_kanalak_m3u(html_file, m3u_kanalak_jatorrizko_file_name)
 
 csv_data = []
 
@@ -150,7 +149,7 @@ for day in events_container.find_all('div', class_='events-day'):
 
 # Escribir el archivo CSV
 if csv_data:
-    with open(csv_file, 'w', newline='', encoding='utf-8') as csvfile:
+    with open(csv_ekitaldiak_file_name, 'w', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['date', 'event_id', 'time', 'competition', 'match', 'group', 'acestream_id', 'quality']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         
@@ -169,12 +168,12 @@ header_lines = [
     '\n'
 ]
 
-with open(m3u_file, 'w', encoding='utf-8') as out_file:
+with open(m3u_ekitaldiak_file_name, 'w', encoding='utf-8') as out_file:
     # Write header
     out_file.writelines(header_lines)
     
     # Read CSV and write entries
-    with open(csv_file, 'r', encoding='utf-8') as in_file:
+    with open(csv_ekitaldiak_file_name, 'r', encoding='utf-8') as in_file:
         reader = csv.DictReader(in_file)
         
         for row in reader:
@@ -195,32 +194,4 @@ with open(m3u_file, 'w', encoding='utf-8') as out_file:
             out_file.write(extinf_line)
             out_file.write(url_line)
 
-print(f"M3U file generated successfully at {m3u_file}")
-
-with open(m3u_file_2, 'w', encoding='utf-8') as out_file:
-    # Write header
-    out_file.writelines(header_lines)
-    
-    # Read CSV and write entries
-    with open(csv_file, 'r', encoding='utf-8') as in_file:
-        reader = csv.DictReader(in_file)
-        
-        for row in reader:
-            # Format date from YYYY-MM-DD to DD-MM
-            date_obj = datetime.strptime(row['date'], '%Y-%m-%d')
-            date_formated = date_obj.strftime('%d-%m')
-            
-            # Get quality if available, otherwise empty string
-            quality = row['quality'] if row['quality'] else ''
-            
-            # Create EXTINF line
-            extinf_line = f'#EXTINF:-1 tvg-id="" group-title="# Eventos {date_formated} por horario", {row["time"]} {row["match"]} {row["group"]} {quality}\n'
-            
-            # Create URL line
-            url_line = f'http://127.0.0.1:6878/ace/getstream?id={row["acestream_id"]}\n'
-            
-            # Write both lines to output file
-            out_file.write(extinf_line)
-            out_file.write(url_line)
-
-print(f"M3U file generated successfully at {m3u_file_2}")
+print(f"M3U file generated successfully at {m3u_ekitaldiak_file_name}")
