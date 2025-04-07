@@ -98,7 +98,7 @@ jobs:
           echo "Extracted src: $SRC"
           echo "iframe url:"
           echo "http://127.0.0.1:43110/${SRC}"
-          node ${{ env.SCRIPTS_FOLDER }}/page_iframe_download.js "http://127.0.0.1:43110/${SRC}" "$AUX_FOLDER" "$OUTPUT_FILE_1"
+          node scripts/page_iframe_download.js "http://127.0.0.1:43110/${SRC}" "$AUX_FOLDER" "$OUTPUT_FILE_1"
 
       # Ejecutar el script
       - name: Run Python script
