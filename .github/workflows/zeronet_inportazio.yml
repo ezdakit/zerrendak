@@ -104,6 +104,18 @@ jobs:
       - name: Run Python script
         run: python scripts/parse_iframe_data.py  --html_file "$OUTPUT_FILE_1" --csv_file "$OUTPUT_FILE_2" --m3u_events_file "$OUTPUT_FILE_3" --m3u_channels_file "$OUTPUT_FILE_4" --aux_folder "$AUX_FOLDER" --listas_folder "$OUTPUT_FOLDER"
 
+      - name: Check for file changes
+        id: check_changes
+        run: |
+          cambios=$(git status --porcelain $OUTPUT_FOLDER $AUX_FOLDER)
+          if [ -n "$cambios" ]; then
+            echo "changes_detected=true" >> $GITHUB_ENV
+            echo "Files changed:"
+            echo "$cambios"
+          else
+            echo "changes_detected=false" >> $GITHUB_ENV
+          fi
+
       - name: Check for OUTPUT_FILE_4 changes
         if: env.changes_detected == 'true'
         run: |
@@ -117,18 +129,6 @@ jobs:
             echo "::notice::El fichero $OUTPUT_FILE_4 ha cambiado"
           else
             echo "El fichero $OUTPUT_FILE_4 NO ha cambiado"
-          fi
-
-      - name: Check for file changes
-        id: check_changes
-        run: |
-          cambios=$(git status --porcelain $OUTPUT_FOLDER $AUX_FOLDER)
-          if [ -n "$cambios" ]; then
-            echo "changes_detected=true" >> $GITHUB_ENV
-            echo "Files changed:"
-            echo "$cambios"
-          else
-            echo "changes_detected=false" >> $GITHUB_ENV
           fi
 
       - name: Add and commit changes
