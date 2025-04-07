@@ -105,7 +105,7 @@ jobs:
       # Hacer copia de OUTPUT_FILE_4 antes de ejecutar el script Python
       - name: Backup original file
         run: |
-          cp "$OUTPUT_FOLDER/$OUTPUT_FILE_4" "$OUTPUT_FOLDER/$OUTPUT_FILE_5"
+          cp "$AUX_FOLDER/$OUTPUT_FILE_4" "$AUX_FOLDER/$OUTPUT_FILE_5"
           echo "Copia de seguridad creada: $OUTPUT_FILE_4 -> $OUTPUT_FILE_5"
 
       # Ejecutar el script
@@ -115,12 +115,12 @@ jobs:
       # Comparar los archivos después de ejecutar el script
       - name: Compare files
         run: |
-          if cmp -s "$OUTPUT_FOLDER/$OUTPUT_FILE_4" "$OUTPUT_FOLDER/$OUTPUT_FILE_5"; then
+          if cmp -s "$AUX_FOLDER/$OUTPUT_FILE_4" "$AUX_FOLDER/$OUTPUT_FILE_5"; then
             echo "Los archivos $OUTPUT_FILE_4 y $OUTPUT_FILE_5 son iguales"
           else
             echo "::notice::Los archivos $OUTPUT_FILE_4 y $OUTPUT_FILE_5 son diferentes"
             echo "Diferencias:"
-            diff "$OUTPUT_FOLDER/$OUTPUT_FILE_4" "$OUTPUT_FOLDER/$OUTPUT_FILE_5" || true
+            diff "$AUX_FOLDER/$OUTPUT_FILE_4" "$AUX_FOLDER/$OUTPUT_FILE_5" || true
           fi
 
       - name: Check for file changes
