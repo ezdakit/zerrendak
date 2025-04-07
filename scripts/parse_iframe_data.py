@@ -3,6 +3,8 @@ import csv
 import re
 from datetime import datetime
 import argparse  # Añadir este import
+import os
+import sys
 
 # Configurar el parser de argumentos
 parser = argparse.ArgumentParser(description='Procesar eventos desde HTML a CSV y M3U')
