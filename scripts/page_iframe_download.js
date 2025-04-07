@@ -16,11 +16,20 @@ async function captureIframeContent(url, aux_folder, file_name) {
   console.log(`Navegando a: ${fullUrl}`);
 
   try {
-    await page.goto(fullUrl, { timeout: 60000 }); // 60s el tiempo de espera
-    console.log('Navegación completada con éxito.');
+      await page.goto(fullUrl, { timeout: 20000 }); // 20s el tiempo de espera
+      console.log('Navegación completada con éxito en el primer intento.');
   } catch (error) {
-    console.error('Error al navegar a la página:', error);
-    // Continuar con la ejecución, incluso si la navegación falla
+      console.error('Error en el primer intento de navegación:', error);
+      
+      // Solo si el primer intento falla, ejecutar el segundo con más tiempo
+      try {
+          console.log('Intentando segundo intento con timeout extendido...');
+          await page.goto(fullUrl, { timeout: 40000 }); // 40s el tiempo de espera
+          console.log('Navegación completada con éxito en el segundo intento.');
+      } catch (error) {
+          console.error('Error también en el segundo intento de navegación:', error);
+          // Continuar con la ejecución, incluso si ambos intentos fallan
+      }
   }
 
   try {
