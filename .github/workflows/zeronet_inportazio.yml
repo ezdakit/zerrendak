@@ -102,25 +102,48 @@ jobs:
           echo "http://127.0.0.1:43110/${SRC}"
           node scripts/page_iframe_download.js "http://127.0.0.1:43110/${SRC}" "$AUX_FOLDER" "$OUTPUT_FILE_1"
 
-      # Hacer copia de OUTPUT_FILE_4 antes de ejecutar el script Python
+      # 1. Verificar y copiar el archivo original (si existe)
       - name: Backup original file
         run: |
-          cp "$AUX_FOLDER/$OUTPUT_FILE_4" "$AUX_FOLDER/$OUTPUT_FILE_5"
-          echo "Copia de seguridad creada: $OUTPUT_FILE_4 -> $OUTPUT_FILE_5"
+          if [ -f "$OUTPUT_FOLDER/$OUTPUT_FILE_4" ]; then
+            echo "El archivo $OUTPUT_FILE_4 existe, creando copia como $OUTPUT_FILE_5"
+            cp "$OUTPUT_FOLDER/$OUTPUT_FILE_4" "$OUTPUT_FOLDER/$OUTPUT_FILE_5"
+            ls -la "$OUTPUT_FOLDER/"  # Opcional: mostrar contenido del directorio
+          else
+            echo "El archivo $OUTPUT_FILE_4 no existe aún, se creará uno nuevo"
+            touch "$OUTPUT_FOLDER/$OUTPUT_FILE_5"  # Crear archivo vacío para evitar errores
+          fi
 
       # Ejecutar el script
       - name: Run Python script
         run: python scripts/parse_iframe_data.py  --html_file "$OUTPUT_FILE_1" --csv_file "$OUTPUT_FILE_2" --m3u_events_file "$OUTPUT_FILE_3" --m3u_channels_file "$OUTPUT_FILE_4" --aux_folder "$AUX_FOLDER" --listas_folder "$OUTPUT_FOLDER"
 
-      # Comparar los archivos después de ejecutar el script
-      - name: Compare files
+      - name: Compare files after script execution
         run: |
-          if cmp -s "$AUX_FOLDER/$OUTPUT_FILE_4" "$AUX_FOLDER/$OUTPUT_FILE_5"; then
-            echo "Los archivos $OUTPUT_FILE_4 y $OUTPUT_FILE_5 son iguales"
+          # Verificar existencia de ambos archivos primero
+          if [ ! -f "$OUTPUT_FOLDER/$OUTPUT_FILE_4" ]; then
+            echo "::error::El archivo $OUTPUT_FILE_4 no existe!"
+            exit 1
+          fi
+          
+          if [ ! -f "$OUTPUT_FOLDER/$OUTPUT_FILE_5" ]; then
+            echo "::error::El archivo de copia $OUTPUT_FILE_5 no existe!"
+            exit 1
+          fi
+          
+          # Comparación segura que maneja todos los casos
+          if cmp --silent "$OUTPUT_FOLDER/$OUTPUT_FILE_4" "$OUTPUT_FOLDER/$OUTPUT_FILE_5"; then
+            echo "Los archivos son idénticos"
           else
-            echo "::notice::Los archivos $OUTPUT_FILE_4 y $OUTPUT_FILE_5 son diferentes"
-            echo "Diferencias:"
-            diff "$AUX_FOLDER/$OUTPUT_FILE_4" "$AUX_FOLDER/$OUTPUT_FILE_5" || true
+            EXIT_CODE=$?
+            if [ $EXIT_CODE -eq 1 ]; then
+              echo "::notice::Los archivos son diferentes"
+              echo "Mostrando primeras diferencias:"
+              diff --unified=0 "$OUTPUT_FOLDER/$OUTPUT_FILE_4" "$OUTPUT_FOLDER/$OUTPUT_FILE_5" | head -n 10
+            else
+              echo "::error::Error al comparar archivos (código $EXIT_CODE)"
+              exit $EXIT_CODE
+            fi
           fi
 
       - name: Check for file changes
