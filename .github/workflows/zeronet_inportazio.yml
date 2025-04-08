@@ -2,6 +2,8 @@ name: znt_inportazio
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '30 * * * *'  # Ejecutar a las y media
 
 jobs:
   setup:
