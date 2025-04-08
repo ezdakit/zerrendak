@@ -26,9 +26,9 @@ m3u_file_name = args.html_file
 db_file_name = args.db_file
 correspondencia_csv_name = args.csv_channels_file
 canales_iptv_temp_csv_name = args.csv_list_file
-zz_lista_ott_name = args.m3u_channels_file + "ott"
-zz_lista_ace_name = args.m3u_channels_file + "ace"
-zz_lista_kodi_name = args.m3u_channels_file + "kodi"
+zz_lista_ott_name = args.m3u_channels_file + "_ott.m3u"
+zz_lista_ace_name = args.m3u_channels_file + "_ace.m3u"
+zz_lista_kodi_name = args.m3u_channels_file + "_kodi.m3u"
 
 # Obtener la ruta del directorio padre del script
 script_dir = os.path.dirname(os.path.abspath(__file__))
