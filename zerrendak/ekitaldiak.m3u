@@ -72,14 +72,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="08/04 Vuelta al País Vasco", 15:00 Etapa 2 Pamplona-Iruña › Lodosa (196.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="08/04 Vuelta al País Vasco", 15:00 Etapa 2 Pamplona-Iruña › Lodosa (196.3 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="08/04 Vuelta al País Vasco", 15:00 Etapa 2 Pamplona-Iruña › Lodosa (196.3 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="08/04 Vuelta al País Vasco", 15:00 Etapa 2 Pamplona-Iruña › Lodosa (196.3 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="08/04 Vuelta al País Vasco", 15:00 Etapa 2 Pamplona-Iruña › Lodosa (196.3 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="08/04 Vuelta al País Vasco", 15:00 Etapa 2 Pamplona-Iruña › Lodosa (196.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="08/04 Vuelta al País Vasco", 15:00 Etapa 2 Pamplona-Iruña › Lodosa (196.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -93,6 +85,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="08/04 Vuelta al País Vasco", 15:00 Etapa 2 Pamplona-Iruña › Lodosa (196.3 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="08/04 Vuelta al País Vasco", 15:00 Etapa 2 Pamplona-Iruña › Lodosa (196.3 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Oldham Athletic vs Woking DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Oldham Athletic vs Woking DAZN FHD
@@ -163,14 +157,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Oldham Athletic vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Oldham Athletic vs Woking DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Oldham Athletic vs Woking DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Oldham Athletic vs Woking DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Oldham Athletic vs Woking DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Oldham Athletic vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Oldham Athletic vs Woking DAZN 
@@ -248,14 +234,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Aldershot vs Boston United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Aldershot vs Boston United DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Aldershot vs Boston United DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Aldershot vs Boston United DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Aldershot vs Boston United DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Aldershot vs Boston United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Aldershot vs Boston United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -331,14 +309,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Sutton United vs AFC Rochdale DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Sutton United vs AFC Rochdale DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Sutton United vs AFC Rochdale DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Sutton United vs AFC Rochdale DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Sutton United vs AFC Rochdale DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Sutton United vs AFC Rochdale DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="08/04 National League", 20:45 Sutton United vs AFC Rochdale DAZN 
@@ -416,14 +386,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="08/04 Champions League Americas", 21:00 Santa María Pirates vs Kane County Cougars DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="08/04 Champions League Americas", 21:00 Santa María Pirates vs Kane County Cougars DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="08/04 Champions League Americas", 21:00 Santa María Pirates vs Kane County Cougars DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="08/04 Champions League Americas", 21:00 Santa María Pirates vs Kane County Cougars DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="08/04 Champions League Americas", 21:00 Santa María Pirates vs Kane County Cougars DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="08/04 Champions League Americas", 21:00 Santa María Pirates vs Kane County Cougars DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="08/04 Champions League Americas", 21:00 Santa María Pirates vs Kane County Cougars DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -499,14 +461,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 03:30 Diablos Rojos del México vs Titanes de Florida DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 03:30 Diablos Rojos del México vs Titanes de Florida DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 03:30 Diablos Rojos del México vs Titanes de Florida DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 03:30 Diablos Rojos del México vs Titanes de Florida DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 03:30 Diablos Rojos del México vs Titanes de Florida DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 03:30 Diablos Rojos del México vs Titanes de Florida DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 03:30 Diablos Rojos del México vs Titanes de Florida DAZN 
@@ -652,14 +606,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="09/04 Vuelta al País Vasco", 15:00 Etapa 3 Zarautz › Beasain (156.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/04 Vuelta al País Vasco", 15:00 Etapa 3 Zarautz › Beasain (156.6 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/04 Vuelta al País Vasco", 15:00 Etapa 3 Zarautz › Beasain (156.6 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/04 Vuelta al País Vasco", 15:00 Etapa 3 Zarautz › Beasain (156.6 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/04 Vuelta al País Vasco", 15:00 Etapa 3 Zarautz › Beasain (156.6 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="09/04 Vuelta al País Vasco", 15:00 Etapa 3 Zarautz › Beasain (156.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="09/04 Vuelta al País Vasco", 15:00 Etapa 3 Zarautz › Beasain (156.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -673,6 +619,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="09/04 Vuelta al País Vasco", 15:00 Etapa 3 Zarautz › Beasain (156.6 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="09/04 Vuelta al País Vasco", 15:00 Etapa 3 Zarautz › Beasain (156.6 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-id="" group-title="09/04 Scheldeprijs", 15:45 UCI Pro Series Terneuzen › Schoten (202.8 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="" group-title="09/04 Scheldeprijs", 15:45 UCI Pro Series Terneuzen › Schoten (202.8 km) DAZN FHD
@@ -743,14 +691,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="09/04 Scheldeprijs", 15:45 UCI Pro Series Terneuzen › Schoten (202.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="09/04 Scheldeprijs", 15:45 UCI Pro Series Terneuzen › Schoten (202.8 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/04 Scheldeprijs", 15:45 UCI Pro Series Terneuzen › Schoten (202.8 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/04 Scheldeprijs", 15:45 UCI Pro Series Terneuzen › Schoten (202.8 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/04 Scheldeprijs", 15:45 UCI Pro Series Terneuzen › Schoten (202.8 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="09/04 Scheldeprijs", 15:45 UCI Pro Series Terneuzen › Schoten (202.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="09/04 Scheldeprijs", 15:45 UCI Pro Series Terneuzen › Schoten (202.8 km) DAZN 
@@ -832,14 +772,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 17:30 Famila Schio vs USK Praga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 17:30 Famila Schio vs USK Praga DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 17:30 Famila Schio vs USK Praga DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 17:30 Famila Schio vs USK Praga DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 17:30 Famila Schio vs USK Praga DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 17:30 Famila Schio vs USK Praga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 17:30 Famila Schio vs USK Praga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -915,14 +847,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 CEZl Nymburk vs Galatasaray Istanbul DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 CEZl Nymburk vs Galatasaray Istanbul DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 CEZl Nymburk vs Galatasaray Istanbul DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 CEZl Nymburk vs Galatasaray Istanbul DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 CEZl Nymburk vs Galatasaray Istanbul DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 CEZl Nymburk vs Galatasaray Istanbul DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 CEZl Nymburk vs Galatasaray Istanbul DAZN 
@@ -1000,14 +924,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 AEK BC vs Nanterre 92 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 AEK BC vs Nanterre 92 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 AEK BC vs Nanterre 92 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 AEK BC vs Nanterre 92 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 AEK BC vs Nanterre 92 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 AEK BC vs Nanterre 92 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 18:30 AEK BC vs Nanterre 92 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1083,14 +999,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 20:00 Unicaja Málaga vs Reggio Emilia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 20:00 Unicaja Málaga vs Reggio Emilia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 20:00 Unicaja Málaga vs Reggio Emilia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 20:00 Unicaja Málaga vs Reggio Emilia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 20:00 Unicaja Málaga vs Reggio Emilia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 20:00 Unicaja Málaga vs Reggio Emilia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 20:00 Unicaja Málaga vs Reggio Emilia DAZN 
@@ -1170,14 +1078,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 20:30 Mersin Yenisehir Bld vs Tango Bourges DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 20:30 Mersin Yenisehir Bld vs Tango Bourges DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 20:30 Mersin Yenisehir Bld vs Tango Bourges DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 20:30 Mersin Yenisehir Bld vs Tango Bourges DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 20:30 Mersin Yenisehir Bld vs Tango Bourges DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 20:30 Mersin Yenisehir Bld vs Tango Bourges DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="09/04 Euroliga Femenina 1/4 de Final", 20:30 Mersin Yenisehir Bld vs Tango Bourges DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1254,14 +1154,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 21:00 Las Tunas vs Santa María Pirates DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 21:00 Las Tunas vs Santa María Pirates DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 21:00 Las Tunas vs Santa María Pirates DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 21:00 Las Tunas vs Santa María Pirates DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 21:00 Las Tunas vs Santa María Pirates DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 21:00 Las Tunas vs Santa María Pirates DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="09/04 Champions League Americas", 21:00 Las Tunas vs Santa María Pirates DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1337,14 +1229,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 21:45 La Laguna Tenerife vs Derthona Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 21:45 La Laguna Tenerife vs Derthona Basket DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 21:45 La Laguna Tenerife vs Derthona Basket DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 21:45 La Laguna Tenerife vs Derthona Basket DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 21:45 La Laguna Tenerife vs Derthona Basket DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 21:45 La Laguna Tenerife vs Derthona Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="09/04 Basketball Champions League 1/4 de Final", 21:45 La Laguna Tenerife vs Derthona Basket DAZN 
@@ -1423,14 +1307,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 03:30 Titanes de Florida vs Chinandega Tigres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 03:30 Titanes de Florida vs Chinandega Tigres DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 03:30 Titanes de Florida vs Chinandega Tigres DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 03:30 Titanes de Florida vs Chinandega Tigres DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 03:30 Titanes de Florida vs Chinandega Tigres DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 03:30 Titanes de Florida vs Chinandega Tigres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 03:30 Titanes de Florida vs Chinandega Tigres DAZN 
@@ -1576,14 +1452,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="10/04 Vuelta al País Vasco", 15:00 Etapa 4 Beasain › Markina-Xemein (169.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/04 Vuelta al País Vasco", 15:00 Etapa 4 Beasain › Markina-Xemein (169.6 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="10/04 Vuelta al País Vasco", 15:00 Etapa 4 Beasain › Markina-Xemein (169.6 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="10/04 Vuelta al País Vasco", 15:00 Etapa 4 Beasain › Markina-Xemein (169.6 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="10/04 Vuelta al País Vasco", 15:00 Etapa 4 Beasain › Markina-Xemein (169.6 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="10/04 Vuelta al País Vasco", 15:00 Etapa 4 Beasain › Markina-Xemein (169.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="10/04 Vuelta al País Vasco", 15:00 Etapa 4 Beasain › Markina-Xemein (169.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1597,6 +1465,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="10/04 Vuelta al País Vasco", 15:00 Etapa 4 Beasain › Markina-Xemein (169.6 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="10/04 Vuelta al País Vasco", 15:00 Etapa 4 Beasain › Markina-Xemein (169.6 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 21:00 Kane County Cougars vs Las Tunas DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 21:00 Kane County Cougars vs Las Tunas DAZN FHD
@@ -1667,14 +1537,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 21:00 Kane County Cougars vs Las Tunas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 21:00 Kane County Cougars vs Las Tunas DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 21:00 Kane County Cougars vs Las Tunas DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 21:00 Kane County Cougars vs Las Tunas DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 21:00 Kane County Cougars vs Las Tunas DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 21:00 Kane County Cougars vs Las Tunas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="10/04 Champions League Americas", 21:00 Kane County Cougars vs Las Tunas DAZN 
