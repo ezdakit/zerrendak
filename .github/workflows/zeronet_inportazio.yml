@@ -108,7 +108,7 @@ jobs:
 
       # Ejecutar el script kanalak
       - name: Run Python script
-        run: python scripts/parse_iframe_data.py  --list_orig_file "$OUTPUT_FILE_4" --db_file "$OUTPUT_FILE_6" --csv_channels_file "$OUTPUT_FILE_7" --csv_list_file "$OUTPUT_FILE_8" --m3u_channels_file "$OUTPUT_FILE_5" --aux_folder "$AUX_FOLDER" --listas_folder "$OUTPUT_FOLDER"
+        run: python scripts/process_channel_list.py  --list_orig_file "$OUTPUT_FILE_4" --db_file "$OUTPUT_FILE_6" --csv_channels_file "$OUTPUT_FILE_7" --csv_list_file "$OUTPUT_FILE_8" --m3u_channels_file "$OUTPUT_FILE_5" --aux_folder "$AUX_FOLDER" --listas_folder "$OUTPUT_FOLDER"
 
       - name: Check for file changes
         id: check_changes
