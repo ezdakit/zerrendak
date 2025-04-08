@@ -22,7 +22,7 @@ parser.add_argument('--m3u_channels_file', help='Nombre del archivo M3U de canal
 args = parser.parse_args()
 
 # Asignar argumentos
-m3u_file_name = args.html_file
+m3u_file_name = args.list_orig_file
 db_file_name = args.db_file
 correspondencia_csv_name = args.csv_channels_file
 canales_iptv_temp_csv_name = args.csv_list_file
