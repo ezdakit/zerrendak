@@ -216,7 +216,7 @@ with open(m3u_ekitaldiak_file_name, 'w', encoding='utf-8') as out_file:
         for row in reader:
             # Format date from YYYY-MM-DD to DD-MM
             date_obj = datetime.strptime(row['date'], '%Y-%m-%d')
-            date_formated = date_obj.strftime('%d-%m')
+            date_formated = date_obj.strftime('%d/%m')
             
             # Get quality if available, otherwise empty string
             quality = row['quality'] if row['quality'] else ''
