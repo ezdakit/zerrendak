@@ -7,15 +7,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -34,7 +34,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-08,15:00-Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),15:00,Vuelta al País Vasco,Etapa 2 Pamplona-Iruña › Lodosa (196.3 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -51,15 +55,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -78,7 +82,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-08,20:45-Oldham Athletic-Woking,20:45,National League,Oldham Athletic vs Woking,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -90,15 +98,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -117,7 +125,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-08,20:45-Aldershot-Boston United,20:45,National League,Aldershot vs Boston United,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -129,15 +141,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -156,7 +168,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-08,20:45-Sutton United-AFC Rochdale,20:45,National League,Sutton United vs AFC Rochdale,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -168,15 +184,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -195,7 +211,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-08,21:00-Santa María Pirates-Kane County Cougars,21:00,Champions League Americas,Santa María Pirates vs Kane County Cougars,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -207,15 +227,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -234,7 +254,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-09,03:30-Diablos Rojos del México-Titanes de Florida,03:30,Champions League Americas,Diablos Rojos del México vs Titanes de Florida,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -280,15 +304,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -307,7 +331,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-09,15:00-Etapa 3 Zarautz › Beasain (156.6 km),15:00,Vuelta al País Vasco,Etapa 3 Zarautz › Beasain (156.6 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -324,15 +352,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -351,7 +379,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-09,15:45-UCI Pro Series Terneuzen › Schoten (202.8 km),15:45,Scheldeprijs,UCI Pro Series Terneuzen › Schoten (202.8 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -365,15 +397,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -392,7 +424,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-09,17:30-Famila Schio-USK Praga,17:30,Euroliga Femenina 1/4 de Final,Famila Schio vs USK Praga,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -404,15 +440,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -431,7 +467,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-09,18:30-CEZl Nymburk-Galatasaray Istanbul,18:30,Basketball Champions League 1/4 de Final,CEZl Nymburk vs Galatasaray Istanbul,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -443,15 +483,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -470,7 +510,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-09,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -482,15 +526,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -509,7 +553,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-09,20:00-Unicaja Málaga-Reggio Emilia,20:00,Basketball Champions League 1/4 de Final,Unicaja Málaga vs Reggio Emilia,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -522,15 +570,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -549,7 +597,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-09,20:30-Mersin Yenisehir Bld-Tango Bourges,20:30,Euroliga Femenina 1/4 de Final,Mersin Yenisehir Bld vs Tango Bourges,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -561,15 +613,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -588,7 +640,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-09,21:00-Las Tunas-Santa María Pirates,21:00,Champions League Americas,Las Tunas vs Santa María Pirates,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -600,15 +656,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -627,7 +683,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-09,21:45-La Laguna Tenerife-Derthona Basket,21:45,Basketball Champions League 1/4 de Final,La Laguna Tenerife vs Derthona Basket,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -640,15 +700,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -667,7 +727,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-10,03:30-Titanes de Florida-Chinandega Tigres,03:30,Champions League Americas,Titanes de Florida vs Chinandega Tigres,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -713,15 +777,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -740,7 +804,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-10,15:00-Etapa 4 Beasain › Markina-Xemein (169.6 km),15:00,Vuelta al País Vasco,Etapa 4 Beasain › Markina-Xemein (169.6 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
@@ -757,15 +825,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
+2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
+2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
@@ -784,7 +852,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-10,21:00-Kane County Cougars-Las Tunas,21:00,Champions League Americas,Kane County Cougars vs Las Tunas,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
