@@ -11,15 +11,15 @@ jobs:
     env:
       OUTPUT_FOLDER: zerrendak
       AUX_FOLDER: aux
-      SCRIPTs_FOLDER: scripts
       ZNT_ADDRESS: 1JKe3VPvFe35bm1aiHdD4p1xcGCkZKhH3Q
       OUTPUT_FILE_1: page_iframe_content.html
       OUTPUT_FILE_2: ekitaldiak.csv
       OUTPUT_FILE_3: ekitaldiak.m3u
       OUTPUT_FILE_4: kanalak_jatorrizko.m3u
-      OUTPUT_FILE_5: kanalak_jatorrizko_prev.m3u
-      OUTPUT_FILE_6: kanalak_ott.m3u
-      OUTPUT_FILE_7: kanalak_kodi.m3u
+      OUTPUT_FILE_5: kanalak
+      OUTPUT_FILE_6: zz_canales.db
+      OUTPUT_FILE_7: correspondencia_canales.csv
+      OUTPUT_FILE_8: canales_iptv_temp.csv
 
 
     steps:
@@ -102,49 +102,13 @@ jobs:
           echo "http://127.0.0.1:43110/${SRC}"
           node scripts/page_iframe_download.js "http://127.0.0.1:43110/${SRC}" "$AUX_FOLDER" "$OUTPUT_FILE_1"
 
-      # 1. Verificar y copiar el archivo original (si existe)
-      - name: Backup original file
-        run: |
-          if [ -f "$AUX_FOLDER/$OUTPUT_FILE_4" ]; then
-            echo "El archivo $OUTPUT_FILE_4 existe, creando copia como $OUTPUT_FILE_5"
-            cp "$AUX_FOLDER/$OUTPUT_FILE_4" "$AUX_FOLDER/$OUTPUT_FILE_5"
-            ls -la "$AUX_FOLDER/"  # Opcional: mostrar contenido del directorio
-          else
-            echo "El archivo $OUTPUT_FILE_4 no existe aún, se creará uno nuevo"
-            touch "$AUX_FOLDER/$OUTPUT_FILE_5"  # Crear archivo vacío para evitar errores
-          fi
-
-      # Ejecutar el script
+      # Ejecutar el script ekitaldiak
       - name: Run Python script
         run: python scripts/parse_iframe_data.py  --html_file "$OUTPUT_FILE_1" --csv_file "$OUTPUT_FILE_2" --m3u_events_file "$OUTPUT_FILE_3" --m3u_channels_file "$OUTPUT_FILE_4" --aux_folder "$AUX_FOLDER" --listas_folder "$OUTPUT_FOLDER"
 
-      - name: Compare files after script execution
-        run: |
-          # Verificar existencia de ambos archivos primero
-          if [ ! -f "$AUX_FOLDER/$OUTPUT_FILE_4" ]; then
-            echo "::error::El archivo $OUTPUT_FILE_4 no existe!"
-            exit 1
-          fi
-          
-          if [ ! -f "$AUX_FOLDER/$OUTPUT_FILE_5" ]; then
-            echo "::error::El archivo de copia $OUTPUT_FILE_5 no existe!"
-            exit 1
-          fi
-          
-          # Comparación segura que maneja todos los casos
-          if cmp --silent "$OUTPUT_FOLDER/$OUTPUT_FILE_4" "$OUTPUT_FOLDER/$OUTPUT_FILE_5"; then
-            echo "Los archivos son idénticos"
-          else
-            EXIT_CODE=$?
-            if [ $EXIT_CODE -eq 1 ]; then
-              echo "::notice::Los archivos son diferentes"
-              echo "Mostrando primeras diferencias:"
-              diff --unified=0 "$OUTPUT_FOLDER/$OUTPUT_FILE_4" "$OUTPUT_FOLDER/$OUTPUT_FILE_5" | head -n 10
-            else
-              echo "::error::Error al comparar archivos (código $EXIT_CODE)"
-              exit $EXIT_CODE
-            fi
-          fi
+      # Ejecutar el script kanalak
+      - name: Run Python script
+        run: python scripts/parse_iframe_data.py  --list_orig_file "$OUTPUT_FILE_4" --db_file "$OUTPUT_FILE_6" --csv_channels_file "$OUTPUT_FILE_7" --csv_list_file "$OUTPUT_FILE_8" --m3u_channels_file "$OUTPUT_FILE_5" --aux_folder "$AUX_FOLDER" --listas_folder "$OUTPUT_FOLDER"
 
       - name: Check for file changes
         id: check_changes
