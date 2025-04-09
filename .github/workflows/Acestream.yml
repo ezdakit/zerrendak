@@ -45,7 +45,6 @@ jobs:
           echo "INTERNAL_IP=${{ github.event.inputs.internal_ip }}" >> $GITHUB_ENV
           echo "CONTAINER_IP=${{ github.event.inputs.internal_ip }}" >> $GITHUB_OUTPUT
         else
-          # Método simplificado y más confiable para GitHub Actions
           IP=$(hostname -I | awk '{print $1}' || echo "172.17.0.1")
           echo "Autodetected IP: $IP"
           echo "INTERNAL_IP=$IP" >> $GITHUB_ENV
@@ -141,7 +140,7 @@ jobs:
             console.error('Error during screenshot:', error);
             await page.screenshot({path: 'error.png'});
             fs.writeFileSync('error.log', error.toString());
-            process.exit(0);  # Salida exitosa para continuar el workflow
+            process.exit(0);  // Salida exitosa para continuar el workflow
           } finally {
             await browser.close();
           }
