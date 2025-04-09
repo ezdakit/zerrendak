@@ -2,9 +2,12 @@ import os
 import time
 import subprocess
 
-def capture_screenshot(acestream_url, output_folder):
-    # Inicia el stream de acestream
-    stream_command = f"./AceStream-3.1.49-v2.2.AppImage --client-console {acestream_url}"
+def capture_screenshot(acestream_id, output_folder):
+    # Construye la URL de Ace Stream
+    acestream_url = f"acestream://{acestream_id}"
+    
+    # Inicia el stream de Ace Stream
+    stream_command = f"/usr/local/bin/acestream --client-console {acestream_url}"
     process = subprocess.Popen(stream_command, shell=True)
     
     # Espera 10 segundos
@@ -14,11 +17,11 @@ def capture_screenshot(acestream_url, output_folder):
     screenshot_command = f"ffmpeg -i http://127.0.0.1:6878/ace/getstream -vframes 1 {output_folder}/screenshot.png"
     os.system(screenshot_command)
     
-    # Termina el proceso de acestream
+    # Termina el proceso de Ace Stream
     process.terminate()
 
 if __name__ == "__main__":
-    acestream_url = "acestream://b5842718859345a596107ab8e6b24d7bfa2d617e"  # Reemplaza con tu URL de acestream
+    acestream_id = os.getenv('ACESTREAM_ID')  # Obtiene la ID de Ace Stream de las variables de entorno
     output_folder = "ace_kanalak"
     os.makedirs(output_folder, exist_ok=True)
-    capture_screenshot(acestream_url, output_folder)
+    capture_screenshot(acestream_id, output_folder)
