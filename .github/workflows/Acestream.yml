@@ -1,16 +1,16 @@
-name: Acestream Docker Setup
+name: Acestream Docker Setup with IP Detection and Screenshot
 
 on:
   workflow_dispatch:
     inputs:
-      internal_ip:
-        description: "IP interna (deja vacío para autodetectar)"
-        required: false
-        default: "127.0.0.1"
       port_base:
         description: "Puerto base (6878 por defecto)"
         required: false
         default: "6878"
+      force_localhost:
+        description: "Forzar localhost? (útil para GitHub-hosted)"
+        required: false
+        default: "true"
 
 env:
   IMAGE_NAME: smarquezp/docker-acestream-ubuntu-home:latest
@@ -22,11 +22,11 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Install Docker and Docker Compose
+    - name: Install Docker and dependencies
       run: |
         # Instalar Docker oficial
         sudo apt-get update
-        sudo apt-get install -y ca-certificates curl gnupg
+        sudo apt-get install -y ca-certificates curl gnupg net-tools
         sudo install -m 0755 -d /etc/apt/keyrings
         sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
         sudo chmod a+r /etc/apt/keyrings/docker.asc
@@ -34,37 +34,104 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
-        # Verificar instalación
-        docker --version
-        docker compose version
-        
-    - name: Set internal IP
-      id: ip
+    - name: Detect network configuration
+      id: network
       run: |
-        if [ "${{ github.event.inputs.internal_ip }}" != "127.0.0.1" ]; then
-          echo "INTERNAL_IP=${{ github.event.inputs.internal_ip }}" >> $GITHUB_ENV
+        if [ "${{ inputs.force_localhost }}" == "true" ]; then
+          echo "INTERNAL_IP=127.0.0.1" >> $GITHUB_ENV
+          echo "RUNNER_TYPE=github-hosted" >> $GITHUB_ENV
+          echo "Usando localhost (modo GitHub-hosted runner)"
         else
-          IP=$(hostname -I | awk '{print $1}')
-          echo "INTERNAL_IP=$IP" >> $GITHUB_ENV
+          IP=$(ip -o -4 addr show scope global | awk '{print $4}' | cut -d'/' -f1 | head -n1)
+          if [ -z "$IP" ]; then
+            IP="127.0.0.1"
+            echo "INTERNAL_IP=127.0.0.1" >> $GITHUB_ENV
+            echo "RUNNER_TYPE=github-hosted" >> $GITHUB_ENV
+            echo "No se detectó IP, usando localhost"
+          else
+            echo "INTERNAL_IP=$IP" >> $GITHUB_ENV
+            echo "RUNNER_TYPE=self-hosted" >> $GITHUB_ENV
+            echo "IP detectada: $IP"
+          fi
         fi
         
+        echo "IP Configurada: $INTERNAL_IP"
+        echo "Tipo de runner: $RUNNER_TYPE"
+
     - name: Create docker-compose.yml
       run: |
         cat << EOF > $DOCKER_COMPOSE_FILE
         version: '3.8'
         services:
-          ${SERVICE_NAME_BASE}${PORT_BASE}:
+          ${SERVICE_NAME_BASE}${{ inputs.port_base }}:
             image: $IMAGE_NAME
-            container_name: ${SERVICE_NAME_BASE}${PORT_BASE}
+            container_name: ${SERVICE_NAME_BASE}${{ inputs.port_base }}
             restart: unless-stopped
             ports:
-              - "${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"
+              - "${{ inputs.port_base }}:${{ inputs.port_base }}"
             environment:
               - INTERNAL_IP=$INTERNAL_IP
         EOF
+        echo "Archivo docker-compose.yml generado:"
         cat $DOCKER_COMPOSE_FILE
-        
+
     - name: Start Acestream service
       run: |
         docker compose -f $DOCKER_COMPOSE_FILE up -d
-        echo "Acestream running at http://$INTERNAL_IP:${{ github.event.inputs.port_base }}/webui/player/"
+        echo "Esperando 20 segundos para inicialización..."
+        sleep 20
+
+    - name: Install browser and tools
+      if: ${{ env.RUNNER_TYPE == 'self-hosted' || inputs.force_localhost == 'true' }}
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y chromium-browser xvfb imagemagick
+
+    - name: Take screenshot
+      if: ${{ env.RUNNER_TYPE == 'self-hosted' || inputs.force_localhost == 'true' }}
+      run: |
+        export DISPLAY=:99
+        Xvfb :99 -screen 0 1280x1024x16 &
+        sleep 5
+        
+        echo "Intentando screenshot de: http://$INTERNAL_IP:${{ inputs.port_base }}/webui/player/"
+        
+        if [ "$RUNNER_TYPE" == "self-hosted" ]; then
+          # En self-hosted, probamos primero con la IP real
+          chromium-browser --headless --disable-gpu --no-sandbox \
+            --window-size=1280,1024 --screenshot=/tmp/acestream.png \
+            "http://$INTERNAL_IP:${{ inputs.port_base }}/webui/player/" || \
+          echo "Falló screenshot con IP $INTERNAL_IP, probando con localhost..."
+        fi
+
+        # Segunda prueba con localhost (para ambos casos)
+        chromium-browser --headless --disable-gpu --no-sandbox \
+          --window-size=1280,1024 --screenshot=/tmp/acestream.png \
+          "http://127.0.0.1:${{ inputs.port_base }}/webui/player/" || \
+          echo "Screenshot falló completamente"
+
+        if [ -f /tmp/acestream.png ]; then
+          convert /tmp/acestream.png -quality 80 /tmp/acestream.jpg
+          echo "Screenshot exitoso!"
+        else
+          echo "No se pudo capturar screenshot"
+          exit 0  # Continuar sin fallar el workflow
+        fi
+
+    - name: Upload screenshot
+      if: always() && (env.RUNNER_TYPE == 'self-hosted' || inputs.force_localhost == 'true') && files.exists('/tmp/acestream.jpg')
+      uses: actions/upload-artifact@v4
+      with:
+        name: acestream-screenshot
+        path: /tmp/acestream.jpg
+
+    - name: Display service info
+      run: |
+        echo "=== Información del Servicio ==="
+        echo "IP Configurada: $INTERNAL_IP"
+        echo "Tipo de runner: $RUNNER_TYPE"
+        echo "Puerto: ${{ inputs.port_base }}"
+        echo "URLs de acceso:"
+        echo " - API: http://$INTERNAL_IP:${{ inputs.port_base }}/webui/api/service?method=get_version"
+        echo " - WebUI: http://$INTERNAL_IP:${{ inputs.port_base }}/webui/player/"
+        echo "Screenshot disponible como artifact (si se capturó)"
