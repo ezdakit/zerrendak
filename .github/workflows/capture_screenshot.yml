@@ -2,6 +2,11 @@ name: Capture Screenshot
 
 on:
   workflow_dispatch:
+    inputs:
+      acestream_id:
+        description: 'Ace Stream ID'
+        required: true
+        default: '1234567890abcdef'
 
 jobs:
   capture_screenshot:
@@ -24,6 +29,11 @@ jobs:
       run: |
         sudo docker run -d --name acestream -p 6878:6878 magnetikonline/acestream-server:3.1.49_debian_8.11
         sleep 10  # Espera 10 segundos para que el stream se inicie
+
+    - name: Run capture script
+      run: |
+        export ACESTREAM_ID=${{ github.event.inputs.acestream_id }}
+        python3 scripts/capture_screenshot.py
 
     - name: Capture screenshot
       run: |
