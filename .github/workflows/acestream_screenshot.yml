@@ -13,12 +13,12 @@ on:
 
 jobs:
   capture-screenshot:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10  # Tiempo máximo de ejecución
+    runs-on: ubuntu-20.04  # Usamos una versión específica compatible
+    timeout-minutes: 10
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2  # Versión más antigua
       
     - name: Set up Python
       uses: actions/setup-python@v4
