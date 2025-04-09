@@ -48,13 +48,9 @@ jobs:
           echo "El puerto 6878 no está disponible."
         fi
 
-    - name: Verificar proceso Acestream
+    - name: Verificar proceso Acestream dentro del contenedor
       run: |
-        if pgrep -f acestream; then
-          echo "El proceso Acestream está en ejecución."
-        else
-          echo "El proceso Acestream no está en ejecución."
-        fi
+        docker exec ${{ env.CONTAINER_ID }} pgrep -f acestream && echo "El proceso Acestream está en ejecución dentro del contenedor." || echo "El proceso Acestream no está en ejecución dentro del contenedor."
 
     - name: Verificar conexión HTTP
       run: |
