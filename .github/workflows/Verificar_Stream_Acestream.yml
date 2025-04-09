@@ -37,11 +37,8 @@ jobs:
         docker-compose pull && docker-compose up -d
         #echo "CONTAINER_ID=$(docker ps -q --filter name=docker-acestream)" >> $GITHUB_ENV
         sleep 15
-
-    - name: Verificar estado del contenedor
-      run: |
         docker inspect --format='{{json .State.Health}}' docker-acestream
-
+        
     - name: Verificar puerto
       run: |
         if nc -zv 127.0.0.1 6878; then
