@@ -113,13 +113,14 @@ jobs:
         if [ -f /tmp/acestream.png ]; then
           convert /tmp/acestream.png -quality 80 /tmp/acestream.jpg
           echo "Screenshot exitoso!"
+          echo "SCREENSHOT_EXISTS=true" >> $GITHUB_ENV
         else
           echo "No se pudo capturar screenshot"
-          exit 0  # Continuar sin fallar el workflow
+          echo "SCREENSHOT_EXISTS=false" >> $GITHUB_ENV
         fi
 
     - name: Upload screenshot
-      if: always() && (env.RUNNER_TYPE == 'self-hosted' || inputs.force_localhost == 'true') && files.exists('/tmp/acestream.jpg')
+      if: ${{ always() && (env.RUNNER_TYPE == 'self-hosted' || inputs.force_localhost == 'true') && env.SCREENSHOT_EXISTS == 'true' }}
       uses: actions/upload-artifact@v4
       with:
         name: acestream-screenshot
@@ -134,4 +135,4 @@ jobs:
         echo "URLs de acceso:"
         echo " - API: http://$INTERNAL_IP:${{ inputs.port_base }}/webui/api/service?method=get_version"
         echo " - WebUI: http://$INTERNAL_IP:${{ inputs.port_base }}/webui/player/"
-        echo "Screenshot disponible como artifact (si se capturó)"
+        echo "Screenshot disponible: $SCREENSHOT_EXISTS"
