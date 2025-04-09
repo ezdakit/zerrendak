@@ -1,103 +1,117 @@
-name: Acestream Screenshot Capture
+name: Acestream Screenshot Capture with Docker
 
 on:
   workflow_dispatch:
     inputs:
       acestream_id:
-        description: 'ID del stream de Acestream'
+        description: 'ID del stream de Acestream (ej: a1b2c3d4e5f6)'
         required: true
       wait_time:
-        description: 'Tiempo de espera en segundos'
+        description: 'Tiempo de espera en segundos (default: 20)'
         required: false
-        default: '10'
+        default: '20'
 
 jobs:
   capture-screenshot:
-    runs-on: ubuntu-20.04
-    timeout-minutes: 20
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.8'
-        
-    - name: Install system dependencies
+    - name: Set up Docker
       run: |
         sudo apt-get update
-        sudo apt-get install -y \
-          vlc \
-          xvfb \
-          libvlc-dev \
-          python3-dev \
-          python3-pip \
-          curl \
-          wget \
-          software-properties-common \
-          libssl-dev \
-          libpython2.7 \
-          libavcodec58 \
-          libavformat58 \
-          libswscale5 \
-          libx11-6
+        sudo apt-get install -y docker.io
+        sudo systemctl start docker
+        sudo docker --version
         
-    - name: Install Acestream Engine (solución moderna)
+    - name: Pull Acestream Docker image
       run: |
-        echo "=== INSTALACIÓN DE ACESTREAM ==="
+        sudo docker pull jrottenberg/ffmpeg:4.1-ubuntu
+        sudo docker pull linuxserver/acestream:latest
         
-        # 1. Descargar versión portable de Acestream
-        echo "Descargando Acestream portable..."
-        wget -q https://dl.acestream.media/linux/acestream_3.1.49_ubuntu_20.04_x86_64.tar.gz || \
-          { echo "::error::Error al descargar Acestream"; exit 1; }
-        
-        # 2. Extraer archivos
-        echo "Extrayendo Acestream..."
-        tar zxvf acestream_3.1.49_ubuntu_20.04_x86_64.tar.gz || \
-          { echo "::error::Error al extraer Acestream"; exit 1; }
-        
-        # 3. Instalar en /opt
-        echo "Instalando en /opt/acestream.engine..."
-        sudo mkdir -p /opt/acestream.engine
-        sudo mv acestream.engine/* /opt/acestream.engine/
-        sudo chmod +x /opt/acestream.engine/start-engine
-        
-        # 4. Configurar entorno
-        echo "Configurando variables de entorno..."
-        export LD_LIBRARY_PATH=/opt/acestream.engine:$LD_LIBRARY_PATH
-        echo "LD_LIBRARY_PATH=$LD_LIBRARY_PATH" >> $GITHUB_ENV
-        
-        # 5. Iniciar el engine
-        echo "Iniciando Acestream Engine..."
-        nohup sudo /opt/acestream.engine/start-engine --client-console > /dev/null 2>&1 &
-        
-        # 6. Verificar instalación
-        echo "Verificando instalación (esperando 20 segundos)..."
-        sleep 20
-        if ! pgrep -f "acestreamengine"; then
-          echo "::error::El motor de Acestream no se inició correctamente"
-          exit 1
-        fi
-        echo "=== ACESTREAM INSTALADO CORRECTAMENTE ==="
-        
-    - name: Install Python dependencies
+    - name: Create screenshot script
       run: |
-        python -m pip install --upgrade pip
-        pip install mss==6.1.0 python-vlc==3.0.12118
+        cat > capture_screenshot.py << 'EOF'
+import os
+import time
+import mss
+import mss.tools
+
+def capture_screenshot(output_file='screenshot.png', wait_time=10):
+    try:
+        print(f'[1/3] Esperando {wait_time} segundos...')
+        time.sleep(wait_time)
         
-    - name: Execute screenshot capture
+        print('[2/3] Capturando pantalla...')
+        with mss.mss() as sct:
+            monitor = sct.monitors[0]
+            screenshot = sct.grab(monitor)
+            
+            if screenshot.rgb is None or len(screenshot.rgb) == 0:
+                raise ValueError("La captura de pantalla está vacía")
+                
+            mss.tools.to_png(screenshot.rgb, screenshot.size, output=output_file)
+            print(f'[3/3] Screenshot guardado como: {output_file}')
+        
+        return True
+        
+    except Exception as e:
+        print(f'Error durante la captura: {str(e)}')
+        return False
+
+if __name__ == "__main__":
+    try:
+        wait_time = int(os.getenv('WAIT_TIME', '20'))
+        success = capture_screenshot('screenshot.png', wait_time)
+        exit(0 if success else 1)
+    except Exception as e:
+        print(f"Error en la ejecución: {str(e)}")
+        exit(1)
+EOF
+
+    - name: Run Acestream and capture screenshot
       env:
         ACESTREAM_ID: ${{ github.event.inputs.acestream_id }}
         WAIT_TIME: ${{ github.event.inputs.wait_time }}
       run: |
-        python acestream_screenshot.py
+        # Configurar Xvfb
+        Xvfb :99 -screen 0 1024x768x24 &
+        export DISPLAY=:99
         
-        # Comprimir y subir resultados
-        tar czvf results.tar.gz screenshot.png
+        # Iniciar Acestream en Docker
+        sudo docker run -d \
+          --name acestream \
+          -e PUID=1000 \
+          -e PGID=1000 \
+          -e TZ=Europe/Madrid \
+          -p 6878:6878 \
+          -p 8621:8621 \
+          --tmpfs /config \
+          --device /dev/dri:/dev/dri \
+          linuxserver/acestream:latest
+        
+        # Esperar a que Acestream inicie
+        sleep 15
+        
+        # Ejecutar el script de captura
+        python capture_screenshot.py
+        
+        # Detener el contenedor
+        sudo docker stop acestream
+        
+        # Subir el screenshot
         curl -X PUT \
           -H "Authorization: Bearer $ACTIONS_RUNTIME_TOKEN" \
           -H "Content-Type: application/octet-stream" \
-          --data-binary @results.tar.gz \
-          "${ACTIONS_RUNTIME_URL}_apis/resources/Upload?itemPath=acestream-screenshot%2Fresults.tar.gz"
+          --data-binary @screenshot.png \
+          "${ACTIONS_RUNTIME_URL}_apis/resources/Upload?itemPath=acestream-screenshot%2Fscreenshot.png"
+        
+    - name: Upload screenshot
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: acestream-screenshot
+        path: screenshot.png
