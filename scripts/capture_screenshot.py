@@ -2,9 +2,9 @@ import os
 import time
 import subprocess
 
-def capture_screenshot(acestream_id, output_folder):
-    # Construye la URL de Ace Stream
-    acestream_url = f"acestream://{acestream_id}"
+def capture_screenshot(output_folder):
+    # URL de Ace Stream con la ID hardcoded
+    acestream_url = "acestream://1205151f6fa5d95c0eeb543cbce43ccfa6a1b216"
     
     # Espera 10 segundos
     time.sleep(10)
@@ -14,9 +14,6 @@ def capture_screenshot(acestream_id, output_folder):
     os.system(screenshot_command)
 
 if __name__ == "__main__":
-    # Obtiene la ID de Ace Stream de las variables de entorno
-    acestream_id = os.getenv('ACESTREAM_ID')
-    
     # Define la carpeta de salida
     output_folder = "ace_kanalak"
     
@@ -24,4 +21,4 @@ if __name__ == "__main__":
     os.makedirs(output_folder, exist_ok=True)
     
     # Llama a la función para capturar la captura de pantalla
-    capture_screenshot(acestream_id, output_folder)
+    capture_screenshot(output_folder)
