@@ -1,9 +1,7 @@
 name: Capture Screenshot
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   capture_screenshot:
