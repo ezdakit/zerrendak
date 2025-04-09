@@ -18,7 +18,7 @@ def capture_screenshot(acestream_url, output_folder):
     process.terminate()
 
 if __name__ == "__main__":
-    acestream_url = "acestream://your_acestream_url"
+    acestream_url = "acestream://b5842718859345a596107ab8e6b24d7bfa2d617e"
     output_folder = "ace_kanalak"
     os.makedirs(output_folder, exist_ok=True)
     capture_screenshot(acestream_url, output_folder)
