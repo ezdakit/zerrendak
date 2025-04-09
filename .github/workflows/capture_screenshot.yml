@@ -27,17 +27,15 @@ jobs:
     - name: Run Acestream container
       run: |
         sudo docker run -d --name acestream -p 6878:6878 vstavrinov/acestream-engine
-        sleep 10  # Espera 10 segundos para que el stream se inicie
+        sleep 10  # Wait for stream to initialize
 
     - name: Setup FFmpeg
       uses: FedericoCarboni/setup-ffmpeg@v3
 
     - name: Run capture script
-      run: python3 scripts/capture_screenshot.py
-
-    - name: Capture screenshot
       run: |
-       mpeg -i http://127.0.0.1:6878/ace/getstream -vframes 1 ace_kanalak/screenshot.png
+        mkdir -p ace_kanalak
+        python3 scripts/capture_screenshot.py
 
     - name: Check Acestream logs
       run: sudo docker logs acestream
