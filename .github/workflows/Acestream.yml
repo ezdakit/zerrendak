@@ -1,4 +1,4 @@
-name: Acestream Docker Setup with Puppeteer Screenshot
+name: Acestream Docker Setup with Reliable Screenshot
 
 on:
   workflow_dispatch:
@@ -7,10 +7,6 @@ on:
         description: "Puerto base (6878 por defecto)"
         required: false
         default: "6878"
-      force_localhost:
-        description: "Forzar localhost? (útil para GitHub-hosted)"
-        required: false
-        default: "true"
 
 env:
   IMAGE_NAME: smarquezp/docker-acestream-ubuntu-home:latest
@@ -22,9 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Install Docker and dependencies
+    - name: Install Docker
       run: |
-        # Instalar Docker oficial
         sudo apt-get update
         sudo apt-get install -y ca-certificates curl gnupg
         sudo install -m 0755 -d /etc/apt/keyrings
@@ -34,7 +29,7 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
-    - name: Set up docker-compose.yml
+    - name: Create docker-compose.yml
       run: |
         cat << EOF > $DOCKER_COMPOSE_FILE
         version: '3.8'
@@ -46,38 +41,61 @@ jobs:
             ports:
               - "${{ inputs.port_base }}:${{ inputs.port_base }}"
         EOF
-        cat $DOCKER_COMPOSE_FILE
 
     - name: Start Acestream service
       run: |
         docker compose -f $DOCKER_COMPOSE_FILE up -d
-        echo "Waiting 20 seconds for Acestream to initialize..."
-        sleep 20
+        echo "Waiting for Acestream to start..."
+        
+        # Esperar hasta que el servicio esté disponible
+        for i in {1..30}; do
+          if curl -s "http://127.0.0.1:${{ inputs.port_base }}/webui/api/service?method=get_version" >/dev/null; then
+            echo "Acestream is ready!"
+            echo "SERVICE_READY=true" >> $GITHUB_ENV
+            break
+          fi
+          sleep 2
+          echo "Waiting for Acestream... (attempt $i/30)"
+        done
+        
+        if [ "$SERVICE_READY" != "true" ]; then
+          echo "Acestream failed to start"
+          echo "SERVICE_READY=false" >> $GITHUB_ENV
+          # Mostrar logs para diagnóstico
+          docker compose -f $DOCKER_COMPOSE_FILE logs
+        fi
 
-    - name: Setup Node.js for Puppeteer
+    - name: Setup Node.js and Puppeteer
+      if: env.SERVICE_READY == 'true'
       uses: actions/setup-node@v4
       with:
         node-version: '20'
 
-    - name: Install Puppeteer and take screenshot
+    - name: Install dependencies for Puppeteer
+      if: env.SERVICE_READY == 'true'
       run: |
-        # Instalar dependencias necesarias para Puppeteer
         sudo apt-get update
-        sudo apt-get install -y libgbm-dev wget
+        sudo apt-get install -y libgbm-dev wget xvfb
         
-        # Crear directorio para Chrome
-        mkdir -p /tmp/chrome
-        cd /tmp/chrome
-        
-        # Configurar Puppeteer para usar Chrome instalado
-        echo "PUPPETEER_SKIP_DOWNLOAD=true" >> $GITHUB_ENV
-        echo "PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome" >> $GITHUB_ENV
+        # Instalar Chrome estable
+        wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+        echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
+
+    - name: Take screenshot with Puppeteer
+      if: env.SERVICE_READY == 'true'
+      run: |
+        # Configurar Xvfb
+        export DISPLAY=:99
+        Xvfb :99 -screen 0 1280x1024x16 &
+        sleep 3
         
         # Instalar Puppeteer
         npm init -y
         npm install puppeteer
         
-        # Script para tomar screenshot
+        # Tomar screenshot
         node <<EOF
         const puppeteer = require('puppeteer');
         const fs = require('fs');
@@ -93,7 +111,7 @@ jobs:
               '--disable-gpu',
               '--window-size=1280,1024'
             ],
-            executablePath: process.env.PUPPETEER_EXECUTABLE_PATH
+            executablePath: '/usr/bin/google-chrome'
           });
           
           try {
@@ -110,8 +128,7 @@ jobs:
             );
             
             if (!response.ok()) {
-              console.error('Failed to load page:', response.status());
-              process.exit(0);
+              throw new Error(`HTTP status ${response.status()}`);
             }
             
             console.log('Taking screenshot...');
@@ -121,45 +138,54 @@ jobs:
               fullPage: false
             });
             
-            // Verificar que el screenshot existe y tiene contenido
+            // Verificación del screenshot
             if (fs.existsSync('/tmp/acestream.jpg')) {
               const stats = fs.statSync('/tmp/acestream.jpg');
               if (stats.size > 5000) {
                 console.log('Screenshot successful!');
                 process.exit(0);
-              } else {
-                console.error('Screenshot file is too small:', stats.size, 'bytes');
               }
+              console.error('Screenshot file is too small');
             } else {
               console.error('Screenshot file not found');
             }
           } catch (error) {
             console.error('Error:', error.message);
+            // Mostrar más información de diagnóstico
+            console.log('Page content:', await page.content());
           } finally {
             await browser.close();
-            process.exit(0); // Siempre salir con código 0 para continuar el workflow
           }
         })();
         EOF
         
         # Verificar resultado
-        if [ -f /tmp/acestream.jpg ]; then
-          echo "SCREENSHOT_EXISTS=true" >> $GITHUB_ENV
+        if [ -f /tmp/acestream.jpg ] && [ $(wc -c < /tmp/acestream.jpg) -gt 5000 ]; then
+          echo "SCREENSHOT_SUCCESS=true" >> $GITHUB_ENV
         else
-          echo "SCREENSHOT_EXISTS=false" >> $GITHUB_ENV
+          echo "SCREENSHOT_SUCCESS=false" >> $GITHUB_ENV
         fi
 
     - name: Upload screenshot
-      if: env.SCREENSHOT_EXISTS == 'true'
+      if: env.SCREENSHOT_SUCCESS == 'true'
       uses: actions/upload-artifact@v4
       with:
         name: acestream-screenshot
         path: /tmp/acestream.jpg
 
-    - name: Display service info
+    - name: Display results
       run: |
-        echo "=== Acestream Service Information ==="
-        echo "Service running on port: ${{ inputs.port_base }}"
-        echo "Web UI: http://127.0.0.1:${{ inputs.port_base }}/webui/player/"
-        echo "API: http://127.0.0.1:${{ inputs.port_base }}/webui/api/service?method=get_version"
-        echo "Screenshot available: $SCREENSHOT_EXISTS"
+        echo "=== Deployment Results ==="
+        echo "Service status: $SERVICE_READY"
+        echo "Screenshot success: ${SCREENSHOT_SUCCESS:-false}"
+        echo "Access URLs:"
+        echo " - Web UI: http://127.0.0.1:${{ inputs.port_base }}/webui/player/"
+        echo " - API: http://127.0.0.1:${{ inputs.port_base }}/webui/api/service?method=get_version"
+        
+        if [ "$SERVICE_READY" != "true" ]; then
+          echo "::warning::Acestream service failed to start properly"
+        fi
+        
+        if [ "${SCREENSHOT_SUCCESS:-false}" != "true" ]; then
+          echo "::warning::Failed to capture screenshot"
+        fi
