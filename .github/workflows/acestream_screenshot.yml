@@ -14,7 +14,7 @@ on:
 jobs:
   capture-screenshot:
     runs-on: ubuntu-20.04
-    timeout-minutes: 15
+    timeout-minutes: 20
     
     steps:
     - name: Checkout repository
@@ -36,22 +36,51 @@ jobs:
           python3-pip \
           curl \
           wget \
-          libpython3.8 \
-          libssl1.1 \
-          libcurl4 \
+          software-properties-common \
+          libssl-dev \
+          libpython2.7 \
           libavcodec58 \
           libavformat58 \
           libswscale5 \
           libx11-6
         
-    - name: Install Acestream Engine (alternativa)
+    - name: Install Acestream Engine (solución moderna)
       run: |
-        wget -q https://dl.acestream.media/linux/acestream_3.1.36_ubuntu_16.04_x86_64.tar.gz
-        tar zxvf acestream_3.1.36_ubuntu_16.04_x86_64.tar.gz
-        sudo mv acestream.engine /opt/
+        echo "=== INSTALACIÓN DE ACESTREAM ==="
+        
+        # 1. Descargar versión portable de Acestream
+        echo "Descargando Acestream portable..."
+        wget -q https://dl.acestream.media/linux/acestream_3.1.49_ubuntu_20.04_x86_64.tar.gz || \
+          { echo "::error::Error al descargar Acestream"; exit 1; }
+        
+        # 2. Extraer archivos
+        echo "Extrayendo Acestream..."
+        tar zxvf acestream_3.1.49_ubuntu_20.04_x86_64.tar.gz || \
+          { echo "::error::Error al extraer Acestream"; exit 1; }
+        
+        # 3. Instalar en /opt
+        echo "Instalando en /opt/acestream.engine..."
+        sudo mkdir -p /opt/acestream.engine
+        sudo mv acestream.engine/* /opt/acestream.engine/
+        sudo chmod +x /opt/acestream.engine/start-engine
+        
+        # 4. Configurar entorno
+        echo "Configurando variables de entorno..."
         export LD_LIBRARY_PATH=/opt/acestream.engine:$LD_LIBRARY_PATH
+        echo "LD_LIBRARY_PATH=$LD_LIBRARY_PATH" >> $GITHUB_ENV
+        
+        # 5. Iniciar el engine
+        echo "Iniciando Acestream Engine..."
         nohup sudo /opt/acestream.engine/start-engine --client-console > /dev/null 2>&1 &
-        sleep 15
+        
+        # 6. Verificar instalación
+        echo "Verificando instalación (esperando 20 segundos)..."
+        sleep 20
+        if ! pgrep -f "acestreamengine"; then
+          echo "::error::El motor de Acestream no se inició correctamente"
+          exit 1
+        fi
+        echo "=== ACESTREAM INSTALADO CORRECTAMENTE ==="
         
     - name: Install Python dependencies
       run: |
@@ -65,7 +94,7 @@ jobs:
       run: |
         python acestream_screenshot.py
         
-        # Comprimir y subir resultados manualmente
+        # Comprimir y subir resultados
         tar czvf results.tar.gz screenshot.png
         curl -X PUT \
           -H "Authorization: Bearer $ACTIONS_RUNTIME_TOKEN" \
