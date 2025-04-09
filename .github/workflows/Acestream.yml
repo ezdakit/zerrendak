@@ -22,26 +22,26 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Install Docker and dependencies
+    - name: Install Docker and Docker Compose
       run: |
-        # Limpiar instalaciones previas de Docker (opcional pero recomendado)
-        sudo apt-get remove -y docker docker-engine docker.io containerd runc || true
-        
-        # Instalar dependencias base
+        # Instalar Docker desde los repositorios oficiales
         sudo apt-get update
-        sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common
-        
-        # Añadir repositorio oficial de Docker
-        curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
-        echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-        
-        # Instalar Docker Engine (esto resolverá los conflictos de containerd)
+        sudo apt-get install -y ca-certificates curl
+        sudo install -m 0755 -d /etc/apt/keyrings
+        sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+        sudo chmod a+r /etc/apt/keyrings/docker.asc
+        echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
         sudo apt-get update
-        sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
-        
-        # Verificar instalación
-        sudo docker --version
-        sudo docker-compose --version
+        sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin
+    
+        # Instalar Docker Compose standalone (v2)
+        sudo mkdir -p /usr/local/lib/docker/cli-plugins
+        sudo curl -SL "https://github.com/docker/compose/releases/download/v2.27.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/lib/docker/cli-plugins/docker-compose
+        sudo chmod +x /usr/local/lib/docker/cli-plugins/docker-compose
+    
+        # Verificar instalaciones
+        docker --version
+        docker compose version
              
     - name: Set internal IP
       id: ip
