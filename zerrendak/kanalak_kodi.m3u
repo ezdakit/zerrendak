@@ -273,8 +273,6 @@ plugin://script.module.horus?action=play&id=cb18d080d81f7fccf26b7723ce6a5d86d312
 plugin://script.module.horus?action=play&id=d4f56cda0a15f47e7820daaac8e37b4d67d9c918
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BUNDESLIGA 3 FHD
 plugin://script.module.horus?action=play&id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR
-plugin://script.module.horus?action=play&id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD
 plugin://script.module.horus?action=play&id=18f63b299de66029e17dc35e12f6c244e1979a91
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1
@@ -387,6 +385,8 @@ plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d
 plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="UK | Sky Sport Main Event" group-title="VARIOS", SKY SPORTS MAIN EVENT
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD
+plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD
 plugin://script.module.horus?action=play&id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
