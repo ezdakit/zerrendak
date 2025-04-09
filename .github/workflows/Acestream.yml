@@ -6,7 +6,7 @@ on:
       internal_ip:
         description: "IP interna (deja vacío para autodetectar)"
         required: false
-        default: "127.0.0.1"
+        default: ""
       port_base:
         description: "Puerto base (6878 por defecto)"
         required: false
@@ -40,15 +40,18 @@ jobs:
     - name: Set internal IP
       id: ip
       run: |
-        if [ "${{ github.event.inputs.internal_ip }}" != "127.0.0.1" ]; then
+        if [ -n "${{ github.event.inputs.internal_ip }}" ]; then
+          echo "Using provided IP: ${{ github.event.inputs.internal_ip }}"
           echo "INTERNAL_IP=${{ github.event.inputs.internal_ip }}" >> $GITHUB_ENV
           echo "CONTAINER_IP=${{ github.event.inputs.internal_ip }}" >> $GITHUB_OUTPUT
         else
-          IP=$(hostname -I | awk '{print $1}')
+          IP=$(curl -s --max-time 2 http://169.254.169.254/latest/meta-data/local-ipv4 || \
+               (hostname -I | awk '{print $1}') || \
+               echo "172.17.0.1")
+          echo "Autodetected IP: $IP"
           echo "INTERNAL_IP=$IP" >> $GITHUB_ENV
           echo "CONTAINER_IP=$IP" >> $GITHUB_OUTPUT
         fi
-        echo "Using IP: $INTERNAL_IP"
         
     - name: Create docker-compose.yml
       run: |
@@ -61,21 +64,35 @@ jobs:
             restart: unless-stopped
             network_mode: host
             environment:
-              - INTERNAL_IP=$INTERNAL_IP
+              - INTERNAL_IP=0.0.0.0
+            ports:
+              - "${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"
         EOF
         cat $DOCKER_COMPOSE_FILE
         
     - name: Start Acestream service
       run: |
         docker compose -f $DOCKER_COMPOSE_FILE up -d
-        sleep 15
+        sleep 20
         echo "Acestream running at http://$INTERNAL_IP:${{ github.event.inputs.port_base }}/webui/player/"
         docker ps -a
         docker logs ${SERVICE_NAME_BASE}${{ github.event.inputs.port_base }}
-        curl -v http://$INTERNAL_IP:${{ github.event.inputs.port_base }}/webui/api/service?method=get_version || true
+        curl --retry 3 --retry-delay 5 -v http://$INTERNAL_IP:${{ github.event.inputs.port_base }}/webui/api/service?method=get_version || true
+
+  verify-service:
+    needs: setup-acestream
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Verify Acestream accessibility
+      run: |
+        IP='${{ needs.setup-acestream.outputs.container_ip }}'
+        PORT='${{ github.event.inputs.port_base }}'
+        echo "Testing connection to http://$IP:$PORT/webui/api/service?method=get_version"
+        curl --retry 3 --retry-delay 5 -v http://$IP:$PORT/webui/api/service?method=get_version || echo "Connection test failed"
 
   screenshot-api:
-    needs: setup-acestream
+    needs: [setup-acestream, verify-service]
     runs-on: ubuntu-latest
     
     steps:
@@ -89,12 +106,13 @@ jobs:
         
     - name: Install Puppeteer
       run: |
-        npm install puppeteer
+        npm install puppeteer@19.11.1
         
     - name: Create screenshot script
       run: |
         cat << 'EOF' > screenshot.js
         const puppeteer = require('puppeteer');
+        const fs = require('fs');
         
         (async () => {
           const browser = await puppeteer.launch({
@@ -112,24 +130,30 @@ jobs:
             
             console.log(`Attempting to navigate to: ${url}`);
             
-            // Configuración más tolerante para entornos CI
-            await page.goto(url, {
+            const response = await page.goto(url, {
               waitUntil: 'domcontentloaded',
-              timeout: 45000
+              timeout: 60000
             });
             
-            // Esperar adicional para asegurar carga
-            await page.waitForTimeout(5000);
+            if (!response.ok()) {
+              throw new Error(`HTTP ${response.status()} - ${response.statusText()}`);
+            }
             
+            await page.waitForTimeout(10000);
+            
+            const screenshotPath = 'acestream_api.png';
             await page.screenshot({
-              path: 'acestream_api.png',
-              fullPage: true
+              path: screenshotPath,
+              fullPage: true,
+              quality: 90
             });
             
-            console.log('Screenshot taken successfully');
+            console.log(`Screenshot saved to ${screenshotPath}`);
             
           } catch (error) {
             console.error('Error during screenshot:', error);
+            await page.screenshot({path: 'error.png'});
+            fs.writeFileSync('error.log', error.toString());
             process.exit(1);
           } finally {
             await browser.close();
@@ -138,13 +162,17 @@ jobs:
         EOF
         
     - name: Run screenshot script
-      timeout-minutes: 2
+      timeout-minutes: 3
       run: |
         node screenshot.js || echo "Screenshot failed but continuing workflow"
+        ls -la
         
     - name: Upload screenshot artifact
       if: always()
       uses: actions/upload-artifact@v4
       with:
-        name: acestream-api-screenshot
-        path: acestream_api.png
+        name: acestream-screenshots
+        path: |
+          acestream_api.png
+          error.png
+          error.log
