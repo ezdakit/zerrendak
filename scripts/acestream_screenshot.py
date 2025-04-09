@@ -29,7 +29,7 @@ def capture_acestream_screenshot(acestream_id, output_file='screenshot.png', wai
         )
         processes.append(xvfb_process)
         os.environ['DISPLAY'] = ':1'
-        time.sleep(2)  # Esperar a que Xvfb inicie
+        time.sleep(2)
 
         print(f'[2/5] Iniciando stream de Acestream con ID: {acestream_id}')
         vlc_cmd = [
@@ -48,16 +48,14 @@ def capture_acestream_screenshot(acestream_id, output_file='screenshot.png', wai
         )
         processes.append(vlc_process)
         
-        print(f'[3/5] Esperando {wait_time} segundos para la transmisión...')
+        print(f'[3/5] Esperando {wait_time} segundos...')
         time.sleep(wait_time)
 
         print('[4/5] Capturando pantalla...')
         with mss.mss() as sct:
-            # Usar el primer monitor disponible
             monitor = sct.monitors[0]
             screenshot = sct.grab(monitor)
             
-            # Verificar que la captura no esté vacía
             if screenshot.rgb is None or len(screenshot.rgb) == 0:
                 raise ValueError("La captura de pantalla está vacía")
                 
@@ -80,14 +78,8 @@ if __name__ == "__main__":
             raise ValueError("Se requiere el ID de Acestream")
             
         wait_time = int(os.getenv('WAIT_TIME', '10'))
-        output_file = os.getenv('OUTPUT_FILE', 'screenshot.png')
         
-        print(f"Parámetros recibidos:")
-        print(f" - ACESTREAM_ID: {acestream_id}")
-        print(f" - WAIT_TIME: {wait_time} segundos")
-        print(f" - OUTPUT_FILE: {output_file}")
-        
-        success = capture_acestream_screenshot(acestream_id, output_file, wait_time)
+        success = capture_acestream_screenshot(acestream_id, 'screenshot.png', wait_time)
         sys.exit(0 if success else 1)
         
     except Exception as e:
