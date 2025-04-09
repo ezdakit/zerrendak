@@ -1,20 +1,20 @@
-name: Acestream
+name: Acestream Screenshot Capture
 
 on:
   workflow_dispatch:
     inputs:
       acestream_id:
-        description: 'ID del stream de Acestream'
+        description: 'ID del stream de Acestream (ej: a1b2c3d4e5f6)'
         required: true
-        default: 'a1b2c3d4e5f6'
       wait_time:
-        description: 'Tiempo de espera en segundos'
+        description: 'Tiempo de espera en segundos (default: 10)'
         required: false
         default: '10'
 
 jobs:
   capture-screenshot:
     runs-on: ubuntu-latest
+    timeout-minutes: 10  # Tiempo máximo de ejecución
     
     steps:
     - name: Checkout repository
@@ -28,86 +28,51 @@ jobs:
     - name: Install system dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y vlc xvfb libvlc-dev
+        sudo apt-get install -y \
+          vlc \
+          xvfb \
+          libvlc-dev \
+          python3-dev \
+          python3-pip
         
-    - name: Install Acestream
+    - name: Install Acestream Engine
       run: |
-        wget https://dl.acestream.media/linux/acestream_3.1.49_ubuntu_20.04_x86_64.tar.gz
+        echo "Instalando Acestream..."
+        wget -q https://dl.acestream.media/linux/acestream_3.1.49_ubuntu_20.04_x86_64.tar.gz
         tar zxvf acestream_3.1.49_ubuntu_20.04_x86_64.tar.gz
         sudo mv acestream.engine /opt/
         sudo /opt/acestream.engine/start-engine --client-console &
-        sleep 5
+        sleep 10  # Esperar a que el engine inicie completamente
         
     - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         pip install mss python-vlc
         
-    - name: Create Python script
-      run: |
-        cat > capture_screenshot.py << 'EOF'
-import os
-import time
-import subprocess
-import mss
-import mss.tools
-
-def capture_acestream_screenshot(acestream_id, output_file='screenshot.png', wait_time=10):
-    try:
-        print(f'[1/4] Iniciando stream de Acestream con ID: {acestream_id}')
-        vlc_cmd = [
-            'vlc',
-            f'acestream://{acestream_id}',
-            '--no-fullscreen',
-            '--qt-start-minimized',
-            '--vout', 'dummy'
-        ]
-        vlc_process = subprocess.Popen(vlc_cmd, stderr=subprocess.PIPE)
-        
-        print(f'[2/4] Esperando {wait_time} segundos...')
-        time.sleep(wait_time)
-        
-        print('[3/4] Capturando pantalla...')
-        with mss.mss() as sct:
-            monitor = sct.monitors[0]
-            screenshot = sct.grab(monitor)
-            mss.tools.to_png(screenshot.rgb, screenshot.size, output=output_file)
-            print(f'[4/4] Screenshot guardado como: {output_file}')
-        
-        print('Cerrando el reproductor...')
-        vlc_process.terminate()
-        return True
-        
-    except Exception as e:
-        print(f'Error: {str(e)}')
-        if 'vlc_process' in locals():
-            vlc_process.terminate()
-        return False
-
-if __name__ == "__main__":
-    acestream_id = os.getenv('INPUT_ACESTREAM_ID')
-    wait_time = int(os.getenv('INPUT_WAIT_TIME', '10'))
-    
-    success = capture_acestream_screenshot(acestream_id, 'screenshot.png', wait_time)
-    if not success:
-        raise SystemExit(1)
-EOF
-
-    - name: Run screenshot script
+    - name: Execute screenshot capture
       env:
-        INPUT_ACESTREAM_ID: ${{ github.event.inputs.acestream_id }}
-        INPUT_WAIT_TIME: ${{ github.event.inputs.wait_time }}
+        ACESTREAM_ID: ${{ github.event.inputs.acestream_id }}
+        WAIT_TIME: ${{ github.event.inputs.wait_time }}
+        OUTPUT_FILE: 'screenshot.png'
       run: |
-        # Configurar virtual framebuffer
-        Xvfb :1 -screen 0 1024x768x24 &
-        export DISPLAY=:1
-        
-        # Ejecutar el script
-        python capture_screenshot.py
+        python acestream_screenshot.py
         
     - name: Upload screenshot
       if: always()
       uses: actions/upload-artifact@v3
       with:
         name: acestream-screenshot
-        path: screenshot.png
+        path: |
+          screenshot.png
+          *.log
+        retention-days: 1
+        
+    - name: Upload logs on failure
+      if: failure()
+      uses: actions/upload-artifact@v3
+      with:
+        name: error-logs
+        path: |
+          /tmp/*.log
+          /var/log/*
+        retention-days: 1
