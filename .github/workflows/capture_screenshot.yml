@@ -2,11 +2,6 @@ name: Capture Screenshot
 
 on:
   workflow_dispatch:
-    inputs:
-      acestream_id:
-        description: 'Ace Stream ID'
-        required: true
-        default: 'b5842718859345a596107ab8e6b24d7bfa2d617e'
 
 jobs:
   capture_screenshot:
@@ -38,13 +33,14 @@ jobs:
       uses: FedericoCarboni/setup-ffmpeg@v3
 
     - name: Run capture script
-      run: |
-        export ACESTREAM_ID=${{ github.event.inputs.acestream_id }}
-        python3 scripts/capture_screenshot.py
+      run: python3 scripts/capture_screenshot.py
 
     - name: Capture screenshot
       run: |
         ffmpeg -i http://127.0.0.1:6878/ace/getstream -vframes 1 ace_kanalak/screenshot.png
+
+    - name: Check Acestream logs
+      run: sudo docker logs acestream
 
     - name: Stop Acestream container
       run: sudo docker stop acestream
