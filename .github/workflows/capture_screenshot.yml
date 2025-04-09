@@ -35,7 +35,7 @@ jobs:
     - name: Take screenshot with FFmpeg
       run: |
         docker run --rm -v ${{ github.workspace }}:/screenshots jrottenberg/ffmpeg \
-        -i http://127.0.0.1:6878/webui/player/stream_id \
+        -i http://127.0.0.1:6878/webui/player/1205151f6fa5d95c0eeb543cbce43ccfa6a1b216 \
         -vframes 1 /screenshots/screenshot.png
 
     - name: Upload screenshot
