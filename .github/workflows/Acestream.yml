@@ -1,8 +1,12 @@
-name: Acestream Docker Setup with Reliable Screenshot
+name: Acestream Docker Setup
 
 on:
   workflow_dispatch:
     inputs:
+      internal_ip:
+        description: "IP interna (deja vacío para autodetectar)"
+        required: false
+        default: "127.0.0.1"
       port_base:
         description: "Puerto base (6878 por defecto)"
         required: false
@@ -18,8 +22,9 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Install Docker
+    - name: Install Docker and Docker Compose
       run: |
+        # Instalar Docker oficial
         sudo apt-get update
         sudo apt-get install -y ca-certificates curl gnupg
         sudo install -m 0755 -d /etc/apt/keyrings
@@ -29,163 +34,98 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
+        # Verificar instalación
+        docker --version
+        docker compose version
+        
+    - name: Set internal IP
+      id: ip
+      run: |
+        if [ "${{ github.event.inputs.internal_ip }}" != "127.0.0.1" ]; then
+          echo "INTERNAL_IP=${{ github.event.inputs.internal_ip }}" >> $GITHUB_ENV
+        else
+          IP=$(hostname -I | awk '{print $1}')
+          echo "INTERNAL_IP=$IP" >> $GITHUB_ENV
+        fi
+        
     - name: Create docker-compose.yml
       run: |
         cat << EOF > $DOCKER_COMPOSE_FILE
         version: '3.8'
         services:
-          ${SERVICE_NAME_BASE}${{ inputs.port_base }}:
+          ${SERVICE_NAME_BASE}${PORT_BASE}:
             image: $IMAGE_NAME
-            container_name: ${SERVICE_NAME_BASE}${{ inputs.port_base }}
+            container_name: ${SERVICE_NAME_BASE}${PORT_BASE}
             restart: unless-stopped
             ports:
-              - "${{ inputs.port_base }}:${{ inputs.port_base }}"
+              - "${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"
+            environment:
+              - INTERNAL_IP=$INTERNAL_IP
         EOF
-
+        cat $DOCKER_COMPOSE_FILE
+        
     - name: Start Acestream service
       run: |
         docker compose -f $DOCKER_COMPOSE_FILE up -d
-        echo "Waiting for Acestream to start..."
-        
-        # Esperar hasta que el servicio esté disponible
-        for i in {1..30}; do
-          if curl -s "http://127.0.0.1:${{ inputs.port_base }}/webui/api/service?method=get_version" >/dev/null; then
-            echo "Acestream is ready!"
-            echo "SERVICE_READY=true" >> $GITHUB_ENV
-            break
-          fi
-          sleep 2
-          echo "Waiting for Acestream... (attempt $i/30)"
-        done
-        
-        if [ "$SERVICE_READY" != "true" ]; then
-          echo "Acestream failed to start"
-          echo "SERVICE_READY=false" >> $GITHUB_ENV
-          # Mostrar logs para diagnóstico
-          docker compose -f $DOCKER_COMPOSE_FILE logs
-        fi
+        echo "Acestream running at http://$INTERNAL_IP:${{ github.event.inputs.port_base }}/webui/player/"
 
-    - name: Setup Node.js and Puppeteer
-      if: env.SERVICE_READY == 'true'
-      uses: actions/setup-node@v4
+  screenshot-api:
+    needs: setup-acestream
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
       with:
-        node-version: '20'
-
-    - name: Install dependencies for Puppeteer
-      if: env.SERVICE_READY == 'true'
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y libgbm-dev wget xvfb
+        node-version: '18'
         
-        # Instalar Chrome estable
-        wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-        echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
-        sudo apt-get update
-        sudo apt-get install -y google-chrome-stable
-
-    - name: Take screenshot with Puppeteer
-      if: env.SERVICE_READY == 'true'
+    - name: Install Puppeteer
       run: |
-        # Configurar Xvfb
-        export DISPLAY=:99
-        Xvfb :99 -screen 0 1280x1024x16 &
-        sleep 3
-        
-        # Instalar Puppeteer
-        npm init -y
         npm install puppeteer
         
-        # Tomar screenshot
-        node <<EOF
+    - name: Create screenshot script
+      run: |
+        cat << 'EOF' > screenshot.js
         const puppeteer = require('puppeteer');
         const fs = require('fs');
         
         (async () => {
           const browser = await puppeteer.launch({
             headless: 'new',
-            args: [
-              '--no-sandbox',
-              '--disable-setuid-sandbox',
-              '--disable-dev-shm-usage',
-              '--disable-accelerated-2d-canvas',
-              '--disable-gpu',
-              '--window-size=1280,1024'
-            ],
-            executablePath: '/usr/bin/google-chrome'
+            args: ['--no-sandbox', '--disable-setuid-sandbox']
           });
+          const page = await browser.newPage();
           
           try {
-            const page = await browser.newPage();
-            await page.setViewport({ width: 1280, height: 1024 });
+            // Ajustar viewport para captura completa
+            await page.setViewport({ width: 1280, height: 800 });
             
-            console.log('Navigating to Acestream web interface...');
-            const response = await page.goto(
-              'http://127.0.0.1:${{ inputs.port_base }}/webui/player/', 
-              { 
-                waitUntil: 'networkidle2',
-                timeout: 30000 
-              }
-            );
+            // Navegar a la API de Acestream
+            const url = 'http://${{ env.INTERNAL_IP }}:${{ github.event.inputs.port_base }}/webui/api/service?method=get_version';
+            await page.goto(url, { waitUntil: 'networkidle0', timeout: 60000 });
             
-            if (!response.ok()) {
-              throw new Error(`HTTP status ${response.status()}`);
-            }
+            // Tomar screenshot
+            const screenshotPath = 'acestream_api.png';
+            await page.screenshot({ path: screenshotPath, fullPage: true });
+            console.log(`Screenshot saved to ${screenshotPath}`);
             
-            console.log('Taking screenshot...');
-            await page.screenshot({
-              path: '/tmp/acestream.jpg',
-              quality: 85,
-              fullPage: false
-            });
-            
-            // Verificación del screenshot
-            if (fs.existsSync('/tmp/acestream.jpg')) {
-              const stats = fs.statSync('/tmp/acestream.jpg');
-              if (stats.size > 5000) {
-                console.log('Screenshot successful!');
-                process.exit(0);
-              }
-              console.error('Screenshot file is too small');
-            } else {
-              console.error('Screenshot file not found');
-            }
           } catch (error) {
-            console.error('Error:', error.message);
-            // Mostrar más información de diagnóstico
-            console.log('Page content:', await page.content());
+            console.error('Error:', error);
+            process.exit(1);
           } finally {
             await browser.close();
           }
         })();
         EOF
         
-        # Verificar resultado
-        if [ -f /tmp/acestream.jpg ] && [ $(wc -c < /tmp/acestream.jpg) -gt 5000 ]; then
-          echo "SCREENSHOT_SUCCESS=true" >> $GITHUB_ENV
-        else
-          echo "SCREENSHOT_SUCCESS=false" >> $GITHUB_ENV
-        fi
-
-    - name: Upload screenshot
-      if: env.SCREENSHOT_SUCCESS == 'true'
-      uses: actions/upload-artifact@v4
+    - name: Run screenshot script
+      run: node screenshot.js
+      
+    - name: Upload screenshot artifact
+      uses: actions/upload-artifact@v3
       with:
-        name: acestream-screenshot
-        path: /tmp/acestream.jpg
-
-    - name: Display results
-      run: |
-        echo "=== Deployment Results ==="
-        echo "Service status: $SERVICE_READY"
-        echo "Screenshot success: ${SCREENSHOT_SUCCESS:-false}"
-        echo "Access URLs:"
-        echo " - Web UI: http://127.0.0.1:${{ inputs.port_base }}/webui/player/"
-        echo " - API: http://127.0.0.1:${{ inputs.port_base }}/webui/api/service?method=get_version"
-        
-        if [ "$SERVICE_READY" != "true" ]; then
-          echo "::warning::Acestream service failed to start properly"
-        fi
-        
-        if [ "${SCREENSHOT_SUCCESS:-false}" != "true" ]; then
-          echo "::warning::Failed to capture screenshot"
-        fi
+        name: acestream-api-screenshot
+        path: acestream_api.png
