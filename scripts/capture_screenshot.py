@@ -2,11 +2,11 @@ import os
 import time
 import subprocess
 
-def capture_screenshot(acestream_id, output_folder):
-    # Construye la URL de Ace Stream
-    acestream_url = f"acestream://{acestream_id}"
+def capture_screenshot(output_folder):
+    # URL de Ace Stream con la ID proporcionada
+    acestream_url = "acestream://1205151f6fa5d95c0eeb543cbce43ccfa6a1b216"
     
-    # Inicia el stream de Ace Stream
+    # Inicia el stream de Ace Stream en el contenedor
     stream_command = f"docker exec acestream acestreamengine --client-console {acestream_url}"
     process = subprocess.Popen(stream_command, shell=True)
     
@@ -21,9 +21,6 @@ def capture_screenshot(acestream_id, output_folder):
     process.terminate()
 
 if __name__ == "__main__":
-    # ID de Ace Stream hardcoded
-    acestream_id = "1205151f6fa5d95c0eeb543cbce43ccfa6a1b216"
-    
     # Define la carpeta de salida
     output_folder = "ace_kanalak"
     
@@ -31,4 +28,4 @@ if __name__ == "__main__":
     os.makedirs(output_folder, exist_ok=True)
     
     # Llama a la función para capturar la captura de pantalla
-    capture_screenshot(acestream_id, output_folder)
+    capture_screenshot(output_folder)
