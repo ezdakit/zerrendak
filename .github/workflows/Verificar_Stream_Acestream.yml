@@ -31,6 +31,7 @@ jobs:
       id: start_acestream
       run: |
         docker run --name docker-acestream -d -p 6878:6878 -e INTERNAL_IP=127.0.0.1 --restart unless-stopped docker-acestream
+        cd acestream-docker-home
         docker compose up -d
         sleep 15
         docker compose pull && docker compose up -d
