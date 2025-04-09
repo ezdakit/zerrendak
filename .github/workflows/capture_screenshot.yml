@@ -19,7 +19,9 @@ jobs:
     - name: Install dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y acestream-engine ffmpeg
+        sudo apt-get install -y ffmpeg
+        wget https://github.com/bro2020/acestream-appimage/releases/download/v3.1.49/AceStream-3.1.49-v2.2.AppImage
+        chmod +x AceStream-3.1.49-v2.2.AppImage
 
     - name: Run capture script
       run: python scripts/capture_screenshot.py
