@@ -32,6 +32,13 @@ jobs:
     - name: Check container health status
       run: docker inspect --format='{{json .State.Health}}' ${{ env.CONTAINER_ID }}
 
+    - name: Check if Acestream is listening on port 6878
+      run: |
+        until nc -zv 127.0.0.1 6878; do
+          echo "Waiting for Acestream to be available..."
+          sleep 5
+        done
+
     - name: Take screenshot with FFmpeg
       run: |
         docker run --rm -v ${{ github.workspace }}:/screenshots jrottenberg/ffmpeg \
