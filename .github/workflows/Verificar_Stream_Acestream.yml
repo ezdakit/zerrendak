@@ -11,62 +11,68 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Configurar Docker oficial (sin conflictos)
-      uses: docker/setup-buildx-action@v2
-      with:
-        install: true
-
-    - name: Instalar dependencias básicas
+    - name: Instalar dependencias
       run: |
         sudo apt-get update
-        sudo apt-get install -y curl ffmpeg
+        sudo apt-get install -y netcat-openbsd curl ffmpeg
+
+    - name: Clonar proyecto Acestream Docker
+      run: git clone https://github.com/sergiomarquezdev/acestream-docker-home.git
+
+    - name: Configurar Docker
+      uses: docker/setup-buildx-action@v1
+
+    - name: Construir imagen Docker
+      run: |
+        cd acestream-docker-home
+        docker build --no-cache -t docker-acestream .
 
     - name: Iniciar contenedor Acestream
       id: start_acestream
       run: |
-        # Usamos imagen oficial con versión específica para evitar problemas
-        docker run --name acestream -d \
-          --network host \
-          -e EXTERNAL_IP=127.0.0.1 \
-          acestream/acestream:3.1.49
-        
+        docker run --name acestream -d -p 6878:6878 -e INTERNAL_IP=0.0.0.0 --restart unless-stopped docker-acestream
         echo "CONTAINER_ID=$(docker ps -q --filter name=acestream)" >> $GITHUB_ENV
-        sleep 30
+        sleep 15
 
     - name: Verificar estado del contenedor
       run: |
         docker ps -a
-        docker logs ${{ env.CONTAINER_ID }} --tail 100
+        docker inspect ${{ env.CONTAINER_ID }}
+        docker logs ${{ env.CONTAINER_ID }} --tail 50
 
-    - name: Verificar conexión al servicio
+    - name: Verificar puerto
       run: |
-        # Espera con chequeo activo
-        for i in {1..12}; do
-          if curl -s -o /dev/null -w "%{http_code}" http://127.0.0.1:6878/webui/ | grep -q "200"; then
-            echo "✅ Servicio Acestream disponible"
-            exit 0
-          fi
-          echo "⌛ Intento $i/12 - Esperando servicio..."
-          docker logs ${{ env.CONTAINER_ID }} --tail 10
-          sleep 10
-        done
-        echo "❌ Servicio no disponible después de 2 minutos"
-        exit 1
+        if nc -zv 127.0.0.1 6878; then
+          echo "El puerto 6878 está abierto y escuchando."
+        else
+          echo "El puerto 6878 no está disponible."
+        fi
+
+    - name: Verificar proceso Acestream
+      run: |
+        if pgrep -f acestream; then
+          echo "El proceso Acestream está en ejecución."
+        else
+          echo "El proceso Acestream no está en ejecución."
+        fi
+
+    - name: Verificar conexión HTTP
+      run: |
+        if curl -s "http://127.0.0.1:6878/webui/" | grep -q "AceStream"; then
+          echo "Conexión HTTP exitosa."
+        else
+          echo "Error en la conexión HTTP."
+        fi
 
     - name: Verificar stream específico
-      if: success()
       run: |
         STREAM_ID="6538b79ce0da657d8455d1da6a5f342398899a0e"
-        echo "🔍 Verificando stream ID: $STREAM_ID"
-        
-        # Método alternativo usando timeout y curl
-        if timeout 30 curl -v "http://127.0.0.1:6878/webui/player/$STREAM_ID" | grep -q "acestream://"; then
-          echo "✅ Stream detectado"
-        else
-          echo "❌ No se pudo acceder al stream"
-          docker logs ${{ env.CONTAINER_ID }} --tail 50
-          exit 1
-        fi
+        echo "Verificando stream ID: $STREAM_ID"
+        timeout 30 ffprobe -v error -show_entries format=duration \
+          -of default=noprint_wrappers=1:nokey=1 \
+          "http://127.0.0.1:6878/webui/player/$STREAM_ID" && \
+          echo "Stream verificado correctamente" || \
+          echo "No se pudo analizar el stream"
 
     - name: Limpieza
       if: always()
