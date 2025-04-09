@@ -1,0 +1,75 @@
+name: Verificar Stream Acestream
+
+on:
+  workflow_dispatch:
+
+jobs:
+  verify-acestream:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Instalar dependencias
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y netcat curl ffmpeg
+
+    - name: Clonar proyecto Acestream Docker
+      run: git clone https://github.com/sergiomarquezdev/acestream-docker-home.git
+
+    - name: Configurar Docker
+      uses: docker/setup-buildx-action@v1
+
+    - name: Construir imagen Docker
+      run: |
+        cd acestream-docker-home
+        docker build --no-cache -t docker-acestream .
+
+    - name: Iniciar contenedor Acestream
+      id: start_acestream
+      run: |
+        docker run --name acestream -d -p 6878:6878 -e INTERNAL_IP=0.0.0.0 --restart unless-stopped docker-acestream
+        echo "CONTAINER_ID=$(docker ps -q --filter name=acestream)" >> $GITHUB_ENV
+        sleep 15  # Espera inicial para que el servicio se inicie
+
+    - name: Verificar estado del contenedor
+      run: |
+        docker ps -a
+        docker inspect ${{ env.CONTAINER_ID }}
+        docker logs ${{ env.CONTAINER_ID }} --tail 50
+
+    - name: Esperar hasta que el puerto esté disponible (máx 2 minutos)
+      run: |
+        timeout 120 bash -c 'until nc -zv 127.0.0.1 6878; do
+          echo "Esperando que Acestream esté disponible..."
+          sleep 5
+        done'
+
+    - name: Verificar API web
+      run: |
+        curl -v "http://127.0.0.1:6878/webui/"
+        curl -v "http://127.0.0.1:6878/webui/api/"
+
+    - name: Verificar stream específico
+      run: |
+        STREAM_ID="6538b79ce0da657d8455d1da6a5f342398899a0e"
+        echo "Verificando stream ID: $STREAM_ID"
+        
+        # Verificar si el stream está disponible
+        curl -v "http://127.0.0.1:6878/webui/player/$STREAM_ID"
+        
+        # Analizar el stream con ffprobe (timeout de 30 segundos)
+        echo "Analizando stream..."
+        timeout 30 ffprobe -v error -show_entries format=duration \
+          -of default=noprint_wrappers=1:nokey=1 \
+          "http://127.0.0.1:6878/webui/player/$STREAM_ID" && \
+          echo "Stream verificado correctamente" || \
+          echo "No se pudo analizar el stream"
+
+    - name: Limpieza
+      if: always()
+      run: |
+        docker stop acestream || true
+        docker rm acestream || true
