@@ -30,15 +30,17 @@ jobs:
     - name: Iniciar contenedor Acestream
       id: start_acestream
       run: |
-        docker run --name acestream -d -p 6878:6878 -e INTERNAL_IP=0.0.0.0 --restart unless-stopped docker-acestream
-        echo "CONTAINER_ID=$(docker ps -q --filter name=acestream)" >> $GITHUB_ENV
+        # docker run --name acestream -d -p 6878:6878 -e INTERNAL_IP=0.0.0.0 --restart unless-stopped docker-acestream
+        docker run --name docker-acestream -d -p 6878:6878 -e INTERNAL_IP=127.0.0.1 --restart unless-stopped docker-acestream
+        docker-compose up -d
+        sleep 15
+        docker-compose pull && docker-compose up -d
+        #echo "CONTAINER_ID=$(docker ps -q --filter name=docker-acestream)" >> $GITHUB_ENV
         sleep 15
 
     - name: Verificar estado del contenedor
       run: |
-        docker ps -a
-        docker inspect ${{ env.CONTAINER_ID }}
-        docker logs ${{ env.CONTAINER_ID }} --tail 50
+        docker inspect --format='{{json .State.Health}}' docker-acestream
 
     - name: Verificar puerto
       run: |
@@ -48,11 +50,7 @@ jobs:
           echo "El puerto 6878 no está disponible."
         fi
 
-    - name: Verificar proceso Acestream dentro del contenedor
-      run: |
-        docker exec ${{ env.CONTAINER_ID }} pgrep -f acestream && echo "El proceso Acestream está en ejecución dentro del contenedor." || echo "El proceso Acestream no está en ejecución dentro del contenedor."
-
-    - name: Verificar conexión HTTP
+       - name: Verificar conexión HTTP
       run: |
         if curl -s "http://127.0.0.1:6878/webui/" | grep -q "AceStream"; then
           echo "Conexión HTTP exitosa."
