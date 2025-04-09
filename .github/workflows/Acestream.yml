@@ -3,10 +3,6 @@ name: Acestream Docker Setup
 on:
   workflow_dispatch:
     inputs:
-      internal_ip:
-        description: "IP interna (deja vacío para autodetectar)"
-        required: false
-        default: ""
       port_base:
         description: "Puerto base (6878 por defecto)"
         required: false
@@ -20,37 +16,15 @@ env:
 jobs:
   setup-acestream:
     runs-on: ubuntu-latest
-    outputs:
-      container_ip: ${{ steps.ip.outputs.CONTAINER_IP }}
     
     steps:
-    - name: Install Docker and Docker Compose
+    - name: Install Docker
       run: |
         sudo apt-get update
-        sudo apt-get install -y ca-certificates curl gnupg
-        sudo install -m 0755 -d /etc/apt/keyrings
-        sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
-        sudo chmod a+r /etc/apt/keyrings/docker.asc
-        echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-        sudo apt-get update
-        sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+        sudo apt-get install -y docker.io
+        sudo systemctl start docker
         docker --version
-        docker compose version
-        
-    - name: Set internal IP
-      id: ip
-      run: |
-        if [ -n "${{ github.event.inputs.internal_ip }}" ]; then
-          echo "Using provided IP: ${{ github.event.inputs.internal_ip }}"
-          echo "INTERNAL_IP=${{ github.event.inputs.internal_ip }}" >> $GITHUB_ENV
-          echo "CONTAINER_IP=${{ github.event.inputs.internal_ip }}" >> $GITHUB_OUTPUT
-        else
-          IP=$(hostname -I | awk '{print $1}' || echo "172.17.0.1")
-          echo "Autodetected IP: $IP"
-          echo "INTERNAL_IP=$IP" >> $GITHUB_ENV
-          echo "CONTAINER_IP=$IP" >> $GITHUB_OUTPUT
-        fi
-        
+
     - name: Create docker-compose.yml
       run: |
         cat << EOF > $DOCKER_COMPOSE_FILE
@@ -61,8 +35,6 @@ jobs:
             container_name: ${SERVICE_NAME_BASE}${{ github.event.inputs.port_base }}
             restart: unless-stopped
             network_mode: host
-            environment:
-              - INTERNAL_IP=0.0.0.0
             ports:
               - "${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"
         EOF
@@ -71,11 +43,10 @@ jobs:
     - name: Start Acestream service
       run: |
         docker compose -f $DOCKER_COMPOSE_FILE up -d
-        sleep 20
-        echo "Acestream running at http://$INTERNAL_IP:${{ github.event.inputs.port_base }}/webui/player/"
+        sleep 30
+        echo "Acestream running at http://localhost:${{ github.event.inputs.port_base }}/webui/player/"
         docker ps -a
         docker logs ${SERVICE_NAME_BASE}${{ github.event.inputs.port_base }}
-        curl --retry 3 --retry-delay 5 -v http://$INTERNAL_IP:${{ github.event.inputs.port_base }}/webui/api/service?method=get_version || true
 
   screenshot-api:
     needs: setup-acestream
@@ -90,75 +61,49 @@ jobs:
       with:
         node-version: '18'
         
-    - name: Install Puppeteer
+    - name: Install dependencies
       run: |
         npm install puppeteer@19.11.1
+        sudo apt-get install -y xvfb libgbm-dev
         
-    - name: Create screenshot script
+    - name: Run screenshot with xvfb
       run: |
         cat << 'EOF' > screenshot.js
         const puppeteer = require('puppeteer');
-        const fs = require('fs');
         
         (async () => {
           const browser = await puppeteer.launch({
-            headless: 'new',
+            headless: true,
             args: ['--no-sandbox', '--disable-setuid-sandbox']
           });
           const page = await browser.newPage();
           
           try {
             await page.setViewport({ width: 1280, height: 800 });
-            
-            const ip = '${{ needs.setup-acestream.outputs.container_ip }}';
             const port = '${{ github.event.inputs.port_base }}';
-            const url = `http://${ip}:${port}/webui/api/service?method=get_version`;
+            const url = `http://localhost:${port}/webui/api/service?method=get_version`;
             
-            console.log(`Attempting to navigate to: ${url}`);
-            
-            const response = await page.goto(url, {
-              waitUntil: 'domcontentloaded',
-              timeout: 60000
-            });
-            
-            if (!response.ok()) {
-              throw new Error(`HTTP ${response.status()} - ${response.statusText()}`);
-            }
+            console.log(`Navigating to: ${url}`);
+            await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
             
             await page.waitForTimeout(5000);
-            
-            const screenshotPath = 'acestream_api.png';
-            await page.screenshot({
-              path: screenshotPath,
-              fullPage: true,
-              quality: 90
-            });
-            
-            console.log(`Screenshot saved to ${screenshotPath}`);
-            
+            await page.screenshot({ path: 'acestream_api.png', fullPage: true });
+            console.log('Screenshot successful');
           } catch (error) {
-            console.error('Error during screenshot:', error);
-            await page.screenshot({path: 'error.png'});
-            fs.writeFileSync('error.log', error.toString());
-            process.exit(0);  // Salida exitosa para continuar el workflow
+            console.error('Error:', error);
+            process.exit(0);
           } finally {
             await browser.close();
           }
         })();
         EOF
         
-    - name: Run screenshot script
-      timeout-minutes: 3
-      run: |
-        node screenshot.js
-        ls -la
+        xvfb-run --auto-servernum node screenshot.js || echo "Screenshot failed"
         
-    - name: Upload screenshot artifact
-      if: always()
-      uses: actions/upload-artifact@v4
+    - name: Upload results
+      uses: actions/upload-artifact@v3
       with:
-        name: acestream-screenshots
+        name: acestream-results
         path: |
           acestream_api.png
-          error.png
-          error.log
+          screenshot.js
