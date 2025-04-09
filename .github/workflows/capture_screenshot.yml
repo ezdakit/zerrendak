@@ -14,7 +14,6 @@ jobs:
     - name: Set up Docker
       run: |
         sudo apt-get update
-        sudo apt-get remove -y docker docker-engine docker.io containerd runc
         sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common
         curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
         sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
@@ -24,18 +23,30 @@ jobs:
     - name: Pull Acestream image
       run: sudo docker pull vstavrinov/acestream-engine
 
-    - name: Run Acestream container
+    - name: Run Acestream container with content ID
       run: |
-        sudo docker run -d --name acestream -p 6878:6878 vstavrinov/acestream-engine
-        sleep 10  # Wait for stream to initialize
+        sudo docker run -d \
+          --name acestream \
+          -p 6878:6878 \
+          vstavrinov/acestream-engine \
+          --client-console \
+          --play-and-exit \
+          acestream://1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
+        sleep 20  # Give more time for stream to initialize
 
     - name: Setup FFmpeg
       uses: FedericoCarboni/setup-ffmpeg@v3
 
-    - name: Run capture script
+    - name: Create output directory
+      run: mkdir -p ace_kanalak
+
+    - name: Capture screenshot
       run: |
-        mkdir -p ace_kanalak
-        python3 scripts/capture_screenshot.py
+        ffmpeg -y \
+          -i http://127.0.0.1:6878/ace/getstream \
+          -vframes 1 \
+          -f image2 \
+          ace_kanalak/screenshot.png
 
     - name: Check Acestream logs
       run: sudo docker logs acestream
