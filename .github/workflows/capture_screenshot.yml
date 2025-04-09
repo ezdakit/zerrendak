@@ -23,12 +23,14 @@ jobs:
         docker build --no-cache -t docker-acestream .
 
     - name: Start Acestream container
+      id: start_acestream
       run: |
         docker run --name acestream -d -p 6878:6878 -e INTERNAL_IP=127.0.0.1 --restart unless-stopped docker-acestream
         sleep 30  # Esperar a que el stream esté disponible
+        echo "CONTAINER_ID=$(docker ps -q --filter name=acestream)" >> $GITHUB_ENV
 
     - name: Check container health status
-      run: docker inspect --format='{{json .State.Health}}' 1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
+      run: docker inspect --format='{{json .State.Health}}' ${{ env.CONTAINER_ID }}
 
     - name: Take screenshot with FFmpeg
       run: |
