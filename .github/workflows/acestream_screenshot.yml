@@ -4,17 +4,17 @@ on:
   workflow_dispatch:
     inputs:
       acestream_id:
-        description: 'ID del stream de Acestream (ej: a1b2c3d4e5f6)'
+        description: 'ID del stream de Acestream'
         required: true
       wait_time:
-        description: 'Tiempo de espera en segundos (default: 10)'
+        description: 'Tiempo de espera en segundos'
         required: false
         default: '10'
 
 jobs:
   capture-screenshot:
     runs-on: ubuntu-20.04
-    timeout-minutes: 10
+    timeout-minutes: 15
     
     steps:
     - name: Checkout repository
@@ -34,16 +34,48 @@ jobs:
           libvlc-dev \
           python3-dev \
           python3-pip \
-          curl  # Para subir el artefacto manualmente
+          curl \
+          wget \
+          libpython3.8 \
+          libssl1.1 \
+          libcurl4 \
+          libavcodec58 \
+          libavformat58 \
+          libswscale5 \
+          libx11-6
         
-    - name: Install Acestream Engine
+    - name: Install Acestream Engine (versión compatible)
       run: |
+        echo "Instalando dependencias específicas de Acestream..."
+        sudo apt-get install -y \
+          python-software-properties \
+          software-properties-common \
+          libpython2.7 \
+          libssl1.0.0
+        
+        echo "Descargando Acestream..."
+        wget -q https://dl.acestream.media/linux/acestream_3.1.49_ubuntu_18.04_x86_64.tar.gz || \
+          { echo "Error al descargar Acestream"; exit 1; }
+        
+        echo "Extrayendo Acestream..."
+        tar zxvf acestream_3.1.49_ubuntu_18.04_x86_64.tar.gz || \
+          { echo "Error al extraer Acestream"; exit 1; }
+        
         echo "Instalando Acestream..."
-        wget -q https://dl.acestream.media/linux/acestream_3.1.49_ubuntu_18.04_x86_64.tar.gz
-        tar zxvf acestream_3.1.49_ubuntu_18.04_x86_64.tar.gz
-        sudo mv acestream.engine /opt/
-        sudo /opt/acestream.engine/start-engine --client-console &
-        sleep 10
+        sudo mkdir -p /opt/acestream.engine
+        sudo mv acestream.engine/* /opt/acestream.engine/
+        sudo chmod +x /opt/acestream.engine/start-engine
+        
+        echo "Iniciando Acestream Engine..."
+        export LD_LIBRARY_PATH=/opt/acestream.engine:$LD_LIBRARY_PATH
+        nohup sudo /opt/acestream.engine/start-engine --client-console > /dev/null 2>&1 &
+        
+        echo "Verificando instalación..."
+        sleep 15
+        if ! pgrep -f "acestreamengine"; then
+          echo "El motor de Acestream no se inició correctamente"
+          exit 1
+        fi
         
     - name: Install Python dependencies
       run: |
@@ -57,15 +89,10 @@ jobs:
       run: |
         python acestream_screenshot.py
         
-        # Comprimir el screenshot para facilitar la subida
-        tar czvf screenshot.tar.gz screenshot.png
-        
-        # Subir manualmente el artefacto via HTTP PUT
-        ARTIFACT_URL="${ACTIONS_RUNTIME_URL}_apis/resources/Upload?itemPath=acestream-screenshot%2Fscreenshot.tar.gz"
+        # Comprimir y subir resultados manualmente
+        tar czvf results.tar.gz screenshot.png
         curl -X PUT \
-          -H "Authorization: Bearer ${ACTIONS_RUNTIME_TOKEN}" \
+          -H "Authorization: Bearer $ACTIONS_RUNTIME_TOKEN" \
           -H "Content-Type: application/octet-stream" \
-          --data-binary @screenshot.tar.gz \
-          "$ARTIFACT_URL"
-        
-        echo "Screenshot subido manualmente como artefacto"
+          --data-binary @results.tar.gz \
+          "${ACTIONS_RUNTIME_URL}_apis/resources/Upload?itemPath=acestream-screenshot%2Fresults.tar.gz"
