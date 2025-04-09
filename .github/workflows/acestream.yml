@@ -50,40 +50,40 @@ jobs:
         
         # Ejecutar el script
         python -c "
-import time
-import subprocess
-import mss
-import mss.tools
-
-def capture_acestream_screenshot(acestream_id, output_file='screenshot.png', wait_time=10):
-    try:
-        print(f'Iniciando stream de Acestream con ID: {acestream_id}')
-        vlc_process = subprocess.Popen([
-            'vlc',
-            f'acestream://{acestream_id}',
-            '--no-fullscreen',
-            '--qt-start-minimized'
-        ])
+        import time
+        import subprocess
+        import mss
+        import mss.tools
         
-        print(f'Esperando {wait_time} segundos para la captura...')
-        time.sleep(wait_time)
+        def capture_acestream_screenshot(acestream_id, output_file='screenshot.png', wait_time=10):
+            try:
+                print(f'Iniciando stream de Acestream con ID: {acestream_id}')
+                vlc_process = subprocess.Popen([
+                    'vlc',
+                    f'acestream://{acestream_id}',
+                    '--no-fullscreen',
+                    '--qt-start-minimized'
+                ])
+                
+                print(f'Esperando {wait_time} segundos para la captura...')
+                time.sleep(wait_time)
+                
+                with mss.mss() as sct:
+                    monitor = sct.monitors[1]
+                    screenshot = sct.grab(monitor)
+                    mss.tools.to_png(screenshot.rgb, screenshot.size, output=output_file)
+                    print(f'Screenshot guardado como: {output_file}')
+                
+                print('Cerrando el reproductor...')
+                vlc_process.terminate()
+                
+            except Exception as e:
+                print(f'Error: {e}')
+                if 'vlc_process' in locals():
+                    vlc_process.terminate()
         
-        with mss.mss() as sct:
-            monitor = sct.monitors[1]
-            screenshot = sct.grab(monitor)
-            mss.tools.to_png(screenshot.rgb, screenshot.size, output=output_file)
-            print(f'Screenshot guardado como: {output_file}')
-        
-        print('Cerrando el reproductor...')
-        vlc_process.terminate()
-        
-    except Exception as e:
-        print(f'Error: {e}')
-        if 'vlc_process' in locals():
-            vlc_process.terminate()
-
-capture_acestream_screenshot('${{ github.event.inputs.acestream_id }}', 'screenshot.png', ${{ github.event.inputs.wait_time }})
-        "
+        capture_acestream_screenshot('${{ github.event.inputs.acestream_id }}', 'screenshot.png', ${{ github.event.inputs.wait_time }})
+                "
         
     - name: Upload screenshot
       uses: actions/upload-artifact@v3
