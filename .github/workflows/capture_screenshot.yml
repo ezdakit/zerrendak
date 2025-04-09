@@ -34,11 +34,6 @@ jobs:
         sudo docker run -d --name acestream -p 6878:6878 magnetikonline/acestream-server:3.1.49_debian_8.11
         sleep 10  # Espera 10 segundos para que el stream se inicie
 
-    - name: Run capture script
-      run: |
-        export ACESTREAM_ID=${{ github.event.inputs.acestream_id }}
-        python3 scripts/capture_screenshot.py
-
     - name: Capture screenshot
       run: |
         ffmpeg -i http://127.0.0.1:6878/ace/getstream -vframes 1 ace_kanalak/screenshot.png
