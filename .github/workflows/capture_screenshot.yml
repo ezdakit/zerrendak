@@ -28,12 +28,17 @@ jobs:
         sudo docker run -d \
           --name acestream \
           -p 6878:6878 \
-          vstavrinov/acestream-engine \
-          /opt/acestream/acestreamengine \
+          vstavrinov/acestream-engine
+        sleep 30  # Espera amplia para inicialización
+
+    - name: Start stream playback
+      run: |
+        sudo docker exec -d acestream \
+          /acestream/start-engine \
           --client-console \
           --play-and-exit \
           acestream://1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
-        sleep 25
+        sleep 20  # Espera para que el stream esté disponible
 
     - name: Setup FFmpeg
       uses: FedericoCarboni/setup-ffmpeg@v3
@@ -58,7 +63,7 @@ jobs:
       if: always()
       run: sudo docker logs acestream
 
-    - name: Stop Acestream container
+    - name: Cleanup
       if: always()
       run: |
         sudo docker stop acestream || true
