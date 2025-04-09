@@ -18,12 +18,24 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Install Docker
+    - name: Install Docker (Ubuntu 24.04 compatible)
       run: |
+        # Solución para Ubuntu 24.04 (Noble)
+        sudo apt-get remove -y containerd docker.io || true
         sudo apt-get update
-        sudo apt-get install -y docker.io
+        sudo apt-get install -y ca-certificates curl
+        sudo install -m 0755 -d /etc/apt/keyrings
+        sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+        sudo chmod a+r /etc/apt/keyrings/docker.asc
+        
+        # Usar jammy (22.04) como fuente temporal para compatibilidad
+        echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu jammy stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+        
+        sudo apt-get update
+        sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
         sudo systemctl start docker
         docker --version
+        docker compose version
 
     - name: Create docker-compose.yml
       run: |
@@ -73,7 +85,7 @@ jobs:
         
         (async () => {
           const browser = await puppeteer.launch({
-            headless: true,
+            headless: 'new',
             args: ['--no-sandbox', '--disable-setuid-sandbox']
           });
           const page = await browser.newPage();
@@ -84,13 +96,25 @@ jobs:
             const url = `http://localhost:${port}/webui/api/service?method=get_version`;
             
             console.log(`Navigating to: ${url}`);
-            await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
+            const response = await page.goto(url, { 
+              waitUntil: 'networkidle2', 
+              timeout: 60000 
+            });
+            
+            if (!response.ok()) {
+              console.error(`HTTP Error: ${response.status()}`);
+              process.exit(0);
+            }
             
             await page.waitForTimeout(5000);
-            await page.screenshot({ path: 'acestream_api.png', fullPage: true });
+            await page.screenshot({ 
+              path: 'acestream_api.png', 
+              fullPage: true,
+              quality: 85
+            });
             console.log('Screenshot successful');
           } catch (error) {
-            console.error('Error:', error);
+            console.error('Error:', error.message);
             process.exit(0);
           } finally {
             await browser.close();
@@ -98,7 +122,7 @@ jobs:
         })();
         EOF
         
-        xvfb-run --auto-servernum node screenshot.js || echo "Screenshot failed"
+        xvfb-run --auto-servernum node screenshot.js || echo "Screenshot completed with status $?"
         
     - name: Upload results
       uses: actions/upload-artifact@v3
