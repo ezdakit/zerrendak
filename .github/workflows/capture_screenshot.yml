@@ -1,70 +1,43 @@
-name: Capture Screenshot
+name: Acestream Screenshot
 
 on:
   workflow_dispatch:
 
 jobs:
-  capture_screenshot:
+  acestream-screenshot:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Clone Acestream Docker project
+      run: git clone https://github.com/sergiomarquezdev/acestream-docker-home.git
+
     - name: Set up Docker
+      uses: docker/setup-buildx-action@v1
+
+    - name: Build Acestream Docker image
       run: |
-        sudo apt-get update
-        sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common
-        curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-        sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
-        sudo apt-get update
-        sudo apt-get install -y docker-ce
+        cd acestream-docker-home
+        docker build --no-cache -t docker-acestream .
 
-    - name: Pull Acestream image
-      run: sudo docker pull vstavrinov/acestream-engine
-
-    - name: Run Acestream container
+    - name: Start Acestream container
       run: |
-        sudo docker run -d \
-          --name acestream \
-          -p 6878:6878 \
-          vstavrinov/acestream-engine
-        sleep 30  # Espera amplia para inicialización
+        docker run --name acestream -d -p 6878:6878 -e INTERNAL_IP=127.0.0.1 --restart unless-stopped docker-acestream
+        sleep 30  # Esperar a que el stream esté disponible
 
-    - name: Start stream playback
+    - name: Check container health status
+      run: docker inspect --format='{{json .State.Health}}' 1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
+
+    - name: Take screenshot with FFmpeg
       run: |
-        sudo docker exec -d acestream \
-          /acestream/start-engine \
-          --client-console \
-          --play-and-exit \
-          acestream://1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
-        sleep 20  # Espera para que el stream esté disponible
+        docker run --rm -v ${{ github.workspace }}:/screenshots jrottenberg/ffmpeg \
+        -i http://127.0.0.1:6878/webui/player/stream_id \
+        -vframes 1 /screenshots/screenshot.png
 
-    - name: Setup FFmpeg
-      uses: FedericoCarboni/setup-ffmpeg@v3
-
-    - name: Create output directory
-      run: mkdir -p ace_kanalak
-
-    - name: Capture screenshot
-      run: |
-        ffmpeg -y \
-          -i "http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216" \
-          -vframes 1 \
-          -f image2 \
-          ace_kanalak/screenshot.png
-
-    - name: Verify screenshot
-      run: |
-        ls -la ace_kanalak/
-        file ace_kanalak/screenshot.png
-
-    - name: Check Acestream logs
-      if: always()
-      run: sudo docker logs acestream
-
-    - name: Cleanup
-      if: always()
-      run: |
-        sudo docker stop acestream || true
-        sudo docker rm acestream || true
+    - name: Upload screenshot
+      uses: actions/upload-artifact@v2
+      with:
+        name: screenshot
+        path: screenshot.png
