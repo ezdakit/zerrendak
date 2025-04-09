@@ -31,9 +31,9 @@ jobs:
       id: start_acestream
       run: |
         docker run --name docker-acestream -d -p 6878:6878 -e INTERNAL_IP=127.0.0.1 --restart unless-stopped docker-acestream
-        docker-compose up -d
+        docker compose up -d
         sleep 15
-        docker-compose pull && docker-compose up -d
+        docker compose pull && docker compose up -d
         sleep 15
         docker inspect --format='{{json .State.Health}}' docker-acestream
 
@@ -67,4 +67,4 @@ jobs:
       if: always()
       run: |
         docker stop docker-acestream || true
-        docker rm docker-acestream || tru
+        docker rm docker-acestream || true
