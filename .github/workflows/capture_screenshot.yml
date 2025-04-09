@@ -22,11 +22,11 @@ jobs:
         sudo apt-get install -y docker-ce
 
     - name: Pull Acestream image
-      run: sudo docker pull magnetikonline/acestream-server:3.1.49_debian_8.11
+      run: sudo docker pull vstavrinov/acestream-engine
 
     - name: Run Acestream container
       run: |
-        sudo docker run -d --name acestream -p 6878:6878 magnetikonline/acestream-server:3.1.49_debian_8.11
+        sudo docker run -d --name acestream -p 6878:6878 vstavrinov/acestream-engine
         sleep 10  # Espera 10 segundos para que el stream se inicie
 
     - name: Setup FFmpeg
@@ -37,7 +37,7 @@ jobs:
 
     - name: Capture screenshot
       run: |
-        ffmpeg -i http://127.0.0.1:6878/ace/getstream -vframes 1 ace_kanalak/screenshot.png
+       mpeg -i http://127.0.0.1:6878/ace/getstream -vframes 1 ace_kanalak/screenshot.png
 
     - name: Check Acestream logs
       run: sudo docker logs acestream
