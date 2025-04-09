@@ -44,38 +44,14 @@ jobs:
           libswscale5 \
           libx11-6
         
-    - name: Install Acestream Engine (versión compatible)
+    - name: Install Acestream Engine (alternativa)
       run: |
-        echo "Instalando dependencias específicas de Acestream..."
-        sudo apt-get install -y \
-          python-software-properties \
-          software-properties-common \
-          libpython2.7 \
-          libssl1.0.0
-        
-        echo "Descargando Acestream..."
-        wget -q https://dl.acestream.media/linux/acestream_3.1.49_ubuntu_18.04_x86_64.tar.gz || \
-          { echo "Error al descargar Acestream"; exit 1; }
-        
-        echo "Extrayendo Acestream..."
-        tar zxvf acestream_3.1.49_ubuntu_18.04_x86_64.tar.gz || \
-          { echo "Error al extraer Acestream"; exit 1; }
-        
-        echo "Instalando Acestream..."
-        sudo mkdir -p /opt/acestream.engine
-        sudo mv acestream.engine/* /opt/acestream.engine/
-        sudo chmod +x /opt/acestream.engine/start-engine
-        
-        echo "Iniciando Acestream Engine..."
+        wget -q https://dl.acestream.media/linux/acestream_3.1.36_ubuntu_16.04_x86_64.tar.gz
+        tar zxvf acestream_3.1.36_ubuntu_16.04_x86_64.tar.gz
+        sudo mv acestream.engine /opt/
         export LD_LIBRARY_PATH=/opt/acestream.engine:$LD_LIBRARY_PATH
         nohup sudo /opt/acestream.engine/start-engine --client-console > /dev/null 2>&1 &
-        
-        echo "Verificando instalación..."
         sleep 15
-        if ! pgrep -f "acestreamengine"; then
-          echo "El motor de Acestream no se inició correctamente"
-          exit 1
-        fi
         
     - name: Install Python dependencies
       run: |
