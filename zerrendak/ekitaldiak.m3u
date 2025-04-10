@@ -479,8 +479,6 @@ http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="" group-title="11/04 ITF Torneo de Zaragoza", 11:00 1/4 de Final ITF W100 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 tvg-id="" group-title="11/04 Open Comunidad de Madrid", 13:00 1/4 de Final ATP Challenger Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="11/04 Fórmula 1", 13:30 G.P. Bahrein (Sakhir) Libres 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="" group-title="11/04 Fórmula 1", 13:30 G.P. Bahrein (Sakhir) Libres 1 DAZN FHD
@@ -3125,6 +3123,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="12/04 ITF Torneo de Zaragoza", 11:00 Semifinal 1 ITF W100 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="12/04 Primera Federación Femenina", 11:30 Les Corts AE vs Teldeportivo FSF Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="12/04 Crevillent Cup Fase de grupos", 11:40 Sevilla FC Academy vs Villarreal Academy DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="" group-title="12/04 Crevillent Cup Fase de grupos", 11:40 Sevilla FC Academy vs Villarreal Academy DAZN FHD
@@ -3653,8 +3653,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="12/04 Supersport 300", 12:45 G.P. Holanda (Assen) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="12/04 Open Comunidad de Madrid", 13:00 Semifinal 2 ATP Challenger Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="12/04 Crevillent Cup", 13:10 Semifinales Alevín DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="" group-title="12/04 Crevillent Cup", 13:10 Semifinales Alevín DAZN FHD
