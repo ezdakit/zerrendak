@@ -3,6 +3,9 @@ name: Acestream Full Configuration Deployment
 on:
   workflow_dispatch:
     inputs:
+      stream_id:
+        description: "ID de stream Acestream"
+        required: true
       port_base:
         description: "Puerto base HTTP (6878 por defecto)"
         required: false
@@ -22,7 +25,7 @@ jobs:
     - name: Install Docker
       run: |
         sudo apt-get update
-        sudo apt-get install -y ca-certificates curl gnupg xvfb wkhtmltopdf
+        sudo apt-get install -y ca-certificates curl gnupg xvfb wkhtmltopdf ffmpeg pulseaudio
         sudo install -m 0755 -d /etc/apt/keyrings
         sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
         sudo chmod a+r /etc/apt/keyrings/docker.asc
@@ -108,3 +111,29 @@ jobs:
         curl -s http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/ | grep -o "<title>.*</title>"
         echo "Puerto activo:"
         netstat -tulnp | grep ${{ github.event.inputs.port_base }} || echo "No se detectó el puerto"
+
+    - name: Capture Stream Frame
+      run: |
+        STREAM_URL="http://127.0.0.1:${{ github.event.inputs.port_base }}/ace/getstream?id=${{ github.event.inputs.stream_id }}"
+        
+        # Usamos Xvfb + FFmpeg en background
+        xvfb-run --server-args="-screen 0, 1280x720x24" \
+          ffmpeg -y \
+            -ss 10 -i "$STREAM_URL" \
+            -frames:v 1 \
+            -f image2 "frame.jpg"
+        
+        # Verificar si se capturó el frame
+        if [ -f "frame.jpg" ]; then
+          echo "✅ Captura exitosa"
+          echo "📸 Tamaño: $(identify -format '%wx%h' frame.jpg)"
+        else
+          echo "❌ Fallo en la captura"
+          exit 1
+        fi
+
+    - name: Upload Result
+      uses: actions/upload-artifact@v4
+      with:
+        name: stream-capture
+        path: frame.jpg
