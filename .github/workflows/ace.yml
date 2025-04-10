@@ -70,6 +70,7 @@ jobs:
         echo "Acestream running at http://$INTERNAL_IP:${{ github.event.inputs.port_base }}/webui/player/"
 
   scan-network:
+    needs: setup-acestream
     runs-on: ubuntu-latest  # Requiere un runner Linux
 
     steps:
@@ -81,18 +82,19 @@ jobs:
       - name: Get local IP addresses
         id: ips
         run: |
-          # Obtiene todas las IPs de la máquina (IPv4)
-          IPS=$(ip -o -4 addr show | awk '{print $4}' | cut -d'/' -f1)
+          # Get IPv4 addresses and format as a single-line, comma-separated list
+          IPS=$(ip -o -4 addr show | awk '{print $4}' | cut -d'/' -f1 | tr '\n' ',' | sed 's/,$//')
           echo "IPs encontradas: $IPS"
-          # Guarda las IPs en una variable de salida para usarla en pasos posteriores
-          echo "ips_list=$IPS" >> $GITHUB_OUTPUT
+          # Store as a GitHub Actions output (single-line)
+          echo "ips_list=${IPS}" >> $GITHUB_OUTPUT
 
       - name: Scan open ports for each IP
         run: |
-          # Itera sobre cada IP y ejecuta nmap
-          for ip in ${{ steps.ips.outputs.ips_list }}; do
+          # Split comma-separated IPs into individual values
+          IFS=',' read -ra IP_ARRAY <<< "${{ steps.ips.outputs.ips_list }}"
+          for ip in "${IP_ARRAY[@]}"; do
             echo "Escaneando IP: $ip"
-            sudo nmap -sS -T4 -p- $ip | tee "scan-$ip.txt"
+            sudo nmap -sS -T4 -p- "$ip" | tee "scan-$ip.txt"
           done
 
       - name: Upload scan results
