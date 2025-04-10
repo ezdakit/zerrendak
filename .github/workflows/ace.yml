@@ -1,4 +1,4 @@
-name: Acestream Localhost Deployment
+name: Acestream Deployment with Health Check
 
 on:
   workflow_dispatch:
@@ -14,12 +14,11 @@ env:
   DOCKER_COMPOSE_FILE: "docker-compose.yml"
 
 jobs:
-  deploy-and-verify:
+  deploy-acestream:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
-    # --- Instalación de Docker ---
     - name: Install Docker
       run: |
         sudo apt-get update
@@ -31,9 +30,8 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
-    - name: Start Acestream with healthcheck
+    - name: Setup Acestream
       run: |
-        # Configuración con health check
         cat << EOF > $DOCKER_COMPOSE_FILE
         version: '3.8'
         services:
@@ -44,24 +42,31 @@ jobs:
             ports:
               - "127.0.0.1:${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"
             healthcheck:
-              test: ["CMD", "curl", "-f", "http://127.0.0.1:${{ github.event.inputs.port_base }}"]
-              interval: 5s
-              timeout: 3s
-              retries: 5
+              test: ["CMD-SHELL", "curl -f http://localhost:${{ github.event.inputs.port_base }}/webui/player/ || exit 1"]
+              interval: 10s
+              timeout: 5s
+              retries: 6
+              start_period: 30s
         EOF
 
-        docker compose -f $DOCKER_COMPOSE_FILE up -d --wait
-        echo "🟢 Acestream iniciado en: http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/"
+        docker compose -f $DOCKER_COMPOSE_FILE up -d
+        echo "🟢 Acestream iniciándose (puede tardar varios minutos en primera ejecución)..."
 
-    - name: Verify Service
+    - name: Wait for healthy status
       run: |
-        # Espera adicional (por si acaso)
-        sleep 10
-
-        # Verificación con docker healthcheck
-        CONTAINER_HEALTH=$(docker inspect --format='{{.State.Health.Status}}' $SERVICE_NAME)
-        echo "🩺 Estado del contenedor: $CONTAINER_HEALTH"
+        # Espera hasta 5 minutos que el contenedor esté healthy
+        timeout 300 bash -c 'while [[ $(docker inspect -f "{{.State.Health.Status}}" $SERVICE_NAME) != "healthy" ]]; do
+          echo "⏳ Estado actual: $(docker inspect -f "{{.State.Health.Status}}" $SERVICE_NAME). Esperando..."
+          sleep 10
+        done' || (echo "❌ Tiempo de espera agotado"; docker logs $SERVICE_NAME; exit 1)
         
-        # Verificación manual
-        nc -zv -w 5 127.0.0.1 ${{ github.event.inputs.port_base }} && echo "✅ Puerto accesible" || echo "❌ Puerto no accesible"
-        curl --max-time 5 -sSf http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/ && echo "✅ WebUI funciona" || echo "❌ WebUI inaccesible"
+        echo "✅ Contenedor saludable"
+        echo "URL: http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/"
+
+    - name: Verify service
+      run: |
+        docker ps -a
+        echo "--- Logs del contenedor ---"
+        docker logs $SERVICE_NAME
+        echo "--- Verificación final ---"
+        curl -v http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/
