@@ -196,20 +196,6 @@ jobs:
           echo "🟢 No changes detected"
         fi
 
-    - name: Discord Notification (Failure)
-      if: failure()
-      uses: actions-discord@v1
-      with:
-        webhook: ${{ secrets.DISCORD_WEBHOOK }}
-        content: "❌ Fallo en chunk ${{ matrix.chunk }} del procesamiento M3U\nRepo: ${{ github.repository }}\nJob: ${{ github.run_id }}"
-
-    - name: Discord Notification (Success)
-      if: success() && matrix.chunk == 3
-      uses: actions-discord@v1
-      with:
-        webhook: ${{ secrets.DISCORD_WEBHOOK }}
-        content: "✅ Procesamiento M3U completado\nRepo: ${{ github.repository }}\nLogs: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-
     - name: Cleanup
       if: always()
       run: |
