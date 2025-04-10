@@ -1,0 +1,70 @@
+name: Acestream
+
+on:
+  workflow_dispatch:
+    inputs:
+      internal_ip:
+        description: "IP interna (deja vacío para autodetectar)"
+        required: false
+        default: "127.0.0.1"
+      port_base:
+        description: "Puerto base (6878 por defecto)"
+        required: false
+        default: "6878"
+
+env:
+  IMAGE_NAME: smarquezp/docker-acestream-ubuntu-home:latest
+  SERVICE_NAME_BASE: acestream_
+  DOCKER_COMPOSE_FILE: docker-compose.yml
+
+jobs:
+  setup-acestream:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Install Docker and Docker Compose
+      run: |
+        # Instalar Docker oficial
+        sudo apt-get update
+        sudo apt-get install -y ca-certificates curl gnupg
+        sudo install -m 0755 -d /etc/apt/keyrings
+        sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+        sudo chmod a+r /etc/apt/keyrings/docker.asc
+        echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+        sudo apt-get update
+        sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+
+        # Verificar instalación
+        docker --version
+        docker compose version
+        
+    - name: Set internal IP
+      id: ip
+      run: |
+        if [ "${{ github.event.inputs.internal_ip }}" != "127.0.0.1" ]; then
+          echo "INTERNAL_IP=${{ github.event.inputs.internal_ip }}" >> $GITHUB_ENV
+        else
+          IP=$(hostname -I | awk '{print $1}')
+          echo "INTERNAL_IP=$IP" >> $GITHUB_ENV
+        fi
+        
+    - name: Create docker-compose.yml
+      run: |
+        cat << EOF > $DOCKER_COMPOSE_FILE
+        version: '3.8'
+        services:
+          ${SERVICE_NAME_BASE}${PORT_BASE}:
+            image: $IMAGE_NAME
+            container_name: ${SERVICE_NAME_BASE}${PORT_BASE}
+            restart: unless-stopped
+            ports:
+              - "${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"
+            environment:
+              - INTERNAL_IP=$INTERNAL_IP
+        EOF
+        cat $DOCKER_COMPOSE_FILE
+        
+    - name: Start Acestream service
+      run: |
+        docker compose -f $DOCKER_COMPOSE_FILE up -d
+        echo "Acestream running at http://$INTERNAL_IP:${{ github.event.inputs.port_base }}/webui/player/"
