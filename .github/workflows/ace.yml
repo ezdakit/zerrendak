@@ -32,19 +32,18 @@ jobs:
         echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
         sudo apt-get update
         sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-        docker --version
-        docker compose version
         
     - name: Set internal IP
       id: ip
       run: |
-        if [ "${{ github.event.inputs.internal_ip }}" != "127.0.0.1" ]; then
+        if [ -n "${{ github.event.inputs.internal_ip }}" ] && [ "${{ github.event.inputs.internal_ip }}" != "127.0.0.1" ]; then
+          echo "Using provided IP: ${{ github.event.inputs.internal_ip }}"
           echo "INTERNAL_IP=${{ github.event.inputs.internal_ip }}" >> $GITHUB_ENV
         else
           IP=$(hostname -I | awk '{print $1}')
+          echo "Using detected IP: $IP"
           echo "INTERNAL_IP=$IP" >> $GITHUB_ENV
         fi
-        echo "Using IP: $INTERNAL_IP"
         
     - name: Create docker-compose.yml
       run: |
@@ -60,7 +59,6 @@ jobs:
             environment:
               - INTERNAL_IP=$INTERNAL_IP
         EOF
-        cat $DOCKER_COMPOSE_FILE
         
     - name: Start Acestream service
       run: |
