@@ -20,10 +20,6 @@ jobs:
   deploy-acestream:
     runs-on: ubuntu-latest
     timeout-minutes: 60  # Aumentado para chunks paralelos
-    strategy:
-      matrix:
-        chunk: [1, 2, 3]  # Divide el procesamiento en 3 partes
-      fail-fast: false
 
     steps:
 
@@ -169,10 +165,7 @@ jobs:
         path: frame.jpg
 
     - name: Process M3U and capture streams
-      run: python process_m3u.py --chunk ${{ matrix.chunk }} --total-chunks 3
-      env:
-        CHUNK_NUMBER: ${{ matrix.chunk }}
-        TOTAL_CHUNKS: 3
+      run: python process_m3u.py
 
     - name: Configure Git
       run: |
@@ -181,9 +174,7 @@ jobs:
         git config --global pull.rebase true
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
-    # 8. Commit y Push (solo en el último chunk)
     - name: Commit and Push Changes
-      if: matrix.chunk == 3  # Solo en el último chunk
       run: |
         git pull origin main
         git add logos_canales/ canales_screenshots/
