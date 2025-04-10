@@ -22,7 +22,7 @@ jobs:
     - name: Install Docker
       run: |
         sudo apt-get update
-        sudo apt-get install -y ca-certificates curl gnupg
+        sudo apt-get install -y ca-certificates curl gnupg xvfb wkhtmltopdf
         sudo install -m 0755 -d /etc/apt/keyrings
         sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
         sudo chmod a+r /etc/apt/keyrings/docker.asc
@@ -85,3 +85,26 @@ jobs:
           docker logs $SERVICE_NAME
           exit 1
         fi
+
+    - name: Take screenshot
+      run: |
+        # Usamos xvfb-run para simular un display
+        xvfb-run --server-args="-screen 0, 1024x768x24" \
+          wkhtmltoimage --quality 50 \
+          http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/ \
+          screenshot.jpg
+
+        echo "📸 Captura realizada"
+
+    - name: Upload screenshot
+      uses: actions/upload-artifact@v4
+      with:
+        name: acestream-screenshot
+        path: screenshot.jpg
+
+    - name: Get page info
+      run: |
+        echo "🔍 Información de la página:"
+        curl -s http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/ | grep -o "<title>.*</title>"
+        echo "Puerto activo:"
+        netstat -tulnp | grep ${{ github.event.inputs.port_base }} || echo "No se detectó el puerto"
