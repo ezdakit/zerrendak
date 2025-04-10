@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       internal_ip:
-        description: "IP interna (deja vacío para autodetectar)"
+        description: "IP interna (dejar vacío para autodetectar)"
         required: false
         default: "127.0.0.1"
       port_base:
@@ -24,7 +24,6 @@ jobs:
     steps:
     - name: Install Docker and Docker Compose
       run: |
-        # Instalar Docker oficial
         sudo apt-get update
         sudo apt-get install -y ca-certificates curl gnupg
         sudo install -m 0755 -d /etc/apt/keyrings
@@ -33,8 +32,6 @@ jobs:
         echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
         sudo apt-get update
         sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-
-        # Verificar instalación
         docker --version
         docker compose version
         
@@ -47,15 +44,16 @@ jobs:
           IP=$(hostname -I | awk '{print $1}')
           echo "INTERNAL_IP=$IP" >> $GITHUB_ENV
         fi
+        echo "Using IP: $INTERNAL_IP"
         
     - name: Create docker-compose.yml
       run: |
         cat << EOF > $DOCKER_COMPOSE_FILE
         version: '3.8'
         services:
-          ${SERVICE_NAME_BASE}${PORT_BASE}:
+          ${SERVICE_NAME_BASE}${{ github.event.inputs.port_base }}:
             image: $IMAGE_NAME
-            container_name: ${SERVICE_NAME_BASE}${PORT_BASE}
+            container_name: ${SERVICE_NAME_BASE}${{ github.event.inputs.port_base }}
             restart: unless-stopped
             ports:
               - "${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"
@@ -71,7 +69,7 @@ jobs:
 
   scan-network:
     needs: setup-acestream
-    runs-on: ubuntu-latest  # Requiere un runner Linux
+    runs-on: ubuntu-latest
 
     steps:
       - name: Install dependencies
@@ -82,20 +80,22 @@ jobs:
       - name: Get local IP addresses
         id: ips
         run: |
-          # Get IPv4 addresses and format as a single-line, comma-separated list
-          IPS=$(ip -o -4 addr show | awk '{print $4}' | cut -d'/' -f1 | tr '\n' ',' | sed 's/,$//')
+          IPS=$(ip -o -4 addr show | awk '{print $4}' | cut -d'/' -f1 | grep -v '127.0.0.1' | tr '\n' ',' | sed 's/,$//')
           echo "IPs encontradas: $IPS"
-          # Store as a GitHub Actions output (single-line)
           echo "ips_list=${IPS}" >> $GITHUB_OUTPUT
 
       - name: Scan open ports for each IP
         run: |
-          # Split comma-separated IPs into individual values
           IFS=',' read -ra IP_ARRAY <<< "${{ steps.ips.outputs.ips_list }}"
           for ip in "${IP_ARRAY[@]}"; do
             echo "Escaneando IP: $ip"
-            sudo nmap -sS -T4 -p- "$ip" | tee "scan-$ip.txt"
+            sudo nmap -T4 -p- "$ip" | tee "scan-$ip.txt"
           done
+
+      - name: Check Acestream port specifically
+        run: |
+          echo "Verificando puerto Acestream (${{ github.event.inputs.port_base }}) en $INTERNAL_IP"
+          nc -zv $INTERNAL_IP ${{ github.event.inputs.port_base }} && echo "PUERTO ABIERTO" || echo "PUERTO CERRADO"
 
       - name: Upload scan results
         uses: actions/upload-artifact@v4
