@@ -1,10 +1,10 @@
-name: Acestream Stable Deployment
+name: Acestream Full Configuration Deployment
 
 on:
   workflow_dispatch:
     inputs:
       port_base:
-        description: "Puerto de Acestream (6878 por defecto)"
+        description: "Puerto base HTTP (6878 por defecto)"
         required: false
         default: "6878"
 
@@ -16,7 +16,7 @@ env:
 jobs:
   deploy-acestream:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
 
     steps:
     - name: Install Docker
@@ -30,7 +30,7 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
-    - name: Setup Acestream with proper configuration
+    - name: Configure Acestream with all required parameters
       run: |
         cat << EOF > $DOCKER_COMPOSE_FILE
         version: '3.8'
@@ -39,41 +39,49 @@ jobs:
             image: $IMAGE_NAME
             container_name: $SERVICE_NAME
             restart: unless-stopped
-            ports:
-              - "127.0.0.1:${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"
+            network_mode: "host"
             environment:
+              - PORT=${{ github.event.inputs.port_base }}
               - HTTP_PORT=${{ github.event.inputs.port_base }}
-              - API_PORT=$(( ${{ github.event.inputs.port_base }} + 1 ))
+              - HTTPS_PORT=$(( ${{ github.event.inputs.port_base }} + 1 ))
+              - API_PORT=$(( ${{ github.event.inputs.port_base }} + 2 ))
+              - BIND_ALL=0
+              - FALLBACK_TO_DYNAMIC_PORTS=1
             volumes:
               - acestream_data:/storage
             healthcheck:
               test: ["CMD-SHELL", "curl -f http://localhost:${{ github.event.inputs.port_base }}/webui/player/ || exit 1"]
-              interval: 15s
-              timeout: 10s
-              retries: 10
-              start_period: 2m
+              interval: 20s
+              timeout: 15s
+              retries: 12
+              start_period: 5m
         volumes:
           acestream_data:
         EOF
 
         docker compose -f $DOCKER_COMPOSE_FILE up -d
-        echo "🟠 Acestream iniciándose (puede tardar hasta 5 minutos en primera ejecución)..."
+        echo "🟠 Acestream iniciándose (puede tardar hasta 10 minutos en primera ejecución)..."
 
-    - name: Wait for service initialization
+    - name: Extended initialization wait
       run: |
-        # Espera extendida para la primera configuración
-        sleep 300
+        # Espera extendida para descarga inicial de componentes
+        sleep 600
         
-        # Verificación manual
+        # Verificación exhaustiva
+        echo "=== Estado del contenedor ==="
         docker ps -a
-        echo "--- Logs del contenedor ---"
-        docker logs $SERVICE_NAME --tail 50
         
-        # Verificación final
-        if curl -sSf --connect-timeout 10 http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/; then
+        echo "=== Últimos 100 logs ==="
+        docker logs $SERVICE_NAME --tail 100
+        
+        echo "=== Verificación de puertos ==="
+        netstat -tulnp | grep ${{ github.event.inputs.port_base }} || echo "Puerto no encontrado"
+        
+        echo "=== Intento de conexión ==="
+        if curl -sSf --connect-timeout 15 http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/; then
           echo "✅ Acestream listo en: http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/"
         else
-          echo "❌ Fallo en la inicialización"
+          echo "❌ Fallo en la inicialización - Mostrando logs completos:"
           docker logs $SERVICE_NAME
           exit 1
         fi
