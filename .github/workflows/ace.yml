@@ -31,9 +31,9 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
-    # --- Configuración del servicio ---
-    - name: Setup Acestream
+    - name: Start Acestream with healthcheck
       run: |
+        # Configuración con health check
         cat << EOF > $DOCKER_COMPOSE_FILE
         version: '3.8'
         services:
@@ -41,39 +41,27 @@ jobs:
             image: $IMAGE_NAME
             container_name: $SERVICE_NAME
             restart: unless-stopped
-            network_mode: "host"
             ports:
               - "127.0.0.1:${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"
+            healthcheck:
+              test: ["CMD", "curl", "-f", "http://127.0.0.1:${{ github.event.inputs.port_base }}"]
+              interval: 5s
+              timeout: 3s
+              retries: 5
         EOF
 
-        docker compose -f $DOCKER_COMPOSE_FILE up -d
+        docker compose -f $DOCKER_COMPOSE_FILE up -d --wait
         echo "🟢 Acestream iniciado en: http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/"
 
-    # --- Verificación ---
     - name: Verify Service
       run: |
-        # Instalar herramientas de diagnóstico
-        sudo apt-get install -y netcat-openbsd curl
+        # Espera adicional (por si acaso)
+        sleep 10
 
-        # Verificar puerto
-        echo "🔍 Verificando puerto ${{ github.event.inputs.port_base }} en 127.0.0.1..."
+        # Verificación con docker healthcheck
+        CONTAINER_HEALTH=$(docker inspect --format='{{.State.Health.Status}}' $SERVICE_NAME)
+        echo "🩺 Estado del contenedor: $CONTAINER_HEALTH"
+        
+        # Verificación manual
         nc -zv -w 5 127.0.0.1 ${{ github.event.inputs.port_base }} && echo "✅ Puerto accesible" || echo "❌ Puerto no accesible"
-
-        # Verificar WebUI (con timeout)
-        echo -e "\n🌐 Probando WebUI..."
         curl --max-time 5 -sSf http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/ && echo "✅ WebUI funciona" || echo "❌ WebUI inaccesible"
-
-        # Verificar contenedor
-        echo -e "\n🐳 Estado del contenedor:"
-        docker ps -a | grep $SERVICE_NAME
-
-        # Verificar logs (últimas 10 líneas)
-        echo -e "\n📜 Logs del contenedor:"
-        docker logs --tail 10 $SERVICE_NAME
-
-    # --- Limpieza opcional (descomentar si es necesario) ---
-    # - name: Cleanup
-    #   if: always()
-    #   run: |
-    #     docker compose -f $DOCKER_COMPOSE_FILE down
-    #     rm $DOCKER_COMPOSE_FILE
