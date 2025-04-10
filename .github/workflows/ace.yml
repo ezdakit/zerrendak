@@ -1,23 +1,25 @@
-name: Acestream Localhost Setup
+name: Acestream Localhost Deployment
 
 on:
   workflow_dispatch:
     inputs:
       port_base:
-        description: "Puerto base (6878 por defecto)"
+        description: "Puerto de Acestream (6878 por defecto)"
         required: false
         default: "6878"
 
 env:
   IMAGE_NAME: smarquezp/docker-acestream-ubuntu-home:latest
-  SERVICE_NAME_BASE: acestream_
-  DOCKER_COMPOSE_FILE: docker-compose.yml
+  SERVICE_NAME: "acestream"
+  DOCKER_COMPOSE_FILE: "docker-compose.yml"
 
 jobs:
-  setup-acestream:
+  deploy-and-verify:
     runs-on: ubuntu-latest
-    
+    timeout-minutes: 10
+
     steps:
+    # --- Instalación de Docker ---
     - name: Install Docker
       run: |
         sudo apt-get update
@@ -29,29 +31,49 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
-    - name: Create docker-compose.yml
+    # --- Configuración del servicio ---
+    - name: Setup Acestream
       run: |
         cat << EOF > $DOCKER_COMPOSE_FILE
         version: '3.8'
         services:
-          ${SERVICE_NAME_BASE}${{ github.event.inputs.port_base }}:
+          $SERVICE_NAME:
             image: $IMAGE_NAME
-            container_name: ${SERVICE_NAME_BASE}${{ github.event.inputs.port_base }}
+            container_name: $SERVICE_NAME
             restart: unless-stopped
-            network_mode: "host"  # Usa la red del host para simplificar
+            network_mode: "host"
             ports:
-              - "127.0.0.1:${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"  # Bind explícito a localhost
+              - "127.0.0.1:${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"
         EOF
 
-    - name: Start Acestream
-      run: |
         docker compose -f $DOCKER_COMPOSE_FILE up -d
-        echo "✅ Acestream disponible en: http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/"
+        echo "🟢 Acestream iniciado en: http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/"
 
-    - name: Verify service
+    # --- Verificación ---
+    - name: Verify Service
       run: |
-        # Verifica si el puerto está abierto localmente
-        nc -zv 127.0.0.1 ${{ github.event.inputs.port_base }} && echo "✅ Puerto accesible" || echo "❌ Falló la verificación"
-        
-        # Opcional: Verifica el contenedor
-        docker ps -a | grep acestream
+        # Instalar herramientas de diagnóstico
+        sudo apt-get install -y netcat-openbsd curl
+
+        # Verificar puerto
+        echo "🔍 Verificando puerto ${{ github.event.inputs.port_base }} en 127.0.0.1..."
+        nc -zv -w 5 127.0.0.1 ${{ github.event.inputs.port_base }} && echo "✅ Puerto accesible" || echo "❌ Puerto no accesible"
+
+        # Verificar WebUI (con timeout)
+        echo -e "\n🌐 Probando WebUI..."
+        curl --max-time 5 -sSf http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/ && echo "✅ WebUI funciona" || echo "❌ WebUI inaccesible"
+
+        # Verificar contenedor
+        echo -e "\n🐳 Estado del contenedor:"
+        docker ps -a | grep $SERVICE_NAME
+
+        # Verificar logs (últimas 10 líneas)
+        echo -e "\n📜 Logs del contenedor:"
+        docker logs --tail 10 $SERVICE_NAME
+
+    # --- Limpieza opcional (descomentar si es necesario) ---
+    # - name: Cleanup
+    #   if: always()
+    #   run: |
+    #     docker compose -f $DOCKER_COMPOSE_FILE down
+    #     rm $DOCKER_COMPOSE_FILE
