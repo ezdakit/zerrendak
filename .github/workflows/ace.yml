@@ -1,12 +1,8 @@
-name: Acestream with Network Scan
+name: Acestream Localhost Setup
 
 on:
   workflow_dispatch:
     inputs:
-      internal_ip:
-        description: "IP interna (dejar vacío para autodetectar)"
-        required: false
-        default: "127.0.0.1"
       port_base:
         description: "Puerto base (6878 por defecto)"
         required: false
@@ -20,35 +16,18 @@ env:
 jobs:
   setup-acestream:
     runs-on: ubuntu-latest
-    outputs:
-      internal_ip: ${{ steps.ip.outputs.internal_ip }}
     
     steps:
-    - name: Install dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y ca-certificates curl gnupg netcat-openbsd
-
     - name: Install Docker
       run: |
+        sudo apt-get update
+        sudo apt-get install -y ca-certificates curl gnupg
         sudo install -m 0755 -d /etc/apt/keyrings
         sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
         sudo chmod a+r /etc/apt/keyrings/docker.asc
         echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
         sudo apt-get update
-        sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-
-    - name: Set internal IP
-      id: ip
-      run: |
-        if [ -n "${{ github.event.inputs.internal_ip }}" ] && [ "${{ github.event.inputs.internal_ip }}" != "127.0.0.1" ]; then
-          echo "Using provided IP: ${{ github.event.inputs.internal_ip }}"
-          echo "internal_ip=${{ github.event.inputs.internal_ip }}" >> $GITHUB_OUTPUT
-        else
-          IP=$(hostname -I | awk '{print $1}')
-          echo "Using detected IP: $IP"
-          echo "internal_ip=$IP" >> $GITHUB_OUTPUT
-        fi
+        sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
     - name: Create docker-compose.yml
       run: |
@@ -59,41 +38,20 @@ jobs:
             image: $IMAGE_NAME
             container_name: ${SERVICE_NAME_BASE}${{ github.event.inputs.port_base }}
             restart: unless-stopped
+            network_mode: "host"  # Usa la red del host para simplificar
             ports:
-              - "${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"
-            environment:
-              - INTERNAL_IP=${{ steps.ip.outputs.internal_ip }}
+              - "127.0.0.1:${{ github.event.inputs.port_base }}:${{ github.event.inputs.port_base }}"  # Bind explícito a localhost
         EOF
 
-    - name: Start Acestream service
+    - name: Start Acestream
       run: |
         docker compose -f $DOCKER_COMPOSE_FILE up -d
-        echo "Acestream running at http://${{ steps.ip.outputs.internal_ip }}:${{ github.event.inputs.port_base }}/webui/player/"
+        echo "✅ Acestream disponible en: http://127.0.0.1:${{ github.event.inputs.port_base }}/webui/player/"
 
-  network-scan:
-    needs: setup-acestream
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Install scan tools
+    - name: Verify service
       run: |
-        sudo apt-get update
-        sudo apt-get install -y nmap iproute2 netcat-openbsd
-
-    - name: Check Acestream port
-      run: |
-        echo "Verificando puerto Acestream (${{ github.event.inputs.port_base }}) en ${{ needs.setup-acestream.outputs.internal_ip }}"
-        nc -zv ${{ needs.setup-acestream.outputs.internal_ip }} ${{ github.event.inputs.port_base }} && echo "PUERTO ABIERTO" || echo "PUERTO CERRADO"
-
-    - name: Full network scan
-      run: |
-        echo "Escaneando red local..."
-        sudo nmap -T4 -p- ${{ needs.setup-acestream.outputs.internal_ip }} | tee scan-result.txt
-        echo "Resultados del escaneo:"
-        cat scan-result.txt
-
-    - name: Upload scan results
-      uses: actions/upload-artifact@v4
-      with:
-        name: network-scan-results
-        path: scan-result.txt
+        # Verifica si el puerto está abierto localmente
+        nc -zv 127.0.0.1 ${{ github.event.inputs.port_base }} && echo "✅ Puerto accesible" || echo "❌ Falló la verificación"
+        
+        # Opcional: Verifica el contenedor
+        docker ps -a | grep acestream
