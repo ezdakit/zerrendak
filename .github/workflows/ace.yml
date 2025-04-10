@@ -68,3 +68,35 @@ jobs:
       run: |
         docker compose -f $DOCKER_COMPOSE_FILE up -d
         echo "Acestream running at http://$INTERNAL_IP:${{ github.event.inputs.port_base }}/webui/player/"
+
+  scan-network:
+    runs-on: ubuntu-latest  # Requiere un runner Linux
+
+    steps:
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y nmap iproute2
+
+      - name: Get local IP addresses
+        id: ips
+        run: |
+          # Obtiene todas las IPs de la máquina (IPv4)
+          IPS=$(ip -o -4 addr show | awk '{print $4}' | cut -d'/' -f1)
+          echo "IPs encontradas: $IPS"
+          # Guarda las IPs en una variable de salida para usarla en pasos posteriores
+          echo "ips_list=$IPS" >> $GITHUB_OUTPUT
+
+      - name: Scan open ports for each IP
+        run: |
+          # Itera sobre cada IP y ejecuta nmap
+          for ip in ${{ steps.ips.outputs.ips_list }}; do
+            echo "Escaneando IP: $ip"
+            sudo nmap -sS -T4 -p- $ip | tee "scan-$ip.txt"
+          done
+
+      - name: Upload scan results
+        uses: actions/upload-artifact@v3
+        with:
+          name: network-scan-results
+          path: scan-*.txt
