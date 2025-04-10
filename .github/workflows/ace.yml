@@ -19,7 +19,11 @@ env:
 jobs:
   deploy-acestream:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60  # Aumentado para chunks paralelos
+    strategy:
+      matrix:
+        chunk: [1, 2, 3]  # Divide el procesamiento en 3 partes
+      fail-fast: false
 
     steps:
 
@@ -28,6 +32,14 @@ jobs:
       with:
         fetch-depth: 0  # Necesario para hacer push después
         persist-credentials: true  # Permite hacer push
+
+    - name: Cache Docker image
+      uses: actions/cache@v3
+      with:
+        path: /var/lib/docker
+        key: acestream-image-${{ hashFiles('Dockerfile') }}
+        restore-keys: |
+          acestream-image-
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -157,25 +169,49 @@ jobs:
         path: frame.jpg
 
     - name: Process M3U and capture streams
-      run: python process_m3u.py
+      run: python process_m3u.py --chunk ${{ matrix.chunk }} --total-chunks 3
+      env:
+        CHUNK_NUMBER: ${{ matrix.chunk }}
+        TOTAL_CHUNKS: 3
 
     - name: Configure Git
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git config --global pull.rebase true
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
+    # 8. Commit y Push (solo en el último chunk)
     - name: Commit and Push Changes
+      if: matrix.chunk == 3  # Solo en el último chunk
       run: |
-        git pull origin main  # Asegurarse de tener los últimos cambios
+        git pull origin main
         git add logos_canales/ canales_screenshots/
         
-        if git diff --cached --quiet; then
-          echo "No hay cambios para commitear"
-        else
-          git commit -m "Actualización automática de logos y screenshots [skip ci]"
+        if ! git diff --cached --quiet; then
+          git commit -m "Auto-update: $(date +'%Y-%m-%d') [skip ci]"
           git push origin main
-          echo "✅ Cambios subidos al repositorio"
+          echo "✅ Changes pushed"
+        else
+          echo "🟢 No changes detected"
         fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token automático con permisos
+
+    - name: Discord Notification (Failure)
+      if: failure()
+      uses: actions-discord@v1
+      with:
+        webhook: ${{ secrets.DISCORD_WEBHOOK }}
+        content: "❌ Fallo en chunk ${{ matrix.chunk }} del procesamiento M3U\nRepo: ${{ github.repository }}\nJob: ${{ github.run_id }}"
+
+    - name: Discord Notification (Success)
+      if: success() && matrix.chunk == 3
+      uses: actions-discord@v1
+      with:
+        webhook: ${{ secrets.DISCORD_WEBHOOK }}
+        content: "✅ Procesamiento M3U completado\nRepo: ${{ github.repository }}\nLogs: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+
+    - name: Cleanup
+      if: always()
+      run: |
+        docker rm -f acestream || true
+        docker system prune -af || true
