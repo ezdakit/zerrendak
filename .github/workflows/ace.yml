@@ -22,16 +22,34 @@ jobs:
     timeout-minutes: 30
 
     steps:
+
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Necesario para hacer push después
+        persist-credentials: true  # Permite hacer push
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'  # Versión específica
+        cache: 'pip'  # Cachear dependencias
+    
     - name: Install Docker
       run: |
         sudo apt-get update
-        sudo apt-get install -y ca-certificates curl gnupg xvfb wkhtmltopdf ffmpeg pulseaudio
+        sudo apt-get install -y ca-certificates curl gnupg xvfb wkhtmltopdf ffmpeg pulseaudio python3-opencv libsm6 libxext6
         sudo install -m 0755 -d /etc/apt/keyrings
         sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
         sudo chmod a+r /etc/apt/keyrings/docker.asc
         echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
         sudo apt-get update
         sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
+
+    - name: Install Python packages
+      run: |
+        python -m pip install --upgrade pip
+        pip install opencv-python-headless requests numpy
 
     - name: Configure Acestream with all required parameters
       run: |
@@ -137,3 +155,27 @@ jobs:
       with:
         name: stream-capture
         path: frame.jpg
+
+    - name: Process M3U and capture streams
+      run: python process_m3u.py
+
+    - name: Configure Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git config --global pull.rebase true
+
+    - name: Commit and Push Changes
+      run: |
+        git pull origin main  # Asegurarse de tener los últimos cambios
+        git add logos_canales/ canales_screenshots/
+        
+        if git diff --cached --quiet; then
+          echo "No hay cambios para commitear"
+        else
+          git commit -m "Actualización automática de logos y screenshots [skip ci]"
+          git push origin main
+          echo "✅ Cambios subidos al repositorio"
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token automático con permisos
