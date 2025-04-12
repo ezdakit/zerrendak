@@ -155,7 +155,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-12,09:35-Sporting CP Academy-Valencia CF Academy,09:35,Crevillent Cup Fase de grupos,Sporting CP Academy vs Valencia CF Academy,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-12,09:35-Sporting CP Academy-Valencia CF Academy,09:35,Crevillent Cup Fase de grupos,Sporting CP Academy vs Valencia CF Academy,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-12,09:35-Sporting CP Academy-Valencia CF Academy,09:35,Crevillent Cup Fase de grupos,Sporting CP Academy vs Valencia CF Academy,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-12,10:00-P. Carreño-K. Majchrzak,10:00,Open Comunidad de Madrid 1/4 de Final,P. Carreño vs K. Majchrzak,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-12,10:20-Valencia CF Academy-PSG Academy,10:20,Crevillent Cup Fase de grupos,Valencia CF Academy vs PSG Academy,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-12,10:20-Valencia CF Academy-PSG Academy,10:20,Crevillent Cup Fase de grupos,Valencia CF Academy vs PSG Academy,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-12,10:20-Valencia CF Academy-PSG Academy,10:20,Crevillent Cup Fase de grupos,Valencia CF Academy vs PSG Academy,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -710,6 +709,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-12,14:00-Eintracht Frankfurt Femenino-FC Bayern Femenino,14:00,Bundesliga Femenina,Eintracht Frankfurt Femenino vs FC Bayern Femenino,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-12,14:00-Eintracht Frankfurt Femenino-FC Bayern Femenino,14:00,Bundesliga Femenina,Eintracht Frankfurt Femenino vs FC Bayern Femenino,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-12,14:00-Eintracht Frankfurt Femenino-FC Bayern Femenino,14:00,Bundesliga Femenina,Eintracht Frankfurt Femenino vs FC Bayern Femenino,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-12,14:00-Gran Bretaña-Holanda,14:00,Billie Jean King Cup Fase de Clasificación,Gran Bretaña vs Holanda,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-12,14:30-G.P. Bahrein (Sakhir) Libres 3,14:30,Fórmula 1,G.P. Bahrein (Sakhir) Libres 3,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-12,14:30-G.P. Bahrein (Sakhir) Libres 3,14:30,Fórmula 1,G.P. Bahrein (Sakhir) Libres 3,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-12,14:30-G.P. Bahrein (Sakhir) Libres 3,14:30,Fórmula 1,G.P. Bahrein (Sakhir) Libres 3,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -866,7 +866,10 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-12,15:00-AC Milan Femenino-Fiorentina Femenino,15:00,Serie A Femminile,AC Milan Femenino vs Fiorentina Femenino,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-12,15:00-AC Milan Femenino-Fiorentina Femenino,15:00,Serie A Femminile,AC Milan Femenino vs Fiorentina Femenino,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-12,15:00-AC Milan Femenino-Fiorentina Femenino,15:00,Serie A Femminile,AC Milan Femenino vs Fiorentina Femenino,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-12,15:00-Estados Unidos-Dinamarca,15:00,Billie Jean King Cup Fase de Clasificación,Estados Unidos vs Dinamarca,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-04-12,15:00-República Checa-España,15:00,Billie Jean King Cup Fase de Clasificación,República Checa vs España,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-12,15:00-República Checa-España,15:00,Billie Jean King Cup Fase de Clasificación,República Checa vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-12,15:00-Suiza-Ucrania,15:00,Billie Jean King Cup Fase de Clasificación,Suiza vs Ucrania,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-12,15:00-Venezia FC-Monza,15:00,Serie A Italiana,Venezia FC vs Monza,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-12,15:00-Venezia FC-Monza,15:00,Serie A Italiana,Venezia FC vs Monza,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-12,15:00-Venezia FC-Monza,15:00,Serie A Italiana,Venezia FC vs Monza,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -1807,6 +1810,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-12,16:15-G.P. Bahrein (Sakhir) Carrera 1,16:15,FIA Fórmula 2,G.P. Bahrein (Sakhir) Carrera 1,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-12,16:15-G.P. Bahrein (Sakhir) Carrera 1,16:15,FIA Fórmula 2,G.P. Bahrein (Sakhir) Carrera 1,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-12,16:15-G.P. Bahrein (Sakhir) Carrera 1,16:15,FIA Fórmula 2,G.P. Bahrein (Sakhir) Carrera 1,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-12,16:30-República Checa-España,16:30,Billie Jean King Cup Fase de Clasificación,República Checa vs España,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-12,16:30-República Checa-España,16:30,Billie Jean King Cup Fase de Clasificación,República Checa vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-12,16:30-Real Betis Féminas-Real Sociedad Femenino,16:30,Liga F,Real Betis Féminas vs Real Sociedad Femenino,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-12,16:30-Real Betis Féminas-Real Sociedad Femenino,16:30,Liga F,Real Betis Féminas vs Real Sociedad Femenino,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
@@ -2316,6 +2320,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-12,18:30-Cádiz CF-Elche,18:30,LaLiga Hypermotion,Cádiz CF vs Elche,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-12,18:30-Cádiz CF-Elche,18:30,LaLiga Hypermotion,Cádiz CF vs Elche,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-12,18:30-Cádiz CF-Elche,18:30,LaLiga Hypermotion,Cádiz CF vs Elche,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-12,18:30-República Checa-España,18:30,Billie Jean King Cup Fase de Clasificación,República Checa vs España,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-12,18:30-República Checa-España,18:30,Billie Jean King Cup Fase de Clasificación,República Checa vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-12,18:30-Eibar Femenino-Real Madrid Femenino,18:30,Liga F,Eibar Femenino vs Real Madrid Femenino,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-12,18:30-Eibar Femenino-Real Madrid Femenino,18:30,Liga F,Eibar Femenino vs Real Madrid Femenino,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD

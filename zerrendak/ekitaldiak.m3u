@@ -313,8 +313,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="12/04 Crevillent Cup Fase de grupos", 09:35 Sporting CP Academy vs Valencia CF Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="12/04 Open Comunidad de Madrid 1/4 de Final", 10:00 P. Carreño vs K. Majchrzak Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="12/04 Crevillent Cup Fase de grupos", 10:20 Valencia CF Academy vs PSG Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="12/04 Crevillent Cup Fase de grupos", 10:20 Valencia CF Academy vs PSG Academy DAZN FHD
@@ -1423,6 +1421,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="12/04 Bundesliga Femenina", 14:00 Eintracht Frankfurt Femenino vs FC Bayern Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="12/04 Billie Jean King Cup Fase de Clasificación", 14:00 Gran Bretaña vs Holanda Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="12/04 Fórmula 1", 14:30 G.P. Bahrein (Sakhir) Libres 3 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="12/04 Fórmula 1", 14:30 G.P. Bahrein (Sakhir) Libres 3 DAZN FHD
@@ -1735,8 +1735,14 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="12/04 Serie A Femminile", 15:00 AC Milan Femenino vs Fiorentina Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="12/04 Billie Jean King Cup Fase de Clasificación", 15:00 Estados Unidos vs Dinamarca Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="12/04 Billie Jean King Cup Fase de Clasificación", 15:00 República Checa vs España Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="12/04 Billie Jean King Cup Fase de Clasificación", 15:00 República Checa vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="12/04 Billie Jean King Cup Fase de Clasificación", 15:00 Suiza vs Ucrania Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="12/04 Serie A Italiana", 15:00 Venezia FC vs Monza DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="12/04 Serie A Italiana", 15:00 Venezia FC vs Monza DAZN FHD
@@ -3617,6 +3623,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="12/04 FIA Fórmula 2", 16:15 G.P. Bahrein (Sakhir) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="12/04 Billie Jean King Cup Fase de Clasificación", 16:30 República Checa vs España Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="12/04 Billie Jean King Cup Fase de Clasificación", 16:30 República Checa vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="12/04 Liga F", 16:30 Real Betis Féminas vs Real Sociedad Femenino DAZN 
@@ -4635,6 +4643,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="12/04 LaLiga Hypermotion", 18:30 Cádiz CF vs Elche DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="12/04 Billie Jean King Cup Fase de Clasificación", 18:30 República Checa vs España Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="12/04 Billie Jean King Cup Fase de Clasificación", 18:30 República Checa vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="12/04 Liga F", 18:30 Eibar Femenino vs Real Madrid Femenino DAZN 
