@@ -513,7 +513,9 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="14/04 Premier League", 21:00 Bournemouth vs Fulham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="15/04 Barcelona Open", 11:00 1ª Ronda ATP 500 Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="15/04 Barcelona Open 1ª Ronda", 11:00 S. Tsitsipas vs R. Opelka Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="15/04 Barcelona Open 1ª Ronda", 12:30 D. Galán vs C. Ruud Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="15/04 Giro d'Abruzzo", 13:30 Etapa 1 Scerni › Crecchio (151 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -607,6 +609,10 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="15/04 Giro d'Abruzzo", 13:30 Etapa 1 Scerni › Crecchio (151 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
+#EXTINF:-1 tvg-id="" group-title="15/04 Barcelona Open 1ª Ronda", 16:00 C. Alcaraz vs E. Quinn Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="15/04 Barcelona Open 1ª Ronda", 17:30 S. Wawrinka vs A. Davidovich Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="15/04 Eurocopa Fase de Clasificación", 18:00 Bosnia vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="15/04 Basketball Champions League 1/4 de Final", 18:00 Galatasaray Istanbul vs CEZl Nymburk DAZN 
