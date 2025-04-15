@@ -1,6 +1,9 @@
 date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-15,11:00-S. Tsitsipas-R. Opelka,11:00,Barcelona Open 1ª Ronda,S. Tsitsipas vs R. Opelka,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-15,11:30-M. Rouvroy-A. Cornet,11:30,WTA Torneo de Rouen 1ª Ronda,M. Rouvroy vs A. Cornet,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-15,12:30-D. Galán-C. Ruud,12:30,Barcelona Open 1ª Ronda,D. Galán vs C. Ruud,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-15,12:30-J. Ostapenko-D. Yastremska,12:30,WTA Torneo de Stuttgart 1ª Ronda,J. Ostapenko vs D. Yastremska,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-04-15,13:00-L. Boisson-H. Dart,13:00,WTA Torneo de Rouen 1ª Ronda,L. Boisson vs H. Dart,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -36,7 +39,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -51,8 +53,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-04-15,13:30-Etapa 1 Scerni › Crecchio (151 km),13:30,Giro d'Abruzzo,Etapa 1 Scerni › Crecchio (151 km),Eurosport 1,1d04e3b27c2ac3ff52dc949e76f36207fbb235c4,
+2025-04-15,14:00-D. Vekic-J. Fett,14:00,WTA Torneo de Stuttgart 1ª Ronda,D. Vekic vs J. Fett,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-04-15,14:30-J. Cristian-D. Parry,14:30,WTA Torneo de Rouen 1ª Ronda,J. Cristian vs D. Parry,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-15,16:00-C. Alcaraz-E. Quinn,16:00,Barcelona Open 1ª Ronda,C. Alcaraz vs E. Quinn,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-15,17:00-J. Niemeier-L. Siegemund,17:00,WTA Torneo de Stuttgart 1ª Ronda,J. Niemeier vs L. Siegemund,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-15,17:30-S. Wawrinka-A. Davidovich,17:30,Barcelona Open 1ª Ronda,S. Wawrinka vs A. Davidovich,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-15,17:30-M. Sakkari-J. Bouzas,17:30,WTA Torneo de Rouen 1ª Ronda,M. Sakkari vs J. Bouzas,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-15,18:00-Bosnia-España,18:00,Eurocopa Fase de Clasificación,Bosnia vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
@@ -89,7 +95,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -99,6 +104,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-15,18:00-Galatasaray Istanbul-CEZl Nymburk,18:00,Basketball Champions League 1/4 de Final,Galatasaray Istanbul vs CEZl Nymburk,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-15,18:30-E. Lys-J. Paolini,18:30,WTA Torneo de Stuttgart 1ª Ronda,E. Lys vs J. Paolini,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-04-15,19:30-V. Gracheva-S. Kartal,19:30,WTA Torneo de Rouen 1ª Ronda,V. Gracheva vs S. Kartal,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-04-15,20:00-E. Navarro-B. Haddad Maia,20:00,WTA Torneo de Stuttgart 1ª Ronda,E. Navarro vs B. Haddad Maia,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -134,7 +142,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -146,6 +153,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-04-15,20:00-Reggio Emilia-Unicaja Málaga,20:00,Basketball Champions League 1/4 de Final,Reggio Emilia vs Unicaja Málaga,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-16,11:00-2ª Ronda ATP 500,11:00,Barcelona Open,2ª Ronda ATP 500,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-16,11:30-2ª Ronda WTA 250,11:30,WTA Torneo de Rouen,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-04-16,12:30-2ª Ronda WTA 500,12:30,WTA Torneo de Stuttgart,2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-16,13:40-Etapa 2 Tocco da Casauria › Penne (138 km),13:40,Giro d'Abruzzo,Etapa 2 Tocco da Casauria › Penne (138 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-16,13:40-Etapa 2 Tocco da Casauria › Penne (138 km),13:40,Giro d'Abruzzo,Etapa 2 Tocco da Casauria › Penne (138 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-16,13:40-Etapa 2 Tocco da Casauria › Penne (138 km),13:40,Giro d'Abruzzo,Etapa 2 Tocco da Casauria › Penne (138 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -181,7 +190,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-16,13:40-Etapa 2 Tocco da Casauria › Penne (138 km),13:40,Giro d'Abruzzo,Etapa 2 Tocco da Casauria › Penne (138 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-04-16,13:40-Etapa 2 Tocco da Casauria › Penne (138 km),13:40,Giro d'Abruzzo,Etapa 2 Tocco da Casauria › Penne (138 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-16,13:40-Etapa 2 Tocco da Casauria › Penne (138 km),13:40,Giro d'Abruzzo,Etapa 2 Tocco da Casauria › Penne (138 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-04-16,13:40-Etapa 2 Tocco da Casauria › Penne (138 km),13:40,Giro d'Abruzzo,Etapa 2 Tocco da Casauria › Penne (138 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-04-16,13:40-Etapa 2 Tocco da Casauria › Penne (138 km),13:40,Giro d'Abruzzo,Etapa 2 Tocco da Casauria › Penne (138 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-16,13:40-Etapa 2 Tocco da Casauria › Penne (138 km),13:40,Giro d'Abruzzo,Etapa 2 Tocco da Casauria › Penne (138 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-04-16,13:40-Etapa 2 Tocco da Casauria › Penne (138 km),13:40,Giro d'Abruzzo,Etapa 2 Tocco da Casauria › Penne (138 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -231,7 +239,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-16,15:30-UCI Europe Tour Hasselt › Tongeren (178.9 km),15:30,Tour de Limburgo,UCI Europe Tour Hasselt › Tongeren (178.9 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-04-16,15:30-UCI Europe Tour Hasselt › Tongeren (178.9 km),15:30,Tour de Limburgo,UCI Europe Tour Hasselt › Tongeren (178.9 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-16,15:30-UCI Europe Tour Hasselt › Tongeren (178.9 km),15:30,Tour de Limburgo,UCI Europe Tour Hasselt › Tongeren (178.9 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-04-16,15:30-UCI Europe Tour Hasselt › Tongeren (178.9 km),15:30,Tour de Limburgo,UCI Europe Tour Hasselt › Tongeren (178.9 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-04-16,15:30-UCI Europe Tour Hasselt › Tongeren (178.9 km),15:30,Tour de Limburgo,UCI Europe Tour Hasselt › Tongeren (178.9 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-16,15:30-UCI Europe Tour Hasselt › Tongeren (178.9 km),15:30,Tour de Limburgo,UCI Europe Tour Hasselt › Tongeren (178.9 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-04-16,15:30-UCI Europe Tour Hasselt › Tongeren (178.9 km),15:30,Tour de Limburgo,UCI Europe Tour Hasselt › Tongeren (178.9 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -281,7 +288,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-16,18:30-Derthona Basket-La Laguna Tenerife,18:30,Basketball Champions League 1/4 de Final,Derthona Basket vs La Laguna Tenerife,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-04-16,18:30-Derthona Basket-La Laguna Tenerife,18:30,Basketball Champions League 1/4 de Final,Derthona Basket vs La Laguna Tenerife,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-16,18:30-Derthona Basket-La Laguna Tenerife,18:30,Basketball Champions League 1/4 de Final,Derthona Basket vs La Laguna Tenerife,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-04-16,18:30-Derthona Basket-La Laguna Tenerife,18:30,Basketball Champions League 1/4 de Final,Derthona Basket vs La Laguna Tenerife,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-04-16,18:30-Derthona Basket-La Laguna Tenerife,18:30,Basketball Champions League 1/4 de Final,Derthona Basket vs La Laguna Tenerife,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-16,18:30-Derthona Basket-La Laguna Tenerife,18:30,Basketball Champions League 1/4 de Final,Derthona Basket vs La Laguna Tenerife,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-04-16,18:30-Derthona Basket-La Laguna Tenerife,18:30,Basketball Champions League 1/4 de Final,Derthona Basket vs La Laguna Tenerife,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -326,7 +332,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-16,19:00-FC Barcelona Femenino-Sevilla FC Femenino,19:00,Liga F,FC Barcelona Femenino vs Sevilla FC Femenino,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-04-16,19:00-FC Barcelona Femenino-Sevilla FC Femenino,19:00,Liga F,FC Barcelona Femenino vs Sevilla FC Femenino,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-16,19:00-FC Barcelona Femenino-Sevilla FC Femenino,19:00,Liga F,FC Barcelona Femenino vs Sevilla FC Femenino,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-04-16,19:00-FC Barcelona Femenino-Sevilla FC Femenino,19:00,Liga F,FC Barcelona Femenino vs Sevilla FC Femenino,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-04-16,19:00-FC Barcelona Femenino-Sevilla FC Femenino,19:00,Liga F,FC Barcelona Femenino vs Sevilla FC Femenino,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-16,19:00-FC Barcelona Femenino-Sevilla FC Femenino,19:00,Liga F,FC Barcelona Femenino vs Sevilla FC Femenino,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-04-16,19:00-FC Barcelona Femenino-Sevilla FC Femenino,19:00,Liga F,FC Barcelona Femenino vs Sevilla FC Femenino,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -371,7 +376,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-16,20:30-Nanterre 92-AEK BC,20:30,Basketball Champions League 1/4 de Final,Nanterre 92 vs AEK BC,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-04-16,20:30-Nanterre 92-AEK BC,20:30,Basketball Champions League 1/4 de Final,Nanterre 92 vs AEK BC,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-16,20:30-Nanterre 92-AEK BC,20:30,Basketball Champions League 1/4 de Final,Nanterre 92 vs AEK BC,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-04-16,20:30-Nanterre 92-AEK BC,20:30,Basketball Champions League 1/4 de Final,Nanterre 92 vs AEK BC,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-04-16,20:30-Nanterre 92-AEK BC,20:30,Basketball Champions League 1/4 de Final,Nanterre 92 vs AEK BC,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-16,20:30-Nanterre 92-AEK BC,20:30,Basketball Champions League 1/4 de Final,Nanterre 92 vs AEK BC,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-04-16,20:30-Nanterre 92-AEK BC,20:30,Basketball Champions League 1/4 de Final,Nanterre 92 vs AEK BC,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -417,7 +421,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-16,20:30-Newcastle-Crystal Palace,20:30,Premier League,Newcastle vs Crystal Palace,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-04-16,20:30-Newcastle-Crystal Palace,20:30,Premier League,Newcastle vs Crystal Palace,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-16,20:30-Newcastle-Crystal Palace,20:30,Premier League,Newcastle vs Crystal Palace,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-04-16,20:30-Newcastle-Crystal Palace,20:30,Premier League,Newcastle vs Crystal Palace,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-04-16,20:30-Newcastle-Crystal Palace,20:30,Premier League,Newcastle vs Crystal Palace,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-16,20:30-Newcastle-Crystal Palace,20:30,Premier League,Newcastle vs Crystal Palace,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-04-16,20:30-Newcastle-Crystal Palace,20:30,Premier League,Newcastle vs Crystal Palace,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -428,6 +431,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-16,20:30-Newcastle-Crystal Palace,20:30,Premier League,Newcastle vs Crystal Palace,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-16,20:30-Newcastle-Crystal Palace,20:30,Premier League,Newcastle vs Crystal Palace,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-04-17,11:00-2ª Ronda ATP 500,11:00,Barcelona Open,2ª Ronda ATP 500,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-17,11:30-2ª Ronda WTA 250,11:30,WTA Torneo de Rouen,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-04-17,12:30-2ª Ronda WTA 500,12:30,WTA Torneo de Stuttgart,2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-17,13:40-Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),13:40,Giro d'Abruzzo,Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-17,13:40-Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),13:40,Giro d'Abruzzo,Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-17,13:40-Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),13:40,Giro d'Abruzzo,Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -463,7 +468,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-17,13:40-Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),13:40,Giro d'Abruzzo,Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-04-17,13:40-Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),13:40,Giro d'Abruzzo,Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-04-17,13:40-Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),13:40,Giro d'Abruzzo,Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-04-17,13:40-Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),13:40,Giro d'Abruzzo,Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-04-17,13:40-Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),13:40,Giro d'Abruzzo,Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-04-17,13:40-Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),13:40,Giro d'Abruzzo,Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-04-17,13:40-Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),13:40,Giro d'Abruzzo,Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
