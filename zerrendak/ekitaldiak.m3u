@@ -3,8 +3,14 @@
 
 #EXTINF:-1 tvg-id="" group-title="15/04 Barcelona Open 1ª Ronda", 11:00 S. Tsitsipas vs R. Opelka Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="15/04 WTA Torneo de Rouen 1ª Ronda", 11:30 M. Rouvroy vs A. Cornet Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="15/04 Barcelona Open 1ª Ronda", 12:30 D. Galán vs C. Ruud Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="15/04 WTA Torneo de Stuttgart 1ª Ronda", 12:30 J. Ostapenko vs D. Yastremska Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="15/04 WTA Torneo de Rouen 1ª Ronda", 13:00 L. Boisson vs H. Dart Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="15/04 Giro d'Abruzzo", 13:30 Etapa 1 Scerni › Crecchio (151 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="15/04 Giro d'Abruzzo", 13:30 Etapa 1 Scerni › Crecchio (151 km) DAZN FHD
@@ -103,10 +109,20 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="15/04 Giro d'Abruzzo", 13:30 Etapa 1 Scerni › Crecchio (151 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="15/04 Giro d'Abruzzo", 13:30 Etapa 1 Scerni › Crecchio (151 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
+#EXTINF:-1 tvg-id="" group-title="15/04 WTA Torneo de Stuttgart 1ª Ronda", 14:00 D. Vekic vs J. Fett Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="15/04 WTA Torneo de Rouen 1ª Ronda", 14:30 J. Cristian vs D. Parry Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="15/04 Barcelona Open 1ª Ronda", 16:00 C. Alcaraz vs E. Quinn Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="15/04 WTA Torneo de Stuttgart 1ª Ronda", 17:00 J. Niemeier vs L. Siegemund Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="15/04 Barcelona Open 1ª Ronda", 17:30 S. Wawrinka vs A. Davidovich Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="15/04 WTA Torneo de Rouen 1ª Ronda", 17:30 M. Sakkari vs J. Bouzas Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="15/04 Eurocopa Fase de Clasificación", 18:00 Bosnia vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="15/04 Basketball Champions League 1/4 de Final", 18:00 Galatasaray Istanbul vs CEZl Nymburk DAZN 
@@ -199,6 +215,12 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="15/04 Basketball Champions League 1/4 de Final", 18:00 Galatasaray Istanbul vs CEZl Nymburk DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="15/04 WTA Torneo de Stuttgart 1ª Ronda", 18:30 E. Lys vs J. Paolini Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="15/04 WTA Torneo de Rouen 1ª Ronda", 19:30 V. Gracheva vs S. Kartal Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="15/04 WTA Torneo de Stuttgart 1ª Ronda", 20:00 E. Navarro vs B. Haddad Maia Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="15/04 Basketball Champions League 1/4 de Final", 20:00 Reggio Emilia vs Unicaja Málaga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="15/04 Basketball Champions League 1/4 de Final", 20:00 Reggio Emilia vs Unicaja Málaga DAZN FHD
@@ -291,8 +313,28 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="15/04 Basketball Champions League 1/4 de Final", 20:00 Reggio Emilia vs Unicaja Málaga Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Stuttgart 1ª Ronda", 10:00 M. Frech vs R. Sramkova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Stuttgart 1ª Ronda", 10:00 T. Maria vs E. Seidel Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Stuttgart 2ª Ronda", 10:00 E. Mertens vs D. Shnaider Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Stuttgart 2ª Ronda", 10:00 J. Fett vs I. Swiatek Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Stuttgart 1ª Ronda", 10:00 M. Andreeva vs E. Andreeva Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/04 Barcelona Open", 11:00 2ª Ronda ATP 500 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Rouen 1ª Ronda", 11:00 E. Svitolina vs J. Teichmann Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Rouen 2ª Ronda", 11:00 F. Ferro vs J. Ponchet Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Rouen 1ª Ronda", 11:00 B. Andreescu vs S. Lamens Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Rouen 1ª Ronda", 11:00 B. Pera vs L. Noskova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Rouen 2ª Ronda", 11:00 T. Rakotomanga Rajaonah vs J. Cristian Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/04 Giro d'Abruzzo", 13:40 Etapa 2 Tocco da Casauria › Penne (138 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="16/04 Giro d'Abruzzo", 13:40 Etapa 2 Tocco da Casauria › Penne (138 km) DAZN FHD
@@ -391,6 +433,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="16/04 Giro d'Abruzzo", 13:40 Etapa 2 Tocco da Casauria › Penne (138 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="16/04 Giro d'Abruzzo", 13:40 Etapa 2 Tocco da Casauria › Penne (138 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-id="" group-title="16/04 Tour de Limburgo", 15:30 UCI Europe Tour Hasselt › Tongeren (178.9 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="16/04 Tour de Limburgo", 15:30 UCI Europe Tour Hasselt › Tongeren (178.9 km) DAZN FHD
@@ -489,6 +533,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="16/04 Tour de Limburgo", 15:30 UCI Europe Tour Hasselt › Tongeren (178.9 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="16/04 Tour de Limburgo", 15:30 UCI Europe Tour Hasselt › Tongeren (178.9 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 #EXTINF:-1 tvg-id="" group-title="16/04 Basketball Champions League 1/4 de Final", 18:30 Derthona Basket vs La Laguna Tenerife DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="16/04 Basketball Champions League 1/4 de Final", 18:30 Derthona Basket vs La Laguna Tenerife DAZN FHD
@@ -853,6 +899,10 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="17/04 Barcelona Open", 11:00 2ª Ronda ATP 500 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Rouen", 11:30 2ª Ronda WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Stuttgart", 12:30 2ª Ronda WTA 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/04 Giro d'Abruzzo", 13:40 Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="17/04 Giro d'Abruzzo", 13:40 Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km) DAZN FHD
@@ -951,3 +1001,5 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="17/04 Giro d'Abruzzo", 13:40 Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="17/04 Giro d'Abruzzo", 13:40 Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
