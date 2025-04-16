@@ -91,6 +91,8 @@ http://127.0.0.1:6878/ace/getstream?id=a9025d4e168764248d33129c30940502cea0e1c2
 http://127.0.0.1:6878/ace/getstream?id=47223e64a576c21bd61e818a42397a753d34fba5
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 FHD
 http://127.0.0.1:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 FHD
@@ -381,6 +383,8 @@ http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RALLY TV
 http://127.0.0.1:6878/ace/getstream?id=2f3a139d7a2ca1f305ae8cd67444b961d468a9d4
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR
+http://127.0.0.1:6878/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET
@@ -389,8 +393,6 @@ http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="UK | Sky Sport Main Event" group-title="VARIOS", SKY SPORTS MAIN EVENT
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD
-http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD
 http://127.0.0.1:6878/ace/getstream?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
