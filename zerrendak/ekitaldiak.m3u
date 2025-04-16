@@ -409,10 +409,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="16/04 Liga F", 19:00 FC Barcelona Femenino vs Sevilla FC Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Stuttgart 2ª Ronda", 20:20 E. Mertens vs D. Shnaider Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Rouen 2ª Ronda", 20:20 T. Rakotomanga Rajaonah vs J. Cristian Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/04 Basketball Champions League 1/4 de Final", 20:30 Nanterre 92 vs AEK BC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="16/04 Basketball Champions League 1/4 de Final", 20:30 Nanterre 92 vs AEK BC DAZN FHD
@@ -595,33 +591,21 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="16/04 Premier League", 20:30 Newcastle vs Crystal Palace DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="17/04 Barcelona Open 2ª Ronda", 10:00 A. Davidovich vs A. Rublev Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="17/04 Barcelona Open 2ª Ronda", 10:00 C. Alcaraz vs L. Djere Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="17/04 Barcelona Open 2ª Ronda", 10:00 J. Fearnley vs A. De Miñaur Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Stuttgart 2ª Ronda", 10:00 M. Frech vs J. Pegula Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Rouen 2ª Ronda", 20:45 T. Rakotomanga Rajaonah vs J. Cristian Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Stuttgart 2ª Ronda", 10:00 E. Navarro vs J. Ostapenko Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="16/04 WTA Torneo de Stuttgart 2ª Ronda", 22:00 E. Mertens vs D. Shnaider Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Stuttgart 2ª Ronda", 10:00 C. Gauff vs TBD Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Stuttgart 2ª Ronda", 10:00 J. Niemeier vs J. Paolini Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Stuttgart 2ª Ronda", 10:00 M. Andreeva vs E. Alexandrova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/04 Barcelona Open 2ª Ronda", 11:00 J. Munar vs K. Khachanov Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Rouen 2ª Ronda", 11:00 L. Fruhvirtova vs O. Danilovic Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Rouen 2ª Ronda", 11:30 E. Svitolina vs A. Kalinina Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Rouen 2ª Ronda", 11:30 J. Bouzas vs V. Gracheva Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Rouen 2ª Ronda", 11:30 S. Lamens vs L. Noskova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Rouen 2ª Ronda", 11:30 M. Uchijima vs L. Boisson Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/04 Barcelona Open 2ª Ronda", 12:30 A. Davidovich vs A. Rublev Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Stuttgart 2ª Ronda", 12:30 M. Andreeva vs E. Alexandrova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Rouen 2ª Ronda", 13:00 M. Uchijima vs L. Boisson Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/04 Giro d'Abruzzo", 13:40 Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -725,6 +709,8 @@ http://127.0.0.1:6878/ace/getstream?id=878d8983d8d37b5668cf899105bafb95bdecc3cc
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="17/04 Giro d'Abruzzo", 13:40 Etapa 3 San Demetrio ne' Vestini › Roccaraso (Aremogna) (160 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
+#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Stuttgart 2ª Ronda", 14:00 J. Niemeier vs J. Paolini Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/04 Qatar Major", 14:00 1/4 de Final Femenino Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="17/04 Qatar Major", 14:00 1/4 de Final Femenino Premier Padel Tour DAZN FHD
@@ -905,6 +891,20 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="17/04 Boxing Grand Prix", 14:00 Peso Pluma Global Theater Boulevard (Riyadh) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Rouen 2ª Ronda", 14:30 L. Fruhvirtova vs O. Danilovic Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="17/04 Barcelona Open 2ª Ronda", 16:00 C. Alcaraz vs L. Djere Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Stuttgart 2ª Ronda", 17:00 M. Frech vs J. Pegula Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="17/04 Barcelona Open 2ª Ronda", 17:30 J. Fearnley vs A. De Miñaur Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Rouen 2ª Ronda", 17:30 E. Svitolina vs A. Kalinina Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Rouen 2ª Ronda", 19:30 J. Bouzas vs V. Gracheva Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="17/04 WTA Torneo de Stuttgart 2ª Ronda", 20:00 E. Navarro vs J. Ostapenko Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 12:00 Real Sociedad Femenino vs Eibar Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 12:00 Real Sociedad Femenino vs Eibar Femenino DAZN FHD
