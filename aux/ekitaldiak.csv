@@ -1,5 +1,5 @@
 date,event_id,time,competition,match,group,acestream_id,quality
-2025-04-18,11:00-K. Khachanov-A. Davidovich,11:00,Barcelona Open 1/4 de Final,K. Khachanov vs A. Davidovich,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-18,11:10-K. Khachanov-A. Davidovich,11:10,Barcelona Open 1/4 de Final,K. Khachanov vs A. Davidovich,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-18,11:30-M. Uchijima-O. Danilovic,11:30,WTA Torneo de Rouen 1/4 de Final,M. Uchijima vs O. Danilovic,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-18,12:00-Real Sociedad Femenino-Eibar Femenino,12:00,Liga F,Real Sociedad Femenino vs Eibar Femenino,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-18,12:00-Real Sociedad Femenino-Eibar Femenino,12:00,Liga F,Real Sociedad Femenino vs Eibar Femenino,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
@@ -46,8 +46,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-18,12:00-Real Sociedad Femenino-Eibar Femenino,12:00,Liga F,Real Sociedad Femenino vs Eibar Femenino,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-18,12:00-Real Sociedad Femenino-Eibar Femenino,12:00,Liga F,Real Sociedad Femenino vs Eibar Femenino,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-18,12:00-Real Sociedad Femenino-Eibar Femenino,12:00,Liga F,Real Sociedad Femenino vs Eibar Femenino,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-18,12:30-H. Rune-C. Ruud,12:30,Barcelona Open 1/4 de Final,H. Rune vs C. Ruud,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-18,13:00-J. Ponchet-EG. Ruse,13:00,WTA Torneo de Rouen 1/4 de Final,J. Ponchet vs EG. Ruse,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-04-18,13:25-H. Rune-C. Ruud,13:25,Barcelona Open 1/4 de Final,H. Rune vs C. Ruud,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-18,13:30-Gateshead-York City,13:30,National League,Gateshead vs York City,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-18,13:30-Gateshead-York City,13:30,National League,Gateshead vs York City,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-18,13:30-Gateshead-York City,13:30,National League,Gateshead vs York City,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -326,7 +326,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-18,15:30-G.P. Arabia Saudí (Jeddah) Libres 1,15:30,Fórmula 1,G.P. Arabia Saudí (Jeddah) Libres 1,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-18,15:30-G.P. Arabia Saudí (Jeddah) Libres 1,15:30,Fórmula 1,G.P. Arabia Saudí (Jeddah) Libres 1,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-18,15:30-G.P. Arabia Saudí (Jeddah) Libres 1,15:30,Fórmula 1,G.P. Arabia Saudí (Jeddah) Libres 1,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-18,16:00-C. Alcaraz-A. De Miñaur,16:00,Barcelona Open 1/4 de Final,C. Alcaraz vs A. De Miñaur,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-18,16:00-Yeovil Town-Forest Green Rovers,16:00,National League,Yeovil Town vs Forest Green Rovers,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-18,16:00-Yeovil Town-Forest Green Rovers,16:00,National League,Yeovil Town vs Forest Green Rovers,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-18,16:00-Yeovil Town-Forest Green Rovers,16:00,National League,Yeovil Town vs Forest Green Rovers,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -957,6 +956,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-18,16:00-Truro City-Torquay Utd.,16:00,National League South,Truro City vs Torquay Utd.,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-18,16:00-Truro City-Torquay Utd.,16:00,National League South,Truro City vs Torquay Utd.,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-18,16:00-Truro City-Torquay Utd.,16:00,National League South,Truro City vs Torquay Utd.,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-18,16:05-C. Alcaraz-A. De Miñaur,16:05,Barcelona Open 1/4 de Final,C. Alcaraz vs A. De Miñaur,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-18,17:00-1/8 Final Infantil,17:00,Torneo MIC,1/8 Final Infantil,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-18,17:00-1/8 Final Infantil,17:00,Torneo MIC,1/8 Final Infantil,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-18,17:00-1/8 Final Infantil,17:00,Torneo MIC,1/8 Final Infantil,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -1906,8 +1906,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-19,13:30-Arsenal Femenino-O. Lyonnais Femenino,13:30,Champions League Femenina Semifinales,Arsenal Femenino vs O. Lyonnais Femenino,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-19,13:30-Arsenal Femenino-O. Lyonnais Femenino,13:30,Champions League Femenina Semifinales,Arsenal Femenino vs O. Lyonnais Femenino,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-19,13:30-Arsenal Femenino-O. Lyonnais Femenino,13:30,Champions League Femenina Semifinales,Arsenal Femenino vs O. Lyonnais Femenino,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-19,13:30-Semifinal 1 ATP 500,13:30,Torneo de Múnich,Semifinal 1 ATP 500,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-04-19,13:30-Semifinal 1 ATP 500,13:30,Barcelona Open,Semifinal 1 ATP 500,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-19,13:30-K. Khachanov-H. Rune,13:30,Barcelona Open Semifinal 1,K. Khachanov vs H. Rune,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-19,14:00-J. Ostapenko-I. Swiatek,14:00,WTA Torneo de Stuttgart 1/4 de Final,J. Ostapenko vs I. Swiatek,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-19,14:00-Rayo Vallecano-Valencia CF,14:00,La Liga EA Sports,Rayo Vallecano vs Valencia CF,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-19,14:00-Rayo Vallecano-Valencia CF,14:00,La Liga EA Sports,Rayo Vallecano vs Valencia CF,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
