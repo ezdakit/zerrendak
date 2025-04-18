@@ -3,10 +3,6 @@
 
 #EXTINF:-1 tvg-id="" group-title="18/04 Barcelona Open 1/4 de Final", 11:10 K. Khachanov vs A. Davidovich Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="18/04 WTA Torneo de Rouen 1/4 de Final", 11:30 M. Uchijima vs O. Danilovic Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="18/04 WTA Torneo de Rouen 1/4 de Final", 11:30 M. Uchijima vs O. Danilovic Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 12:00 Real Sociedad Femenino vs Eibar Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 12:00 Real Sociedad Femenino vs Eibar Femenino DAZN FHD
@@ -97,10 +93,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 12:00 Real Sociedad Femenino vs Eibar Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="18/04 WTA Torneo de Rouen 1/4 de Final", 13:00 J. Ponchet vs EG. Ruse Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="18/04 WTA Torneo de Rouen 1/4 de Final", 13:00 J. Ponchet vs EG. Ruse Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/04 Barcelona Open 1/4 de Final", 13:25 H. Rune vs C. Ruud Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="18/04 National League", 13:30 Gateshead vs York City DAZN 
@@ -1919,7 +1911,7 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/04 National League South", 16:00 Truro City vs Torquay Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="18/04 Barcelona Open 1/4 de Final", 16:05 C. Alcaraz vs A. De Miñaur Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="18/04 Barcelona Open 1/4 de Final", 16:10 C. Alcaraz vs A. De Miñaur Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="18/04 Torneo MIC", 17:00 1/8 Final Infantil DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -2101,192 +2093,188 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/04 FIA Fórmula 2", 17:00 G.P. Arabia Saudí (Jeddah) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="18/04 Barcelona Open 1/4 de Final", 17:30 S. Tsitsipas vs A. Fils Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
+#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
+#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
+http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="18/04 Barcelona Open 1/4 de Final", 18:15 S. Tsitsipas vs A. Fils Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-id="" group-title="18/04 Serie A Femminile", 17:30 Juventus Femminile vs AC Milan Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="18/04 WTA Torneo de Rouen 1/4 de Final", 17:30 T. Rakotomanga Rajaonah vs S. Lamens Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="18/04 WTA Torneo de Rouen 1/4 de Final", 17:30 T. Rakotomanga Rajaonah vs S. Lamens Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d8068894248c1f21eea31e538917276a8c49ec06
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-id="" group-title="18/04 Liga F", 17:30 At. Madrid Femenino vs Costa Adeje Tenerife DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="18/04 National League", 18:30 Barnet vs Eastleigh FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/04 National League", 18:30 Barnet vs Eastleigh FC DAZN FHD
@@ -3097,10 +3085,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/04 Saudi Women’s Premier League", 19:30 Al Taraji Club vs Al Qadsia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="18/04 WTA Torneo de Rouen 1/4 de Final", 19:30 E. Svitolina vs J. Bouzas Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="18/04 WTA Torneo de Rouen 1/4 de Final", 19:30 E. Svitolina vs J. Bouzas Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/04 F1 Academy", 20:30 G.P. Arabia Saudí (Jeddah) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/04 F1 Academy", 20:30 G.P. Arabia Saudí (Jeddah) Clasificación DAZN FHD
@@ -3641,10 +3625,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="19/04 Liga F", 12:00 Granada Femenino vs Valencia Féminas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="19/04 WTA Torneo de Stuttgart 1/4 de Final", 12:30 E. Alexandrova vs J. Pegula Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="19/04 WTA Torneo de Stuttgart 1/4 de Final", 12:30 E. Alexandrova vs J. Pegula Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/04 Serie A Femminile", 12:30 Sassuolo Femenino vs Como Femminile DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="19/04 Serie A Femminile", 12:30 Sassuolo Femenino vs Como Femminile DAZN FHD
@@ -3827,10 +3807,6 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="19/04 Barcelona Open Semifinal 1", 13:30 K. Khachanov vs H. Rune Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="19/04 WTA Torneo de Stuttgart 1/4 de Final", 14:00 J. Ostapenko vs I. Swiatek Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="19/04 WTA Torneo de Stuttgart 1/4 de Final", 14:00 J. Ostapenko vs I. Swiatek Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/04 La Liga EA Sports", 14:00 Rayo Vallecano vs Valencia CF DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="19/04 La Liga EA Sports", 14:00 Rayo Vallecano vs Valencia CF DAZN FHD
@@ -4191,10 +4167,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="19/04 F1 Academy", 14:20 G.P. Arabia Saudí (Jeddah) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="19/04 Torneo de Múnich", 15:00 Semifinal 2 ATP 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="19/04 Torneo de Múnich", 15:00 Semifinal 2 ATP 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/04 Serie A Femminile", 15:00 Inter Milan Femenino vs AS Roma Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="19/04 Serie A Femminile", 15:00 Inter Milan Femenino vs AS Roma Femenino DAZN FHD
@@ -4285,14 +4257,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="19/04 Serie A Femminile", 15:00 Inter Milan Femenino vs AS Roma Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="19/04 Qatar Major", 15:00 Final Femenina Premier Padel Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="19/04 Qatar Major", 15:00 Final Femenina Premier Padel Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="19/04 WTA Torneo de Rouen", 15:00 Semifinal 1 WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="19/04 WTA Torneo de Rouen", 15:00 Semifinal 1 WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/04 Serie A Italiana", 15:00 US Lecce vs Como 1907 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="19/04 Serie A Italiana", 15:00 US Lecce vs Como 1907 DAZN FHD
@@ -5643,10 +5607,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="19/04 LaLiga Hypermotion", 16:15 Huesca vs Racing Santander DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="19/04 WTA Torneo de Stuttgart 1/4 de Final", 17:00 A. Sabalenka vs E. Mertens Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="19/04 WTA Torneo de Stuttgart 1/4 de Final", 17:00 A. Sabalenka vs E. Mertens Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/04 Amistoso Femenino", 17:00 España vs Sudáfrica Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="19/04 FIA Fórmula 2", 17:15 G.P. Arabia Saudí (Jeddah) Carrera 1 DAZN 
@@ -5919,10 +5879,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="19/04 Serie A Italiana", 18:00 Monza vs Napoli DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="19/04 WTA Torneo de Stuttgart 1/4 de Final", 18:30 C. Gauff vs J. Paolini Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="19/04 WTA Torneo de Stuttgart 1/4 de Final", 18:30 C. Gauff vs J. Paolini Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/04 LaLiga Hypermotion", 18:30 Levante vs Real Zaragoza DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="19/04 LaLiga Hypermotion", 18:30 Levante vs Real Zaragoza DAZN FHD
@@ -7399,10 +7355,6 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="20/04 6 Horas de Imola", 13:00 Campeonato Mundial de Resistencia FIA Carrera Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
-#EXTINF:-1 tvg-id="" group-title="20/04 WTA Torneo de Stuttgart", 14:00 Semifinal 1 WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/04 WTA Torneo de Stuttgart", 14:00 Semifinal 1 WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/04 LaLiga Hypermotion", 14:00 FC Cartagena vs Granada CF DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="20/04 LaLiga Hypermotion", 14:00 FC Cartagena vs Granada CF DAZN FHD
@@ -7681,10 +7633,6 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="20/04 Amstel Gold Race", 14:35 UCI World Tour Maastricht › Berg en Terblijt (255.9 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
-#EXTINF:-1 tvg-id="" group-title="20/04 WTA Torneo de Rouen", 15:00 Final WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/04 WTA Torneo de Rouen", 15:00 Final WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/04 Premier League", 15:00 Fulham vs Chelsea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="20/04 Premier League", 15:00 Fulham vs Chelsea DAZN FHD
@@ -8225,14 +8173,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="20/04 Bundesliga", 15:30 Augsburg vs Eintracht Frankfurt DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="20/04 Barcelona Open", 16:00 Final ATP 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/04 Barcelona Open", 16:00 Final ATP 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="20/04 WTA Torneo de Stuttgart", 16:00 Semifinal 2 WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/04 WTA Torneo de Stuttgart", 16:00 Semifinal 2 WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/04 Liga F", 16:00 Real Madrid Femenino vs Real Betis Féminas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="20/04 Liga F", 16:00 Real Madrid Femenino vs Real Betis Féminas DAZN FHD
