@@ -499,8 +499,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-19,15:00-US Lecce-Como 1907,15:00,Serie A Italiana,US Lecce vs Como 1907,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-19,15:00-US Lecce-Como 1907,15:00,Serie A Italiana,US Lecce vs Como 1907,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-19,15:00-US Lecce-Como 1907,15:00,Serie A Italiana,US Lecce vs Como 1907,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-19,15:05-O. Danilovic-S. Lamens,15:05,WTA Torneo de Rouen Semifinal 1,O. Danilovic vs S. Lamens,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-04-19,15:05-O. Danilovic-S. Lamens,15:05,WTA Torneo de Rouen Semifinal 1,O. Danilovic vs S. Lamens,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-04-19,15:10-O. Danilovic-S. Lamens,15:10,WTA Torneo de Rouen Semifinal 1,O. Danilovic vs S. Lamens,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-04-19,15:10-O. Danilovic-S. Lamens,15:10,WTA Torneo de Rouen Semifinal 1,O. Danilovic vs S. Lamens,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-19,15:30-G.P. Arabia Saudí (Jeddah) Libres 3,15:30,Fórmula 1,G.P. Arabia Saudí (Jeddah) Libres 3,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-19,15:30-G.P. Arabia Saudí (Jeddah) Libres 3,15:30,Fórmula 1,G.P. Arabia Saudí (Jeddah) Libres 3,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-19,15:30-G.P. Arabia Saudí (Jeddah) Libres 3,15:30,Fórmula 1,G.P. Arabia Saudí (Jeddah) Libres 3,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -771,7 +771,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-19,15:30-Heidenheim-FC Bayern,15:30,Bundesliga,Heidenheim vs FC Bayern,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-19,15:30-Heidenheim-FC Bayern,15:30,Bundesliga,Heidenheim vs FC Bayern,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-19,15:30-Heidenheim-FC Bayern,15:30,Bundesliga,Heidenheim vs FC Bayern,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-19,16:00-C. Alcaraz-A. Fils,16:00,Barcelona Open Semifinal 2,C. Alcaraz vs A. Fils,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-19,16:00-Madrid CFF-Athletic Femenino,16:00,Liga F,Madrid CFF vs Athletic Femenino,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-19,16:00-Madrid CFF-Athletic Femenino,16:00,Liga F,Madrid CFF vs Athletic Femenino,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-19,16:00-Madrid CFF-Athletic Femenino,16:00,Liga F,Madrid CFF vs Athletic Femenino,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -997,6 +996,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-19,16:00-Crystal Palace-Bournemouth,16:00,Premier League,Crystal Palace vs Bournemouth,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-19,16:00-Crystal Palace-Bournemouth,16:00,Premier League,Crystal Palace vs Bournemouth,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-19,16:00-Crystal Palace-Bournemouth,16:00,Premier League,Crystal Palace vs Bournemouth,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-19,16:15-C. Alcaraz-A. Fils,16:15,Barcelona Open Semifinal 2,C. Alcaraz vs A. Fils,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-19,16:15-FC Barcelona-Celta,16:15,La Liga EA Sports,FC Barcelona vs Celta,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-19,16:15-FC Barcelona-Celta,16:15,La Liga EA Sports,FC Barcelona vs Celta,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-19,16:15-FC Barcelona-Celta,16:15,La Liga EA Sports,FC Barcelona vs Celta,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -1087,11 +1087,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-19,16:15-Huesca-Racing Santander,16:15,LaLiga Hypermotion,Huesca vs Racing Santander,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-19,16:15-Huesca-Racing Santander,16:15,LaLiga Hypermotion,Huesca vs Racing Santander,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-19,16:15-Huesca-Racing Santander,16:15,LaLiga Hypermotion,Huesca vs Racing Santander,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-19,16:30-E. Svitolina-EG. Ruse,16:30,WTA Torneo de Rouen Semifinal 2,E. Svitolina vs EG. Ruse,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-04-19,16:30-E. Svitolina-EG. Ruse,16:30,WTA Torneo de Rouen Semifinal 2,E. Svitolina vs EG. Ruse,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-19,17:00-A. Sabalenka-E. Mertens,17:00,WTA Torneo de Stuttgart 1/4 de Final,A. Sabalenka vs E. Mertens,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-19,17:00-A. Sabalenka-E. Mertens,17:00,WTA Torneo de Stuttgart 1/4 de Final,A. Sabalenka vs E. Mertens,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-19,17:00-España-Sudáfrica,17:00,Amistoso Femenino,España vs Sudáfrica,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-19,17:00-E. Svitolina-EG. Ruse,17:00,WTA Torneo de Rouen Semifinal 2,E. Svitolina vs EG. Ruse,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-04-19,17:00-E. Svitolina-EG. Ruse,17:00,WTA Torneo de Rouen Semifinal 2,E. Svitolina vs EG. Ruse,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-04-19,17:15-G.P. Arabia Saudí (Jeddah) Carrera 1,17:15,FIA Fórmula 2,G.P. Arabia Saudí (Jeddah) Carrera 1,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-19,17:15-G.P. Arabia Saudí (Jeddah) Carrera 1,17:15,FIA Fórmula 2,G.P. Arabia Saudí (Jeddah) Carrera 1,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-19,17:15-G.P. Arabia Saudí (Jeddah) Carrera 1,17:15,FIA Fórmula 2,G.P. Arabia Saudí (Jeddah) Carrera 1,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -1820,55 +1820,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-20,12:00-Levante Femenino-Deportivo Abanca,12:00,Liga F,Levante Femenino vs Deportivo Abanca,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-20,12:00-Levante Femenino-Deportivo Abanca,12:00,Liga F,Levante Femenino vs Deportivo Abanca,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-04-20,13:00-Noia Portus Apostoli FS-Manzanares FS,13:00,Primera Federación Futsal,Noia Portus Apostoli FS vs Manzanares FS,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,6de4794cd02f88f14354b5996823413a59a1de0f,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,51dbbfb42f8091e4ea7a2186b566a40e780953d9,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,448a647ba8cd8885588572d609ce02b961238121,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,75306ac6ffbe33b08c5c28487674f75f012c7f50,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,d27584ebe5128c8033cb6fdc806a994fbd17b790,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,d8068894248c1f21eea31e538917276a8c49ec06,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,d6281d4e6310269b416180442a470d23a4a99dc9,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,2c6e4c897661e6b0257bfe931b66d20b2ec763b6,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,71eef80158aa8b37f3dc59f6793c6696df9a2dfa,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb,SD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,97ba38d47680954be40e48bd8f43e17222fefecb,SD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,268289e7a3c5209960b53b4d43c8c65fab294b85,SD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
-2025-04-20,13:00-Final Dobles ATP 500,13:00,Barcelona Open,Final Dobles ATP 500,Eurosport 1,1d04e3b27c2ac3ff52dc949e76f36207fbb235c4,
 2025-04-20,13:00-Carrera Femenina Maastricht › Berg en Terblijt (157.4 km),13:00,Amstel Gold Race,Carrera Femenina Maastricht › Berg en Terblijt (157.4 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-20,13:00-Carrera Femenina Maastricht › Berg en Terblijt (157.4 km),13:00,Amstel Gold Race,Carrera Femenina Maastricht › Berg en Terblijt (157.4 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-20,13:00-Carrera Femenina Maastricht › Berg en Terblijt (157.4 km),13:00,Amstel Gold Race,Carrera Femenina Maastricht › Berg en Terblijt (157.4 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
