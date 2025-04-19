@@ -134,7 +134,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-19,12:00-Granada Femenino-Valencia Féminas,12:00,Liga F,Granada Femenino vs Valencia Féminas,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-19,12:00-Granada Femenino-Valencia Féminas,12:00,Liga F,Granada Femenino vs Valencia Féminas,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-19,12:00-Granada Femenino-Valencia Féminas,12:00,Liga F,Granada Femenino vs Valencia Féminas,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-19,12:30-E. Alexandrova-J. Pegula,12:30,WTA Torneo de Stuttgart 1/4 de Final,E. Alexandrova vs J. Pegula,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-19,12:30-Sassuolo Femenino-Como Femminile,12:30,Serie A Femminile,Sassuolo Femenino vs Como Femminile,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-19,12:30-Sassuolo Femenino-Como Femminile,12:30,Serie A Femminile,Sassuolo Femenino vs Como Femminile,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-19,12:30-Sassuolo Femenino-Como Femminile,12:30,Serie A Femminile,Sassuolo Femenino vs Como Femminile,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -180,6 +179,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-19,12:30-Sassuolo Femenino-Como Femminile,12:30,Serie A Femminile,Sassuolo Femenino vs Como Femminile,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-19,12:30-Sassuolo Femenino-Como Femminile,12:30,Serie A Femminile,Sassuolo Femenino vs Como Femminile,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-19,12:30-Sassuolo Femenino-Como Femminile,12:30,Serie A Femminile,Sassuolo Femenino vs Como Femminile,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-19,12:40-E. Alexandrova-J. Pegula,12:40,WTA Torneo de Stuttgart 1/4 de Final,E. Alexandrova vs J. Pegula,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-19,13:30-Arsenal Femenino-O. Lyonnais Femenino,13:30,Champions League Femenina Semifinales,Arsenal Femenino vs O. Lyonnais Femenino,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-19,13:30-Arsenal Femenino-O. Lyonnais Femenino,13:30,Champions League Femenina Semifinales,Arsenal Femenino vs O. Lyonnais Femenino,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-19,13:30-Arsenal Femenino-O. Lyonnais Femenino,13:30,Champions League Femenina Semifinales,Arsenal Femenino vs O. Lyonnais Femenino,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -225,8 +225,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-19,13:30-Arsenal Femenino-O. Lyonnais Femenino,13:30,Champions League Femenina Semifinales,Arsenal Femenino vs O. Lyonnais Femenino,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-19,13:30-Arsenal Femenino-O. Lyonnais Femenino,13:30,Champions League Femenina Semifinales,Arsenal Femenino vs O. Lyonnais Femenino,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-19,13:30-Arsenal Femenino-O. Lyonnais Femenino,13:30,Champions League Femenina Semifinales,Arsenal Femenino vs O. Lyonnais Femenino,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-19,13:30-K. Khachanov-H. Rune,13:30,Barcelona Open Semifinal 1,K. Khachanov vs H. Rune,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-04-19,14:00-J. Ostapenko-I. Swiatek,14:00,WTA Torneo de Stuttgart 1/4 de Final,J. Ostapenko vs I. Swiatek,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-04-19,13:40-K. Khachanov-H. Rune,13:40,Barcelona Open Semifinal 1,K. Khachanov vs H. Rune,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-19,14:00-Rayo Vallecano-Valencia CF,14:00,La Liga EA Sports,Rayo Vallecano vs Valencia CF,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-19,14:00-Rayo Vallecano-Valencia CF,14:00,La Liga EA Sports,Rayo Vallecano vs Valencia CF,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-19,14:00-Rayo Vallecano-Valencia CF,14:00,La Liga EA Sports,Rayo Vallecano vs Valencia CF,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -362,6 +361,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-19,14:00-Peso Pluma Global Theater Boulevard (Riyadh),14:00,Boxing Grand Prix,Peso Pluma Global Theater Boulevard (Riyadh),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-19,14:00-Peso Pluma Global Theater Boulevard (Riyadh),14:00,Boxing Grand Prix,Peso Pluma Global Theater Boulevard (Riyadh),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-19,14:00-Peso Pluma Global Theater Boulevard (Riyadh),14:00,Boxing Grand Prix,Peso Pluma Global Theater Boulevard (Riyadh),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-19,14:20-J. Ostapenko-I. Swiatek,14:20,WTA Torneo de Stuttgart 1/4 de Final,J. Ostapenko vs I. Swiatek,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-19,14:20-G.P. Arabia Saudí (Jeddah) Carrera 1,14:20,F1 Academy,G.P. Arabia Saudí (Jeddah) Carrera 1,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-19,14:20-G.P. Arabia Saudí (Jeddah) Carrera 1,14:20,F1 Academy,G.P. Arabia Saudí (Jeddah) Carrera 1,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-19,14:20-G.P. Arabia Saudí (Jeddah) Carrera 1,14:20,F1 Academy,G.P. Arabia Saudí (Jeddah) Carrera 1,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -452,7 +452,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-19,15:00-Inter Milan Femenino-AS Roma Femenino,15:00,Serie A Femminile,Inter Milan Femenino vs AS Roma Femenino,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-19,15:00-Inter Milan Femenino-AS Roma Femenino,15:00,Serie A Femminile,Inter Milan Femenino vs AS Roma Femenino,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-19,15:00-Inter Milan Femenino-AS Roma Femenino,15:00,Serie A Femminile,Inter Milan Femenino vs AS Roma Femenino,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-19,15:00-O. Danilovic-S. Lamens,15:00,WTA Torneo de Rouen Semifinal 1,O. Danilovic vs S. Lamens,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-19,15:00-US Lecce-Como 1907,15:00,Serie A Italiana,US Lecce vs Como 1907,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-19,15:00-US Lecce-Como 1907,15:00,Serie A Italiana,US Lecce vs Como 1907,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-19,15:00-US Lecce-Como 1907,15:00,Serie A Italiana,US Lecce vs Como 1907,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -498,6 +497,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-19,15:00-US Lecce-Como 1907,15:00,Serie A Italiana,US Lecce vs Como 1907,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-19,15:00-US Lecce-Como 1907,15:00,Serie A Italiana,US Lecce vs Como 1907,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-19,15:00-US Lecce-Como 1907,15:00,Serie A Italiana,US Lecce vs Como 1907,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-19,15:05-O. Danilovic-S. Lamens,15:05,WTA Torneo de Rouen Semifinal 1,O. Danilovic vs S. Lamens,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-04-19,15:30-G.P. Arabia Saudí (Jeddah) Libres 3,15:30,Fórmula 1,G.P. Arabia Saudí (Jeddah) Libres 3,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-19,15:30-G.P. Arabia Saudí (Jeddah) Libres 3,15:30,Fórmula 1,G.P. Arabia Saudí (Jeddah) Libres 3,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-19,15:30-G.P. Arabia Saudí (Jeddah) Libres 3,15:30,Fórmula 1,G.P. Arabia Saudí (Jeddah) Libres 3,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
