@@ -91,8 +91,6 @@ acestream://a9025d4e168764248d33129c30940502cea0e1c2
 acestream://47223e64a576c21bd61e818a42397a753d34fba5
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 FHD
 acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 FHD
@@ -237,6 +235,10 @@ acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
+#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
+acestream://610993aea3a2bfd509594334b7461ce96900f54c
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS
+acestream://4922d8414b6d96bcdd36e99483a7077f484b6f71
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD
@@ -265,6 +267,8 @@ acestream://cb18d080d81f7fccf26b7723ce6a5d86d31220db
 acestream://d4f56cda0a15f47e7820daaac8e37b4d67d9c918
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BUNDESLIGA 3 FHD
 acestream://692d6a47ba99fbfc67fa947e468e859c7f2b9564
+#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR
+acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD
 acestream://18f63b299de66029e17dc35e12f6c244e1979a91
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1
@@ -311,6 +315,8 @@ acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
 acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD
 acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD
@@ -369,8 +375,6 @@ acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RALLY TV
 acestream://2f3a139d7a2ca1f305ae8cd67444b961d468a9d4
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR
-acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET
@@ -379,8 +383,6 @@ acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="UK | Sky Sport Main Event" group-title="VARIOS", SKY SPORTS MAIN EVENT
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD
-acestream://b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD
 acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
