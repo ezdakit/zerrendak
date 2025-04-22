@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="22/04 WTA Madrid 1ª Ronda", 11:00 V. Tomova vs A. Eala Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="22/04 Lanzarote Open", 11:00 1ª Ronda A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="22/04 Lanzarote Open", 11:00 1ª Ronda A1 Padel DAZN FHD
@@ -93,7 +91,9 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="22/04 Lanzarote Open", 11:00 1ª Ronda A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="22/04 WTA Madrid 1ª Ronda", 12:30 N. Osaka vs L. Bronzetti Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="22/04 WTA Madrid 1ª Ronda", 11:10 V. Tomova vs A. Eala Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="22/04 WTA Madrid 1ª Ronda", 12:45 N. Osaka vs L. Bronzetti Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="22/04 Tour de los Alpes", 13:35 Etapa 2 Mezzolombardo › Sterzing (179.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -189,11 +189,11 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="" group-title="22/04 Tour de los Alpes", 13:35 Etapa 2 Mezzolombardo › Sterzing (179.8 km) Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=4b87a5b67f39dfc151a163ec8c08039520f0a372
-#EXTINF:-1 tvg-id="" group-title="22/04 WTA Madrid 1ª Ronda", 14:00 J. Bouzas vs M. Sherif Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="22/04 WTA Madrid 1ª Ronda", 15:25 J. Bouzas vs M. Sherif Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="22/04 WTA Madrid 1ª Ronda", 15:30 K. Boulter vs K. Siniakova Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="22/04 WTA Madrid 1ª Ronda", 16:55 K. Boulter vs K. Siniakova Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="22/04 WTA Madrid 1ª Ronda", 17:00 E. Arango vs MC. Osorio Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="22/04 WTA Madrid 1ª Ronda", 18:25 E. Arango vs MC. Osorio Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="22/04 EHF European League", 18:45 MT Melsungen vs Bidasoa Irún DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8

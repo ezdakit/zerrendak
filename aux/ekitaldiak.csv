@@ -1,5 +1,4 @@
 date,event_id,time,competition,match,group,acestream_id,quality
-2025-04-22,11:00-V. Tomova-A. Eala,11:00,WTA Madrid 1ª Ronda,V. Tomova vs A. Eala,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-22,11:00-1ª Ronda A1 Padel,11:00,Lanzarote Open,1ª Ronda A1 Padel,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-22,11:00-1ª Ronda A1 Padel,11:00,Lanzarote Open,1ª Ronda A1 Padel,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-22,11:00-1ª Ronda A1 Padel,11:00,Lanzarote Open,1ª Ronda A1 Padel,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -45,7 +44,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-22,11:00-1ª Ronda A1 Padel,11:00,Lanzarote Open,1ª Ronda A1 Padel,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-22,11:00-1ª Ronda A1 Padel,11:00,Lanzarote Open,1ª Ronda A1 Padel,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-22,11:00-1ª Ronda A1 Padel,11:00,Lanzarote Open,1ª Ronda A1 Padel,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-22,12:30-N. Osaka-L. Bronzetti,12:30,WTA Madrid 1ª Ronda,N. Osaka vs L. Bronzetti,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-22,11:10-V. Tomova-A. Eala,11:10,WTA Madrid 1ª Ronda,V. Tomova vs A. Eala,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-22,12:45-N. Osaka-L. Bronzetti,12:45,WTA Madrid 1ª Ronda,N. Osaka vs L. Bronzetti,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-22,13:35-Etapa 2 Mezzolombardo › Sterzing (179.8 km),13:35,Tour de los Alpes,Etapa 2 Mezzolombardo › Sterzing (179.8 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-22,13:35-Etapa 2 Mezzolombardo › Sterzing (179.8 km),13:35,Tour de los Alpes,Etapa 2 Mezzolombardo › Sterzing (179.8 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-22,13:35-Etapa 2 Mezzolombardo › Sterzing (179.8 km),13:35,Tour de los Alpes,Etapa 2 Mezzolombardo › Sterzing (179.8 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -93,9 +93,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-22,13:35-Etapa 2 Mezzolombardo › Sterzing (179.8 km),13:35,Tour de los Alpes,Etapa 2 Mezzolombardo › Sterzing (179.8 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-04-22,13:35-Etapa 2 Mezzolombardo › Sterzing (179.8 km),13:35,Tour de los Alpes,Etapa 2 Mezzolombardo › Sterzing (179.8 km),Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
 2025-04-22,13:35-Etapa 2 Mezzolombardo › Sterzing (179.8 km),13:35,Tour de los Alpes,Etapa 2 Mezzolombardo › Sterzing (179.8 km),Eurosport 2,4b87a5b67f39dfc151a163ec8c08039520f0a372,FHD
-2025-04-22,14:00-J. Bouzas-M. Sherif,14:00,WTA Madrid 1ª Ronda,J. Bouzas vs M. Sherif,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-04-22,15:30-K. Boulter-K. Siniakova,15:30,WTA Madrid 1ª Ronda,K. Boulter vs K. Siniakova,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-04-22,17:00-E. Arango-MC. Osorio,17:00,WTA Madrid 1ª Ronda,E. Arango vs MC. Osorio,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-22,15:25-J. Bouzas-M. Sherif,15:25,WTA Madrid 1ª Ronda,J. Bouzas vs M. Sherif,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-22,16:55-K. Boulter-K. Siniakova,16:55,WTA Madrid 1ª Ronda,K. Boulter vs K. Siniakova,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-22,18:25-E. Arango-MC. Osorio,18:25,WTA Madrid 1ª Ronda,E. Arango vs MC. Osorio,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-22,18:45-MT Melsungen-Bidasoa Irún,18:45,EHF European League,MT Melsungen vs Bidasoa Irún,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-22,18:45-MT Melsungen-Bidasoa Irún,18:45,EHF European League,MT Melsungen vs Bidasoa Irún,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-22,18:45-MT Melsungen-Bidasoa Irún,18:45,EHF European League,MT Melsungen vs Bidasoa Irún,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
