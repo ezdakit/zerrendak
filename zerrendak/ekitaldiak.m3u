@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="23/04 Masters Madrid 1ª Ronda", 10:00 F. Comesana vs P. Martínez Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="23/04 WTA Madrid 1ª Ronda", 11:00 K. Volynets vs P. Kvitova Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="23/04 Masters Madrid 1ª Ronda", 12:30 N. Borges vs P. Carreño Teledeporte FHD
@@ -287,6 +285,8 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="" group-title="23/04 Flecha Valona", 14:30 UCI World Tour Ciney › Huy (205.1 km) Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=4b87a5b67f39dfc151a163ec8c08039520f0a372
+#EXTINF:-1 tvg-id="" group-title="23/04 Masters Madrid 1ª Ronda", 16:00 F. Comesana vs P. Martínez Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="23/04 Flecha Valona", 16:55 Carrera Femenina Huy › Huy (140.7 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="23/04 Flecha Valona", 16:55 Carrera Femenina Huy › Huy (140.7 km) DAZN FHD
