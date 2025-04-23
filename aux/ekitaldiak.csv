@@ -1,6 +1,5 @@
 date,event_id,time,competition,match,group,acestream_id,quality
-2025-04-23,11:00-K. Volynets-P. Kvitova,11:00,WTA Madrid 1ª Ronda,K. Volynets vs P. Kvitova,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-04-23,12:30-N. Borges-P. Carreño,12:30,Masters Madrid 1ª Ronda,N. Borges vs P. Carreño,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-23,11:10-K. Volynets-P. Kvitova,11:10,WTA Madrid 1ª Ronda,K. Volynets vs P. Kvitova,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-23,12:45-Etapa 3 Sterzing › Innichen (143.7 km),12:45,Tour de los Alpes,Etapa 3 Sterzing › Innichen (143.7 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-23,12:45-Etapa 3 Sterzing › Innichen (143.7 km),12:45,Tour de los Alpes,Etapa 3 Sterzing › Innichen (143.7 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-23,12:45-Etapa 3 Sterzing › Innichen (143.7 km),12:45,Tour de los Alpes,Etapa 3 Sterzing › Innichen (143.7 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -48,6 +47,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-23,12:45-Etapa 3 Sterzing › Innichen (143.7 km),12:45,Tour de los Alpes,Etapa 3 Sterzing › Innichen (143.7 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-04-23,12:45-Etapa 3 Sterzing › Innichen (143.7 km),12:45,Tour de los Alpes,Etapa 3 Sterzing › Innichen (143.7 km),Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
 2025-04-23,12:45-Etapa 3 Sterzing › Innichen (143.7 km),12:45,Tour de los Alpes,Etapa 3 Sterzing › Innichen (143.7 km),Eurosport 2,4b87a5b67f39dfc151a163ec8c08039520f0a372,FHD
+2025-04-23,12:55-N. Borges-P. Carreño,12:55,Masters Madrid 1ª Ronda,N. Borges vs P. Carreño,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-23,13:00-2ª Ronda A1 Padel,13:00,Lanzarote Open,2ª Ronda A1 Padel,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-23,13:00-2ª Ronda A1 Padel,13:00,Lanzarote Open,2ª Ronda A1 Padel,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-23,13:00-2ª Ronda A1 Padel,13:00,Lanzarote Open,2ª Ronda A1 Padel,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -93,7 +93,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-23,13:00-2ª Ronda A1 Padel,13:00,Lanzarote Open,2ª Ronda A1 Padel,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-23,13:00-2ª Ronda A1 Padel,13:00,Lanzarote Open,2ª Ronda A1 Padel,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-23,13:00-2ª Ronda A1 Padel,13:00,Lanzarote Open,2ª Ronda A1 Padel,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-23,14:00-R. Bautista-Agut-J. Munar,14:00,Masters Madrid 1ª Ronda,R. Bautista-Agut vs J. Munar,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-23,14:30-UCI World Tour Ciney › Huy (205.1 km),14:30,Flecha Valona,UCI World Tour Ciney › Huy (205.1 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-23,14:30-UCI World Tour Ciney › Huy (205.1 km),14:30,Flecha Valona,UCI World Tour Ciney › Huy (205.1 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-23,14:30-UCI World Tour Ciney › Huy (205.1 km),14:30,Flecha Valona,UCI World Tour Ciney › Huy (205.1 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -141,7 +140,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-23,14:30-UCI World Tour Ciney › Huy (205.1 km),14:30,Flecha Valona,UCI World Tour Ciney › Huy (205.1 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-04-23,14:30-UCI World Tour Ciney › Huy (205.1 km),14:30,Flecha Valona,UCI World Tour Ciney › Huy (205.1 km),Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
 2025-04-23,14:30-UCI World Tour Ciney › Huy (205.1 km),14:30,Flecha Valona,UCI World Tour Ciney › Huy (205.1 km),Eurosport 2,4b87a5b67f39dfc151a163ec8c08039520f0a372,FHD
-2025-04-23,16:00-F. Comesana-P. Martínez,16:00,Masters Madrid 1ª Ronda,F. Comesana vs P. Martínez,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-23,15:50-R. Bautista-Agut-J. Munar,15:50,Masters Madrid 1ª Ronda,R. Bautista-Agut vs J. Munar,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-23,16:25-F. Comesana-P. Martínez,16:25,Masters Madrid 1ª Ronda,F. Comesana vs P. Martínez,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-23,16:55-Carrera Femenina Huy › Huy (140.7 km),16:55,Flecha Valona,Carrera Femenina Huy › Huy (140.7 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-23,16:55-Carrera Femenina Huy › Huy (140.7 km),16:55,Flecha Valona,Carrera Femenina Huy › Huy (140.7 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-23,16:55-Carrera Femenina Huy › Huy (140.7 km),16:55,Flecha Valona,Carrera Femenina Huy › Huy (140.7 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -234,7 +234,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-23,18:00-Al Nassr-Al Taraji Club,18:00,Saudi Women’s Premier League,Al Nassr vs Al Taraji Club,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-23,18:00-Al Nassr-Al Taraji Club,18:00,Saudi Women’s Premier League,Al Nassr vs Al Taraji Club,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-23,18:00-Al Nassr-Al Taraji Club,18:00,Saudi Women’s Premier League,Al Nassr vs Al Taraji Club,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-23,18:30-G. Monfils-B. Gojo,18:30,Masters Madrid 1ª Ronda,G. Monfils vs B. Gojo,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-23,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-23,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-23,18:30-AEK BC-Nanterre 92,18:30,Basketball Champions League 1/4 de Final,AEK BC vs Nanterre 92,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -505,6 +504,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-23,19:00-Celta-Villarreal,19:00,La Liga EA Sports,Celta vs Villarreal,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-23,19:00-Celta-Villarreal,19:00,La Liga EA Sports,Celta vs Villarreal,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-23,19:00-Celta-Villarreal,19:00,La Liga EA Sports,Celta vs Villarreal,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-23,20:25-G. Monfils-B. Gojo,20:25,Masters Madrid 1ª Ronda,G. Monfils vs B. Gojo,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-23,21:00-Inter Milan-AC Milan,21:00,Coppa Italia Semifinales,Inter Milan vs AC Milan,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-23,21:00-Inter Milan-AC Milan,21:00,Coppa Italia Semifinales,Inter Milan vs AC Milan,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-23,21:00-Inter Milan-AC Milan,21:00,Coppa Italia Semifinales,Inter Milan vs AC Milan,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
