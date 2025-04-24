@@ -639,6 +639,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-25,10:45-G.P. España (Jerez) Libres 1,10:45,MotoGP,G.P. España (Jerez) Libres 1,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-25,10:45-G.P. España (Jerez) Libres 1,10:45,MotoGP,G.P. España (Jerez) Libres 1,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-25,10:45-G.P. España (Jerez) Libres 1,10:45,MotoGP,G.P. España (Jerez) Libres 1,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-25,11:00-P. Badosa-V. Kudermetova,11:00,WTA Madrid 2ª Ronda,P. Badosa vs V. Kudermetova,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-25,12:30-A. Sabalenka-A. Blinkova,12:30,WTA Madrid 2ª Ronda,A. Sabalenka vs A. Blinkova,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-25,13:00-1/4 de Final A1 Padel,13:00,Lanzarote Open,1/4 de Final A1 Padel,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-25,13:00-1/4 de Final A1 Padel,13:00,Lanzarote Open,1/4 de Final A1 Padel,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-25,13:00-1/4 de Final A1 Padel,13:00,Lanzarote Open,1/4 de Final A1 Padel,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -731,6 +733,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-25,13:35-Etapa 5 Lienz › Lienz (112.7 km),13:35,Tour de los Alpes,Etapa 5 Lienz › Lienz (112.7 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-04-25,13:35-Etapa 5 Lienz › Lienz (112.7 km),13:35,Tour de los Alpes,Etapa 5 Lienz › Lienz (112.7 km),Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
 2025-04-25,13:35-Etapa 5 Lienz › Lienz (112.7 km),13:35,Tour de los Alpes,Etapa 5 Lienz › Lienz (112.7 km),Eurosport 2,4b87a5b67f39dfc151a163ec8c08039520f0a372,FHD
+2025-04-25,14:00-A. Zverev-R. Bautista-Agut,14:00,Masters Madrid 2ª Ronda,A. Zverev vs R. Bautista-Agut,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-25,15:00-G.P. España (Jerez) Libres,15:00,MotoGP,G.P. España (Jerez) Libres,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-25,15:00-G.P. España (Jerez) Libres,15:00,MotoGP,G.P. España (Jerez) Libres,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-25,15:00-G.P. España (Jerez) Libres,15:00,MotoGP,G.P. España (Jerez) Libres,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -776,6 +779,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-25,15:00-G.P. España (Jerez) Libres,15:00,MotoGP,G.P. España (Jerez) Libres,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-25,15:00-G.P. España (Jerez) Libres,15:00,MotoGP,G.P. España (Jerez) Libres,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-25,15:00-G.P. España (Jerez) Libres,15:00,MotoGP,G.P. España (Jerez) Libres,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-25,17:00-N. Borges-A. Davidovich,17:00,Masters Madrid 2ª Ronda,N. Borges vs A. Davidovich,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-25,18:30-Turbine Potsdam-Bayer Leverkusen Femenino,18:30,Bundesliga Femenina,Turbine Potsdam vs Bayer Leverkusen Femenino,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-25,18:30-Turbine Potsdam-Bayer Leverkusen Femenino,18:30,Bundesliga Femenina,Turbine Potsdam vs Bayer Leverkusen Femenino,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-25,18:30-Turbine Potsdam-Bayer Leverkusen Femenino,18:30,Bundesliga Femenina,Turbine Potsdam vs Bayer Leverkusen Femenino,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -1046,6 +1050,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-25,19:30-Real Madrid Femenino-Madrid CFF,19:30,Liga F,Real Madrid Femenino vs Madrid CFF,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-25,19:30-Real Madrid Femenino-Madrid CFF,19:30,Liga F,Real Madrid Femenino vs Madrid CFF,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-25,19:30-Real Madrid Femenino-Madrid CFF,19:30,Liga F,Real Madrid Femenino vs Madrid CFF,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-04-25,20:00-G. Monfils-A. Rublev,20:00,Masters Madrid 2ª Ronda,G. Monfils vs A. Rublev,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-25,20:30-Cádiz CF-Sporting Gijón,20:30,LaLiga Hypermotion,Cádiz CF vs Sporting Gijón,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-25,20:30-Cádiz CF-Sporting Gijón,20:30,LaLiga Hypermotion,Cádiz CF vs Sporting Gijón,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-25,20:30-Cádiz CF-Sporting Gijón,20:30,LaLiga Hypermotion,Cádiz CF vs Sporting Gijón,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD

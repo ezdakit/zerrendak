@@ -1281,6 +1281,10 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="25/04 MotoGP", 10:45 G.P. España (Jerez) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="25/04 WTA Madrid 2ª Ronda", 11:00 P. Badosa vs V. Kudermetova Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="25/04 WTA Madrid 2ª Ronda", 12:30 A. Sabalenka vs A. Blinkova Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="25/04 Lanzarote Open", 13:00 1/4 de Final A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="25/04 Lanzarote Open", 13:00 1/4 de Final A1 Padel DAZN FHD
@@ -1465,6 +1469,8 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="" group-title="25/04 Tour de los Alpes", 13:35 Etapa 5 Lienz › Lienz (112.7 km) Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=4b87a5b67f39dfc151a163ec8c08039520f0a372
+#EXTINF:-1 tvg-id="" group-title="25/04 Masters Madrid 2ª Ronda", 14:00 A. Zverev vs R. Bautista-Agut Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="25/04 MotoGP", 15:00 G.P. España (Jerez) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="25/04 MotoGP", 15:00 G.P. España (Jerez) Libres DAZN FHD
@@ -1555,6 +1561,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="25/04 MotoGP", 15:00 G.P. España (Jerez) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="25/04 Masters Madrid 2ª Ronda", 17:00 N. Borges vs A. Davidovich Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="25/04 Bundesliga Femenina", 18:30 Turbine Potsdam vs Bayer Leverkusen Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="25/04 Bundesliga Femenina", 18:30 Turbine Potsdam vs Bayer Leverkusen Femenino DAZN FHD
@@ -2095,6 +2103,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="25/04 Liga F", 19:30 Real Madrid Femenino vs Madrid CFF DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="25/04 Masters Madrid 2ª Ronda", 20:00 G. Monfils vs A. Rublev Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="25/04 LaLiga Hypermotion", 20:30 Cádiz CF vs Sporting Gijón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="25/04 LaLiga Hypermotion", 20:30 Cádiz CF vs Sporting Gijón DAZN FHD
