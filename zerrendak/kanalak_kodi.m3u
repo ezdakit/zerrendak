@@ -67,8 +67,6 @@ plugin://script.module.horus?action=play&id=6d05b31e5e8fdae312fbd57897363a7b10dd
 plugin://script.module.horus?action=play&id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
 plugin://script.module.horus?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
-plugin://script.module.horus?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 FHD
 plugin://script.module.horus?action=play&id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 HD
@@ -243,8 +241,6 @@ plugin://script.module.horus?action=play&id=390b5b0fc49a811c5c5ebd6d195b08a48b1e
 plugin://script.module.horus?action=play&id=610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORT 1
 plugin://script.module.horus?action=play&id=005a2f40458c51226e03d86fb3100ecbfbcd7c27
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS
-plugin://script.module.horus?action=play&id=8ce921a0c0f4d03e10f87ab8f93f236c492ef23f
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
 plugin://script.module.horus?action=play&id=a96a9a6ab8f4f624d66ece9fa566a5620ddd620d
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
@@ -329,8 +325,6 @@ plugin://script.module.horus?action=play&id=1d04e3b27c2ac3ff52dc949e76f36207fbb2
 plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD
 plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD
-plugin://script.module.horus?action=play&id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD
 plugin://script.module.horus?action=play&id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD
@@ -405,8 +399,6 @@ plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b407
 plugin://script.module.horus?action=play&id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
 plugin://script.module.horus?action=play&id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL
-plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: BEIN SPORTS 4 FHD
