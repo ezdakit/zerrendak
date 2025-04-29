@@ -285,9 +285,9 @@ http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 http://127.0.0.1:6878/ace/getstream?id=4b87a5b67f39dfc151a163ec8c08039520f0a372
 #EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 3ª Ronda", 15:45 S. Tsitsipas vs L. Musetti Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 1/8 de final", 17:10 A. Zverev vs F. Cerúndolo Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 1/8 de final", 18:00 A. Zverev vs F. Cerúndolo Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="29/04 WTA Madrid 1/8 de final", 20:00 A. Sabalenka vs P. Stearns Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="29/04 WTA Madrid 1/8 de final", 20:10 A. Sabalenka vs P. Stearns Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="29/04 LaLiga Hypermotion", 20:30 UD Almería vs Racing Ferrol DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -559,7 +559,7 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="29/04 National League", 20:45 Solihull Moors vs AFC Rochdale DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 1/8 de final", 22:00 T. Fritz vs C. Ruud Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 1/8 de final", 21:45 T. Fritz vs C. Ruud Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="30/04 Masters Madrid", 11:05 1/4 de Final ATP Masters 1000 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -913,8 +913,6 @@ http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 http://127.0.0.1:6878/ace/getstream?id=4b87a5b67f39dfc151a163ec8c08039520f0a372
 #EXTINF:-1 tvg-id="" group-title="01/05 WTA Torneo de Vic", 11:00 1/4 de Final WTA 125 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="01/05 WTA Torneo de Vic", 11:00 1/4 de Final WTA 125 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="01/05 Masters Madrid", 11:05 1/4 de Final ATP Masters 1000 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="01/05 Masters Madrid", 11:05 1/4 de Final ATP Masters 1000 Movistar+ FHD

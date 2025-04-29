@@ -141,8 +141,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-29,15:30-Prólogo Saint-Imier › Saint-Imier (3.4 km),15:30,Tour de Romandía,Prólogo Saint-Imier › Saint-Imier (3.4 km),Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
 2025-04-29,15:30-Prólogo Saint-Imier › Saint-Imier (3.4 km),15:30,Tour de Romandía,Prólogo Saint-Imier › Saint-Imier (3.4 km),Eurosport 2,4b87a5b67f39dfc151a163ec8c08039520f0a372,FHD
 2025-04-29,15:45-S. Tsitsipas-L. Musetti,15:45,Masters Madrid 3ª Ronda,S. Tsitsipas vs L. Musetti,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-04-29,17:10-A. Zverev-F. Cerúndolo,17:10,Masters Madrid 1/8 de final,A. Zverev vs F. Cerúndolo,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-04-29,20:00-A. Sabalenka-P. Stearns,20:00,WTA Madrid 1/8 de final,A. Sabalenka vs P. Stearns,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-29,18:00-A. Zverev-F. Cerúndolo,18:00,Masters Madrid 1/8 de final,A. Zverev vs F. Cerúndolo,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-29,20:10-A. Sabalenka-P. Stearns,20:10,WTA Madrid 1/8 de final,A. Sabalenka vs P. Stearns,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-29,20:30-UD Almería-Racing Ferrol,20:30,LaLiga Hypermotion,UD Almería vs Racing Ferrol,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-04-29,20:30-UD Almería-Racing Ferrol,20:30,LaLiga Hypermotion,UD Almería vs Racing Ferrol,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-04-29,20:30-UD Almería-Racing Ferrol,20:30,LaLiga Hypermotion,UD Almería vs Racing Ferrol,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -278,7 +278,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-29,20:45-Solihull Moors-AFC Rochdale,20:45,National League,Solihull Moors vs AFC Rochdale,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-04-29,20:45-Solihull Moors-AFC Rochdale,20:45,National League,Solihull Moors vs AFC Rochdale,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-04-29,20:45-Solihull Moors-AFC Rochdale,20:45,National League,Solihull Moors vs AFC Rochdale,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-04-29,22:00-T. Fritz-C. Ruud,22:00,Masters Madrid 1/8 de final,T. Fritz vs C. Ruud,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-04-29,21:45-T. Fritz-C. Ruud,21:45,Masters Madrid 1/8 de final,T. Fritz vs C. Ruud,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-30,11:05-1/4 de Final ATP Masters 1000,11:05,Masters Madrid,1/4 de Final ATP Masters 1000,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-04-30,11:05-1/4 de Final ATP Masters 1000,11:05,Masters Madrid,1/4 de Final ATP Masters 1000,Movistar+,102bcb79ca391e37ac1fc9ee77dc53440d0a59ce,FHD
 2025-04-30,11:05-1/4 de Final ATP Masters 1000,11:05,Masters Madrid,1/4 de Final ATP Masters 1000,Movistar+,cf6ffdfa3c51268c0bd216da6b275fb866160c0c,FHD
@@ -455,7 +455,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-04-30,15:30-Etapa 1 Münchenstein › Fribourg (194.3 km),15:30,Tour de Romandía,Etapa 1 Münchenstein › Fribourg (194.3 km),Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
 2025-04-30,15:30-Etapa 1 Münchenstein › Fribourg (194.3 km),15:30,Tour de Romandía,Etapa 1 Münchenstein › Fribourg (194.3 km),Eurosport 2,4b87a5b67f39dfc151a163ec8c08039520f0a372,FHD
 2025-05-01,11:00-1/4 de Final WTA 125,11:00,WTA Torneo de Vic,1/4 de Final WTA 125,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-05-01,11:00-1/4 de Final WTA 125,11:00,WTA Torneo de Vic,1/4 de Final WTA 125,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-01,11:05-1/4 de Final ATP Masters 1000,11:05,Masters Madrid,1/4 de Final ATP Masters 1000,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-05-01,11:05-1/4 de Final ATP Masters 1000,11:05,Masters Madrid,1/4 de Final ATP Masters 1000,Movistar+,102bcb79ca391e37ac1fc9ee77dc53440d0a59ce,FHD
 2025-05-01,11:05-1/4 de Final ATP Masters 1000,11:05,Masters Madrid,1/4 de Final ATP Masters 1000,Movistar+,cf6ffdfa3c51268c0bd216da6b275fb866160c0c,FHD
