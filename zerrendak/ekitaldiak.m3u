@@ -91,9 +91,7 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="29/04 Toledo Open", 09:00 1ª Ronda A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="29/04 WTA Madrid 1/8 de final", 12:00 D. Shnaider vs I. Swiatek Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 3ª Ronda", 13:30 G. Dimitrov vs J. Fearnley Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="29/04 WTA Madrid 1/8 de final", 12:10 D. Shnaider vs I. Swiatek Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="29/04 Tour de Turquía", 13:30 Etapa 3 Fethiye › Marmaris (175.9 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -189,9 +187,7 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="" group-title="29/04 Tour de Turquía", 13:30 Etapa 3 Fethiye › Marmaris (175.9 km) Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=4b87a5b67f39dfc151a163ec8c08039520f0a372
-#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 3ª Ronda", 14:00 S. Tsitsipas vs L. Musetti Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 1/8 de final", 15:30 A. Zverev vs F. Cerúndolo Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 3ª Ronda", 15:05 G. Dimitrov vs J. Fearnley Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="29/04 Tour de Romandía", 15:30 Prólogo Saint-Imier › Saint-Imier (3.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -287,6 +283,10 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="" group-title="29/04 Tour de Romandía", 15:30 Prólogo Saint-Imier › Saint-Imier (3.4 km) Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=4b87a5b67f39dfc151a163ec8c08039520f0a372
+#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 3ª Ronda", 15:45 S. Tsitsipas vs L. Musetti Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 1/8 de final", 17:10 A. Zverev vs F. Cerúndolo Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="29/04 WTA Madrid 1/8 de final", 20:00 A. Sabalenka vs P. Stearns Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="29/04 LaLiga Hypermotion", 20:30 UD Almería vs Racing Ferrol DAZN 
@@ -559,7 +559,7 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="29/04 National League", 20:45 Solihull Moors vs AFC Rochdale DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 1/8 de final", 21:30 T. Fritz vs C. Ruud Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="29/04 Masters Madrid 1/8 de final", 22:00 T. Fritz vs C. Ruud Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="30/04 Masters Madrid", 11:05 1/4 de Final ATP Masters 1000 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
