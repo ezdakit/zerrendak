@@ -469,8 +469,6 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="01/05 WTA Torneo de Vic 1/4 de Final", 11:00 K. Siniakova vs R. Masarova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="01/05 WTA Torneo de Vic 1/4 de Final", 11:00 K. Siniakova vs R. Masarova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="01/05 Masters Madrid", 11:05 1/4 de Final ATP Masters 1000 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="01/05 Masters Madrid", 11:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
@@ -727,8 +725,6 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="01/05 WTA Torneo de Vic 1/4 de Final", 12:30 A. Bolsova vs O. Selekhmeteva Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="01/05 WTA Torneo de Vic 1/4 de Final", 12:30 A. Bolsova vs O. Selekhmeteva Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="01/05 Toledo Open", 14:00 2ª Ronda A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="01/05 Toledo Open", 14:00 2ª Ronda A1 Padel DAZN FHD
@@ -1373,12 +1369,8 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="02/05 WTA Torneo de Vic", 11:00 Semifinal 1 WTA 125 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="02/05 WTA Torneo de Vic", 11:00 Semifinal 1 WTA 125 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="02/05 WTA Torneo de Vic", 12:30 Semifinal 2 WTA 125 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="02/05 WTA Torneo de Vic", 12:30 Semifinal 2 WTA 125 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="02/05 Copa de la Reina 1/4 de Final", 13:15 FSF Móstoles vs Torreblanca Melilla Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="02/05 Tour de Turquía", 13:30 Etapa 6 Kusadasi › Selçuk (Meryem Ana) (161.4 km) DAZN 
