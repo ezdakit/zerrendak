@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
+#EXTINF:-1 tvg-id="" group-title="01/05 WTA Torneo de Vic 1/4 de Final", 11:00 K. Siniakova vs R. Masarova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="01/05 Tour de Turquía", 11:30 Etapa 5 Marmaris › Aydin (151 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="01/05 Tour de Turquía", 11:30 Etapa 5 Marmaris › Aydin (151 km) DAZN FHD
@@ -181,6 +183,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="01/05 Liga F", 12:00 Levante Badalona vs FC Barcelona Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="01/05 WTA Torneo de Vic 1/4 de Final", 12:30 A. Bolsova vs O. Selekhmeteva Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="01/05 Masters Madrid 1/4 de Final", 13:00 C. Ruud vs D. Medvedev Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="01/05 Toledo Open", 14:00 2ª Ronda A1 Padel DAZN 
@@ -271,6 +275,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="01/05 Toledo Open", 14:00 2ª Ronda A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="01/05 WTA Torneo de Vic 1/4 de Final", 14:00 G. Maristany vs D. Galfi Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="01/05 Masters Madrid 1/4 de Final", 15:00 F. Cerúndolo vs J. Mensik Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="01/05 Tour de Romandía", 15:30 Etapa 2 La Grande Béroche › La Grande Béroche (157 km) DAZN 
@@ -727,6 +733,10 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="02/05 Copa de la Reina 1/4 de Final", 11:00 Teldeportivo FSF vs FSF O Castro Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="02/05 WTA Torneo de Vic", 11:00 Semifinal 1 WTA 125 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="02/05 WTA Torneo de Vic", 12:30 Semifinal 2 WTA 125 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="02/05 Copa de la Reina 1/4 de Final", 13:15 FSF Móstoles vs Torreblanca Melilla Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="02/05 Tour de Turquía", 13:30 Etapa 6 Kusadasi › Selçuk (Meryem Ana) (161.4 km) DAZN 
