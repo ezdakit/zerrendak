@@ -3,6 +3,8 @@
 
 #EXTINF:-1 tvg-id="" group-title="02/05 Copa de la Reina 1/4 de Final", 11:00 Teldeportivo FSF vs FSF O Castro Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="02/05 WTA Torneo de Vic Semifinal 1", 11:10 D. Galfi vs O. Selekhmeteva Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="02/05 Copa de la Reina 1/4 de Final", 13:15 FSF Móstoles vs Torreblanca Melilla Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="02/05 Tour de Turquía", 13:30 Etapa 6 Kusadasi › Selçuk (Meryem Ana) (161.4 km) DAZN 
@@ -465,6 +467,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="02/05 F1 Academy", 16:25 G.P. Miami (Miami) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="02/05 WTA Torneo de Vic Semifinal 2", 17:20 A. Sasnovich vs R. Masarova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="02/05 Futsal Champions League Semifinales", 18:00 Kairat Almaty vs Jimbee Cartagena FS DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="02/05 Futsal Champions League Semifinales", 18:00 Kairat Almaty vs Jimbee Cartagena FS DAZN FHD
