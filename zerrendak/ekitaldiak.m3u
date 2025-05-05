@@ -1341,6 +1341,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="06/05 WTA Roma", 11:00 1ª Ronda WTA 1000 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="06/05 WTA Roma", 11:00 1ª Ronda WTA 1000 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="06/05 La Vuelta Femenina", 15:35 Etapa 3 Barbastro › Huesca (132.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="06/05 La Vuelta Femenina", 15:35 Etapa 3 Barbastro › Huesca (132.4 km) DAZN FHD
@@ -1468,8 +1470,6 @@ http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
 #EXTINF:-1 tvg-id="" group-title="07/05 Masters Roma", 11:00 1ª Ronda ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #EXTINF:-1 tvg-id="" group-title="07/05 Masters Roma", 11:00 1ª Ronda ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-id="" group-title="07/05 Masters Roma", 11:00 1ª Ronda ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="" group-title="07/05 Masters Roma", 11:00 1ª Ronda ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879
@@ -1533,8 +1533,6 @@ http://127.0.0.1:6878/ace/getstream?id=57313e1ef438538df4feb5a6028dc78ee4f66b6a
 http://127.0.0.1:6878/ace/getstream?id=1205151f6fa5d95c0eeb543cbce43ccfa6a1b216
 #EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma", 11:00 1ª Ronda WTA 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
-#EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma", 11:00 1ª Ronda WTA 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma", 11:00 1ª Ronda WTA 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma", 11:00 1ª Ronda WTA 1000 Movistar+ 
