@@ -80,6 +80,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="07/05 La Vuelta Femenina", 15:35 Etapa 4 Pedrola › Borja (111.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="07/05 La Vuelta Femenina", 15:35 Etapa 4 Pedrola › Borja (111.6 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="07/05 La Vuelta Femenina", 15:35 Etapa 4 Pedrola › Borja (111.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="07/05 La Vuelta Femenina", 15:35 Etapa 4 Pedrola › Borja (111.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
@@ -168,6 +170,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="07/05 D1 Féminine", 17:00 O. Lyonnais Femenino vs Le Havre AC Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="07/05 D1 Féminine", 17:00 O. Lyonnais Femenino vs Le Havre AC Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="07/05 D1 Féminine", 17:00 O. Lyonnais Femenino vs Le Havre AC Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="07/05 D1 Féminine", 17:00 O. Lyonnais Femenino vs Le Havre AC Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
@@ -245,6 +249,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="07/05 D1 Féminine", 17:00 PSG Femenino vs Nantes Féminines DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="07/05 D1 Féminine", 17:00 PSG Femenino vs Nantes Féminines DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="07/05 D1 Féminine", 17:00 PSG Femenino vs Nantes Féminines DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="07/05 D1 Féminine", 17:00 PSG Femenino vs Nantes Féminines DAZN 
@@ -259,16 +265,16 @@ http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="07/05 División de Honor", 19:00 CN Sabadell vs CN Barcelona Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma 1ª Ronda", 19:00 A. Ruzic vs TC Grant Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma 1ª Ronda", 19:10 A. Ruzic vs TC Grant Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma 1ª Ronda", 19:00 A. Ruzic vs TC Grant Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma 1ª Ronda", 20:20 A. Eala vs M. Kostyuk Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma 1ª Ronda", 20:20 A. Eala vs M. Kostyuk Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma 1ª Ronda", 19:10 A. Ruzic vs TC Grant Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="07/05 Liga Guerreras Iberdrola Playoffs 1/4 Final", 21:00 BM Aula Valladolid vs Atlético Guardés Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma 1ª Ronda", 21:45 A. Eala vs M. Kostyuk Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="07/05 WTA Roma 1ª Ronda", 21:45 A. Eala vs M. Kostyuk Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="08/05 Masters Roma 1ª Ronda", 11:00 M. Arnaldi vs R. Bautista-Agut Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-id="" group-title="08/05 Masters Roma 1ª Ronda", 11:00 M. Arnaldi vs R. Bautista-Agut Movistar+ FHD
@@ -559,6 +565,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="08/05 La Vuelta Femenina", 15:30 Etapa 5 Golmayo › Lagunas de Neila (120.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="08/05 La Vuelta Femenina", 15:30 Etapa 5 Golmayo › Lagunas de Neila (120.4 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="08/05 La Vuelta Femenina", 15:30 Etapa 5 Golmayo › Lagunas de Neila (120.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="08/05 La Vuelta Femenina", 15:30 Etapa 5 Golmayo › Lagunas de Neila (120.4 km) DAZN 
@@ -647,6 +655,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="08/05 Boucles de l'Aulne", 15:30 UCI Europe Tour Châteaulin › Châteaulin (183.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="08/05 Boucles de l'Aulne", 15:30 UCI Europe Tour Châteaulin › Châteaulin (183.1 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="08/05 Boucles de l'Aulne", 15:30 UCI Europe Tour Châteaulin › Châteaulin (183.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="08/05 Boucles de l'Aulne", 15:30 UCI Europe Tour Châteaulin › Châteaulin (183.1 km) DAZN 
@@ -815,6 +825,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/05 MotoGP", 10:45 G.P. Francia (Le Mans) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/05 MotoGP", 10:45 G.P. Francia (Le Mans) Libres 1 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/05 MotoGP", 10:45 G.P. Francia (Le Mans) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="09/05 MotoGP", 10:45 G.P. Francia (Le Mans) Libres 1 DAZN 
@@ -1032,6 +1044,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/05 Giro de Italia", 13:00 Etapa 1 Durrës › Tirana (160 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/05 Giro de Italia", 13:00 Etapa 1 Durrës › Tirana (160 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/05 Giro de Italia", 13:00 Etapa 1 Durrës › Tirana (160 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="09/05 Giro de Italia", 13:00 Etapa 1 Durrës › Tirana (160 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
@@ -1118,6 +1132,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/05 MotoGP", 15:00 G.P. Francia (Le Mans) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/05 MotoGP", 15:00 G.P. Francia (Le Mans) Libres DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/05 MotoGP", 15:00 G.P. Francia (Le Mans) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="09/05 MotoGP", 15:00 G.P. Francia (Le Mans) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
@@ -1195,6 +1211,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/05 Basketball Champions League Semifinales", 17:00 La Laguna Tenerife vs Galatasaray Istanbul DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/05 Basketball Champions League Semifinales", 17:00 La Laguna Tenerife vs Galatasaray Istanbul DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/05 Basketball Champions League Semifinales", 17:00 La Laguna Tenerife vs Galatasaray Istanbul DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="09/05 Basketball Champions League Semifinales", 17:00 La Laguna Tenerife vs Galatasaray Istanbul DAZN 
@@ -1276,6 +1294,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/05 Basketball Champions League Semifinales", 20:00 AEK BC vs Unicaja Málaga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/05 Basketball Champions League Semifinales", 20:00 AEK BC vs Unicaja Málaga DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/05 Basketball Champions League Semifinales", 20:00 AEK BC vs Unicaja Málaga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="09/05 Basketball Champions League Semifinales", 20:00 AEK BC vs Unicaja Málaga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
@@ -1356,6 +1376,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/05 LaLiga Hypermotion", 20:30 Cádiz CF vs UD Almería DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/05 LaLiga Hypermotion", 20:30 Cádiz CF vs UD Almería DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/05 LaLiga Hypermotion", 20:30 Cádiz CF vs UD Almería DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="09/05 LaLiga Hypermotion", 20:30 Cádiz CF vs UD Almería DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
@@ -1433,6 +1455,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/05 Bundesliga", 20:30 VfL Wolfsburg vs Hoffenheim DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/05 Bundesliga", 20:30 VfL Wolfsburg vs Hoffenheim DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/05 Bundesliga", 20:30 VfL Wolfsburg vs Hoffenheim DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="09/05 Bundesliga", 20:30 VfL Wolfsburg vs Hoffenheim DAZN 
@@ -1512,6 +1536,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/05 Serie A Italiana", 20:45 AC Milan vs Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/05 Serie A Italiana", 20:45 AC Milan vs Bologna DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/05 Serie A Italiana", 20:45 AC Milan vs Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="09/05 Serie A Italiana", 20:45 AC Milan vs Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
@@ -1590,6 +1616,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/05 La Liga EA Sports", 21:00 UD Las Palmas vs Rayo Vallecano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/05 La Liga EA Sports", 21:00 UD Las Palmas vs Rayo Vallecano DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/05 La Liga EA Sports", 21:00 UD Las Palmas vs Rayo Vallecano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="09/05 La Liga EA Sports", 21:00 UD Las Palmas vs Rayo Vallecano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
@@ -1667,6 +1695,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/05 Women's Premiership", 21:00 Cliftonville Women vs Linfield Women DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/05 Women's Premiership", 21:00 Cliftonville Women vs Linfield Women DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/05 Women's Premiership", 21:00 Cliftonville Women vs Linfield Women DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="09/05 Women's Premiership", 21:00 Cliftonville Women vs Linfield Women DAZN 
