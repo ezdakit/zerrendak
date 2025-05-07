@@ -1,10 +1,8 @@
 date,event_id,time,competition,match,group,acestream_id,quality
-2025-05-07,11:05-S. Errani-N. Osaka,11:05,WTA Roma 1ª Ronda,S. Errani vs N. Osaka,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-05-07,11:05-S. Errani-N. Osaka,11:05,WTA Roma 1ª Ronda,S. Errani vs N. Osaka,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-05-07,13:00-E. Cocciaretto-E. Avanesyan,13:00,WTA Roma 1ª Ronda,E. Cocciaretto vs E. Avanesyan,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-05-07,13:00-E. Cocciaretto-E. Avanesyan,13:00,WTA Roma 1ª Ronda,E. Cocciaretto vs E. Avanesyan,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-05-07,14:30-L. Stefanini-V. Kudermetova,14:30,WTA Roma 1ª Ronda,L. Stefanini vs V. Kudermetova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-05-07,14:30-L. Stefanini-V. Kudermetova,14:30,WTA Roma 1ª Ronda,L. Stefanini vs V. Kudermetova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-05-07,11:10-S. Errani-N. Osaka,11:10,WTA Roma 1ª Ronda,S. Errani vs N. Osaka,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-05-07,11:10-S. Errani-N. Osaka,11:10,WTA Roma 1ª Ronda,S. Errani vs N. Osaka,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-05-07,15:05-E. Cocciaretto-E. Avanesyan,15:05,WTA Roma 1ª Ronda,E. Cocciaretto vs E. Avanesyan,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-05-07,15:05-E. Cocciaretto-E. Avanesyan,15:05,WTA Roma 1ª Ronda,E. Cocciaretto vs E. Avanesyan,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-07,15:35-Etapa 4 Pedrola › Borja (111.6 km),15:35,La Vuelta Femenina,Etapa 4 Pedrola › Borja (111.6 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-07,15:35-Etapa 4 Pedrola › Borja (111.6 km),15:35,La Vuelta Femenina,Etapa 4 Pedrola › Borja (111.6 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-07,15:35-Etapa 4 Pedrola › Borja (111.6 km),15:35,La Vuelta Femenina,Etapa 4 Pedrola › Borja (111.6 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -48,6 +46,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-07,15:35-Etapa 4 Pedrola › Borja (111.6 km),15:35,La Vuelta Femenina,Etapa 4 Pedrola › Borja (111.6 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-05-07,15:35-Etapa 4 Pedrola › Borja (111.6 km),15:35,La Vuelta Femenina,Etapa 4 Pedrola › Borja (111.6 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-05-07,15:35-Etapa 4 Pedrola › Borja (111.6 km),15:35,La Vuelta Femenina,Etapa 4 Pedrola › Borja (111.6 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
+2025-05-07,16:30-L. Stefanini-V. Kudermetova,16:30,WTA Roma 1ª Ronda,L. Stefanini vs V. Kudermetova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-05-07,16:30-L. Stefanini-V. Kudermetova,16:30,WTA Roma 1ª Ronda,L. Stefanini vs V. Kudermetova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-07,17:00-O. Lyonnais Femenino-Le Havre AC Femenino,17:00,D1 Féminine,O. Lyonnais Femenino vs Le Havre AC Femenino,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-07,17:00-O. Lyonnais Femenino-Le Havre AC Femenino,17:00,D1 Féminine,O. Lyonnais Femenino vs Le Havre AC Femenino,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-07,17:00-O. Lyonnais Femenino-Le Havre AC Femenino,17:00,D1 Féminine,O. Lyonnais Femenino vs Le Havre AC Femenino,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -124,11 +124,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-07,17:00-PSG Femenino-Nantes Féminines,17:00,D1 Féminine,PSG Femenino vs Nantes Féminines,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-05-07,17:00-PSG Femenino-Nantes Féminines,17:00,D1 Féminine,PSG Femenino vs Nantes Féminines,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-07,17:00-PSG Femenino-Nantes Féminines,17:00,D1 Féminine,PSG Femenino vs Nantes Féminines,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-05-07,17:30-A. Eala-M. Kostyuk,17:30,WTA Roma 1ª Ronda,A. Eala vs M. Kostyuk,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-05-07,17:30-A. Eala-M. Kostyuk,17:30,WTA Roma 1ª Ronda,A. Eala vs M. Kostyuk,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-07,19:00-CN Sabadell-CN Barcelona,19:00,División de Honor,CN Sabadell vs CN Barcelona,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-05-07,19:00-A. Ruzic-TC Grant,19:00,WTA Roma 1ª Ronda,A. Ruzic vs TC Grant,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-05-07,19:00-A. Ruzic-TC Grant,19:00,WTA Roma 1ª Ronda,A. Ruzic vs TC Grant,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-05-07,19:30-A. Eala-M. Kostyuk,19:30,WTA Roma 1ª Ronda,A. Eala vs M. Kostyuk,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-05-07,19:30-A. Eala-M. Kostyuk,19:30,WTA Roma 1ª Ronda,A. Eala vs M. Kostyuk,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-07,21:00-BM Aula Valladolid-Atlético Guardés,21:00,Liga Guerreras Iberdrola Playoffs 1/4 Final,BM Aula Valladolid vs Atlético Guardés,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-05-08,11:05-1ª Ronda ATP Masters 1000,11:05,Masters Roma,1ª Ronda ATP Masters 1000,Movistar+,102bcb79ca391e37ac1fc9ee77dc53440d0a59ce,FHD
 2025-05-08,11:05-1ª Ronda ATP Masters 1000,11:05,Masters Roma,1ª Ronda ATP Masters 1000,Movistar+,cf6ffdfa3c51268c0bd216da6b275fb866160c0c,FHD
