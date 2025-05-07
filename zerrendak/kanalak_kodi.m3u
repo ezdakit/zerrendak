@@ -213,8 +213,8 @@ plugin://script.module.horus?action=play&id=0a335406bad0b658aeddb2d38f8c0614b2e5
 plugin://script.module.horus?action=play&id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 #EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
 plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
-plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
+plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
 plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
@@ -283,6 +283,8 @@ plugin://script.module.horus?action=play&id=268289e7a3c5209960b53b4d43c8c65fab29
 plugin://script.module.horus?action=play&id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-id="ESPN.4.nl" group-title="VARIOS", ESPN 4 [BE]
 plugin://script.module.horus?action=play&id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-id="ESPN" group-title="VARIOS", ESPN HD [US]
+plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN.1.nl" group-title="VARIOS", ESPN [BE]
 plugin://script.module.horus?action=play&id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-id="ESPN 2" group-title="VARIOS", ESPN2 [US]
@@ -357,10 +359,6 @@ plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba013
 plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR
 plugin://script.module.horus?action=play&id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
-#EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA
-plugin://script.module.horus?action=play&id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET
-plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-id="UK | Sky Sport Football" group-title="VARIOS", SKY SPORTS FOOTBALL
 plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="UK | Sky Sport Main Event" group-title="VARIOS", SKY SPORTS MAIN EVENT
