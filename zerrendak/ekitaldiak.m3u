@@ -1719,6 +1719,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="10/05 Supercars Championship", 07:55 Symmons Plains Raceway Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="10/05 Primera Federación Femenina", 10:45 Roldán FSF vs At. Navalcarnero FS Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="10/05 MotoGP", 10:50 G.P. Francia (Le Mans) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="10/05 MotoGP", 10:50 G.P. Francia (Le Mans) Clasificación DAZN FHD
@@ -3657,6 +3659,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="10/05 Serie A Italiana", 18:00 Lazio vs Juventus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="10/05 Liga Guerreras Iberdrola", 18:30 BM Bera Bera vs BM Granollers Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="10/05 La Liga EA Sports", 18:30 Girona vs Villarreal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="10/05 La Liga EA Sports", 18:30 Girona vs Villarreal DAZN FHD
@@ -4125,6 +4129,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="10/05 Título Mundial Peso Superpluma", 19:30 A. Cacace vs L. Wood DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="10/05 Primera Federación Futsal", 20:00 Servigroup Peñiscola FS vs Barça FS Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="10/05 Serie A Femminile", 20:30 Juventus Femminile vs Inter Milan Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="10/05 Serie A Femminile", 20:30 Juventus Femminile vs Inter Milan Femenino DAZN FHD
