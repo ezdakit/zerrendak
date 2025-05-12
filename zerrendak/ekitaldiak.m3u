@@ -1,17 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 11:00 P. Stearns vs N. Osaka Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 11:05 P. Stearns vs N. Osaka Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 12:30 J. Paolini vs J. Ostapenko Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 13:25 D. Shnaider vs E. Mertens Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 12:30 D. Shnaider vs E. Mertens Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 14:15 J. Paolini vs J. Ostapenko Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 14:00 E. Svitolina vs D. Collins Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 15:20 C. Gauff vs E. Raducanu Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 15:00 C. Gauff vs E. Raducanu Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 16:00 E. Svitolina vs D. Collins Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 15:30 C. Tauson vs M. Andreeva Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 16:45 C. Tauson vs M. Andreeva Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="12/05 WTA Roma 1/8 de final", 18:30 B. Andreescu vs Q. Zheng Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
@@ -82,13 +82,15 @@ http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 18:30 Venezia FC vs Fiorentina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 18:30 Venezia FC vs Fiorentina DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 18:30 Venezia FC vs Fiorentina DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 18:30 Venezia FC vs Fiorentina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 18:30 Venezia FC vs Fiorentina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 18:30 Venezia FC vs Fiorentina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 18:30 Venezia FC vs Fiorentina DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 18:30 Venezia FC vs Fiorentina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 18:30 Venezia FC vs Fiorentina DAZN 
@@ -168,13 +170,15 @@ http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="12/05 LaLiga Hypermotion", 20:30 Granada CF vs Eibar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="12/05 LaLiga Hypermotion", 20:30 Granada CF vs Eibar DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="12/05 LaLiga Hypermotion", 20:30 Granada CF vs Eibar DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="12/05 LaLiga Hypermotion", 20:30 Granada CF vs Eibar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="12/05 LaLiga Hypermotion", 20:30 Granada CF vs Eibar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="12/05 LaLiga Hypermotion", 20:30 Granada CF vs Eibar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="12/05 LaLiga Hypermotion", 20:30 Granada CF vs Eibar DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="12/05 LaLiga Hypermotion", 20:30 Granada CF vs Eibar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="12/05 LaLiga Hypermotion", 20:30 Granada CF vs Eibar DAZN 
@@ -252,13 +256,15 @@ http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 20:45 Atalanta vs AS Roma DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 20:45 Atalanta vs AS Roma DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 20:45 Atalanta vs AS Roma DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 20:45 Atalanta vs AS Roma DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 20:45 Atalanta vs AS Roma DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 20:45 Atalanta vs AS Roma DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 20:45 Atalanta vs AS Roma DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 20:45 Atalanta vs AS Roma DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="12/05 Serie A Italiana", 20:45 Atalanta vs AS Roma DAZN 
@@ -404,13 +410,15 @@ http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="13/05 Giro de Italia", 12:45 Etapa 4 Alberobello (Pietramadre) › Lecce (189 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="13/05 Giro de Italia", 12:45 Etapa 4 Alberobello (Pietramadre) › Lecce (189 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="13/05 Giro de Italia", 12:45 Etapa 4 Alberobello (Pietramadre) › Lecce (189 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="13/05 Giro de Italia", 12:45 Etapa 4 Alberobello (Pietramadre) › Lecce (189 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="13/05 Giro de Italia", 12:45 Etapa 4 Alberobello (Pietramadre) › Lecce (189 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="13/05 Giro de Italia", 12:45 Etapa 4 Alberobello (Pietramadre) › Lecce (189 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="13/05 Giro de Italia", 12:45 Etapa 4 Alberobello (Pietramadre) › Lecce (189 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="13/05 Giro de Italia", 12:45 Etapa 4 Alberobello (Pietramadre) › Lecce (189 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="13/05 Giro de Italia", 12:45 Etapa 4 Alberobello (Pietramadre) › Lecce (189 km) DAZN 
@@ -500,13 +508,15 @@ http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 20:00 Real Sociedad vs Celta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 20:00 Real Sociedad vs Celta DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 20:00 Real Sociedad vs Celta DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 20:00 Real Sociedad vs Celta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 20:00 Real Sociedad vs Celta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 20:00 Real Sociedad vs Celta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 20:00 Real Sociedad vs Celta DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 20:00 Real Sociedad vs Celta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 20:00 Real Sociedad vs Celta DAZN 
@@ -584,13 +594,15 @@ http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 21:30 Sevilla FC vs UD Las Palmas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 21:30 Sevilla FC vs UD Las Palmas DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 21:30 Sevilla FC vs UD Las Palmas DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 21:30 Sevilla FC vs UD Las Palmas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 21:30 Sevilla FC vs UD Las Palmas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 21:30 Sevilla FC vs UD Las Palmas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 21:30 Sevilla FC vs UD Las Palmas DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 21:30 Sevilla FC vs UD Las Palmas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 21:30 Sevilla FC vs UD Las Palmas DAZN 
@@ -738,13 +750,15 @@ http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="14/05 Giro de Italia", 13:30 Etapa 5 Ceglie Messapica › Matera (151 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="14/05 Giro de Italia", 13:30 Etapa 5 Ceglie Messapica › Matera (151 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="14/05 Giro de Italia", 13:30 Etapa 5 Ceglie Messapica › Matera (151 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="14/05 Giro de Italia", 13:30 Etapa 5 Ceglie Messapica › Matera (151 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="14/05 Giro de Italia", 13:30 Etapa 5 Ceglie Messapica › Matera (151 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="14/05 Giro de Italia", 13:30 Etapa 5 Ceglie Messapica › Matera (151 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="14/05 Giro de Italia", 13:30 Etapa 5 Ceglie Messapica › Matera (151 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/05 Giro de Italia", 13:30 Etapa 5 Ceglie Messapica › Matera (151 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="14/05 Giro de Italia", 13:30 Etapa 5 Ceglie Messapica › Matera (151 km) DAZN 
@@ -830,13 +844,15 @@ http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 19:00 Villarreal vs Leganés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 19:00 Villarreal vs Leganés DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 19:00 Villarreal vs Leganés DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 19:00 Villarreal vs Leganés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 19:00 Villarreal vs Leganés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 19:00 Villarreal vs Leganés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 19:00 Villarreal vs Leganés DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 19:00 Villarreal vs Leganés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 19:00 Villarreal vs Leganés DAZN 
@@ -914,13 +930,15 @@ http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="14/05 National League", 20:45 Oldham Athletic vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="14/05 National League", 20:45 Oldham Athletic vs Halifax Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="14/05 National League", 20:45 Oldham Athletic vs Halifax Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="14/05 National League", 20:45 Oldham Athletic vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="14/05 National League", 20:45 Oldham Athletic vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="14/05 National League", 20:45 Oldham Athletic vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="14/05 National League", 20:45 Oldham Athletic vs Halifax Town DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/05 National League", 20:45 Oldham Athletic vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="14/05 National League", 20:45 Oldham Athletic vs Halifax Town DAZN 
@@ -998,13 +1016,15 @@ http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="14/05 Coppa Italia Final", 21:00 AC Milan vs Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="14/05 Coppa Italia Final", 21:00 AC Milan vs Bologna DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="14/05 Coppa Italia Final", 21:00 AC Milan vs Bologna DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="14/05 Coppa Italia Final", 21:00 AC Milan vs Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="14/05 Coppa Italia Final", 21:00 AC Milan vs Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="14/05 Coppa Italia Final", 21:00 AC Milan vs Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="14/05 Coppa Italia Final", 21:00 AC Milan vs Bologna DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/05 Coppa Italia Final", 21:00 AC Milan vs Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="14/05 Coppa Italia Final", 21:00 AC Milan vs Bologna DAZN 
@@ -1082,13 +1102,15 @@ http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 21:30 Real Madrid vs Mallorca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 21:30 Real Madrid vs Mallorca DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 21:30 Real Madrid vs Mallorca DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 21:30 Real Madrid vs Mallorca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 21:30 Real Madrid vs Mallorca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 21:30 Real Madrid vs Mallorca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 21:30 Real Madrid vs Mallorca DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 21:30 Real Madrid vs Mallorca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="14/05 La Liga EA Sports", 21:30 Real Madrid vs Mallorca DAZN 
