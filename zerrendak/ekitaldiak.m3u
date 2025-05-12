@@ -453,12 +453,16 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="13/05 Giro de Italia", 12:45 Etapa 4 Alberobello (Pietramadre) › Lecce (189 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="" group-title="13/05 WTA Roma", 13:00 1/4 de Final WTA 1000 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="13/05 WTA Roma 1/4 de Final", 13:00 J. Paolini vs D. Shnaider Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="13/05 WTA Roma", 13:00 1/4 de Final WTA 1000 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="13/05 WTA Roma 1/4 de Final", 13:00 J. Paolini vs D. Shnaider Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="13/05 FIBA Copa Mundial", 19:00 Sorteo Fase de Clasificación Catar 2027 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="13/05 WTA Roma 1/4 de Final", 19:00 P. Stearns vs E. Svitolina Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="13/05 WTA Roma 1/4 de Final", 19:00 P. Stearns vs E. Svitolina Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 20:00 Real Sociedad vs Celta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="13/05 La Liga EA Sports", 20:00 Real Sociedad vs Celta DAZN FHD
