@@ -47,8 +47,10 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-13,12:45-Etapa 4 Alberobello (Pietramadre) › Lecce (189 km),12:45,Giro de Italia,Etapa 4 Alberobello (Pietramadre) › Lecce (189 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-05-13,12:45-Etapa 4 Alberobello (Pietramadre) › Lecce (189 km),12:45,Giro de Italia,Etapa 4 Alberobello (Pietramadre) › Lecce (189 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-05-13,12:45-Etapa 4 Alberobello (Pietramadre) › Lecce (189 km),12:45,Giro de Italia,Etapa 4 Alberobello (Pietramadre) › Lecce (189 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
-2025-05-13,13:00-J. Paolini-D. Shnaider,13:00,WTA Roma 1/4 de Final,J. Paolini vs D. Shnaider,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-05-13,14:05-J. Paolini-D. Shnaider,14:05,WTA Roma 1/4 de Final,J. Paolini vs D. Shnaider,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-05-13,14:05-J. Paolini-D. Shnaider,14:05,WTA Roma 1/4 de Final,J. Paolini vs D. Shnaider,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-13,19:00-Sorteo Fase de Clasificación Catar 2027,19:00,FIBA Copa Mundial,Sorteo Fase de Clasificación Catar 2027,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-05-13,19:00-P. Stearns-E. Svitolina,19:00,WTA Roma 1/4 de Final,P. Stearns vs E. Svitolina,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-05-13,19:00-P. Stearns-E. Svitolina,19:00,WTA Roma 1/4 de Final,P. Stearns vs E. Svitolina,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-13,20:00-Real Sociedad-Celta,20:00,La Liga EA Sports,Real Sociedad vs Celta,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-13,20:00-Real Sociedad-Celta,20:00,La Liga EA Sports,Real Sociedad vs Celta,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
@@ -172,6 +174,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-14,11:00-1/4 de Final ATP Masters 1000,11:00,Masters Roma,1/4 de Final ATP Masters 1000,Movistar+,56ac8e227d526e722624675ccdd91b0cc850582f,
 2025-05-14,11:00-1/4 de Final ATP Masters 1000,11:00,Masters Roma,1/4 de Final ATP Masters 1000,Movistar+,d03c13b6723f66155d7a0df3692a3b073fe630f2,
 2025-05-14,11:00-1/4 de Final ATP Masters 1000,11:00,Masters Roma,1/4 de Final ATP Masters 1000,Movistar+,12ba546d229bc39f01c3c18988a034b215fe6adb,
+2025-05-14,13:00-1/4 de Final WTA 1000,13:00,WTA Roma,1/4 de Final WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-05-14,13:00-1/4 de Final WTA 1000,13:00,WTA Roma,1/4 de Final WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-14,13:30-Etapa 5 Ceglie Messapica › Matera (151 km),13:30,Giro de Italia,Etapa 5 Ceglie Messapica › Matera (151 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-14,13:30-Etapa 5 Ceglie Messapica › Matera (151 km),13:30,Giro de Italia,Etapa 5 Ceglie Messapica › Matera (151 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
@@ -523,7 +526,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-15,11:15-Etapa 6 Potenza › Napoli (227 km),11:15,Giro de Italia,Etapa 6 Potenza › Napoli (227 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-05-15,11:15-Etapa 6 Potenza › Napoli (227 km),11:15,Giro de Italia,Etapa 6 Potenza › Napoli (227 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-05-15,11:15-Etapa 6 Potenza › Napoli (227 km),11:15,Giro de Italia,Etapa 6 Potenza › Napoli (227 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
+2025-05-15,16:00-,16:00,US PGA Championship,,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-05-15,16:00-,16:00,US PGA Championship,,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-05-15,16:00-Semifinal 1 WTA 1000,16:00,WTA Roma,Semifinal 1 WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-05-15,16:00-Semifinal 1 WTA 1000,16:00,WTA Roma,Semifinal 1 WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-15,19:00-Rayo Vallecano-Real Betis,19:00,La Liga EA Sports,Rayo Vallecano vs Real Betis,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-15,19:00-Rayo Vallecano-Real Betis,19:00,La Liga EA Sports,Rayo Vallecano vs Real Betis,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
@@ -613,5 +618,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-15,20:45-AFC Rochdale-Southend Utd.,20:45,National League,AFC Rochdale vs Southend Utd.,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-05-15,20:45-AFC Rochdale-Southend Utd.,20:45,National League,AFC Rochdale vs Southend Utd.,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-15,20:45-AFC Rochdale-Southend Utd.,20:45,National League,AFC Rochdale vs Southend Utd.,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-05-15,22:00-,22:00,US PGA Championship,,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-05-15,22:00-,22:00,US PGA Championship,,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-05-15,22:00-Semifinal 2 WTA 1000,22:00,WTA Roma,Semifinal 2 WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-05-15,22:00-Semifinal 2 WTA 1000,22:00,WTA Roma,Semifinal 2 WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
