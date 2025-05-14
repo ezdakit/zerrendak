@@ -49,8 +49,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-14,13:30-Etapa 5 Ceglie Messapica › Matera (151 km),13:30,Giro de Italia,Etapa 5 Ceglie Messapica › Matera (151 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-05-14,13:30-Etapa 5 Ceglie Messapica › Matera (151 km),13:30,Giro de Italia,Etapa 5 Ceglie Messapica › Matera (151 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-05-14,13:30-Etapa 5 Ceglie Messapica › Matera (151 km),13:30,Giro de Italia,Etapa 5 Ceglie Messapica › Matera (151 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
-2025-05-14,19:00-A. Sabalenka-Q. Zheng,19:00,WTA Roma 1/4 de Final,A. Sabalenka vs Q. Zheng,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-05-14,19:00-A. Sabalenka-Q. Zheng,19:00,WTA Roma 1/4 de Final,A. Sabalenka vs Q. Zheng,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-14,19:00-Villarreal-Leganés,19:00,La Liga EA Sports Camp El Madrigal. Villarreal,Villarreal vs Leganés,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-14,19:00-Villarreal-Leganés,19:00,La Liga EA Sports Camp El Madrigal. Villarreal,Villarreal vs Leganés,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-14,19:00-Villarreal-Leganés,19:00,La Liga EA Sports Camp El Madrigal. Villarreal,Villarreal vs Leganés,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -95,6 +93,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-14,19:00-Villarreal-Leganés,19:00,La Liga EA Sports Camp El Madrigal. Villarreal,Villarreal vs Leganés,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-05-14,19:00-Villarreal-Leganés,19:00,La Liga EA Sports Camp El Madrigal. Villarreal,Villarreal vs Leganés,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-14,19:00-Villarreal-Leganés,19:00,La Liga EA Sports Camp El Madrigal. Villarreal,Villarreal vs Leganés,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-05-14,19:10-A. Sabalenka-Q. Zheng,19:10,WTA Roma 1/4 de Final,A. Sabalenka vs Q. Zheng,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-05-14,19:10-A. Sabalenka-Q. Zheng,19:10,WTA Roma 1/4 de Final,A. Sabalenka vs Q. Zheng,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-14,20:45-Oldham Athletic-Halifax Town,20:45,National League,Oldham Athletic vs Halifax Town,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-14,20:45-Oldham Athletic-Halifax Town,20:45,National League,Oldham Athletic vs Halifax Town,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-14,20:45-Oldham Athletic-Halifax Town,20:45,National League,Oldham Athletic vs Halifax Town,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -365,8 +365,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-15,19:00-Rayo Vallecano-Real Betis,19:00,La Liga EA Sports Estadio de Vallecas. Madrid,Rayo Vallecano vs Real Betis,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-05-15,19:00-Rayo Vallecano-Real Betis,19:00,La Liga EA Sports Estadio de Vallecas. Madrid,Rayo Vallecano vs Real Betis,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-15,19:00-Rayo Vallecano-Real Betis,19:00,La Liga EA Sports Estadio de Vallecas. Madrid,Rayo Vallecano vs Real Betis,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-05-15,20:30-TBD-C. Gauff,20:30,WTA Roma Semifinal 2,TBD vs C. Gauff,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-05-15,20:30-TBD-C. Gauff,20:30,WTA Roma Semifinal 2,TBD vs C. Gauff,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-05-15,20:30-Q. Zheng-C. Gauff,20:30,WTA Roma Semifinal 2,Q. Zheng vs C. Gauff,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-05-15,20:30-Q. Zheng-C. Gauff,20:30,WTA Roma Semifinal 2,Q. Zheng vs C. Gauff,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-15,20:45-AFC Rochdale-Southend Utd.,20:45,National League,AFC Rochdale vs Southend Utd.,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-15,20:45-AFC Rochdale-Southend Utd.,20:45,National League,AFC Rochdale vs Southend Utd.,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-15,20:45-AFC Rochdale-Southend Utd.,20:45,National League,AFC Rochdale vs Southend Utd.,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
