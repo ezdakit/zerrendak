@@ -89,6 +89,8 @@ plugin://script.module.horus?action=play&id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e
 plugin://script.module.horus?action=play&id=a9025d4e168764248d33129c30940502cea0e1c2
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
 plugin://script.module.horus?action=play&id=47223e64a576c21bd61e818a42397a753d34fba5
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
+plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 FHD
 plugin://script.module.horus?action=play&id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 FHD
@@ -215,6 +217,8 @@ plugin://script.module.horus?action=play&id=fefd45ed6ff415e05f1341b7d9da2988eacd
 plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
 plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
+plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
 plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="PT | DAZN 5" group-title="VARIOS", ELEVEN DAZN 5 HD
