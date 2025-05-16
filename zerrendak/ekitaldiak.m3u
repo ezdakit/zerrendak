@@ -1471,6 +1471,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="17/05 Giro de Italia", 12:00 Etapa 8 Giulianova › Castelraimondo (197 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="17/05 WTA Roma Final", 12:00 C. Gauff vs J. Paolini Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="17/05 Vuelta al País Vasco Femenina", 12:00 Etapa 2 Ugao-Miraballes › Igorre (116 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="17/05 Vuelta al País Vasco Femenina", 12:00 Etapa 2 Ugao-Miraballes › Igorre (116 km) DAZN FHD
@@ -1707,6 +1709,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="17/05 Supersport", 12:35 G.P. República Checa (Autodrom Most) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="17/05 Supersport", 12:35 G.P. República Checa (Autodrom Most) Carrera 1 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="17/05 Superbike", 14:00 G.P. República Checa (Autodrom Most) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="17/05 Superbike", 14:00 G.P. República Checa (Autodrom Most) Carrera 1 DAZN FHD
@@ -1783,6 +1787,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="17/05 Superbike", 14:00 G.P. República Checa (Autodrom Most) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="17/05 Superbike", 14:00 G.P. República Checa (Autodrom Most) Carrera 1 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="17/05 Superbike", 14:00 G.P. República Checa (Autodrom Most) Carrera 1 Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="" group-title="17/05 Superbike", 14:00 G.P. República Checa (Autodrom Most) Carrera 1 Eurosport 2 FHD
@@ -1863,8 +1869,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="17/05 FIA Fórmula 2", 14:15 G.P. Emilia Romagna (Imola) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="17/05 WTA Roma Final", 15:00 J. Paolini vs C. Gauff Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="17/05 Supersport 300", 15:15 G.P. República Checa (Autodrom Most) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="17/05 Supersport 300", 15:15 G.P. República Checa (Autodrom Most) Carrera 1 DAZN FHD
@@ -1941,6 +1945,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="17/05 Supersport 300", 15:15 G.P. República Checa (Autodrom Most) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="17/05 Supersport 300", 15:15 G.P. República Checa (Autodrom Most) Carrera 1 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="17/05 Bundesliga", 15:30 Mainz 05 vs Bayer Leverkusen DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="17/05 Bundesliga", 15:30 Mainz 05 vs Bayer Leverkusen DAZN FHD
@@ -3701,6 +3707,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/05 Superbike", 11:00 G.P. República Checa (Autodrom Most) Carrera Superpole DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="18/05 Superbike", 11:00 G.P. República Checa (Autodrom Most) Carrera Superpole Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="18/05 WTA Torneo de Estrasburgo", 11:00 1ª Ronda WTA 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/05 WTA Torneo de Estrasburgo", 11:00 1ª Ronda WTA 500 DAZN FHD
@@ -3777,6 +3785,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/05 WTA Torneo de Estrasburgo", 11:00 1ª Ronda WTA 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="18/05 WTA Torneo de Estrasburgo", 11:00 1ª Ronda WTA 500 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="18/05 Torneo de Hamburgo", 12:00 1ª Ronda ATP 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="18/05 WTA Torneo de Rabat", 12:00 1ª Ronda WTA 250 Tennis Channel 
@@ -4475,6 +4485,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="18/05 Giro de Italia", 12:30 Etapa 9 Gubbio › Siena (181 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="18/05 Liga ASOBAL", 12:30 Recoletas At. Valladolid vs Bidasoa Irún Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="18/05 Supersport", 12:35 G.P. República Checa (Autodrom Most) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/05 Supersport", 12:35 G.P. República Checa (Autodrom Most) Carrera 2 DAZN FHD
@@ -4779,6 +4791,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/05 Superbike", 14:00 G.P. República Checa (Autodrom Most) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="18/05 Superbike", 14:00 G.P. República Checa (Autodrom Most) Carrera 2 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="18/05 LaLiga Hypermotion", 14:00 Racing Ferrol vs Cádiz CF DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/05 LaLiga Hypermotion", 14:00 Racing Ferrol vs Cádiz CF DAZN FHD
@@ -5083,6 +5097,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/05 4 Días de Dunkerque", 15:15 Etapa 5 Wormhout › Dunkerque (185.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="18/05 4 Días de Dunkerque", 15:15 Etapa 5 Wormhout › Dunkerque (185.6 km) Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="18/05 Supersport 300", 15:15 G.P. República Checa (Autodrom Most) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/05 Supersport 300", 15:15 G.P. República Checa (Autodrom Most) Carrera 2 DAZN FHD
@@ -5159,6 +5175,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/05 Supersport 300", 15:15 G.P. República Checa (Autodrom Most) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="18/05 Supersport 300", 15:15 G.P. República Checa (Autodrom Most) Carrera 2 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="18/05 Premier League", 15:15 West Ham vs Nottingham Forest DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/05 Premier League", 15:15 West Ham vs Nottingham Forest DAZN FHD
@@ -6149,8 +6167,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/05 La Liga EA Sports", 19:00 FC Barcelona vs Villarreal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="18/05 Liga ASOBAL", 20:00 Recoletas At. Valladolid vs Bidasoa Irún Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="18/05 Serie A Italiana", 20:45 Juventus vs Udinese DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/05 Serie A Italiana", 20:45 Juventus vs Udinese DAZN FHD
