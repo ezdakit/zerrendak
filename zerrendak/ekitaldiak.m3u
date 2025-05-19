@@ -76,7 +76,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="19/05 NASCAR Cup Series", 02:00 NASCAR All-Star Race Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/05 NASCAR Cup Series", 02:00 NASCAR All-Star Race Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="19/05 NASCAR Cup Series", 02:00 NASCAR All-Star Race Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/05 NASCAR Cup Series", 02:00 NASCAR All-Star Race Carrera DAZN 
@@ -85,18 +85,32 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Estrasburgo 1ª Ronda", 11:00 A. Cornet vs M. Bouzkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Estrasburgo 1ª Ronda", 11:00 A. Cornet vs M. Bouzkova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Rabat 1ª Ronda", 12:00 A. Tomljanovic vs V. Tomova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Rabat 1ª Ronda", 12:00 A. Tomljanovic vs V. Tomova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Estrasburgo 1ª Ronda", 12:30 B. Haddad Maia vs C. Tauson Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Estrasburgo 1ª Ronda", 12:30 B. Haddad Maia vs C. Tauson Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Rabat 1ª Ronda", 13:30 Z. Sonmez vs L. Bronzetti Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Rabat 1ª Ronda", 13:30 Z. Sonmez vs L. Bronzetti Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Estrasburgo 1ª Ronda", 14:00 D. Collins vs S. Kenin Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Estrasburgo 1ª Ronda", 14:00 D. Collins vs S. Kenin Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Rabat 1ª Ronda", 15:00 E. Cocciaretto vs MC. Osorio Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Rabat 1ª Ronda", 15:00 E. Cocciaretto vs MC. Osorio Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Estrasburgo 1ª Ronda", 17:30 E. Raducanu vs D. Kasatkina Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/05 WTA Torneo de Estrasburgo 1ª Ronda", 17:30 E. Raducanu vs D. Kasatkina Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/05 San Juan Open", 19:00 2ª Ronda A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="19/05 San Juan Open", 19:00 2ª Ronda A1 Padel DAZN FHD
@@ -172,7 +186,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="19/05 San Juan Open", 19:00 2ª Ronda A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/05 San Juan Open", 19:00 2ª Ronda A1 Padel DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="19/05 San Juan Open", 19:00 2ª Ronda A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/05 San Juan Open", 19:00 2ª Ronda A1 Padel DAZN 
@@ -254,7 +268,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:00 Dolomiti Energia Trento vs AX Olimpia Milano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:00 Dolomiti Energia Trento vs AX Olimpia Milano DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:00 Dolomiti Energia Trento vs AX Olimpia Milano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:00 Dolomiti Energia Trento vs AX Olimpia Milano DAZN 
@@ -336,7 +350,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="19/05 LaLiga Hypermotion", 20:30 Córdoba vs Mirandés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/05 LaLiga Hypermotion", 20:30 Córdoba vs Mirandés DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="19/05 LaLiga Hypermotion", 20:30 Córdoba vs Mirandés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/05 LaLiga Hypermotion", 20:30 Córdoba vs Mirandés DAZN 
@@ -418,7 +432,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:30 Trapani Shark vs Reggio Emilia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:30 Trapani Shark vs Reggio Emilia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:30 Trapani Shark vs Reggio Emilia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:30 Trapani Shark vs Reggio Emilia DAZN 
@@ -500,7 +514,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:45 Pallacanestro Brescia vs Trieste Pallacanestro DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:45 Pallacanestro Brescia vs Trieste Pallacanestro DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:45 Pallacanestro Brescia vs Trieste Pallacanestro DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/05 Lega Serie A Playoffs 1/4 Final", 20:45 Pallacanestro Brescia vs Trieste Pallacanestro DAZN 
@@ -582,7 +596,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="19/05 Premier League", 21:00 Brighton vs Liverpool DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/05 Premier League", 21:00 Brighton vs Liverpool DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="19/05 Premier League", 21:00 Brighton vs Liverpool DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/05 Premier League", 21:00 Brighton vs Liverpool DAZN 
@@ -591,6 +605,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="20/05 WTA Torneo de Estrasburgo", 11:05 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/05 WTA Torneo de Estrasburgo", 11:05 2ª Ronda WTA 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/05 Paraguay Open", PD 1ª Ronda Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="20/05 Paraguay Open", PD 1ª Ronda Premier Padel Tour DAZN FHD
@@ -666,7 +682,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="20/05 Paraguay Open", PD 1ª Ronda Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/05 Paraguay Open", PD 1ª Ronda Premier Padel Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/05 Paraguay Open", PD 1ª Ronda Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="20/05 Paraguay Open", PD 1ª Ronda Premier Padel Tour DAZN 
@@ -748,7 +764,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="20/05 San Juan Open", PD 2ª Ronda A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/05 San Juan Open", PD 2ª Ronda A1 Padel DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/05 San Juan Open", PD 2ª Ronda A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="20/05 San Juan Open", PD 2ª Ronda A1 Padel DAZN 
@@ -757,6 +773,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="20/05 WTA Torneo de Rabat", 12:05 2ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/05 WTA Torneo de Rabat", 12:05 2ª Ronda WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/05 Giro de Italia", 13:15 Etapa 10 Lucca › Pisa (28.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="20/05 Giro de Italia", 13:15 Etapa 10 Lucca › Pisa (28.6 km) DAZN FHD
@@ -832,7 +850,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="20/05 Giro de Italia", 13:15 Etapa 10 Lucca › Pisa (28.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/05 Giro de Italia", 13:15 Etapa 10 Lucca › Pisa (28.6 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/05 Giro de Italia", 13:15 Etapa 10 Lucca › Pisa (28.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="20/05 Giro de Italia", 13:15 Etapa 10 Lucca › Pisa (28.6 km) DAZN 
@@ -920,7 +938,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="20/05 Lega Serie A Playoffs 1/4 Final", 20:30 Virtus Bologna vs Umana Reyer Venice DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/05 Lega Serie A Playoffs 1/4 Final", 20:30 Virtus Bologna vs Umana Reyer Venice DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/05 Lega Serie A Playoffs 1/4 Final", 20:30 Virtus Bologna vs Umana Reyer Venice DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="20/05 Lega Serie A Playoffs 1/4 Final", 20:30 Virtus Bologna vs Umana Reyer Venice DAZN 
@@ -1002,7 +1020,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="20/05 National League", 20:45 York City vs Oldham Athletic DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/05 National League", 20:45 York City vs Oldham Athletic DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/05 National League", 20:45 York City vs Oldham Athletic DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="20/05 National League", 20:45 York City vs Oldham Athletic DAZN 
@@ -1084,7 +1102,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="20/05 Premier League", 21:00 Manchester City vs Bournemouth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/05 Premier League", 21:00 Manchester City vs Bournemouth DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/05 Premier League", 21:00 Manchester City vs Bournemouth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="20/05 Premier League", 21:00 Manchester City vs Bournemouth DAZN 
@@ -1166,7 +1184,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="20/05 Premier League", 21:00 Crystal Palace vs Wolverhampton DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/05 Premier League", 21:00 Crystal Palace vs Wolverhampton DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/05 Premier League", 21:00 Crystal Palace vs Wolverhampton DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="20/05 Premier League", 21:00 Crystal Palace vs Wolverhampton DAZN 
@@ -1175,6 +1193,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="21/05 WTA Torneo de Estrasburgo", 11:05 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/05 WTA Torneo de Estrasburgo", 11:05 2ª Ronda WTA 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/05 Paraguay Open", PD 2ª Ronda Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="21/05 Paraguay Open", PD 2ª Ronda Premier Padel Tour DAZN FHD
@@ -1250,7 +1270,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="21/05 Paraguay Open", PD 2ª Ronda Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/05 Paraguay Open", PD 2ª Ronda Premier Padel Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/05 Paraguay Open", PD 2ª Ronda Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="21/05 Paraguay Open", PD 2ª Ronda Premier Padel Tour DAZN 
@@ -1332,7 +1352,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="21/05 San Juan Open", PD 1/8 de final A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/05 San Juan Open", PD 1/8 de final A1 Padel DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/05 San Juan Open", PD 1/8 de final A1 Padel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="21/05 San Juan Open", PD 1/8 de final A1 Padel DAZN 
@@ -1414,7 +1434,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="21/05 Giro de Italia", 12:00 Etapa 11 Viareggio › Castelnovo ne’ Monti (186 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/05 Giro de Italia", 12:00 Etapa 11 Viareggio › Castelnovo ne’ Monti (186 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/05 Giro de Italia", 12:00 Etapa 11 Viareggio › Castelnovo ne’ Monti (186 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="21/05 Giro de Italia", 12:00 Etapa 11 Viareggio › Castelnovo ne’ Monti (186 km) DAZN 
@@ -1429,8 +1449,12 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="21/05 Torneo de Hamburgo", 12:05 2ª Ronda ATP 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/05 Torneo de Hamburgo", 12:05 2ª Ronda ATP 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/05 WTA Torneo de Rabat", 12:05 2ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/05 WTA Torneo de Rabat", 12:05 2ª Ronda WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/05 Liga Guerreras Iberdrola Playoff Semifinales", 20:30 BM Bera Bera vs Costa del Sol Málaga Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/05 National League", 20:45 Forest Green Rovers vs Southend Utd. DAZN 
@@ -1508,7 +1532,7 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="" group-title="21/05 National League", 20:45 Forest Green Rovers vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/05 National League", 20:45 Forest Green Rovers vs Southend Utd. DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/05 National League", 20:45 Forest Green Rovers vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="21/05 National League", 20:45 Forest Green Rovers vs Southend Utd. DAZN 
