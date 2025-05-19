@@ -300,8 +300,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-19,21:00-Brighton-Liverpool,21:00,Premier League,Brighton vs Liverpool,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-05-19,21:00-Brighton-Liverpool,21:00,Premier League,Brighton vs Liverpool,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-19,21:00-Brighton-Liverpool,21:00,Premier League,Brighton vs Liverpool,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-05-20,11:05-2ª Ronda WTA 500,11:05,WTA Torneo de Estrasburgo,2ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-05-20,11:05-2ª Ronda WTA 500,11:05,WTA Torneo de Estrasburgo,2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-05-20,11:00-M. Linette-R. Sramkova,11:00,WTA Torneo de Estrasburgo 2ª Ronda,M. Linette vs R. Sramkova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-05-20,11:00-M. Linette-R. Sramkova,11:00,WTA Torneo de Estrasburgo 2ª Ronda,M. Linette vs R. Sramkova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-20,PD-1ª Ronda Premier Padel Tour,PD,Paraguay Open,1ª Ronda Premier Padel Tour,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-20,PD-1ª Ronda Premier Padel Tour,PD,Paraguay Open,1ª Ronda Premier Padel Tour,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-20,PD-1ª Ronda Premier Padel Tour,PD,Paraguay Open,1ª Ronda Premier Padel Tour,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -386,6 +386,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-20,PD-2ª Ronda A1 Padel,PD,San Juan Open,2ª Ronda A1 Padel,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-05-20,12:05-2ª Ronda WTA 250,12:05,WTA Torneo de Rabat,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-05-20,12:05-2ª Ronda WTA 250,12:05,WTA Torneo de Rabat,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-05-20,12:30-P. Badosa-M. Bouzkova,12:30,WTA Torneo de Estrasburgo 2ª Ronda,P. Badosa vs M. Bouzkova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-05-20,12:30-P. Badosa-M. Bouzkova,12:30,WTA Torneo de Estrasburgo 2ª Ronda,P. Badosa vs M. Bouzkova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-20,13:15-Etapa 10 Lucca › Pisa (28.6 km),13:15,Giro de Italia,Etapa 10 Lucca › Pisa (28.6 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-20,13:15-Etapa 10 Lucca › Pisa (28.6 km),13:15,Giro de Italia,Etapa 10 Lucca › Pisa (28.6 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-20,13:15-Etapa 10 Lucca › Pisa (28.6 km),13:15,Giro de Italia,Etapa 10 Lucca › Pisa (28.6 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -430,6 +432,10 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-20,13:15-Etapa 10 Lucca › Pisa (28.6 km),13:15,Giro de Italia,Etapa 10 Lucca › Pisa (28.6 km),Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
 2025-05-20,13:15-Etapa 10 Lucca › Pisa (28.6 km),13:15,Giro de Italia,Etapa 10 Lucca › Pisa (28.6 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-05-20,13:15-Etapa 10 Lucca › Pisa (28.6 km),13:15,Giro de Italia,Etapa 10 Lucca › Pisa (28.6 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
+2025-05-20,14:00-X. Wang-E. Rybakina,14:00,WTA Torneo de Estrasburgo 2ª Ronda,X. Wang vs E. Rybakina,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-05-20,14:00-X. Wang-E. Rybakina,14:00,WTA Torneo de Estrasburgo 2ª Ronda,X. Wang vs E. Rybakina,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-05-20,17:30-D. Parry-L. Samsonova,17:30,WTA Torneo de Estrasburgo 2ª Ronda,D. Parry vs L. Samsonova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-05-20,17:30-D. Parry-L. Samsonova,17:30,WTA Torneo de Estrasburgo 2ª Ronda,D. Parry vs L. Samsonova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-05-20,20:30-Virtus Bologna-Umana Reyer Venice,20:30,Lega Serie A Playoffs 1/4 Final,Virtus Bologna vs Umana Reyer Venice,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-20,20:30-Virtus Bologna-Umana Reyer Venice,20:30,Lega Serie A Playoffs 1/4 Final,Virtus Bologna vs Umana Reyer Venice,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-20,20:30-Virtus Bologna-Umana Reyer Venice,20:30,Lega Serie A Playoffs 1/4 Final,Virtus Bologna vs Umana Reyer Venice,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
