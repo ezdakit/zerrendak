@@ -433,7 +433,13 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="20/05 Premier League", 21:00 Crystal Palace vs Wolverhampton DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="21/05 WTA Torneo de Estrasburgo", 11:05 2ª Ronda WTA 500 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/05 WTA Torneo de Estrasburgo 2ª Ronda", 11:00 D. Collins vs E. Raducanu Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/05 WTA Torneo de Estrasburgo 2ª Ronda", 11:00 B. Haddad Maia vs A. Krueger Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/05 WTA Torneo de Estrasburgo 2ª Ronda", 11:00 J. Pegula vs A. Kalinskaya Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/05 WTA Torneo de Estrasburgo 2ª Ronda", 11:00 A. Blinkova vs E. Navarro Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/05 Giro de Italia", 12:00 Etapa 11 Viareggio › Castelnovo ne’ Monti (186 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -955,6 +961,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="22/05 Giro de Italia", 13:00 Etapa 12 Modena › Viadana (Oglio-Po) (172 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="22/05 Vuelta a Burgos Femenina", 14:30 Etapa 1 Burgos › Poza de la Sal (125 km) Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="22/05 World Sevens Football Fase de grupos", 15:30 FC Rosengard vs FC Bayern Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="22/05 World Sevens Football Fase de grupos", 15:30 FC Rosengard vs FC Bayern Femenino DAZN FHD
@@ -1201,6 +1209,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="22/05 World Sevens Football Fase de grupos", 17:30 Man Utd Femenino vs Benfica Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="22/05 IHF Mundial Femenino", 18:00 Sorteo Fase Final Holanda y Alemania 2025 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="22/05 Lega Serie A Playoffs 1/4 Final", 19:30 Trieste Pallacanestro vs Pallacanestro Brescia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="22/05 Lega Serie A Playoffs 1/4 Final", 19:30 Trieste Pallacanestro vs Pallacanestro Brescia DAZN FHD
