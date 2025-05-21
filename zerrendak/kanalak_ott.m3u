@@ -329,6 +329,8 @@ http://127.0.0.1:6878/ace/getstream?id=b926e6a6ab1d5dc855ce2d3dbeb5e97b9d42b304
 http://127.0.0.1:6878/ace/getstream?id=9798df57203105309f47b1aa81b6badf00fd0f35
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MGPTV | CAMARA DE A BORDO 4
 http://127.0.0.1:6878/ace/getstream?id=de3ae87e72054cf3ce75268753845c97b931ad58
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD
+http://127.0.0.1:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORVISION TV
 http://127.0.0.1:6878/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD
