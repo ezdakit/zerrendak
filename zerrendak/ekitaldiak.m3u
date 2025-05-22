@@ -1,17 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 11:00 M. Linette vs E. Rybakina Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 11:05 M. Linette vs E. Rybakina Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 11:00 M. Linette vs E. Rybakina Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 11:05 M. Linette vs E. Rybakina Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 12:00 J. Bouzas vs A. Tomljanovic Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 12:10 J. Bouzas vs A. Tomljanovic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 12:00 J. Bouzas vs A. Tomljanovic Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 12:30 B. Haddad Maia vs E. Navarro Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 12:30 B. Haddad Maia vs E. Navarro Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 12:10 J. Bouzas vs A. Tomljanovic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/05 Giro de Italia", 13:00 Etapa 12 Modena › Viadana (Oglio-Po) (172 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -101,13 +97,13 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="22/05 Giro de Italia", 13:00 Etapa 12 Modena › Viadana (Oglio-Po) (172 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 13:30 A. Li vs M. Joint Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 13:10 B. Haddad Maia vs E. Navarro Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 13:30 A. Li vs M. Joint Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 13:10 B. Haddad Maia vs E. Navarro Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 14:00 P. Badosa vs L. Samsonova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 13:30 A. Li vs M. Joint Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 14:00 P. Badosa vs L. Samsonova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 13:30 A. Li vs M. Joint Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/05 Vuelta a Burgos Femenina", 14:30 Etapa 1 Burgos › Poza de la Sal (125 km) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -191,9 +187,9 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="22/05 World Sevens Football Fase de grupos", 14:30 Man City Femenino vs Ajax Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 15:00 M. Mateas vs MC. Osorio Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 14:50 M. Mateas vs MC. Osorio Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 15:00 M. Mateas vs MC. Osorio Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 14:50 M. Mateas vs MC. Osorio Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/05 World Sevens Football Fase de grupos", 15:30 FC Rosengard vs FC Bayern Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -275,9 +271,9 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="22/05 World Sevens Football Fase de grupos", 15:30 FC Rosengard vs FC Bayern Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 16:30 J. Cristian vs A. Sevastova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 16:30 P. Badosa vs L. Samsonova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 16:30 J. Cristian vs A. Sevastova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 16:30 P. Badosa vs L. Samsonova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/05 World Sevens Football Fase de grupos", 16:30 AS Roma Femenino vs PSG Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -359,9 +355,9 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="22/05 World Sevens Football Fase de grupos", 16:30 AS Roma Femenino vs PSG Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 17:30 A. Kalinskaya vs D. Collins Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 16:35 J. Cristian vs A. Sevastova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 17:30 A. Kalinskaya vs D. Collins Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Rabat 1/4 de Final", 16:35 J. Cristian vs A. Sevastova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/05 World Sevens Football Fase de grupos", 17:30 Man Utd Femenino vs Benfica Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -445,6 +441,10 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="22/05 IHF Mundial Femenino", 18:00 Sorteo Fase Final Holanda y Alemania 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 18:00 A. Kalinskaya vs D. Collins Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="22/05 WTA Torneo de Estrasburgo 1/4 de Final", 18:00 A. Kalinskaya vs D. Collins Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/05 Women's Euro Beach Soccer League", 18:45 España vs Inglaterra Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="22/05 World Sevens Football Fase de grupos", 19:30 FC Bayern Femenino vs Man City Femenino DAZN 
