@@ -219,6 +219,8 @@ http://127.0.0.1:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
 http://127.0.0.1:6878/ace/getstream?id=610993aea3a2bfd509594334b7461ce96900f54c
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS
+http://127.0.0.1:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD
@@ -341,6 +343,8 @@ http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RALLY TV
 http://127.0.0.1:6878/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR
+http://127.0.0.1:6878/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET

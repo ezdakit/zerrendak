@@ -3835,6 +3835,8 @@ http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-id="" group-title="25/05 Giro de Italia", 11:15 Etapa 15 Fiume Veneto › Asiago (219 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="25/05 Liga Guerreras Iberdrola Playoff Semifinales", 12:00 Atlético Guardés vs BM Elche Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="25/05 Moto2", 12:15 G.P. Gran Bretaña (Silverstone) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="25/05 Moto2", 12:15 G.P. Gran Bretaña (Silverstone) Carrera DAZN FHD
@@ -4155,6 +4157,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="25/05 Charles Schwab Challenge", 14:00 Jornada 4 PGA Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="25/05 Vuelta a Burgos Femenina", 14:30 Etapa 4 Villasana de Mena › Lezana de Mena (9.41 km) Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="25/05 Fórmula 1", 15:00 G.P. Mónaco (Montecarlo) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="25/05 Fórmula 1", 15:00 G.P. Mónaco (Montecarlo) Carrera DAZN FHD
