@@ -491,8 +491,12 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="24/05 WTA Torneo de Estrasburgo Final", 14:00 L. Samsonova vs E. Rybakina Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="24/05 WTA Torneo de Estrasburgo Final", 14:00 L. Samsonova vs E. Rybakina Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="24/05 WTA Torneo de Rabat Final", 14:00 M. Joint vs J. Cristian Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="24/05 WTA Torneo de Rabat Final", 14:00 M. Joint vs J. Cristian Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="24/05 FIA Fórmula 2", 14:15 G.P. Mónaco (Montecarlo) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="24/05 FIA Fórmula 2", 14:15 G.P. Mónaco (Montecarlo) Carrera 1 DAZN FHD
