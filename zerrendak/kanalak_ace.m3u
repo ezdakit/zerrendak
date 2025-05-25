@@ -75,8 +75,6 @@ acestream://a0c7f911f35d72c1abc86c89604e1d4171bf664f
 acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
-acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 FHD
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 HD
@@ -231,8 +229,8 @@ acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 3 HD
 acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
-#EXTINF:-1 tvg-id="PT | DAZN 5" group-title="VARIOS", ELEVEN DAZN 5 HD
-acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
