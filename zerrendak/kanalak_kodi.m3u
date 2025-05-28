@@ -265,6 +265,8 @@ plugin://script.module.horus?action=play&id=d4f56cda0a15f47e7820daaac8e37b4d67d9
 plugin://script.module.horus?action=play&id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
 #EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR
 plugin://script.module.horus?action=play&id=35e17cc84abc5e393b5acd688536a9681105f2d5
+#EXTINF:-1 tvg-id="" group-title="VARIOS", COMEDIA--> NEW ERA III
+plugin://script.module.horus?action=play&id=981002ae3adff1f7d994e267cafd71560dd3138b
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD
 plugin://script.module.horus?action=play&id=18f63b299de66029e17dc35e12f6c244e1979a91
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1
@@ -291,6 +293,8 @@ plugin://script.module.horus?action=play&id=515efd8115482bda8d92aa6df9a882a5e579
 plugin://script.module.horus?action=play&id=d27584ebe5128c8033cb6fdc806a994fbd17b790
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD
 plugin://script.module.horus?action=play&id=268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DRAMA--> NEW ERA III
+plugin://script.module.horus?action=play&id=2f30e21bc0b16214998de4c1d7afb395fd39970b
 #EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE]
 plugin://script.module.horus?action=play&id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-id="ESPN.4.nl" group-title="VARIOS", ESPN 4 [BE]
@@ -301,6 +305,8 @@ plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264
 plugin://script.module.horus?action=play&id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-id="ESPN 2" group-title="VARIOS", ESPN2 [US]
 plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ESTRENOS--> NEW ERA III
+plugin://script.module.horus?action=play&id=31db55dba09dc6804a30d016fc1104f2f0076508
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1
 plugin://script.module.horus?action=play&id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD
@@ -313,6 +319,12 @@ plugin://script.module.horus?action=play&id=1b0bc4d4dcd609d3c092712e721392b199f5
 plugin://script.module.horus?action=play&id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD
 plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
+#EXTINF:-1 tvg-id="" group-title="VARIOS", HITS--> NEW ERA III
+plugin://script.module.horus?action=play&id=8eeb24559dcf87c074ec62d23ddcf43d5c70abbc
+#EXTINF:-1 tvg-id="Canal Hollywood HD" group-title="VARIOS", HOLLYWOOD
+plugin://script.module.horus?action=play&id=0efe3e6352b68faf8ba8ea6fe91ad37fac3b1fba
+#EXTINF:-1 tvg-id="" group-title="VARIOS", INDIE--> NEW ERA III
+plugin://script.module.horus?action=play&id=490bbb38d3f47c823a35305ee537d141cd8fe426
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD
 plugin://script.module.horus?action=play&id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
 #EXTINF:-1 tvg-id="La 2" group-title="VARIOS", LA 2 FHD
