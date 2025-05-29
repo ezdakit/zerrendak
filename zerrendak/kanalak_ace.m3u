@@ -231,8 +231,6 @@ acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 3 HD
 acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
-#EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
@@ -271,6 +269,8 @@ acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 acestream://981002ae3adff1f7d994e267cafd71560dd3138b
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD
 acestream://18f63b299de66029e17dc35e12f6c244e1979a91
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DARK--> NEW ERA III
+acestream://95c63003b21aca0cf03b09918ae1653327081f1f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1
 acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 2
@@ -389,8 +389,6 @@ acestream://b58dbf92765976b308695f62dea94b00b40730ee
 acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: BEIN SPORTS 4 FHD
@@ -403,9 +401,5 @@ acestream://999db87cb68b0a671d61a858da7d79dd97b0c0a4
 acestream://9efe41de7f5dcafc9395591feb959832e09683ff
 #EXTINF:-1 tvg-id="" group-title="VARIOS", UFC FIGHT PASS
 acestream://0ce88d9e7273fddbc9b49f578b6b255513697139
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="VARIOS", ZIGGO SPORT
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="VARIOS", ZIGGO SPORT 2
-acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" group-title="VARIOS", ZIGGO SPORT 6
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
