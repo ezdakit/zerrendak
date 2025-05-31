@@ -168,6 +168,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-31,09:05-Shanghai (China) Carrera 1,09:05,FIA Fórmula E,Shanghai (China) Carrera 1,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-31,09:05-Shanghai (China) Carrera 1,09:05,FIA Fórmula E,Shanghai (China) Carrera 1,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-05-31,09:05-Shanghai (China) Carrera 1,09:05,FIA Fórmula E,Shanghai (China) Carrera 1,Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
+2025-05-31,09:05-Shanghai (China) Carrera 1,09:05,FIA Fórmula E,Shanghai (China) Carrera 1,Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
+2025-05-31,09:05-Shanghai (China) Carrera 1,09:05,FIA Fórmula E,Shanghai (China) Carrera 1,Eurosport 2,f6c50dd662a0cf009fa4cf9b0dee8bad3c809dec,
 2025-05-31,10:05-G.P. España (Montmeló) Carrera 1,10:05,FIA Fórmula 3,G.P. España (Montmeló) Carrera 1,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-31,10:05-G.P. España (Montmeló) Carrera 1,10:05,FIA Fórmula 3,G.P. España (Montmeló) Carrera 1,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-31,10:05-G.P. España (Montmeló) Carrera 1,10:05,FIA Fórmula 3,G.P. España (Montmeló) Carrera 1,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -295,6 +297,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-31,11:00-D. Kasatkina-P. Badosa,11:00,Roland Garros 3ª Ronda (Simonne Mathieu),D. Kasatkina vs P. Badosa,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-31,11:00-D. Kasatkina-P. Badosa,11:00,Roland Garros 3ª Ronda (Simonne Mathieu),D. Kasatkina vs P. Badosa,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-05-31,11:00-D. Kasatkina-P. Badosa,11:00,Roland Garros 3ª Ronda (Simonne Mathieu),D. Kasatkina vs P. Badosa,Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
+2025-05-31,11:00-D. Kasatkina-P. Badosa,11:00,Roland Garros 3ª Ronda (Simonne Mathieu),D. Kasatkina vs P. Badosa,Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
+2025-05-31,11:00-D. Kasatkina-P. Badosa,11:00,Roland Garros 3ª Ronda (Simonne Mathieu),D. Kasatkina vs P. Badosa,Eurosport 2,f6c50dd662a0cf009fa4cf9b0dee8bad3c809dec,
 2025-05-31,12:00-M. Vondrousova-J. Pegula,12:00,Roland Garros 3ª Ronda (Philippe Chatrier),M. Vondrousova vs J. Pegula,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-31,12:00-M. Vondrousova-J. Pegula,12:00,Roland Garros 3ª Ronda (Philippe Chatrier),M. Vondrousova vs J. Pegula,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-31,12:00-M. Vondrousova-J. Pegula,12:00,Roland Garros 3ª Ronda (Philippe Chatrier),M. Vondrousova vs J. Pegula,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -385,6 +389,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-31,12:30-G.P. España (Montmeló) Libres 3,12:30,Fórmula 1,G.P. España (Montmeló) Libres 3,Telecinco,6d2af61410d7fb6ed46fc7fe0c199951389bf75b,FHD
 2025-05-31,12:30-G.P. España (Montmeló) Libres 3,12:30,Fórmula 1,G.P. España (Montmeló) Libres 3,Telecinco,5133d1e8f45095f0b7dabbd78db0ce19a496f7bf,FHD
 2025-05-31,12:30-Burela FS-At. Navalcarnero FS,12:30,Primera Federación Femenina Playoff Semifinal,Burela FS vs At. Navalcarnero FS,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-05-31,12:30-Burela FS-At. Navalcarnero FS,12:30,Primera Federación Femenina Playoff Semifinal,Burela FS vs At. Navalcarnero FS,Teledeporte,f0a6ced31bf6272972d2cbaaf2a433c43d115d10,FHD
 2025-05-31,13:30-A. Zverev-F. Cobolli,13:30,Roland Garros 3ª Ronda (Philippe Chatrier),A. Zverev vs F. Cobolli,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-31,13:30-A. Zverev-F. Cobolli,13:30,Roland Garros 3ª Ronda (Philippe Chatrier),A. Zverev vs F. Cobolli,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-31,13:30-A. Zverev-F. Cobolli,13:30,Roland Garros 3ª Ronda (Philippe Chatrier),A. Zverev vs F. Cobolli,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -428,6 +433,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-31,13:30-A. Zverev-F. Cobolli,13:30,Roland Garros 3ª Ronda (Philippe Chatrier),A. Zverev vs F. Cobolli,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-31,13:30-A. Zverev-F. Cobolli,13:30,Roland Garros 3ª Ronda (Philippe Chatrier),A. Zverev vs F. Cobolli,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-05-31,13:30-A. Zverev-F. Cobolli,13:30,Roland Garros 3ª Ronda (Philippe Chatrier),A. Zverev vs F. Cobolli,Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
+2025-05-31,13:30-A. Zverev-F. Cobolli,13:30,Roland Garros 3ª Ronda (Philippe Chatrier),A. Zverev vs F. Cobolli,Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
+2025-05-31,13:30-A. Zverev-F. Cobolli,13:30,Roland Garros 3ª Ronda (Philippe Chatrier),A. Zverev vs F. Cobolli,Eurosport 2,f6c50dd662a0cf009fa4cf9b0dee8bad3c809dec,
 2025-05-31,14:15-G.P. España (Montmeló) Carrera 1,14:15,FIA Fórmula 2,G.P. España (Montmeló) Carrera 1,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-31,14:15-G.P. España (Montmeló) Carrera 1,14:15,FIA Fórmula 2,G.P. España (Montmeló) Carrera 1,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-31,14:15-G.P. España (Montmeló) Carrera 1,14:15,FIA Fórmula 2,G.P. España (Montmeló) Carrera 1,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -513,6 +520,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-31,14:30-H. Baptiste-J. Bouzas,14:30,Roland Garros 3ª Ronda (Pista 14),H. Baptiste vs J. Bouzas,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-31,14:30-H. Baptiste-J. Bouzas,14:30,Roland Garros 3ª Ronda (Pista 14),H. Baptiste vs J. Bouzas,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-05-31,14:30-H. Baptiste-J. Bouzas,14:30,Roland Garros 3ª Ronda (Pista 14),H. Baptiste vs J. Bouzas,Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
+2025-05-31,14:30-H. Baptiste-J. Bouzas,14:30,Roland Garros 3ª Ronda (Pista 14),H. Baptiste vs J. Bouzas,Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
+2025-05-31,14:30-H. Baptiste-J. Bouzas,14:30,Roland Garros 3ª Ronda (Pista 14),H. Baptiste vs J. Bouzas,Eurosport 2,f6c50dd662a0cf009fa4cf9b0dee8bad3c809dec,
 2025-05-31,14:30-J. Fonseca-J. Draper,14:30,Roland Garros 3ª Ronda (Suzanne Lenglen),J. Fonseca vs J. Draper,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-31,14:30-J. Fonseca-J. Draper,14:30,Roland Garros 3ª Ronda (Suzanne Lenglen),J. Fonseca vs J. Draper,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-31,14:30-J. Fonseca-J. Draper,14:30,Roland Garros 3ª Ronda (Suzanne Lenglen),J. Fonseca vs J. Draper,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -556,6 +565,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-31,14:30-J. Fonseca-J. Draper,14:30,Roland Garros 3ª Ronda (Suzanne Lenglen),J. Fonseca vs J. Draper,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-31,14:30-J. Fonseca-J. Draper,14:30,Roland Garros 3ª Ronda (Suzanne Lenglen),J. Fonseca vs J. Draper,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-05-31,14:30-J. Fonseca-J. Draper,14:30,Roland Garros 3ª Ronda (Suzanne Lenglen),J. Fonseca vs J. Draper,Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
+2025-05-31,14:30-J. Fonseca-J. Draper,14:30,Roland Garros 3ª Ronda (Suzanne Lenglen),J. Fonseca vs J. Draper,Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
+2025-05-31,14:30-J. Fonseca-J. Draper,14:30,Roland Garros 3ª Ronda (Suzanne Lenglen),J. Fonseca vs J. Draper,Eurosport 2,f6c50dd662a0cf009fa4cf9b0dee8bad3c809dec,
 2025-05-31,15:00-Etapa 20 Verrès › Sestrière (Vialattea) (205 km),15:00,Giro de Italia,Etapa 20 Verrès › Sestrière (Vialattea) (205 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-31,15:00-Etapa 20 Verrès › Sestrière (Vialattea) (205 km),15:00,Giro de Italia,Etapa 20 Verrès › Sestrière (Vialattea) (205 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-31,15:00-Etapa 20 Verrès › Sestrière (Vialattea) (205 km),15:00,Giro de Italia,Etapa 20 Verrès › Sestrière (Vialattea) (205 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -644,6 +655,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-31,15:00-Gyori Audi ETO-Team Esbjerg,15:00,EHF Women's Champions League Semifinales,Gyori Audi ETO vs Team Esbjerg,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-31,15:00-Gyori Audi ETO-Team Esbjerg,15:00,EHF Women's Champions League Semifinales,Gyori Audi ETO vs Team Esbjerg,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-05-31,15:00-Real Club Polo-Club Junior,15:00,Liga Masculina,Real Club Polo vs Club Junior,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-05-31,15:00-Real Club Polo-Club Junior,15:00,Liga Masculina,Real Club Polo vs Club Junior,Teledeporte,f0a6ced31bf6272972d2cbaaf2a433c43d115d10,FHD
 2025-05-31,15:00-Etapa 2 Sainte-Suzanne › Bais (210.2 km),15:00,Boucles de la Mayenne,Etapa 2 Sainte-Suzanne › Bais (210.2 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-31,15:00-Etapa 2 Sainte-Suzanne › Bais (210.2 km),15:00,Boucles de la Mayenne,Etapa 2 Sainte-Suzanne › Bais (210.2 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-31,15:00-Etapa 2 Sainte-Suzanne › Bais (210.2 km),15:00,Boucles de la Mayenne,Etapa 2 Sainte-Suzanne › Bais (210.2 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -863,7 +875,10 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-31,16:30-M. Keys-S. Kenin,16:30,Roland Garros 3ª Ronda (Suzanne Lenglen),M. Keys vs S. Kenin,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-31,16:30-M. Keys-S. Kenin,16:30,Roland Garros 3ª Ronda (Suzanne Lenglen),M. Keys vs S. Kenin,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-05-31,16:30-M. Keys-S. Kenin,16:30,Roland Garros 3ª Ronda (Suzanne Lenglen),M. Keys vs S. Kenin,Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
+2025-05-31,16:30-M. Keys-S. Kenin,16:30,Roland Garros 3ª Ronda (Suzanne Lenglen),M. Keys vs S. Kenin,Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
+2025-05-31,16:30-M. Keys-S. Kenin,16:30,Roland Garros 3ª Ronda (Suzanne Lenglen),M. Keys vs S. Kenin,Eurosport 2,f6c50dd662a0cf009fa4cf9b0dee8bad3c809dec,
 2025-05-31,18:00-BM Elche-BM Bera Bera,18:00,Liga Guerreras Iberdrola Playoff Final,BM Elche vs BM Bera Bera,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-05-31,18:00-BM Elche-BM Bera Bera,18:00,Liga Guerreras Iberdrola Playoff Final,BM Elche vs BM Bera Bera,Teledeporte,f0a6ced31bf6272972d2cbaaf2a433c43d115d10,FHD
 2025-05-31,18:00-Metz Handball-Odense Handbold,18:00,EHF Women's Champions League Semifinales,Metz Handball vs Odense Handbold,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-05-31,18:00-Metz Handball-Odense Handbold,18:00,EHF Women's Champions League Semifinales,Metz Handball vs Odense Handbold,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-05-31,18:00-Metz Handball-Odense Handbold,18:00,EHF Women's Champions League Semifinales,Metz Handball vs Odense Handbold,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -1078,6 +1093,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-05-31,22:30-Día 1 Philadelphia (Estados Unidos),22:30,Grand Slam Track,Día 1 Philadelphia (Estados Unidos),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-05-31,22:30-Día 1 Philadelphia (Estados Unidos),22:30,Grand Slam Track,Día 1 Philadelphia (Estados Unidos),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-05-31,22:30-Día 1 Philadelphia (Estados Unidos),22:30,Grand Slam Track,Día 1 Philadelphia (Estados Unidos),Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
+2025-05-31,22:30-Día 1 Philadelphia (Estados Unidos),22:30,Grand Slam Track,Día 1 Philadelphia (Estados Unidos),Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
+2025-05-31,22:30-Día 1 Philadelphia (Estados Unidos),22:30,Grand Slam Track,Día 1 Philadelphia (Estados Unidos),Eurosport 2,f6c50dd662a0cf009fa4cf9b0dee8bad3c809dec,
 2025-06-01,04:30-Los Angeles FC-América,04:30,FIFA Copa Mundial de Clubes Play-In,Los Angeles FC vs América,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-01,04:30-Los Angeles FC-América,04:30,FIFA Copa Mundial de Clubes Play-In,Los Angeles FC vs América,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-06-01,04:30-Los Angeles FC-América,04:30,FIFA Copa Mundial de Clubes Play-In,Los Angeles FC vs América,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -1205,6 +1222,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-01,09:05-Shanghai (China) Carrera 2,09:05,FIA Fórmula E,Shanghai (China) Carrera 2,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-01,09:05-Shanghai (China) Carrera 2,09:05,FIA Fórmula E,Shanghai (China) Carrera 2,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-06-01,09:05-Shanghai (China) Carrera 2,09:05,FIA Fórmula E,Shanghai (China) Carrera 2,Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
+2025-06-01,09:05-Shanghai (China) Carrera 2,09:05,FIA Fórmula E,Shanghai (China) Carrera 2,Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
+2025-06-01,09:05-Shanghai (China) Carrera 2,09:05,FIA Fórmula E,Shanghai (China) Carrera 2,Eurosport 2,f6c50dd662a0cf009fa4cf9b0dee8bad3c809dec,
 2025-06-01,10:00-Semifinales,10:00,Arousa Fútbol 7,Semifinales,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-01,10:00-Semifinales,10:00,Arousa Fútbol 7,Semifinales,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-06-01,10:00-Semifinales,10:00,Arousa Fútbol 7,Semifinales,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -1377,6 +1396,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-01,11:05-1/8 de final Grand Slam,11:05,Roland Garros,1/8 de final Grand Slam,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-06-01,11:05-1/8 de final Grand Slam,11:05,Roland Garros,1/8 de final Grand Slam,Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-06-01,13:00-Jimbee Cartagena FS-Movistar Inter,13:00,Primera Federación Futsal Playoff 1/4 Final,Jimbee Cartagena FS vs Movistar Inter,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-01,13:00-Jimbee Cartagena FS-Movistar Inter,13:00,Primera Federación Futsal Playoff 1/4 Final,Jimbee Cartagena FS vs Movistar Inter,Teledeporte,f0a6ced31bf6272972d2cbaaf2a433c43d115d10,FHD
 2025-06-01,14:45-Etapa 21 Roma › Roma (143 km),14:45,Giro de Italia,Etapa 21 Roma › Roma (143 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-01,14:45-Etapa 21 Roma › Roma (143 km),14:45,Giro de Italia,Etapa 21 Roma › Roma (143 km),DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-06-01,14:45-Etapa 21 Roma › Roma (143 km),14:45,Giro de Italia,Etapa 21 Roma › Roma (143 km),DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -1682,6 +1702,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-01,17:45-Final,17:45,EHF Women's Champions League,Final,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-01,17:45-Final,17:45,EHF Women's Champions League,Final,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-06-01,18:00-BM Granollers-BM Guadalajara,18:00,Liga ASOBAL,BM Granollers vs BM Guadalajara,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-01,18:00-BM Granollers-BM Guadalajara,18:00,Liga ASOBAL,BM Granollers vs BM Guadalajara,Teledeporte,f0a6ced31bf6272972d2cbaaf2a433c43d115d10,FHD
 2025-06-01,18:30-Deportivo-Elche,18:30,LaLiga Hypermotion,Deportivo vs Elche,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-01,18:30-Deportivo-Elche,18:30,LaLiga Hypermotion,Deportivo vs Elche,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-06-01,18:30-Deportivo-Elche,18:30,LaLiga Hypermotion,Deportivo vs Elche,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -1935,6 +1956,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-01,18:30-FC Cartagena-Mirandés,18:30,LaLiga Hypermotion,FC Cartagena vs Mirandés,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-01,18:30-FC Cartagena-Mirandés,18:30,LaLiga Hypermotion,FC Cartagena vs Mirandés,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-06-01,20:00-España-Italia,20:00,Amistoso Femenino,España vs Italia,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-01,20:00-España-Italia,20:00,Amistoso Femenino,España vs Italia,Teledeporte,f0a6ced31bf6272972d2cbaaf2a433c43d115d10,FHD
 2025-06-01,20:45-Trapani Shark-Pallacanestro Brescia,20:45,Lega Serie A Semifinales,Trapani Shark vs Pallacanestro Brescia,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-01,20:45-Trapani Shark-Pallacanestro Brescia,20:45,Lega Serie A Semifinales,Trapani Shark vs Pallacanestro Brescia,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-06-01,20:45-Trapani Shark-Pallacanestro Brescia,20:45,Lega Serie A Semifinales,Trapani Shark vs Pallacanestro Brescia,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
@@ -2062,6 +2084,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-01,21:30-Día 2 Philadelphia (Estados Unidos),21:30,Grand Slam Track,Día 2 Philadelphia (Estados Unidos),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-01,21:30-Día 2 Philadelphia (Estados Unidos),21:30,Grand Slam Track,Día 2 Philadelphia (Estados Unidos),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-06-01,21:30-Día 2 Philadelphia (Estados Unidos),21:30,Grand Slam Track,Día 2 Philadelphia (Estados Unidos),Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
+2025-06-01,21:30-Día 2 Philadelphia (Estados Unidos),21:30,Grand Slam Track,Día 2 Philadelphia (Estados Unidos),Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
+2025-06-01,21:30-Día 2 Philadelphia (Estados Unidos),21:30,Grand Slam Track,Día 2 Philadelphia (Estados Unidos),Eurosport 2,f6c50dd662a0cf009fa4cf9b0dee8bad3c809dec,
 2025-06-02,00:00-Team Combat League,00:00,Velada,Team Combat League,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-02,00:00-Team Combat League,00:00,Velada,Team Combat League,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-06-02,00:00-Team Combat League,00:00,Velada,Team Combat League,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
