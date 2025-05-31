@@ -6,6 +6,8 @@ http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
@@ -41,6 +43,8 @@ http://127.0.0.1:6878/ace/getstream?id=3fc9d954b818522ff07dfe70051b6ea7a5ebbc61
 http://127.0.0.1:6878/ace/getstream?id=922edf7e1c015026082b7f8061cf8159cb4afafd
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
 http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
 http://127.0.0.1:6878/ace/getstream?id=448a647ba8cd8885588572d609ce02b961238121
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
@@ -81,6 +85,8 @@ http://127.0.0.1:6878/ace/getstream?id=835639b89db00cc0d94660da3c10b6e38bfbcdc1
 http://127.0.0.1:6878/ace/getstream?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
 http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
+http://127.0.0.1:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
 http://127.0.0.1:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
@@ -177,6 +183,10 @@ http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
 http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 3 HD
 http://127.0.0.1:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+#EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
@@ -247,14 +257,10 @@ http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD
-http://127.0.0.1:6878/ace/getstream?id=cfab47bc7c100a28430cc2da819f89a4814d4a26
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 HD
-http://127.0.0.1:6878/ace/getstream?id=f6c50dd662a0cf009fa4cf9b0dee8bad3c809dec
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD
 http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-id="" group-title="VARIOS", HITS--> NEW ERA III
@@ -287,8 +293,6 @@ http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 http://127.0.0.1:6878/ace/getstream?id=2752dee68a7faa9c847216dc22a6821661db891a
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ONETORO (SOLO EVENTOS)--> NEW ERA III
 http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-id="" group-title="VARIOS", PLUTO TV AUTO MOTOR SPORT (720P)
-http://127.0.0.1:6878/ace/getstream?id=ffa09e597804001f634dd1829f031823411a2595
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2
