@@ -169,6 +169,8 @@ acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-id="no_disponible" group-title="SEGUNDA+1RFEF", 1RFEF canal 2 HD
 acestream://8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp FHD
+acestream://fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp HD
 acestream://0c847d3acd9c4a31a815330ad7f546c30851aa88
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp HD
@@ -187,14 +189,16 @@ acestream://121f719ebb94193c6086ef92865cf9b197750980
 acestream://1c25bdd6be50b69d4da12cbbc25a50be169414e4
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp HD
 acestream://84b8fd1ceddf7976464208e1d15fe776f9ab35e3
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 2 HD
+acestream://f416f36cc1be370e3f9ac29cd6a9acc0d766f7ba
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 2 FHD
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 2 HD
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 3 HD
 acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
-#EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
-acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
@@ -223,6 +227,10 @@ acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 acestream://5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BUNDESLIGA 1 FHD
 acestream://cb18d080d81f7fccf26b7723ce6a5d86d31220db
+#EXTINF:-1 tvg-id="" group-title="VARIOS", BUNDESLIGA 2 FHD
+acestream://d4f56cda0a15f47e7820daaac8e37b4d67d9c918
+#EXTINF:-1 tvg-id="" group-title="VARIOS", BUNDESLIGA 3 FHD
+acestream://692d6a47ba99fbfc67fa947e468e859c7f2b9564
 #EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR
 acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="" group-title="VARIOS", COMEDIA--> NEW ERA III
