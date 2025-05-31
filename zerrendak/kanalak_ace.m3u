@@ -56,6 +56,8 @@ acestream://448a647ba8cd8885588572d609ce02b961238121
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
 acestream://635b61c1f240449163260cd914d10d886a54fee3
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
+acestream://ca68dcfdb27883d3877a5eec68f8ea9d2d31ae1d
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
 acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 HD
 acestream://97ba38d47680954be40e48bd8f43e17222fefecb
@@ -133,6 +135,8 @@ acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M+ Deportes 2 HD
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 tvg-id="M+ Deportes 3" group-title="MOVISTAR", M+ Deportes 3 FHD
+acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
 #EXTINF:-1 tvg-id="M+ Deportes 4" group-title="MOVISTAR", M+ Deportes 4 FHD
 acestream://58a4c880ab18486d914751db32a12760e74b75a4
 #EXTINF:-1 tvg-id="M+ Deportes 5" group-title="MOVISTAR", M+ Deportes 5 HD
@@ -189,8 +193,6 @@ acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 3 HD
 acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
-#EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
-acestream://0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
@@ -305,6 +307,8 @@ acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR SERIES FHD
 acestream://2752dee68a7faa9c847216dc22a6821661db891a
+#EXTINF:-1 tvg-id="" group-title="VARIOS", NBA TV
+acestream://7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ONETORO (SOLO EVENTOS)--> NEW ERA III
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1
