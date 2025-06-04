@@ -197,8 +197,14 @@ http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
 http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 3 HD
 http://127.0.0.1:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
+#EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
+#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
+http://127.0.0.1:6878/ace/getstream?id=610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS
 http://127.0.0.1:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
@@ -229,6 +235,8 @@ http://127.0.0.1:6878/ace/getstream?id=cb18d080d81f7fccf26b7723ce6a5d86d31220db
 http://127.0.0.1:6878/ace/getstream?id=d4f56cda0a15f47e7820daaac8e37b4d67d9c918
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BUNDESLIGA 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
+#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR
+http://127.0.0.1:6878/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="" group-title="VARIOS", COMEDIA--> NEW ERA III
 http://127.0.0.1:6878/ace/getstream?id=981002ae3adff1f7d994e267cafd71560dd3138b
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD
@@ -299,6 +307,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
 http://127.0.0.1:6878/ace/getstream?id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 #EXTINF:-1 tvg-id="La Sexta HD" group-title="VARIOS", LA SEXTA FHD
 http://127.0.0.1:6878/ace/getstream?id=1c6486082949172d1ffd318db8fb965dd5af7e31
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD
+http://127.0.0.1:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORVISION TV
 http://127.0.0.1:6878/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD
