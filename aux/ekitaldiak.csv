@@ -54,7 +54,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-09,15:25-Etapa 2 Prémilhat › Issoire (204.6 km),15:25,Critérium du Dauphiné,Etapa 2 Prémilhat › Issoire (204.6 km),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-06-09,15:25-Etapa 2 Prémilhat › Issoire (204.6 km),15:25,Critérium du Dauphiné,Etapa 2 Prémilhat › Issoire (204.6 km),Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
 2025-06-09,15:25-Etapa 2 Prémilhat › Issoire (204.6 km),15:25,Critérium du Dauphiné,Etapa 2 Prémilhat › Issoire (204.6 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
-2025-06-09,15:25-Etapa 2 Prémilhat › Issoire (204.6 km),15:25,Critérium du Dauphiné,Etapa 2 Prémilhat › Issoire (204.6 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-06-09,15:25-Etapa 2 Prémilhat › Issoire (204.6 km),15:25,Critérium du Dauphiné,Etapa 2 Prémilhat › Issoire (204.6 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-06-09,16:00-K. Siniakova-A. Blinkova,16:00,WTA Torneo de Hertogenbosch 1ª Ronda,K. Siniakova vs A. Blinkova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-06-09,16:00-K. Siniakova-A. Blinkova,16:00,WTA Torneo de Hertogenbosch 1ª Ronda,K. Siniakova vs A. Blinkova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
@@ -62,12 +61,14 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-09,16:00-J. Burrage-A. Anisimova,16:00,WTA Torneo de Londres 1ª Ronda,J. Burrage vs A. Anisimova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-09,17:30-K. Muchova-M. Inglis,17:30,WTA Torneo de Londres 1ª Ronda,K. Muchova vs M. Inglis,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-06-09,17:30-K. Muchova-M. Inglis,17:30,WTA Torneo de Londres 1ª Ronda,K. Muchova vs M. Inglis,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-06-10,11:00-1ª Ronda ATP 250,11:00,Torneo de Stuttgart,1ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-10,11:00-1ª Ronda ATP 250,11:00,Torneo de Stuttgart,1ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-06-10,11:00-1ª Ronda ATP 250,11:00,Torneo de Hertogenbosch,1ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-10,11:00-1ª Ronda ATP 250,11:00,Torneo de Hertogenbosch,1ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-06-10,11:00-1ª Ronda WTA 250,11:00,WTA Torneo de Hertogenbosch,1ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-10,11:00-1ª Ronda WTA 250,11:00,WTA Torneo de Hertogenbosch,1ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-10,10:00-Y. Wickmayer-S. Lamens,10:00,WTA Torneo de Hertogenbosch 1ª Ronda,Y. Wickmayer vs S. Lamens,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-10,10:00-Y. Wickmayer-S. Lamens,10:00,WTA Torneo de Hertogenbosch 1ª Ronda,Y. Wickmayer vs S. Lamens,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-10,10:00-D. Collins-G. Minnen,10:00,WTA Torneo de Hertogenbosch 1ª Ronda,D. Collins vs G. Minnen,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-10,10:00-D. Collins-G. Minnen,10:00,WTA Torneo de Hertogenbosch 1ª Ronda,D. Collins vs G. Minnen,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-10,10:00-J. Garland-B. Andreescu,10:00,WTA Torneo de Hertogenbosch 1ª Ronda,J. Garland vs B. Andreescu,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-10,10:00-J. Garland-B. Andreescu,10:00,WTA Torneo de Hertogenbosch 1ª Ronda,J. Garland vs B. Andreescu,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-10,10:00-A. Koevermans-M. Sakkari,10:00,WTA Torneo de Hertogenbosch 1ª Ronda,A. Koevermans vs M. Sakkari,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-10,10:00-A. Koevermans-M. Sakkari,10:00,WTA Torneo de Hertogenbosch 1ª Ronda,A. Koevermans vs M. Sakkari,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-10,13:05-1ª Ronda WTA 500,13:05,WTA Torneo de Londres,1ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-06-10,13:05-1ª Ronda WTA 500,13:05,WTA Torneo de Londres,1ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-10,15:25-Etapa 3 Brioude › Charantonnay (207.2 km),15:25,Critérium du Dauphiné,Etapa 3 Brioude › Charantonnay (207.2 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
@@ -115,8 +116,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-10,15:25-Etapa 3 Brioude › Charantonnay (207.2 km),15:25,Critérium du Dauphiné,Etapa 3 Brioude › Charantonnay (207.2 km),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-06-10,15:25-Etapa 3 Brioude › Charantonnay (207.2 km),15:25,Critérium du Dauphiné,Etapa 3 Brioude › Charantonnay (207.2 km),Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
 2025-06-10,15:25-Etapa 3 Brioude › Charantonnay (207.2 km),15:25,Critérium du Dauphiné,Etapa 3 Brioude › Charantonnay (207.2 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
-2025-06-10,15:25-Etapa 3 Brioude › Charantonnay (207.2 km),15:25,Critérium du Dauphiné,Etapa 3 Brioude › Charantonnay (207.2 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-06-10,15:25-Etapa 3 Brioude › Charantonnay (207.2 km),15:25,Critérium du Dauphiné,Etapa 3 Brioude › Charantonnay (207.2 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
+2025-06-10,18:00-At. Navalcarnero FS-Roldán FSF,18:00,Primera Federación Femenina Playoff Final,At. Navalcarnero FS vs Roldán FSF,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-06-10,20:00-Portugal-España,20:00,Amistoso Femenino,Portugal vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-06-10,20:30-Barça FS-Palma Futsal,20:30,Primera Federación Futsal Playoff Semifinales,Barça FS vs Palma Futsal,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-06-11,11:00-2ª Ronda ATP 250,11:00,Torneo de Stuttgart,2ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
@@ -172,7 +173,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-11,15:25-Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km),15:25,Critérium du Dauphiné,Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-06-11,15:25-Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km),15:25,Critérium du Dauphiné,Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km),Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
 2025-06-11,15:25-Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km),15:25,Critérium du Dauphiné,Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
-2025-06-11,15:25-Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km),15:25,Critérium du Dauphiné,Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-06-11,15:25-Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km),15:25,Critérium du Dauphiné,Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-06-11,18:00-España-Suiza,18:00,Amistoso Femenino,España vs Suiza,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-06-11,18:30-Campeonato Mundial de Resistencia FIA Clasificación,18:30,24 Horas de Le Mans,Campeonato Mundial de Resistencia FIA Clasificación,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
@@ -219,8 +219,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-11,18:30-Campeonato Mundial de Resistencia FIA Clasificación,18:30,24 Horas de Le Mans,Campeonato Mundial de Resistencia FIA Clasificación,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-06-11,18:30-Campeonato Mundial de Resistencia FIA Clasificación,18:30,24 Horas de Le Mans,Campeonato Mundial de Resistencia FIA Clasificación,Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
 2025-06-11,18:30-Campeonato Mundial de Resistencia FIA Clasificación,18:30,24 Horas de Le Mans,Campeonato Mundial de Resistencia FIA Clasificación,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
-2025-06-11,18:30-Campeonato Mundial de Resistencia FIA Clasificación,18:30,24 Horas de Le Mans,Campeonato Mundial de Resistencia FIA Clasificación,Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-06-11,18:30-Campeonato Mundial de Resistencia FIA Clasificación,18:30,24 Horas de Le Mans,Campeonato Mundial de Resistencia FIA Clasificación,Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
+2025-06-11,21:00-Italia-Rumanía,21:00,Europeo Sub-21 Fase de grupos,Italia vs Rumanía,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-06-11,21:00-Real Oviedo-UD Almería,21:00,LaLiga Hypermotion Playoffs Semi-Final,Real Oviedo vs UD Almería,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-11,21:00-Real Oviedo-UD Almería,21:00,LaLiga Hypermotion Playoffs Semi-Final,Real Oviedo vs UD Almería,DAZN,110d441ddc9713a7452588770d2bc85504672f47,FHD
 2025-06-11,21:00-Real Oviedo-UD Almería,21:00,LaLiga Hypermotion Playoffs Semi-Final,Real Oviedo vs UD Almería,DAZN,ec29289b0b14756e686c03a501bae1efa05be70c,FHD
