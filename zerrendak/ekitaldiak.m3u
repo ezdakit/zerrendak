@@ -1,15 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Hertogenbosch 1ª Ronda", 11:00 A. Hartono vs E. Cocciaretto Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Hertogenbosch 1ª Ronda", 11:10 A. Hartono vs E. Cocciaretto Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Hertogenbosch 1ª Ronda", 12:30 V. Tomova vs E. Mertens Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Londres 1ª Ronda", 13:05 P. Kvitova vs B. Haddad Maia Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Londres 1ª Ronda", 13:00 P. Kvitova vs B. Haddad Maia Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Hertogenbosch 1ª Ronda", 13:25 V. Tomova vs E. Mertens Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Hertogenbosch 1ª Ronda", 14:30 A. Vrancken Peeters vs L. Sun Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Londres 1ª Ronda", 14:30 D. Kasatkina vs S. Kartal Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Hertogenbosch 1ª Ronda", 14:50 A. Vrancken Peeters vs L. Sun Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="09/06 Critérium du Dauphiné", 15:25 Etapa 2 Prémilhat › Issoire (204.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -89,6 +87,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="09/06 Critérium du Dauphiné", 15:25 Etapa 2 Prémilhat › Issoire (204.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="09/06 Critérium du Dauphiné", 15:25 Etapa 2 Prémilhat › Issoire (204.6 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/06 Critérium du Dauphiné", 15:25 Etapa 2 Prémilhat › Issoire (204.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="09/06 Critérium du Dauphiné", 15:25 Etapa 2 Prémilhat › Issoire (204.6 km) DAZN 
@@ -103,25 +103,21 @@ http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-id="" group-title="09/06 Critérium du Dauphiné", 15:25 Etapa 2 Prémilhat › Issoire (204.6 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Hertogenbosch 1ª Ronda", 16:00 K. Siniakova vs A. Blinkova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Londres 1ª Ronda", 15:40 D. Kasatkina vs S. Kartal Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Londres 1ª Ronda", 16:00 J. Burrage vs A. Anisimova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Hertogenbosch 1ª Ronda", 17:50 K. Siniakova vs A. Blinkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Londres 1ª Ronda", 17:30 K. Muchova vs M. Inglis Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Londres 1ª Ronda", 18:05 J. Burrage vs A. Anisimova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Hertogenbosch 1ª Ronda", 10:00 Y. Wickmayer vs S. Lamens Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/06 WTA Torneo de Londres 1ª Ronda", 19:40 K. Muchova vs M. Inglis Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Hertogenbosch 1ª Ronda", 10:00 D. Collins vs G. Minnen Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Hertogenbosch 1ª Ronda", 11:00 Y. Wickmayer vs S. Lamens Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Hertogenbosch 1ª Ronda", 10:00 J. Garland vs B. Andreescu Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Hertogenbosch 1ª Ronda", 12:30 J. Garland vs B. Andreescu Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Hertogenbosch 1ª Ronda", 10:00 A. Koevermans vs M. Sakkari Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Hertogenbosch 1ª Ronda", 14:00 D. Collins vs G. Minnen Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Londres 1ª Ronda", 11:00 A. Tomljanovic vs K. Boulter Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Londres 1ª Ronda", 11:00 R. Sramkova vs B. Krejcikova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Londres 1ª Ronda", 11:00 E. Raducanu vs C. Bucsa Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Londres 1ª Ronda", 14:00 A. Tomljanovic vs K. Boulter Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="10/06 Critérium du Dauphiné", 15:25 Etapa 3 Brioude › Charantonnay (207.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -202,6 +198,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="10/06 Critérium du Dauphiné", 15:25 Etapa 3 Brioude › Charantonnay (207.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/06 Critérium du Dauphiné", 15:25 Etapa 3 Brioude › Charantonnay (207.2 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="" group-title="10/06 Critérium du Dauphiné", 15:25 Etapa 3 Brioude › Charantonnay (207.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="10/06 Critérium du Dauphiné", 15:25 Etapa 3 Brioude › Charantonnay (207.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -215,6 +213,12 @@ http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-id="" group-title="10/06 Critérium du Dauphiné", 15:25 Etapa 3 Brioude › Charantonnay (207.2 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Londres 1ª Ronda", 15:30 E. Raducanu vs C. Bucsa Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Hertogenbosch 1ª Ronda", 16:00 A. Koevermans vs M. Sakkari Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="10/06 WTA Torneo de Londres 1ª Ronda", 17:00 R. Sramkova vs B. Krejcikova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="10/06 Primera Federación Femenina Playoff Final", 18:00 At. Navalcarnero FS vs Roldán FSF Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="10/06 Amistoso Femenino", 20:00 Portugal vs España Teledeporte FHD
@@ -307,6 +311,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="11/06 Critérium du Dauphiné", 15:25 Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="11/06 Critérium du Dauphiné", 15:25 Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="11/06 Critérium du Dauphiné", 15:25 Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="11/06 Critérium du Dauphiné", 15:25 Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km) DAZN 
@@ -402,6 +408,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="11/06 24 Horas de Le Mans", 18:30 Campeonato Mundial de Resistencia FIA Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="11/06 24 Horas de Le Mans", 18:30 Campeonato Mundial de Resistencia FIA Clasificación DAZN 
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="" group-title="11/06 24 Horas de Le Mans", 18:30 Campeonato Mundial de Resistencia FIA Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="11/06 24 Horas de Le Mans", 18:30 Campeonato Mundial de Resistencia FIA Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -493,6 +501,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="11/06 LaLiga Hypermotion Playoffs Semi-Final", 21:00 Real Oviedo vs UD Almería DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="11/06 LaLiga Hypermotion Playoffs Semi-Final", 21:00 Real Oviedo vs UD Almería DAZN 
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="11/06 LaLiga Hypermotion Playoffs Semi-Final", 21:00 Real Oviedo vs UD Almería DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="11/06 LaLiga Hypermotion Playoffs Semi-Final", 21:00 Real Oviedo vs UD Almería DAZN 
