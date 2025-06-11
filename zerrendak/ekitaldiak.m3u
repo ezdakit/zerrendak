@@ -103,13 +103,9 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="11/06 Critérium du Dauphiné", 15:25 Etapa 4 Charmes-sur-Rhône › Saint-Péray (17.4 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Londres 2ª Ronda", 17:15 S. Kartal vs A. Anisimova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Londres 2ª Ronda", 17:20 S. Kartal vs A. Anisimova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Londres 2ª Ronda", 17:15 S. Kartal vs A. Anisimova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Hertogenbosch 2ª Ronda", 17:25 V. Kudermetova vs G. Minnen Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Hertogenbosch 2ª Ronda", 17:25 V. Kudermetova vs G. Minnen Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Londres 2ª Ronda", 17:20 S. Kartal vs A. Anisimova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="11/06 Amistoso Femenino", 18:00 España vs Suiza Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -197,9 +193,13 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="11/06 24 Horas de Le Mans", 18:30 Campeonato Mundial de Resistencia FIA Clasificación Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Londres 2ª Ronda", 18:45 A. Zakharova vs M. Keys Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Hertogenbosch 2ª Ronda", 18:30 V. Kudermetova vs G. Minnen Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Londres 2ª Ronda", 18:45 A. Zakharova vs M. Keys Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Hertogenbosch 2ª Ronda", 18:30 V. Kudermetova vs G. Minnen Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Londres 2ª Ronda", 18:40 A. Zakharova vs M. Keys Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="11/06 WTA Torneo de Londres 2ª Ronda", 18:40 A. Zakharova vs M. Keys Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="11/06 Europeo Sub-21 Fase de grupos", 21:00 Italia vs Rumanía Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
