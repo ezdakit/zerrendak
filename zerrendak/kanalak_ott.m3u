@@ -185,6 +185,8 @@ http://127.0.0.1:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 http://127.0.0.1:6878/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS
+http://127.0.0.1:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD
@@ -213,8 +215,6 @@ http://127.0.0.1:6878/ace/getstream?id=cb18d080d81f7fccf26b7723ce6a5d86d31220db
 http://127.0.0.1:6878/ace/getstream?id=d4f56cda0a15f47e7820daaac8e37b4d67d9c918
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BUNDESLIGA 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR
-http://127.0.0.1:6878/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD
 http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1
@@ -259,6 +259,8 @@ http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE]
 http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-id="ESPN.4.nl" group-title="VARIOS", ESPN 4 [BE]
+http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
 #EXTINF:-1 tvg-id="ESPN" group-title="VARIOS", ESPN HD [US]
 http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN.1.nl" group-title="VARIOS", ESPN [BE]
@@ -313,6 +315,8 @@ http://127.0.0.1:6878/ace/getstream?id=2752dee68a7faa9c847216dc22a6821661db891a
 http://127.0.0.1:6878/ace/getstream?id=7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ONETORO (SOLO EVENTOS)--> NEW ERA III
 http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV
+http://127.0.0.1:6878/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2
