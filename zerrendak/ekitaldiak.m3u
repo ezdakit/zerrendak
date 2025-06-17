@@ -72,8 +72,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Boca Juniors vs Benfica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Boca Juniors vs Benfica DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Boca Juniors vs Benfica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 CR Flamengo vs ES Tunis DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -145,18 +143,24 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 CR Flamengo vs ES Tunis DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 CR Flamengo vs ES Tunis DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 CR Flamengo vs ES Tunis DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 11:30 N. Osaka vs L. Samsonova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 11:30 N. Osaka vs L. Samsonova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Nottingham 1ª Ronda", 12:30 S. Kartal vs L. Jeanjean Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Nottingham 1ª Ronda", 12:30 S. Kartal vs L. Jeanjean Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 13:00 M. Vondrousova vs M. Keys Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 13:00 M. Vondrousova vs M. Keys Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Nottingham 1ª Ronda", 14:00 L. Sun vs K. Boulter Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Nottingham 1ª Ronda", 14:00 L. Sun vs K. Boulter Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/06 Tour de Suiza", 14:50 Etapa 3 Aarau › Heiden (195.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="17/06 Tour de Suiza", 14:50 Etapa 3 Aarau › Heiden (195.6 km) DAZN FHD
@@ -227,8 +231,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="17/06 Tour de Suiza", 14:50 Etapa 3 Aarau › Heiden (195.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="17/06 Tour de Suiza", 14:50 Etapa 3 Aarau › Heiden (195.6 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="17/06 Tour de Suiza", 14:50 Etapa 3 Aarau › Heiden (195.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/06 Tour de Suiza", 14:50 Etapa 3 Aarau › Heiden (195.6 km) Eurosport 1 FHD
@@ -245,10 +247,16 @@ http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 16:00 D. Shnaider vs D. Vekic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 16:00 D. Shnaider vs D. Vekic Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Nottingham 1ª Ronda", 17:00 B. Haddad Maia vs M. Kessler Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Nottingham 1ª Ronda", 17:00 B. Haddad Maia vs M. Kessler Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 17:30 E. Rybakina vs Q. Zheng Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 17:30 E. Rybakina vs Q. Zheng Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Fluminense vs Borussia Dortmund DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Fluminense vs Borussia Dortmund DAZN FHD
@@ -319,8 +327,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Fluminense vs Borussia Dortmund DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Fluminense vs Borussia Dortmund DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Fluminense vs Borussia Dortmund DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Fluminense vs Borussia Dortmund Cuatro FHD
@@ -398,8 +404,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="17/06 Lega Serie A Final", 20:30 Pallacanestro Brescia vs Virtus Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="17/06 Lega Serie A Final", 20:30 Pallacanestro Brescia vs Virtus Bologna DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" group-title="17/06 Lega Serie A Final", 20:30 Pallacanestro Brescia vs Virtus Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/06 Europeo Sub-21 Fase de grupos", 21:00 España vs Italia Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -474,8 +478,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 River Plate vs Urawa Red Diamonds DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 River Plate vs Urawa Red Diamonds DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 River Plate vs Urawa Red Diamonds DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -548,8 +550,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -621,16 +621,20 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Berlín", 11:00 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Berlín", 11:00 2ª Ronda WTA 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/06 Torneo de Halle", 12:00 2ª Ronda ATP 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="18/06 Torneo de Halle", 12:00 2ª Ronda ATP 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Nottingham", 12:00 1ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Nottingham", 12:00 1ª Ronda WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN FHD
@@ -701,8 +705,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) Eurosport 1 FHD
@@ -792,8 +794,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/06 Europeo Sub-21 Fase de grupos", 21:00 Inglaterra vs Alemania Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -867,8 +867,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal Telecinco FHD
@@ -948,8 +946,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -1021,16 +1017,20 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/06 WTA Torneo de Berlín", 11:00 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/06 WTA Torneo de Berlín", 11:00 2ª Ronda WTA 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/06 Torneo de Halle", 12:00 2ª Ronda ATP 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/06 Torneo de Halle", 12:00 2ª Ronda ATP 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/06 WTA Torneo de Nottingham", 12:00 1ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/06 WTA Torneo de Nottingham", 12:00 1ª Ronda WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN FHD
@@ -1101,8 +1101,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) Eurosport 1 FHD
@@ -1190,8 +1188,6 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/06 Primera Federación Femenina Playoff Final", 19:15 At. Navalcarnero FS vs Roldán FSF Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -1265,8 +1261,6 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto Telecinco FHD
