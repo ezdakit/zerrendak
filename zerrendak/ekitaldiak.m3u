@@ -239,13 +239,9 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="17/06 Tour de Suiza", 14:50 Etapa 3 Aarau › Heiden (195.6 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 16:30 D. Shnaider vs D. Vekic Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 16:35 D. Shnaider vs D. Vekic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 16:30 D. Shnaider vs D. Vekic Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Nottingham 1ª Ronda", 17:45 B. Haddad Maia vs M. Kessler Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Nottingham 1ª Ronda", 17:45 B. Haddad Maia vs M. Kessler Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 16:35 D. Shnaider vs D. Vekic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Fluminense vs Borussia Dortmund DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -319,12 +315,16 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Fluminense vs Borussia Dortmund Cuatro FHD
 http://127.0.0.1:6878/ace/getstream?id=18f63b299de66029e17dc35e12f6c244e1979a91
-#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 18:00 E. Rybakina vs A. Krueger Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 18:20 E. Rybakina vs A. Krueger Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 18:00 E. Rybakina vs A. Krueger Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Berlín 1ª Ronda", 18:20 E. Rybakina vs A. Krueger Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/06 Primera Federación Futsal Playoff Final", 18:45 Barça FS vs Jimbee Cartagena FS Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Nottingham 1ª Ronda", 18:55 B. Haddad Maia vs M. Kessler Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="17/06 WTA Torneo de Nottingham 1ª Ronda", 18:55 B. Haddad Maia vs M. Kessler Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/06 Lega Serie A Final", 20:30 Pallacanestro Brescia vs Virtus Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="17/06 Lega Serie A Final", 20:30 Pallacanestro Brescia vs Virtus Bologna DAZN FHD
