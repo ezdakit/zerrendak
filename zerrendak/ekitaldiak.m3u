@@ -58,17 +58,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 01:05 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 01:05 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 01:05 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 01:05 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 01:05 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 01:05 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 01:05 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 01:05 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 01:05 Ulsan Hyundai vs Mamelodi Sundowns DAZN 
@@ -130,29 +124,31 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Monterrey vs Inter Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Berlín 2ª Ronda", 11:30 P. Badosa vs E. Navarro Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Berlín 2ª Ronda", 11:30 P. Badosa vs E. Navarro Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Nottingham 2ª Ronda", 12:00 A. Ruzic vs D. Yastremska Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Nottingham 2ª Ronda", 12:00 A. Ruzic vs D. Yastremska Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Berlín 2ª Ronda", 13:00 J. Paolini vs O. Jabeur Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Berlín 2ª Ronda", 13:00 J. Paolini vs O. Jabeur Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Nottingham 2ª Ronda", 13:30 Y. Putintseva vs R. Sramkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Nottingham 2ª Ronda", 13:30 Y. Putintseva vs R. Sramkova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN FHD
@@ -210,17 +206,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="18/06 Tour de Suiza", 14:50 Etapa 4 Heiden › Piuro (Valchiavenna) (193.2 km) DAZN 
@@ -239,8 +229,12 @@ http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Nottingham 2ª Ronda", 15:30 F. Jones vs L. Noskova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Nottingham 2ª Ronda", 15:30 F. Jones vs L. Noskova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Berlín 2ª Ronda", 16:00 L. Samsonova vs J. Pegula Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Berlín 2ª Ronda", 16:00 L. Samsonova vs J. Pegula Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 16:30 Turquía vs Francia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 16:30 Turquía vs Francia DAZN FHD
@@ -298,17 +292,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 16:30 Turquía vs Francia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 16:30 Turquía vs Francia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 16:30 Turquía vs Francia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 16:30 Turquía vs Francia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 16:30 Turquía vs Francia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 16:30 Turquía vs Francia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 16:30 Turquía vs Francia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 16:30 Turquía vs Francia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 16:30 Turquía vs Francia DAZN 
@@ -317,8 +305,78 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Nottingham 2ª Ronda", 17:00 L. Fernández vs C. Bucsa Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Nottingham 2ª Ronda", 17:00 L. Fernández vs C. Bucsa Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Lituania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Berlín 2ª Ronda", 17:30 A. Sabalenka vs R. Masarova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="18/06 WTA Torneo de Berlín 2ª Ronda", 17:30 A. Sabalenka vs R. Masarova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/06 Europeo Sub-21 Fase de grupos", 18:00 Holanda vs Ucrania Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
@@ -378,20 +436,80 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Manchester City vs WAC Casablanca DAZN 
+http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN 
+http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN 
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN 
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Suiza DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/06 Europeo Sub-21 Fase de grupos", 21:00 Inglaterra vs Alemania Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -452,17 +570,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 21:00 Serbia vs Italia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 21:00 Serbia vs Italia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 21:00 Serbia vs Italia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 21:00 Serbia vs Italia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 21:00 Serbia vs Italia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 21:00 Serbia vs Italia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 21:00 Serbia vs Italia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 21:00 Serbia vs Italia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="18/06 Eurobasket Femenino Fase de grupos", 21:00 Serbia vs Italia DAZN 
@@ -524,17 +636,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="18/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Al Hilal DAZN 
@@ -602,17 +708,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Pachuca vs Red Bull Salzburg DAZN 
@@ -674,27 +774,27 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Al Ain vs Juventus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/06 WTA Torneo de Berlín", 11:00 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/06 WTA Torneo de Berlín", 11:00 2ª Ronda WTA 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/06 Torneo de Halle", 12:00 2ª Ronda ATP 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/06 Torneo de Halle", 12:00 2ª Ronda ATP 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/06 WTA Torneo de Nottingham", 12:00 1ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/06 WTA Torneo de Nottingham", 12:00 1ª Ronda WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN FHD
@@ -752,17 +852,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 Tour de Suiza", 14:50 Etapa 5 La Punt › Santa Maria in Calanca (183.8 km) DAZN 
@@ -836,17 +930,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 16:30 Suiza vs Turquía DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 16:30 Suiza vs Turquía DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 16:30 Suiza vs Turquía DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 16:30 Suiza vs Turquía DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 16:30 Suiza vs Turquía DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 16:30 Suiza vs Turquía DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 16:30 Suiza vs Turquía DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 16:30 Suiza vs Turquía DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 16:30 Suiza vs Turquía DAZN 
@@ -908,17 +996,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:15 Gran Bretaña vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:15 Gran Bretaña vs España DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:15 Gran Bretaña vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:15 Gran Bretaña vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:15 Gran Bretaña vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:15 Gran Bretaña vs España DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:15 Gran Bretaña vs España DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:15 Gran Bretaña vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:15 Gran Bretaña vs España DAZN 
@@ -982,17 +1064,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 República Checa vs Montenegro DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 República Checa vs Montenegro DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 República Checa vs Montenegro DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 República Checa vs Montenegro DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 República Checa vs Montenegro DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 República Checa vs Montenegro DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 República Checa vs Montenegro DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 República Checa vs Montenegro DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 República Checa vs Montenegro DAZN 
@@ -1054,17 +1130,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 Lituania vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 Lituania vs Serbia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 Lituania vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 Lituania vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 Lituania vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 Lituania vs Serbia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 Lituania vs Serbia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 Lituania vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 17:30 Lituania vs Serbia DAZN 
@@ -1126,17 +1196,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Palmeiras vs Al Ahly DAZN 
@@ -1200,17 +1264,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 19:30 Francia vs Grecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 19:30 Francia vs Grecia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 19:30 Francia vs Grecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 19:30 Francia vs Grecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 19:30 Francia vs Grecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 19:30 Francia vs Grecia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 19:30 Francia vs Grecia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 19:30 Francia vs Grecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 19:30 Francia vs Grecia DAZN 
@@ -1272,17 +1330,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:00 Alemania vs Suecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:00 Alemania vs Suecia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:00 Alemania vs Suecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:00 Alemania vs Suecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:00 Alemania vs Suecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:00 Alemania vs Suecia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:00 Alemania vs Suecia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:00 Alemania vs Suecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:00 Alemania vs Suecia DAZN 
@@ -1344,20 +1396,80 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:15 Bélgica vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:15 Bélgica vs Portugal DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:15 Bélgica vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:15 Bélgica vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:15 Bélgica vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:15 Bélgica vs Portugal DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:15 Bélgica vs Portugal DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:15 Bélgica vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 20:15 Bélgica vs Portugal DAZN 
+http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="19/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Eslovenia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -1416,17 +1528,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="19/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Miami CF vs FC Porto DAZN 
@@ -1496,17 +1602,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
@@ -1568,17 +1668,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
@@ -1640,27 +1734,27 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín", 11:00 1/4 de Final WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín", 11:00 1/4 de Final WTA 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/06 Torneo de Queen's", 13:00 1/4 de Final ATP 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/06 Torneo de Queen's", 13:00 1/4 de Final ATP 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham", 13:00 1/4 de Final WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham", 13:00 1/4 de Final WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN FHD
@@ -1718,17 +1812,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
@@ -1802,17 +1890,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
@@ -1874,17 +1956,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
@@ -1946,17 +2022,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
@@ -2018,17 +2088,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
@@ -2090,17 +2154,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
@@ -2164,17 +2222,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
@@ -2240,17 +2292,11 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
