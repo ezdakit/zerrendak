@@ -80,6 +80,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Seattle Sounders vs At. Madrid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -167,6 +169,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 PSG vs Botafogo DAZN 
@@ -256,6 +260,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 10:45 G.P. Italia (Mugello) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -344,6 +350,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 Boxing Grand Prix", 11:00 Segunda Fase DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 Boxing Grand Prix", 11:00 Segunda Fase DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="20/06 Boxing Grand Prix", 11:00 Segunda Fase DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 Boxing Grand Prix", 11:00 Segunda Fase DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -353,22 +361,30 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="20/06 Boxing Grand Prix", 11:00 Segunda Fase DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 11:30 O. Jabeur vs M. Vondrousova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 11:35 O. Jabeur vs M. Vondrousova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 11:30 O. Jabeur vs M. Vondrousova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 11:35 O. Jabeur vs M. Vondrousova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 12:00 L. Fernández vs D. Yastremska Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 12:05 L. Fernández vs D. Yastremska Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 12:00 L. Fernández vs D. Yastremska Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 12:05 L. Fernández vs D. Yastremska Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 13:00 P. Badosa vs X. Wang Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 13:05 P. Badosa vs X. Wang Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 13:00 P. Badosa vs X. Wang Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 13:05 P. Badosa vs X. Wang Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 13:30 M. Linette vs C. Tauson Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 Giro de Italia Next Gen", 13:20 Etapa 6 Ovada › Acqui Terme (154 km) MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
+#EXTINF:-1 tvg-id="" group-title="20/06 Travelers Championship", 13:30 Jornada 2 PGA Tour MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
+#EXTINF:-1 tvg-id="" group-title="20/06 Route d'Occitanie", 14:05 Etapa 3 Pujaudran › Luz-Ardiden (173.9 km) MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 14:15 M. Linette vs C. Tauson Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 13:30 M. Linette vs C. Tauson Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 14:15 M. Linette vs C. Tauson Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN FHD
@@ -447,6 +463,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 Tour de Suiza", 14:50 Etapa 6 Chur › Neuhausen am Rheinfall (186.7 km) DAZN 
@@ -548,6 +566,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -557,17 +577,15 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="20/06 MotoGP", 15:00 G.P. Italia (Mugello) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 15:00 M. Kessler vs K. Boulter Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 Tour de Bélgica", 15:30 Etapa 3 Tessenderlo › Ham (9.7 km) MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 16:10 A. Sabalenka vs E. Rybakina Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 15:00 M. Kessler vs K. Boulter Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 16:10 A. Sabalenka vs E. Rybakina Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 16:00 A. Sabalenka vs E. Rybakina Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 16:15 M. Kessler vs K. Boulter Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 16:00 A. Sabalenka vs E. Rybakina Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 16:30 R. Sramkova vs L. Noskova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 16:30 R. Sramkova vs L. Noskova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 16:15 M. Kessler vs K. Boulter Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -647,6 +665,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:15 Suecia vs Gran Bretaña DAZN 
@@ -736,6 +756,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -745,9 +767,13 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 17:30 Portugal vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 17:30 A. Anisimova vs L. Samsonova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 17:35 A. Anisimova vs L. Samsonova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 17:30 A. Anisimova vs L. Samsonova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Berlín 1/4 de Final", 17:35 A. Anisimova vs L. Samsonova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 17:45 R. Sramkova vs L. Noskova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/06 WTA Torneo de Nottingham 1/4 de Final", 17:45 R. Sramkova vs L. Noskova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -828,6 +854,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Benfica vs Auckland City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -915,6 +943,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:00 España vs Alemania DAZN 
@@ -1005,6 +1035,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 FIFA Copa Mundial de Clubes Fase de grupos", 20:00 CR Flamengo vs Chelsea DAZN 
@@ -1098,6 +1130,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="20/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -1185,6 +1219,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Los Angeles FC vs ES Tunis DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Los Angeles FC vs ES Tunis DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Los Angeles FC vs ES Tunis DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Los Angeles FC vs ES Tunis DAZN 
@@ -1274,6 +1310,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 FC Bayern vs Boca Juniors DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 FC Bayern vs Boca Juniors DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 FC Bayern vs Boca Juniors DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 FC Bayern vs Boca Juniors DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -1361,6 +1399,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Velada", 03:00 Team Combat League DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="21/06 Velada", 03:00 Team Combat League DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/06 Velada", 03:00 Team Combat League DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Velada", 03:00 Team Combat League DAZN 
@@ -1450,6 +1490,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Velada Peso Supermediano", 03:00 D. Stevens vs P. Khamukov DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 Velada Peso Supermediano", 03:00 D. Stevens vs P. Khamukov DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 Velada Peso Supermediano", 03:00 D. Stevens vs P. Khamukov DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Velada Peso Supermediano", 03:00 D. Stevens vs P. Khamukov DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -1537,6 +1579,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Supercars Championship", 04:15 Hidden Valley Raceway Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="21/06 Supercars Championship", 04:15 Hidden Valley Raceway Carrera 1 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/06 Supercars Championship", 04:15 Hidden Valley Raceway Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Supercars Championship", 04:15 Hidden Valley Raceway Carrera 1 DAZN 
@@ -1626,6 +1670,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Supercars Championship", 07:40 Hidden Valley Raceway Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 Supercars Championship", 07:40 Hidden Valley Raceway Carrera 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 Supercars Championship", 07:40 Hidden Valley Raceway Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Supercars Championship", 07:40 Hidden Valley Raceway Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -1635,6 +1681,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="21/06 Supercars Championship", 07:40 Hidden Valley Raceway Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="21/06 FIA Fórmula E", 10:05 Jakarta (Indonesia) Carrera MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="21/06 FIA Fórmula E", 10:05 Jakarta (Indonesia) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="21/06 FIA Fórmula E", 10:05 Jakarta (Indonesia) Carrera DAZN FHD
@@ -1713,6 +1761,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 FIA Fórmula E", 10:05 Jakarta (Indonesia) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="21/06 FIA Fórmula E", 10:05 Jakarta (Indonesia) Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/06 FIA Fórmula E", 10:05 Jakarta (Indonesia) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 FIA Fórmula E", 10:05 Jakarta (Indonesia) Carrera DAZN 
@@ -1816,6 +1866,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 10:50 G.P. Italia (Mugello) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 10:50 G.P. Italia (Mugello) Clasificación DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 10:50 G.P. Italia (Mugello) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 10:50 G.P. Italia (Mugello) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -1903,6 +1955,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Moto3", 12:50 G.P. Italia (Mugello) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="21/06 Moto3", 12:50 G.P. Italia (Mugello) Clasificación DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/06 Moto3", 12:50 G.P. Italia (Mugello) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Moto3", 12:50 G.P. Italia (Mugello) Clasificación DAZN 
@@ -1917,14 +1971,16 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 13:00 Semifinal 1 ATP 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Nottingham", 13:00 Semifinal 1 WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Nottingham Semifinal 1", 13:00 D. Yastremska vs M. Linette Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Nottingham", 13:00 Semifinal 1 WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Nottingham Semifinal 1", 13:00 D. Yastremska vs M. Linette Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Berlín", 13:00 Semifinal 1 WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Berlín", 13:00 Semifinal 1 WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="21/06 Giro de Italia Next Gen", 13:20 Etapa 7 Bra › Prato Nevoso (163 km) MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="21/06 Moto2", 13:45 G.P. Italia (Mugello) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="21/06 Moto2", 13:45 G.P. Italia (Mugello) Clasificación DAZN FHD
@@ -2004,6 +2060,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Moto2", 13:45 G.P. Italia (Mugello) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 Moto2", 13:45 G.P. Italia (Mugello) Clasificación DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 Moto2", 13:45 G.P. Italia (Mugello) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Moto2", 13:45 G.P. Italia (Mugello) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -2013,272 +2071,18 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="21/06 Moto2", 13:45 G.P. Italia (Mugello) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d10a14db9cdba08c05b475071de68b86a400e35b
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=772633ec93566573c9a8ed23a1c3b45d31337eb7
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8037e18f698e5bcf60a93aaaf143dc24631ab236
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d10a14db9cdba08c05b475071de68b86a400e35b
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=772633ec93566573c9a8ed23a1c3b45d31337eb7
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8037e18f698e5bcf60a93aaaf143dc24631ab236
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 14:00 Semifinal 1 ATP 500 MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
+#EXTINF:-1 tvg-id="" group-title="21/06 Travelers Championship", 14:00 Jornada 3 PGA Tour MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="21/06 Women's FIH Pro League", 14:00 Inglaterra vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d10a14db9cdba08c05b475071de68b86a400e35b
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=772633ec93566573c9a8ed23a1c3b45d31337eb7
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8037e18f698e5bcf60a93aaaf143dc24631ab236
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="21/06 Boxing Grand Prix", 14:00 Segunda Fase MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
+#EXTINF:-1 tvg-id="" group-title="21/06 Route d'Occitanie", 14:30 Etapa 4 Saint-Gaudens › Saint-Girons (128.5 km) MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
+#EXTINF:-1 tvg-id="" group-title="21/06 The Amateur Championship", 14:30 Final MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 15:00 G.P. Italia (Mugello) Sprint DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 15:00 G.P. Italia (Mugello) Sprint DAZN FHD
@@ -2358,6 +2162,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 15:00 G.P. Italia (Mugello) Sprint DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 15:00 G.P. Italia (Mugello) Sprint DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 15:00 G.P. Italia (Mugello) Sprint DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 15:00 G.P. Italia (Mugello) Sprint DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -2366,94 +2172,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 15:00 G.P. Italia (Mugello) Sprint DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="21/06 MotoGP", 15:00 G.P. Italia (Mugello) Sprint DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d10a14db9cdba08c05b475071de68b86a400e35b
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=772633ec93566573c9a8ed23a1c3b45d31337eb7
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8037e18f698e5bcf60a93aaaf143dc24631ab236
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8e5d8387559b72217d01745e56733d63db779324
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Halle", 15:00 Semifinal 2 ATP 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="21/06 Tour de Suiza", 15:00 Etapa 7 Neuhausen am Rheinfall › Emmetten (207.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -2533,6 +2251,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Tour de Suiza", 15:00 Etapa 7 Neuhausen am Rheinfall › Emmetten (207.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="21/06 Tour de Suiza", 15:00 Etapa 7 Neuhausen am Rheinfall › Emmetten (207.3 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/06 Tour de Suiza", 15:00 Etapa 7 Neuhausen am Rheinfall › Emmetten (207.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Tour de Suiza", 15:00 Etapa 7 Neuhausen am Rheinfall › Emmetten (207.3 km) DAZN 
@@ -2622,6 +2342,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Nottingham", 15:00 Semifinal 2 WTA 250 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Nottingham", 15:00 Semifinal 2 WTA 250 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Nottingham", 15:00 Semifinal 2 WTA 250 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Nottingham", 15:00 Semifinal 2 WTA 250 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -2710,6 +2432,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Berlín", 15:00 Semifinal 2 WTA 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Berlín", 15:00 Semifinal 2 WTA 500 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Berlín", 15:00 Semifinal 2 WTA 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Berlín", 15:00 Semifinal 2 WTA 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -2719,6 +2443,10 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="21/06 WTA Torneo de Berlín", 15:00 Semifinal 2 WTA 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="21/06 Copenhagen Sprint", 15:10 Carrera Femenina MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
+#EXTINF:-1 tvg-id="" group-title="21/06 Tour de Bélgica", 15:15 Etapa 4 Durbuy › Durbuy (173 km) MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 16:00 Semifinal 2 ATP 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 16:00 Semifinal 2 ATP 500 DAZN FHD
@@ -2797,6 +2525,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 16:00 Semifinal 2 ATP 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 16:00 Semifinal 2 ATP 500 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 16:00 Semifinal 2 ATP 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Torneo de Queen's", 16:00 Semifinal 2 ATP 500 DAZN 
@@ -2886,6 +2616,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 24 Horas de Nürburgring", 16:00 Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 24 Horas de Nürburgring", 16:00 Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 24 Horas de Nürburgring", 16:00 Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 24 Horas de Nürburgring", 16:00 Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -2974,6 +2706,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 16:30 Francia vs Suiza DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 16:30 Francia vs Suiza DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 16:30 Francia vs Suiza DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 16:30 Francia vs Suiza DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3061,6 +2795,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Serbia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 17:30 Eslovenia vs Serbia DAZN 
@@ -3152,6 +2888,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Mamelodi Sundowns vs Borussia Dortmund DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Mamelodi Sundowns vs Borussia Dortmund DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Mamelodi Sundowns vs Borussia Dortmund DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Mamelodi Sundowns vs Borussia Dortmund DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3239,6 +2977,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Turquía DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Turquía DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Turquía DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 19:30 Grecia vs Turquía DAZN 
@@ -3328,6 +3068,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Título Mundial Peso Mosca", 20:00 G. Yafai vs F. Rodriguez Jr. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 Título Mundial Peso Mosca", 20:00 G. Yafai vs F. Rodriguez Jr. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 Título Mundial Peso Mosca", 20:00 G. Yafai vs F. Rodriguez Jr. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Título Mundial Peso Mosca", 20:00 G. Yafai vs F. Rodriguez Jr. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3416,6 +3158,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Lituania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Lituania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Lituania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 Eurobasket Femenino Fase de grupos", 21:00 Italia vs Lituania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3503,6 +3247,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Milan vs Urawa Red Diamonds DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Milan vs Urawa Red Diamonds DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Milan vs Urawa Red Diamonds DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Inter Milan vs Urawa Red Diamonds DAZN 
@@ -3596,6 +3342,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="21/06 LaLiga Hypermotion Playoffs Final", 21:00 Real Oviedo vs Mirandés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="21/06 LaLiga Hypermotion Playoffs Final", 21:00 Real Oviedo vs Mirandés DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="21/06 LaLiga Hypermotion Playoffs Final", 21:00 Real Oviedo vs Mirandés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="21/06 LaLiga Hypermotion Playoffs Final", 21:00 Real Oviedo vs Mirandés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3605,6 +3353,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="21/06 LaLiga Hypermotion Playoffs Final", 21:00 Real Oviedo vs Mirandés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="21/06 UFC UFC Fight Night", 21:00 J. Hill vs K. Rountree Jr. MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Fluminense vs Ulsan Hyundai DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Fluminense vs Ulsan Hyundai DAZN FHD
@@ -3683,6 +3433,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Fluminense vs Ulsan Hyundai DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Fluminense vs Ulsan Hyundai DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Fluminense vs Ulsan Hyundai DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 00:00 Fluminense vs Ulsan Hyundai DAZN 
@@ -3772,6 +3524,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 24 Horas de Nürburgring", 00:00 Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="22/06 24 Horas de Nürburgring", 00:00 Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="22/06 24 Horas de Nürburgring", 00:00 Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 24 Horas de Nürburgring", 00:00 Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3859,6 +3613,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 River Plate vs Monterrey DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 River Plate vs Monterrey DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 River Plate vs Monterrey DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 River Plate vs Monterrey DAZN 
@@ -3948,6 +3704,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Velada", 03:00 Team Combat League DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="22/06 Velada", 03:00 Team Combat League DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="22/06 Velada", 03:00 Team Combat League DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Velada", 03:00 Team Combat League DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -4035,6 +3793,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Supercars Championship", 07:10 Hidden Valley Raceway Carrera 3 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 Supercars Championship", 07:10 Hidden Valley Raceway Carrera 3 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 Supercars Championship", 07:10 Hidden Valley Raceway Carrera 3 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Supercars Championship", 07:10 Hidden Valley Raceway Carrera 3 DAZN 
@@ -4126,6 +3886,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Moto3", 11:00 G.P. Italia (Mugello) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="22/06 Moto3", 11:00 G.P. Italia (Mugello) Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="22/06 Moto3", 11:00 G.P. Italia (Mugello) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Moto3", 11:00 G.P. Italia (Mugello) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -4213,6 +3975,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Moto2", 12:15 G.P. Italia (Mugello) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 Moto2", 12:15 G.P. Italia (Mugello) Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 Moto2", 12:15 G.P. Italia (Mugello) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Moto2", 12:15 G.P. Italia (Mugello) Carrera DAZN 
@@ -4225,6 +3989,12 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="22/06 Women's FIH Pro League", 13:00 Inglaterra vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="22/06 Giro de Italia Next Gen", 13:20 Etapa 8 Pinerolo › Pinerolo (127 km) MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
+#EXTINF:-1 tvg-id="" group-title="22/06 Travelers Championship", 13:30 Jornada 4 PGA Tour MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
+#EXTINF:-1 tvg-id="" group-title="22/06 Clásica de Andorra", 13:40 UCI Europe Tour Andorra La Vella › Coll de la Botella (138.5 km) MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="22/06 MotoGP", 14:00 G.P. Italia (Mugello) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="22/06 MotoGP", 14:00 G.P. Italia (Mugello) Carrera DAZN FHD
@@ -4303,6 +4073,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 MotoGP", 14:00 G.P. Italia (Mugello) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 MotoGP", 14:00 G.P. Italia (Mugello) Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 MotoGP", 14:00 G.P. Italia (Mugello) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 MotoGP", 14:00 G.P. Italia (Mugello) Carrera DAZN 
@@ -4392,6 +4164,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Halle", 14:00 Final ATP 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Halle", 14:00 Final ATP 500 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Halle", 14:00 Final ATP 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Halle", 14:00 Final ATP 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -4480,6 +4254,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Berlín", 14:00 Final WTA 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Berlín", 14:00 Final WTA 500 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Berlín", 14:00 Final WTA 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Berlín", 14:00 Final WTA 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -4489,6 +4265,10 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Berlín", 14:00 Final WTA 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="22/06 Copenhagen Sprint", 14:05 UCI World Tour MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
+#EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Queen's", 15:00 Final ATP 500 MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Queen's", 15:00 Final ATP 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Queen's", 15:00 Final ATP 500 DAZN FHD
@@ -4567,6 +4347,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Queen's", 15:00 Final ATP 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Queen's", 15:00 Final ATP 500 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Queen's", 15:00 Final ATP 500 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Queen's", 15:00 Final ATP 500 DAZN 
@@ -4589,6 +4371,8 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="22/06 Torneo de Queen's", 15:00 Final ATP 500 Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="22/06 Tour de Suiza", 15:00 Etapa 8 Beckenried › Stockhütte (10 km) MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Suiza", 15:00 Etapa 8 Beckenried › Stockhütte (10 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Suiza", 15:00 Etapa 8 Beckenried › Stockhütte (10 km) DAZN FHD
@@ -4667,6 +4451,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Suiza", 15:00 Etapa 8 Beckenried › Stockhütte (10 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 Tour de Suiza", 15:00 Etapa 8 Beckenried › Stockhütte (10 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Suiza", 15:00 Etapa 8 Beckenried › Stockhütte (10 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Suiza", 15:00 Etapa 8 Beckenried › Stockhütte (10 km) DAZN 
@@ -4689,6 +4475,8 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Suiza", 15:00 Etapa 8 Beckenried › Stockhütte (10 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="22/06 Tour de Bélgica", 15:00 Etapa 5 Brussels › Brussels (183.4 km) MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Bélgica", 15:00 Etapa 5 Brussels › Brussels (183.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Bélgica", 15:00 Etapa 5 Brussels › Brussels (183.4 km) DAZN FHD
@@ -4767,6 +4555,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Bélgica", 15:00 Etapa 5 Brussels › Brussels (183.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 Tour de Bélgica", 15:00 Etapa 5 Brussels › Brussels (183.4 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Bélgica", 15:00 Etapa 5 Brussels › Brussels (183.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Bélgica", 15:00 Etapa 5 Brussels › Brussels (183.4 km) DAZN 
@@ -4789,6 +4579,8 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="22/06 Tour de Bélgica", 15:00 Etapa 5 Brussels › Brussels (183.4 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Nottingham", 15:00 Final WTA 250 MAX 
+http://127.0.0.1:6878/ace/getstream?id=84adf7e2925ce711a638aa84f1aa78120ebdb551
 #EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Nottingham", 15:00 Final WTA 250 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Nottingham", 15:00 Final WTA 250 DAZN FHD
@@ -4867,6 +4659,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Nottingham", 15:00 Final WTA 250 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Nottingham", 15:00 Final WTA 250 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Nottingham", 15:00 Final WTA 250 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 WTA Torneo de Nottingham", 15:00 Final WTA 250 DAZN 
@@ -4968,6 +4762,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 15:15 Suecia vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 15:15 Suecia vs España DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 15:15 Suecia vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 15:15 Suecia vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -5057,6 +4853,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 17:30 Bélgica vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 17:30 Bélgica vs República Checa DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 17:30 Bélgica vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 17:30 Bélgica vs República Checa DAZN 
@@ -5148,6 +4946,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 18:00 Gran Bretaña vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 18:00 Gran Bretaña vs Alemania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 18:00 Gran Bretaña vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 18:00 Gran Bretaña vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -5235,6 +5035,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Juventus vs WAC Casablanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Juventus vs WAC Casablanca DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Juventus vs WAC Casablanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 18:00 Juventus vs WAC Casablanca DAZN 
@@ -5324,6 +5126,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 NASCAR Cup Series", 20:00 Pocono Raceway (Long Pond) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="22/06 NASCAR Cup Series", 20:00 Pocono Raceway (Long Pond) Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="22/06 NASCAR Cup Series", 20:00 Pocono Raceway (Long Pond) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 NASCAR Cup Series", 20:00 Pocono Raceway (Long Pond) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -5411,6 +5215,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Portugal DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 Eurobasket Femenino Fase de grupos", 20:15 Montenegro vs Portugal DAZN 
@@ -5501,6 +5307,8 @@ http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Pachuca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Pachuca DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Pachuca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="22/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Real Madrid vs Pachuca DAZN 
