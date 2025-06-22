@@ -568,8 +568,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-22,17:30-Bélgica-República Checa,17:30,Eurobasket Femenino Fase de grupos,Bélgica vs República Checa,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-06-22,17:30-Bélgica-República Checa,17:30,Eurobasket Femenino Fase de grupos,Bélgica vs República Checa,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-22,17:30-Bélgica-República Checa,17:30,Eurobasket Femenino Fase de grupos,Bélgica vs República Checa,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-06-22,17:50-E. Svitolina-E. Mertens,17:50,WTA Torneo de Bad Homburg 1ª Ronda,E. Svitolina vs E. Mertens,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-22,17:50-E. Svitolina-E. Mertens,17:50,WTA Torneo de Bad Homburg 1ª Ronda,E. Svitolina vs E. Mertens,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-22,18:00-Dinamarca-Francia,18:00,Europeo Sub-21 1/4 de Final,Dinamarca vs Francia,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-06-22,18:00-Gran Bretaña-Alemania,18:00,Eurobasket Femenino Fase de grupos,Gran Bretaña vs Alemania,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-22,18:00-Gran Bretaña-Alemania,18:00,Eurobasket Femenino Fase de grupos,Gran Bretaña vs Alemania,DAZN,e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04,FHD
@@ -661,6 +659,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-22,18:00-Juventus-WAC Casablanca,18:00,FIFA Copa Mundial de Clubes Fase de grupos,Juventus vs WAC Casablanca,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-06-22,18:00-Juventus-WAC Casablanca,18:00,FIFA Copa Mundial de Clubes Fase de grupos,Juventus vs WAC Casablanca,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-22,18:00-Juventus-WAC Casablanca,18:00,FIFA Copa Mundial de Clubes Fase de grupos,Juventus vs WAC Casablanca,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-06-22,18:00-E. Svitolina-E. Mertens,18:00,WTA Torneo de Bad Homburg 1ª Ronda,E. Svitolina vs E. Mertens,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-22,18:00-E. Svitolina-E. Mertens,18:00,WTA Torneo de Bad Homburg 1ª Ronda,E. Svitolina vs E. Mertens,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-22,20:00-Pocono Raceway (Long Pond) Carrera,20:00,NASCAR Cup Series,Pocono Raceway (Long Pond) Carrera,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-22,20:00-Pocono Raceway (Long Pond) Carrera,20:00,NASCAR Cup Series,Pocono Raceway (Long Pond) Carrera,DAZN,e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04,FHD
 2025-06-22,20:00-Pocono Raceway (Long Pond) Carrera,20:00,NASCAR Cup Series,Pocono Raceway (Long Pond) Carrera,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -890,14 +890,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-23,03:00-Manchester City-Al Ain,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Manchester City vs Al Ain,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-06-23,03:00-Manchester City-Al Ain,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Manchester City vs Al Ain,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-23,03:00-Manchester City-Al Ain,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Manchester City vs Al Ain,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-06-23,12:00-1ª Ronda ATP 250,12:00,Torneo de Eastbourne,1ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-23,12:00-1ª Ronda ATP 250,12:00,Torneo de Eastbourne,1ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-06-23,12:00-1ª Ronda WTA 250,12:00,WTA Torneo de Eastbourne,1ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-23,12:00-1ª Ronda WTA 250,12:00,WTA Torneo de Eastbourne,1ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-06-23,12:00-1ª Ronda ATP 250,12:00,Torneo de Mallorca,1ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-23,12:00-1ª Ronda ATP 250,12:00,Torneo de Mallorca,1ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-06-23,12:00-1ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,1ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-23,12:00-1ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,1ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-23,12:00-1ª Ronda ATP 250,12:00,Torneo de Eastbourne,1ª Ronda ATP 250,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-23,12:00-1ª Ronda ATP 250,12:00,Torneo de Mallorca,1ª Ronda ATP 250,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-23,12:00-1ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,1ª Ronda WTA 500,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-23,12:05-1ª Ronda WTA 250,12:05,WTA Torneo de Eastbourne,1ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-23,12:05-1ª Ronda WTA 250,12:05,WTA Torneo de Eastbourne,1ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-23,21:00-At. Madrid-Botafogo,21:00,FIFA Copa Mundial de Clubes Fase de grupos,At. Madrid vs Botafogo,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-23,21:00-At. Madrid-Botafogo,21:00,FIFA Copa Mundial de Clubes Fase de grupos,At. Madrid vs Botafogo,DAZN,e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04,FHD
 2025-06-23,21:00-At. Madrid-Botafogo,21:00,FIFA Copa Mundial de Clubes Fase de grupos,At. Madrid vs Botafogo,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -1081,14 +1078,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-06-24,12:00-2ª Ronda ATP 250,12:00,Torneo de Eastbourne,2ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-24,12:00-2ª Ronda ATP 250,12:00,Torneo de Eastbourne,2ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-06-24,12:00-2ª Ronda WTA 250,12:00,WTA Torneo de Eastbourne,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-24,12:00-2ª Ronda WTA 250,12:00,WTA Torneo de Eastbourne,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-06-24,12:00-2ª Ronda ATP 250,12:00,Torneo de Mallorca,2ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-24,12:00-2ª Ronda ATP 250,12:00,Torneo de Mallorca,2ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-06-24,12:00-2ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,2ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-24,12:00-2ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-24,12:00-2ª Ronda ATP 250,12:00,Torneo de Eastbourne,2ª Ronda ATP 250,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-24,12:00-2ª Ronda ATP 250,12:00,Torneo de Mallorca,2ª Ronda ATP 250,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-24,12:00-2ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,2ª Ronda WTA 500,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-24,12:05-2ª Ronda WTA 250,12:05,WTA Torneo de Eastbourne,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,12:05-2ª Ronda WTA 250,12:05,WTA Torneo de Eastbourne,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-24,21:00-Benfica-FC Bayern,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Benfica vs FC Bayern,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-24,21:00-Benfica-FC Bayern,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Benfica vs FC Bayern,DAZN,e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04,FHD
 2025-06-24,21:00-Benfica-FC Bayern,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Benfica vs FC Bayern,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
