@@ -107,11 +107,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-23,16:05-N. Osaka-O. Danilovic,16:05,WTA Torneo de Bad Homburg 1ª Ronda,N. Osaka vs O. Danilovic,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-06-23,16:05-N. Osaka-O. Danilovic,16:05,WTA Torneo de Bad Homburg 1ª Ronda,N. Osaka vs O. Danilovic,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-23,16:10-G. Diallo-J. Munar,16:10,Torneo de Mallorca 1ª Ronda,G. Diallo vs J. Munar,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-06-23,17:15-D. Kasatkina-L. Sun,17:15,WTA Torneo de Eastbourne 1ª Ronda,D. Kasatkina vs L. Sun,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-23,17:15-D. Kasatkina-L. Sun,17:15,WTA Torneo de Eastbourne 1ª Ronda,D. Kasatkina vs L. Sun,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-06-23,18:15-M. Joint-O. Jabeur,18:15,WTA Torneo de Eastbourne 1ª Ronda,M. Joint vs O. Jabeur,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-23,18:15-M. Joint-O. Jabeur,18:15,WTA Torneo de Eastbourne 1ª Ronda,M. Joint vs O. Jabeur,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-06-23,18:30-L. Tien-J. Engel,18:30,Torneo de Mallorca 1ª Ronda,L. Tien vs J. Engel,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-23,17:00-D. Kasatkina-L. Sun,17:00,WTA Torneo de Eastbourne 1ª Ronda,D. Kasatkina vs L. Sun,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-23,17:00-D. Kasatkina-L. Sun,17:00,WTA Torneo de Eastbourne 1ª Ronda,D. Kasatkina vs L. Sun,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-23,18:20-L. Tien-J. Engel,18:20,Torneo de Mallorca 1ª Ronda,L. Tien vs J. Engel,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-23,19:25-M. Joint-O. Jabeur,19:25,WTA Torneo de Eastbourne 1ª Ronda,M. Joint vs O. Jabeur,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-23,19:25-M. Joint-O. Jabeur,19:25,WTA Torneo de Eastbourne 1ª Ronda,M. Joint vs O. Jabeur,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-23,21:00-At. Madrid-Botafogo,21:00,FIFA Copa Mundial de Clubes Fase de grupos,At. Madrid vs Botafogo,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-23,21:00-At. Madrid-Botafogo,21:00,FIFA Copa Mundial de Clubes Fase de grupos,At. Madrid vs Botafogo,DAZN,e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04,FHD
 2025-06-23,21:00-At. Madrid-Botafogo,21:00,FIFA Copa Mundial de Clubes Fase de grupos,At. Madrid vs Botafogo,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -307,12 +307,16 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-06-24,12:00-Ronda de clasificación Grand Slam,12:00,Wimbledon,Ronda de clasificación Grand Slam,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-06-24,12:00-2ª Ronda ATP 250,12:00,Torneo de Eastbourne,2ª Ronda ATP 250,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-06-24,12:00-2ª Ronda ATP 250,12:00,Torneo de Mallorca,2ª Ronda ATP 250,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-06-24,12:00-2ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,2ª Ronda WTA 500,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-24,12:00-Ronda de clasificación Grand Slam,12:00,Wimbledon,Ronda de clasificación Grand Slam,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,12:00-Ronda de clasificación Grand Slam,12:00,Wimbledon,Ronda de clasificación Grand Slam,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-24,12:00-2ª Ronda ATP 250,12:00,Torneo de Eastbourne,2ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,12:00-2ª Ronda ATP 250,12:00,Torneo de Eastbourne,2ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-24,12:00-2ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,2ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,12:00-2ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-24,12:05-2ª Ronda WTA 250,12:05,WTA Torneo de Eastbourne,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-06-24,12:05-2ª Ronda WTA 250,12:05,WTA Torneo de Eastbourne,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-24,12:05-2ª Ronda ATP 250,12:05,Torneo de Mallorca,2ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,12:05-2ª Ronda ATP 250,12:05,Torneo de Mallorca,2ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04,FHD
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -605,12 +609,16 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-06-25,12:00-Ronda de clasificación Grand Slam,12:00,Wimbledon,Ronda de clasificación Grand Slam,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-06-25,12:00-2ª Ronda ATP 250,12:00,Torneo de Eastbourne,2ª Ronda ATP 250,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-06-25,12:00-2ª Ronda ATP 250,12:00,Torneo de Mallorca,2ª Ronda ATP 250,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-06-25,12:00-2ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,2ª Ronda WTA 500,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-25,12:00-Ronda de clasificación Grand Slam,12:00,Wimbledon,Ronda de clasificación Grand Slam,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-25,12:00-Ronda de clasificación Grand Slam,12:00,Wimbledon,Ronda de clasificación Grand Slam,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-25,12:00-2ª Ronda ATP 250,12:00,Torneo de Eastbourne,2ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-25,12:00-2ª Ronda ATP 250,12:00,Torneo de Eastbourne,2ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-25,12:00-2ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,2ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-25,12:00-2ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-25,12:05-2ª Ronda WTA 250,12:05,WTA Torneo de Eastbourne,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-06-25,12:05-2ª Ronda WTA 250,12:05,WTA Torneo de Eastbourne,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-25,12:05-2ª Ronda ATP 250,12:05,Torneo de Mallorca,2ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-25,12:05-2ª Ronda ATP 250,12:05,Torneo de Mallorca,2ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04,FHD
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
