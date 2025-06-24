@@ -9,7 +9,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-24,03:00-FC Porto-Al Ahly,03:00,FIFA Copa Mundial de Clubes Fase de grupos,FC Porto vs Al Ahly,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-24,03:00-FC Porto-Al Ahly,03:00,FIFA Copa Mundial de Clubes Fase de grupos,FC Porto vs Al Ahly,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-24,03:00-FC Porto-Al Ahly,03:00,FIFA Copa Mundial de Clubes Fase de grupos,FC Porto vs Al Ahly,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-24,03:00-FC Porto-Al Ahly,03:00,FIFA Copa Mundial de Clubes Fase de grupos,FC Porto vs Al Ahly,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-24,03:00-FC Porto-Al Ahly,03:00,FIFA Copa Mundial de Clubes Fase de grupos,FC Porto vs Al Ahly,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-24,03:00-FC Porto-Al Ahly,03:00,FIFA Copa Mundial de Clubes Fase de grupos,FC Porto vs Al Ahly,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-24,03:00-FC Porto-Al Ahly,03:00,FIFA Copa Mundial de Clubes Fase de grupos,FC Porto vs Al Ahly,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -56,7 +55,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -93,16 +91,20 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-24,03:00-Inter Miami CF-Palmeiras,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Miami CF vs Palmeiras,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-06-24,11:30-L. Fernández-J. Paolini,11:30,WTA Torneo de Bad Homburg 2ª Ronda,L. Fernández vs J. Paolini,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-24,12:00-H. Dart-B. Krejcikova,12:00,WTA Torneo de Eastbourne 1ª Ronda,H. Dart vs B. Krejcikova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-24,13:00-TM. Etcheverry-R. Bautista-Agut,13:00,Torneo de Mallorca 1ª Ronda,TM. Etcheverry vs R. Bautista-Agut,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-06-24,13:00-TM. Etcheverry-R. Bautista-Agut,13:00,Torneo de Mallorca 1ª Ronda,TM. Etcheverry vs R. Bautista-Agut,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
-2025-06-24,13:00-J. Pegula-K. Siniakova,13:00,WTA Torneo de Bad Homburg 2ª Ronda,J. Pegula vs K. Siniakova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-24,13:30-A. Li-E. Raducanu,13:30,WTA Torneo de Eastbourne 1ª Ronda,A. Li vs E. Raducanu,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-24,15:30-S. Kartal-J. Ostapenko,15:30,WTA Torneo de Eastbourne 1ª Ronda,S. Kartal vs J. Ostapenko,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-24,15:30-E. Quinn-T. Griekspoor,15:30,Torneo de Mallorca 2ª Ronda,E. Quinn vs T. Griekspoor,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-06-24,15:30-E. Quinn-T. Griekspoor,15:30,Torneo de Mallorca 2ª Ronda,E. Quinn vs T. Griekspoor,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
-2025-06-24,16:00-V. Azarenka-I. Swiatek,16:00,WTA Torneo de Bad Homburg 2ª Ronda,V. Azarenka vs I. Swiatek,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,11:40-L. Fernández-J. Paolini,11:40,WTA Torneo de Bad Homburg 2ª Ronda,L. Fernández vs J. Paolini,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,11:40-L. Fernández-J. Paolini,11:40,WTA Torneo de Bad Homburg 2ª Ronda,L. Fernández vs J. Paolini,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-24,12:10-H. Dart-B. Krejcikova,12:10,WTA Torneo de Eastbourne 1ª Ronda,H. Dart vs B. Krejcikova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,12:10-H. Dart-B. Krejcikova,12:10,WTA Torneo de Eastbourne 1ª Ronda,H. Dart vs B. Krejcikova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-24,13:10-TM. Etcheverry-R. Bautista-Agut,13:10,Torneo de Mallorca 1ª Ronda,TM. Etcheverry vs R. Bautista-Agut,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-24,13:10-TM. Etcheverry-R. Bautista-Agut,13:10,Torneo de Mallorca 1ª Ronda,TM. Etcheverry vs R. Bautista-Agut,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
+2025-06-24,14:30-J. Pegula-K. Siniakova,14:30,WTA Torneo de Bad Homburg 2ª Ronda,J. Pegula vs K. Siniakova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,14:30-J. Pegula-K. Siniakova,14:30,WTA Torneo de Bad Homburg 2ª Ronda,J. Pegula vs K. Siniakova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-24,15:40-A. Li-E. Raducanu,15:40,WTA Torneo de Eastbourne 1ª Ronda,A. Li vs E. Raducanu,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,15:40-A. Li-E. Raducanu,15:40,WTA Torneo de Eastbourne 1ª Ronda,A. Li vs E. Raducanu,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-24,16:10-E. Quinn-T. Griekspoor,16:10,Torneo de Mallorca 2ª Ronda,E. Quinn vs T. Griekspoor,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-24,16:10-E. Quinn-T. Griekspoor,16:10,Torneo de Mallorca 2ª Ronda,E. Quinn vs T. Griekspoor,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
+2025-06-24,16:10-V. Azarenka-I. Swiatek,16:10,WTA Torneo de Bad Homburg 2ª Ronda,V. Azarenka vs I. Swiatek,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,16:10-V. Azarenka-I. Swiatek,16:10,WTA Torneo de Bad Homburg 2ª Ronda,V. Azarenka vs I. Swiatek,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04,FHD
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -113,7 +115,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -150,10 +151,14 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-24,16:30-Francia-Lituania,16:30,Eurobasket Femenino 1/4 de Final,Francia vs Lituania,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-06-24,17:00-M. Xu-P. Stearns,17:00,WTA Torneo de Eastbourne 1ª Ronda,M. Xu vs P. Stearns,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-24,17:30-N. Osaka-E. Navarro,17:30,WTA Torneo de Bad Homburg 2ª Ronda,N. Osaka vs E. Navarro,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-24,18:00-A. Rinderknech-F. Auger-Aliassime,18:00,Torneo de Mallorca 2ª Ronda,A. Rinderknech vs F. Auger-Aliassime,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-06-24,18:00-A. Rinderknech-F. Auger-Aliassime,18:00,Torneo de Mallorca 2ª Ronda,A. Rinderknech vs F. Auger-Aliassime,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
+2025-06-24,17:00-S. Kartal-J. Ostapenko,17:00,WTA Torneo de Eastbourne 1ª Ronda,S. Kartal vs J. Ostapenko,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,17:00-S. Kartal-J. Ostapenko,17:00,WTA Torneo de Eastbourne 1ª Ronda,S. Kartal vs J. Ostapenko,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-24,17:40-N. Osaka-E. Navarro,17:40,WTA Torneo de Bad Homburg 2ª Ronda,N. Osaka vs E. Navarro,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,17:40-N. Osaka-E. Navarro,17:40,WTA Torneo de Bad Homburg 2ª Ronda,N. Osaka vs E. Navarro,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-24,18:30-M. Xu-P. Stearns,18:30,WTA Torneo de Eastbourne 1ª Ronda,M. Xu vs P. Stearns,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-24,18:30-M. Xu-P. Stearns,18:30,WTA Torneo de Eastbourne 1ª Ronda,M. Xu vs P. Stearns,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-24,18:40-A. Rinderknech-F. Auger-Aliassime,18:40,Torneo de Mallorca 2ª Ronda,A. Rinderknech vs F. Auger-Aliassime,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-06-24,18:40-A. Rinderknech-F. Auger-Aliassime,18:40,Torneo de Mallorca 2ª Ronda,A. Rinderknech vs F. Auger-Aliassime,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-06-24,19:30-Italia-Turquía,19:30,Eurobasket Femenino 1/4 de Final,Italia vs Turquía,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-24,19:30-Italia-Turquía,19:30,Eurobasket Femenino 1/4 de Final,Italia vs Turquía,DAZN,e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04,FHD
 2025-06-24,19:30-Italia-Turquía,19:30,Eurobasket Femenino 1/4 de Final,Italia vs Turquía,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -164,7 +169,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-24,19:30-Italia-Turquía,19:30,Eurobasket Femenino 1/4 de Final,Italia vs Turquía,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-24,19:30-Italia-Turquía,19:30,Eurobasket Femenino 1/4 de Final,Italia vs Turquía,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-24,19:30-Italia-Turquía,19:30,Eurobasket Femenino 1/4 de Final,Italia vs Turquía,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-24,19:30-Italia-Turquía,19:30,Eurobasket Femenino 1/4 de Final,Italia vs Turquía,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-24,19:30-Italia-Turquía,19:30,Eurobasket Femenino 1/4 de Final,Italia vs Turquía,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-24,19:30-Italia-Turquía,19:30,Eurobasket Femenino 1/4 de Final,Italia vs Turquía,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-24,19:30-Italia-Turquía,19:30,Eurobasket Femenino 1/4 de Final,Italia vs Turquía,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -211,7 +215,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-24,21:00-Benfica-FC Bayern,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Benfica vs FC Bayern,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-24,21:00-Benfica-FC Bayern,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Benfica vs FC Bayern,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-24,21:00-Benfica-FC Bayern,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Benfica vs FC Bayern,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-24,21:00-Benfica-FC Bayern,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Benfica vs FC Bayern,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-24,21:00-Benfica-FC Bayern,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Benfica vs FC Bayern,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-24,21:00-Benfica-FC Bayern,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Benfica vs FC Bayern,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-24,21:00-Benfica-FC Bayern,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Benfica vs FC Bayern,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -261,7 +264,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-24,21:00-Auckland City-Boca Juniors,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Auckland City vs Boca Juniors,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-24,21:00-Auckland City-Boca Juniors,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Auckland City vs Boca Juniors,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-24,21:00-Auckland City-Boca Juniors,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Auckland City vs Boca Juniors,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-24,21:00-Auckland City-Boca Juniors,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Auckland City vs Boca Juniors,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-24,21:00-Auckland City-Boca Juniors,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Auckland City vs Boca Juniors,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-24,21:00-Auckland City-Boca Juniors,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Auckland City vs Boca Juniors,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-24,21:00-Auckland City-Boca Juniors,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Auckland City vs Boca Juniors,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -310,7 +312,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-25,03:00-ES Tunis-Chelsea,03:00,FIFA Copa Mundial de Clubes Fase de grupos,ES Tunis vs Chelsea,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-25,03:00-ES Tunis-Chelsea,03:00,FIFA Copa Mundial de Clubes Fase de grupos,ES Tunis vs Chelsea,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-25,03:00-ES Tunis-Chelsea,03:00,FIFA Copa Mundial de Clubes Fase de grupos,ES Tunis vs Chelsea,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-25,03:00-ES Tunis-Chelsea,03:00,FIFA Copa Mundial de Clubes Fase de grupos,ES Tunis vs Chelsea,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-25,03:00-ES Tunis-Chelsea,03:00,FIFA Copa Mundial de Clubes Fase de grupos,ES Tunis vs Chelsea,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-25,03:00-ES Tunis-Chelsea,03:00,FIFA Copa Mundial de Clubes Fase de grupos,ES Tunis vs Chelsea,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-25,03:00-ES Tunis-Chelsea,03:00,FIFA Copa Mundial de Clubes Fase de grupos,ES Tunis vs Chelsea,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -357,7 +358,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -395,10 +395,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-06-25,03:00-Los Angeles FC-CR Flamengo,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Los Angeles FC vs CR Flamengo,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-06-25,12:00-Ronda de clasificación Grand Slam,12:00,Wimbledon,Ronda de clasificación Grand Slam,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-25,12:00-2ª Ronda ATP 250,12:00,Torneo de Eastbourne,2ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-25,12:00-Ronda de clasificación Grand Slam,12:00,Wimbledon,Ronda de clasificación Grand Slam,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-25,12:00-2ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,2ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-25,12:00-2ª Ronda WTA 500,12:00,WTA Torneo de Bad Homburg,2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-25,12:05-2ª Ronda ATP 250,12:05,Torneo de Eastbourne,2ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-25,12:05-2ª Ronda ATP 250,12:05,Torneo de Eastbourne,2ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-25,12:05-2ª Ronda WTA 250,12:05,WTA Torneo de Eastbourne,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-25,12:05-2ª Ronda WTA 250,12:05,WTA Torneo de Eastbourne,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-25,12:05-2ª Ronda ATP 250,12:05,Torneo de Mallorca,2ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-25,12:05-2ª Ronda ATP 250,12:05,Torneo de Mallorca,2ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04,FHD
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -409,7 +414,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-25,16:30-España-República Checa,16:30,Eurobasket Femenino 1/4 de Final,España vs República Checa,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -460,7 +464,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-25,19:30-Bélgica-Alemania,19:30,Eurobasket Femenino 1/4 de Final,Bélgica vs Alemania,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-25,19:30-Bélgica-Alemania,19:30,Eurobasket Femenino 1/4 de Final,Bélgica vs Alemania,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-25,19:30-Bélgica-Alemania,19:30,Eurobasket Femenino 1/4 de Final,Bélgica vs Alemania,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-25,19:30-Bélgica-Alemania,19:30,Eurobasket Femenino 1/4 de Final,Bélgica vs Alemania,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-25,19:30-Bélgica-Alemania,19:30,Eurobasket Femenino 1/4 de Final,Bélgica vs Alemania,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-25,19:30-Bélgica-Alemania,19:30,Eurobasket Femenino 1/4 de Final,Bélgica vs Alemania,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-25,19:30-Bélgica-Alemania,19:30,Eurobasket Femenino 1/4 de Final,Bélgica vs Alemania,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -509,7 +512,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-25,21:00-Borussia Dortmund-Ulsan Hyundai,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Borussia Dortmund vs Ulsan Hyundai,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-25,21:00-Borussia Dortmund-Ulsan Hyundai,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Borussia Dortmund vs Ulsan Hyundai,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-25,21:00-Borussia Dortmund-Ulsan Hyundai,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Borussia Dortmund vs Ulsan Hyundai,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-25,21:00-Borussia Dortmund-Ulsan Hyundai,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Borussia Dortmund vs Ulsan Hyundai,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-25,21:00-Borussia Dortmund-Ulsan Hyundai,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Borussia Dortmund vs Ulsan Hyundai,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-25,21:00-Borussia Dortmund-Ulsan Hyundai,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Borussia Dortmund vs Ulsan Hyundai,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-25,21:00-Borussia Dortmund-Ulsan Hyundai,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Borussia Dortmund vs Ulsan Hyundai,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -558,7 +560,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-25,21:00-Mamelodi Sundowns-Fluminense,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Mamelodi Sundowns vs Fluminense,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-25,21:00-Mamelodi Sundowns-Fluminense,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Mamelodi Sundowns vs Fluminense,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-25,21:00-Mamelodi Sundowns-Fluminense,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Mamelodi Sundowns vs Fluminense,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-25,21:00-Mamelodi Sundowns-Fluminense,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Mamelodi Sundowns vs Fluminense,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-25,21:00-Mamelodi Sundowns-Fluminense,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Mamelodi Sundowns vs Fluminense,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-25,21:00-Mamelodi Sundowns-Fluminense,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Mamelodi Sundowns vs Fluminense,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-25,21:00-Mamelodi Sundowns-Fluminense,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Mamelodi Sundowns vs Fluminense,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -605,7 +606,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-26,03:00-Inter Milan-River Plate,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Milan vs River Plate,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-26,03:00-Inter Milan-River Plate,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Milan vs River Plate,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-26,03:00-Inter Milan-River Plate,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Milan vs River Plate,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-26,03:00-Inter Milan-River Plate,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Milan vs River Plate,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-26,03:00-Inter Milan-River Plate,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Milan vs River Plate,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-26,03:00-Inter Milan-River Plate,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Milan vs River Plate,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-26,03:00-Inter Milan-River Plate,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Inter Milan vs River Plate,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -652,7 +652,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-26,03:00-Urawa Red Diamonds-Monterrey,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Urawa Red Diamonds vs Monterrey,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-26,03:00-Urawa Red Diamonds-Monterrey,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Urawa Red Diamonds vs Monterrey,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-26,03:00-Urawa Red Diamonds-Monterrey,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Urawa Red Diamonds vs Monterrey,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-26,03:00-Urawa Red Diamonds-Monterrey,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Urawa Red Diamonds vs Monterrey,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-26,03:00-Urawa Red Diamonds-Monterrey,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Urawa Red Diamonds vs Monterrey,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-26,03:00-Urawa Red Diamonds-Monterrey,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Urawa Red Diamonds vs Monterrey,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-26,03:00-Urawa Red Diamonds-Monterrey,03:00,FIFA Copa Mundial de Clubes Fase de grupos,Urawa Red Diamonds vs Monterrey,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -699,7 +698,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-26,07:01-Rally de Acrópolis Shakedown › SS1,07:01,WRC Rally,Rally de Acrópolis Shakedown › SS1,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-26,07:01-Rally de Acrópolis Shakedown › SS1,07:01,WRC Rally,Rally de Acrópolis Shakedown › SS1,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-26,07:01-Rally de Acrópolis Shakedown › SS1,07:01,WRC Rally,Rally de Acrópolis Shakedown › SS1,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-26,07:01-Rally de Acrópolis Shakedown › SS1,07:01,WRC Rally,Rally de Acrópolis Shakedown › SS1,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-26,07:01-Rally de Acrópolis Shakedown › SS1,07:01,WRC Rally,Rally de Acrópolis Shakedown › SS1,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-26,07:01-Rally de Acrópolis Shakedown › SS1,07:01,WRC Rally,Rally de Acrópolis Shakedown › SS1,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-26,07:01-Rally de Acrópolis Shakedown › SS1,07:01,WRC Rally,Rally de Acrópolis Shakedown › SS1,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -739,9 +737,13 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-26,11:30-1/4 de Final ATP 250,11:30,Torneo de Mallorca,1/4 de Final ATP 250,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-06-26,11:30-1/4 de Final ATP 250,11:30,Torneo de Mallorca,1/4 de Final ATP 250,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-06-26,12:00-Ronda de clasificación Grand Slam,12:00,Wimbledon,Ronda de clasificación Grand Slam,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-06-26,12:00-1/4 de Final ATP 250,12:00,Torneo de Eastbourne,1/4 de Final ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-26,12:00-Ronda de clasificación Grand Slam,12:00,Wimbledon,Ronda de clasificación Grand Slam,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-26,12:00-1/4 de Final WTA 500,12:00,WTA Torneo de Bad Homburg,1/4 de Final WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-26,12:00-1/4 de Final WTA 500,12:00,WTA Torneo de Bad Homburg,1/4 de Final WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-06-26,12:05-1/4 de Final ATP 250,12:05,Torneo de Eastbourne,1/4 de Final ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-26,12:05-1/4 de Final ATP 250,12:05,Torneo de Eastbourne,1/4 de Final ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-26,12:05-1/4 de Final WTA 250,12:05,WTA Torneo de Eastbourne,1/4 de Final WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-06-26,12:05-1/4 de Final WTA 250,12:05,WTA Torneo de Eastbourne,1/4 de Final WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-06-26,13:00-Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),13:00,Campeonato de Francia,Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),MAX,5cd66f03a0042d918eea175fdeeaa57052c9308a,
 2025-06-26,13:00-Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),13:00,Campeonato de Francia,Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-06-26,13:00-Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),13:00,Campeonato de Francia,Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),DAZN,e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04,FHD
@@ -753,7 +755,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-26,13:00-Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),13:00,Campeonato de Francia,Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-26,13:00-Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),13:00,Campeonato de Francia,Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-26,13:00-Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),13:00,Campeonato de Francia,Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-26,13:00-Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),13:00,Campeonato de Francia,Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-26,13:00-Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),13:00,Campeonato de Francia,Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-26,13:00-Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),13:00,Campeonato de Francia,Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-26,13:00-Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),13:00,Campeonato de Francia,Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -806,7 +807,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-26,15:00-Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),15:00,Campeonato de Francia,Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-26,15:00-Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),15:00,Campeonato de Francia,Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-26,15:00-Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),15:00,Campeonato de Francia,Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-26,15:00-Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),15:00,Campeonato de Francia,Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-26,15:00-Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),15:00,Campeonato de Francia,Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-26,15:00-Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),15:00,Campeonato de Francia,Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-26,15:00-Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),15:00,Campeonato de Francia,Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -859,7 +859,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-26,15:00-Jornada 1,15:00,Amundi German Masters,Jornada 1,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-26,15:00-Jornada 1,15:00,Amundi German Masters,Jornada 1,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-26,15:00-Jornada 1,15:00,Amundi German Masters,Jornada 1,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-26,15:00-Jornada 1,15:00,Amundi German Masters,Jornada 1,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-26,15:00-Jornada 1,15:00,Amundi German Masters,Jornada 1,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-26,15:00-Jornada 1,15:00,Amundi German Masters,Jornada 1,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-26,15:00-Jornada 1,15:00,Amundi German Masters,Jornada 1,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -914,7 +913,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-26,21:00-Juventus-Manchester City,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Juventus vs Manchester City,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-26,21:00-Juventus-Manchester City,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Juventus vs Manchester City,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-26,21:00-Juventus-Manchester City,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Juventus vs Manchester City,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-26,21:00-Juventus-Manchester City,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Juventus vs Manchester City,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-26,21:00-Juventus-Manchester City,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Juventus vs Manchester City,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-26,21:00-Juventus-Manchester City,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Juventus vs Manchester City,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-26,21:00-Juventus-Manchester City,21:00,FIFA Copa Mundial de Clubes Fase de grupos,Juventus vs Manchester City,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
@@ -964,7 +962,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-06-26,21:00-WAC Casablanca-Al Ain,21:00,FIFA Copa Mundial de Clubes Fase de grupos,WAC Casablanca vs Al Ain,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-06-26,21:00-WAC Casablanca-Al Ain,21:00,FIFA Copa Mundial de Clubes Fase de grupos,WAC Casablanca vs Al Ain,DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
 2025-06-26,21:00-WAC Casablanca-Al Ain,21:00,FIFA Copa Mundial de Clubes Fase de grupos,WAC Casablanca vs Al Ain,DAZN,d4e68ee57fa77269823ecf4cf714e28a5fa80fb1,FHD
-2025-06-26,21:00-WAC Casablanca-Al Ain,21:00,FIFA Copa Mundial de Clubes Fase de grupos,WAC Casablanca vs Al Ain,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
 2025-06-26,21:00-WAC Casablanca-Al Ain,21:00,FIFA Copa Mundial de Clubes Fase de grupos,WAC Casablanca vs Al Ain,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-06-26,21:00-WAC Casablanca-Al Ain,21:00,FIFA Copa Mundial de Clubes Fase de grupos,WAC Casablanca vs Al Ain,DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
 2025-06-26,21:00-WAC Casablanca-Al Ain,21:00,FIFA Copa Mundial de Clubes Fase de grupos,WAC Casablanca vs Al Ain,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
