@@ -36,8 +36,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 FC Porto vs Al Ahly DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 FC Porto vs Al Ahly DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 FC Porto vs Al Ahly DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 FC Porto vs Al Ahly DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
@@ -129,8 +127,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Inter Miami CF vs Palmeiras DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Inter Miami CF vs Palmeiras DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Inter Miami CF vs Palmeiras DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Inter Miami CF vs Palmeiras DAZN FHD
@@ -199,6 +195,8 @@ http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="24/06 Torneo de Mallorca 1ª Ronda", 13:00 TM. Etcheverry vs R. Bautista-Agut Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="24/06 Torneo de Mallorca 1ª Ronda", 13:00 TM. Etcheverry vs R. Bautista-Agut Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="24/06 WTA Torneo de Bad Homburg 2ª Ronda", 13:00 J. Pegula vs K. Siniakova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="24/06 WTA Torneo de Bad Homburg 2ª Ronda", 13:00 J. Pegula vs K. Siniakova Tennis Channel 
@@ -213,6 +211,8 @@ http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="24/06 Torneo de Mallorca 2ª Ronda", 15:30 E. Quinn vs T. Griekspoor Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="24/06 Torneo de Mallorca 2ª Ronda", 15:30 E. Quinn vs T. Griekspoor Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="24/06 WTA Torneo de Bad Homburg 2ª Ronda", 16:00 V. Azarenka vs I. Swiatek Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="24/06 WTA Torneo de Bad Homburg 2ª Ronda", 16:00 V. Azarenka vs I. Swiatek Tennis Channel 
@@ -251,8 +251,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="24/06 Eurobasket Femenino 1/4 de Final", 16:30 Francia vs Lituania DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="24/06 Eurobasket Femenino 1/4 de Final", 16:30 Francia vs Lituania DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="24/06 Eurobasket Femenino 1/4 de Final", 16:30 Francia vs Lituania DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="24/06 Eurobasket Femenino 1/4 de Final", 16:30 Francia vs Lituania DAZN FHD
@@ -321,6 +319,8 @@ http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="24/06 Torneo de Mallorca 2ª Ronda", 18:00 A. Rinderknech vs F. Auger-Aliassime Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="24/06 Torneo de Mallorca 2ª Ronda", 18:00 A. Rinderknech vs F. Auger-Aliassime Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="24/06 Eurobasket Femenino 1/4 de Final", 19:30 Italia vs Turquía DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="24/06 Eurobasket Femenino 1/4 de Final", 19:30 Italia vs Turquía DAZN FHD
@@ -355,8 +355,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="24/06 Eurobasket Femenino 1/4 de Final", 19:30 Italia vs Turquía DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="24/06 Eurobasket Femenino 1/4 de Final", 19:30 Italia vs Turquía DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="24/06 Eurobasket Femenino 1/4 de Final", 19:30 Italia vs Turquía DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="24/06 Eurobasket Femenino 1/4 de Final", 19:30 Italia vs Turquía DAZN FHD
@@ -449,8 +447,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Benfica vs FC Bayern DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Benfica vs FC Bayern DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Benfica vs FC Bayern DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Benfica vs FC Bayern DAZN FHD
@@ -550,8 +546,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Auckland City vs Boca Juniors DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Auckland City vs Boca Juniors DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Auckland City vs Boca Juniors DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="24/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Auckland City vs Boca Juniors DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
@@ -611,6 +605,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="24/06 Primera Federación Futsal Playoff Final", 21:00 Jimbee Cartagena FS vs Barça FS Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="24/06 Primera Federación Futsal Playoff Final", 21:00 Jimbee Cartagena FS vs Barça FS Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 ES Tunis vs Chelsea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 ES Tunis vs Chelsea DAZN FHD
@@ -645,8 +641,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 ES Tunis vs Chelsea DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 ES Tunis vs Chelsea DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 ES Tunis vs Chelsea DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 ES Tunis vs Chelsea DAZN FHD
@@ -739,8 +733,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Los Angeles FC vs CR Flamengo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Los Angeles FC vs CR Flamengo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Los Angeles FC vs CR Flamengo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Los Angeles FC vs CR Flamengo DAZN FHD
@@ -853,8 +845,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 16:30 España vs República Checa DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 16:30 España vs República Checa DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 16:30 España vs República Checa DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 16:30 España vs República Checa DAZN FHD
@@ -915,8 +905,12 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 16:30 España vs República Checa Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 16:30 España vs República Checa Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="25/06 Europeo Sub-21 Semifinales", 18:00 Inglaterra vs Holanda Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="25/06 Europeo Sub-21 Semifinales", 18:00 Inglaterra vs Holanda Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 19:30 Bélgica vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 19:30 Bélgica vs Alemania DAZN FHD
@@ -951,8 +945,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 19:30 Bélgica vs Alemania DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 19:30 Bélgica vs Alemania DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 19:30 Bélgica vs Alemania DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 19:30 Bélgica vs Alemania DAZN FHD
@@ -1013,6 +1005,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="25/06 Europeo Sub-21 Semifinales", 21:00 Alemania vs Francia Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="25/06 Europeo Sub-21 Semifinales", 21:00 Alemania vs Francia Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Borussia Dortmund vs Ulsan Hyundai DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Borussia Dortmund vs Ulsan Hyundai DAZN FHD
@@ -1047,8 +1041,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Borussia Dortmund vs Ulsan Hyundai DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Borussia Dortmund vs Ulsan Hyundai DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Borussia Dortmund vs Ulsan Hyundai DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Borussia Dortmund vs Ulsan Hyundai DAZN FHD
@@ -1146,8 +1138,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Mamelodi Sundowns vs Fluminense DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Mamelodi Sundowns vs Fluminense DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Mamelodi Sundowns vs Fluminense DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Mamelodi Sundowns vs Fluminense DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
@@ -1239,8 +1229,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Inter Milan vs River Plate DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Inter Milan vs River Plate DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Inter Milan vs River Plate DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Inter Milan vs River Plate DAZN FHD
@@ -1333,8 +1321,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Urawa Red Diamonds vs Monterrey DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Urawa Red Diamonds vs Monterrey DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Urawa Red Diamonds vs Monterrey DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Urawa Red Diamonds vs Monterrey DAZN FHD
@@ -1427,8 +1413,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="26/06 WRC Rally", 07:01 Rally de Acrópolis Shakedown › SS1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="26/06 WRC Rally", 07:01 Rally de Acrópolis Shakedown › SS1 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="26/06 WRC Rally", 07:01 Rally de Acrópolis Shakedown › SS1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="26/06 WRC Rally", 07:01 Rally de Acrópolis Shakedown › SS1 DAZN FHD
@@ -1489,6 +1473,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="26/06 Torneo de Mallorca", 11:30 1/4 de Final ATP 250 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="26/06 Torneo de Mallorca", 11:30 1/4 de Final ATP 250 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="26/06 Wimbledon", 12:00 Ronda de clasificación Grand Slam Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="26/06 Wimbledon", 12:00 Ronda de clasificación Grand Slam Tennis Channel 
@@ -1541,8 +1527,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="26/06 Campeonato de Francia", 13:00 Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="26/06 Campeonato de Francia", 13:00 Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="26/06 Campeonato de Francia", 13:00 Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="26/06 Campeonato de Francia", 13:00 Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km) DAZN FHD
@@ -1648,8 +1632,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="26/06 Campeonato de Francia", 15:00 Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="26/06 Campeonato de Francia", 15:00 Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="26/06 Campeonato de Francia", 15:00 Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="26/06 Campeonato de Francia", 15:00 Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
@@ -1754,8 +1736,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="26/06 Amundi German Masters", 15:00 Jornada 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="26/06 Amundi German Masters", 15:00 Jornada 1 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="26/06 Amundi German Masters", 15:00 Jornada 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="26/06 Amundi German Masters", 15:00 Jornada 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
@@ -1825,6 +1805,8 @@ http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="26/06 Campeonato Europa Equipos", 16:00 Pruebas de Pértiga Madrid 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="26/06 Campeonato Europa Equipos", 16:00 Pruebas de Pértiga Madrid 2025 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="26/06 Rocket Mortgage Classic", 19:00 Jornada 1 PGA Tour MAX 
 http://127.0.0.1:6878/ace/getstream?id=5cd66f03a0042d918eea175fdeeaa57052c9308a
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Juventus vs Manchester City DAZN 
@@ -1861,8 +1843,6 @@ http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Juventus vs Manchester City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Juventus vs Manchester City DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Juventus vs Manchester City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 Juventus vs Manchester City DAZN FHD
@@ -1962,8 +1942,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 WAC Casablanca vs Al Ain DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 WAC Casablanca vs Al Ain DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 WAC Casablanca vs Al Ain DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="26/06 FIFA Copa Mundial de Clubes Fase de grupos", 21:00 WAC Casablanca vs Al Ain DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
@@ -2023,3 +2001,5 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="26/06 Primera Federación Futsal Playoff Final", 21:00 Jimbee Cartagena FS vs Barça FS Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="26/06 Primera Federación Futsal Playoff Final", 21:00 Jimbee Cartagena FS vs Barça FS Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
