@@ -807,25 +807,41 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="25/06 FIFA Copa Mundial de Clubes Fase de grupos", 03:00 Los Angeles FC vs CR Flamengo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="25/06 Wimbledon", 12:00 Ronda de clasificación Grand Slam Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 Torneo de Mallorca 2ª Ronda", 10:00 C. Moutet vs D. Altmaier Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="25/06 Torneo de Mallorca 2ª Ronda", 10:00 C. Moutet vs D. Altmaier Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Eastbourne 2ª Ronda", 11:00 K. Birrell vs A. Pavlyuchenkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="25/06 Wimbledon", 12:00 Ronda de clasificación Grand Slam Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Eastbourne 2ª Ronda", 11:00 K. Birrell vs A. Pavlyuchenkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg", 12:00 2ª Ronda WTA 500 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Eastbourne 2ª Ronda", 11:00 R. Sramkova vs V. Gracheva Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg", 12:00 2ª Ronda WTA 500 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Eastbourne 2ª Ronda", 11:00 R. Sramkova vs V. Gracheva Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="25/06 Torneo de Eastbourne", 12:05 2ª Ronda ATP 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Eastbourne 2ª Ronda", 11:00 J. Burrage vs B. Krejcikova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="25/06 Torneo de Eastbourne", 12:05 2ª Ronda ATP 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Eastbourne 2ª Ronda", 11:00 J. Burrage vs B. Krejcikova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Eastbourne", 12:05 2ª Ronda WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Eastbourne 2ª Ronda", 11:00 L. Sun vs A. Blinkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Eastbourne", 12:05 2ª Ronda WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Eastbourne 2ª Ronda", 11:00 L. Sun vs A. Blinkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="25/06 Torneo de Mallorca", 12:05 2ª Ronda ATP 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 11:00 E. Svitolina vs B. Haddad Maia Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="25/06 Torneo de Mallorca", 12:05 2ª Ronda ATP 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 11:00 E. Svitolina vs B. Haddad Maia Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 11:00 E. Alexandrova vs M. Sakkari Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 11:00 E. Alexandrova vs M. Sakkari Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 11:00 L. Noskova vs D. Vekic Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 11:00 L. Noskova vs D. Vekic Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 11:00 M. Andreeva vs C. Tauson Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 11:00 M. Andreeva vs C. Tauson Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 16:30 España vs República Checa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
