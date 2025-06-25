@@ -365,3 +365,5 @@ plugin://script.module.horus?action=play&id=0ce88d9e7273fddbc9b49f578b6b25551369
 plugin://script.module.horus?action=play&id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="VARIOS", ZIGGO SPORT 2
 plugin://script.module.horus?action=play&id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" group-title="VARIOS", ZIGGO SPORT 6
+plugin://script.module.horus?action=play&id=9231f38e71a85ad24b4c11a5e360992e30c916ed
