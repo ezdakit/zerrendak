@@ -323,9 +323,9 @@ http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="25/06 Europeo Sub-21 Semifinales", 18:00 Inglaterra vs Holanda Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 18:25 M. Andreeva vs C. Tauson Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 19:05 M. Andreeva vs C. Tauson Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 18:25 M. Andreeva vs C. Tauson Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="25/06 WTA Torneo de Bad Homburg 2ª Ronda", 19:05 M. Andreeva vs C. Tauson Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="25/06 Eurobasket Femenino 1/4 de Final", 19:30 Bélgica vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -899,9 +899,9 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="26/06 WRC Rally", 07:01 Rally de Acrópolis Shakedown › SS1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="26/06 Torneo de Mallorca", 11:30 1/4 de Final ATP 250 Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="26/06 Torneo de Mallorca 1/4 de Final", 11:30 G. Diallo vs T. Griekspoor Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="26/06 Torneo de Mallorca", 11:30 1/4 de Final ATP 250 Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="26/06 Torneo de Mallorca 1/4 de Final", 11:30 G. Diallo vs T. Griekspoor Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="26/06 Wimbledon", 12:00 Ronda de clasificación Grand Slam Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
@@ -1027,6 +1027,10 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="26/06 Campeonato de Francia", 13:00 Contrarreloj Femenina Les Herbiers › Les Herbiers (26.5 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="26/06 Torneo de Mallorca 1/4 de Final", 13:00 H. Medjedovic vs F. Auger-Aliassime Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="26/06 Torneo de Mallorca 1/4 de Final", 13:00 H. Medjedovic vs F. Auger-Aliassime Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="26/06 Campeonato de Francia", 15:00 Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km) MAX 
 http://127.0.0.1:6878/ace/getstream?id=5cd66f03a0042d918eea175fdeeaa57052c9308a
 #EXTINF:-1 tvg-id="" group-title="26/06 Campeonato de Francia", 15:00 Contrarreloj Masculina Les Herbiers › Les Herbiers (26.5 km) DAZN 
