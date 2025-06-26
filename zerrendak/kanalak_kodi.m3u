@@ -37,8 +37,6 @@ plugin://script.module.horus?action=play&id=3785f04aa15a5e6ef1484f0bea7f4664f2c1
 plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD
 plugin://script.module.horus?action=play&id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD
-plugin://script.module.horus?action=play&id=75306ac6ffbe33b08c5c28487674f75f012c7f50
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 HD
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
@@ -295,6 +293,8 @@ plugin://script.module.horus?action=play&id=dc4ccb9e72550bc72be9360aa7d77e337ad1
 plugin://script.module.horus?action=play&id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 SD
 plugin://script.module.horus?action=play&id=5c910d614894635153a7d42de98cc2e4a958a53f
+#EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD
+plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 4K
 plugin://script.module.horus?action=play&id=b7b83ac0d5e7e04a0f6538f5474745d90f8e3d59
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD
