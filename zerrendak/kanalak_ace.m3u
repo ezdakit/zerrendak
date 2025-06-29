@@ -113,6 +113,8 @@ acestream://b5842718859345a596107ab8e6b24d7bfa2d617e
 acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes FHD
 acestream://4f3fc4a626ff07bda8e5c64a5a41b518ec6e0084
+#EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes FHD
+acestream://4f3fc4a626ff07bda8e5c64a5a41b518ec6e0084
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
@@ -315,10 +317,14 @@ acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
 acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD
 acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
+#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION HD
+acestream://5e188434344241c850ba4c9f602b67a5c6408007
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR CLASICOS FHD
 acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c
 #EXTINF:-1 tvg-id="M+ Comedia HD" group-title="VARIOS", MOVISTAR COMEDIA HD
 acestream://c366d103a8c93469ca43e481900a7d23def9c2ad
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR DRAMA HD
+acestream://1fdde474d884b0bb73342133a1db520ec35cec8f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR ESTRENOS FHD
 acestream://cdac68c671cc9157c3fc55d7797d281ff32bedff
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" group-title="VARIOS", MOVISTAR GOLF 2 FHD
@@ -335,8 +341,6 @@ acestream://2752dee68a7faa9c847216dc22a6821661db891a
 acestream://7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ONETORO (SOLO EVENTOS)--> NEW ERA III
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV
-acestream://abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RALLY TV
@@ -363,8 +367,6 @@ acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEST
