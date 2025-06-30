@@ -1071,6 +1071,10 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="02/07 FIBA Women's AmeriCup", 17:40 Brasil vs El Salvador DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="02/07 Eurocopa Femenina Fase de grupos", 18:00 Islandia vs Finlandia Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="02/07 Eurocopa Femenina Fase de grupos", 18:00 Islandia vs Finlandia Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="02/07 FIBA Women's AmeriCup", 20:10 Estados Unidos vs México DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="02/07 FIBA Women's AmeriCup", 20:10 Estados Unidos vs México DAZN FHD
@@ -1165,6 +1169,10 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="02/07 FIBA Women's AmeriCup", 20:10 Estados Unidos vs México DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="02/07 Eurocopa Femenina Fase de grupos", 21:00 Suiza vs Noruega Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="02/07 Eurocopa Femenina Fase de grupos", 21:00 Suiza vs Noruega Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="02/07 FIBA Women's AmeriCup", 23:40 Canadá vs República Dominicana DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="02/07 FIBA Women's AmeriCup", 23:40 Canadá vs República Dominicana DAZN FHD
