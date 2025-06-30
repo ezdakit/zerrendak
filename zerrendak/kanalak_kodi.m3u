@@ -375,6 +375,8 @@ plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bf
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEST
 plugin://script.module.horus?action=play&id=0bf5e3735884cbf8d883d13de860ac8d8c511404
+#EXTINF:-1 tvg-id="" group-title="VARIOS", TNIS: WIMBLEDON 2025 [DISNEY]
+plugin://script.module.horus?action=play&id=92adffb05fbd616bc9ab8e71665be05952880cdf
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: BEIN SPORTS 4 FHD
 plugin://script.module.horus?action=play&id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: S SPORT 1 HD
