@@ -337,6 +337,8 @@ plugin://script.module.horus?action=play&id=2752dee68a7faa9c847216dc22a6821661db
 plugin://script.module.horus?action=play&id=7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ONETORO (SOLO EVENTOS)--> NEW ERA III
 plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
+#EXTINF:-1 tvg-id="" group-title="VARIOS", PLUTO TV AUTO MOTOR SPORT (720P)
+plugin://script.module.horus?action=play&id=ffa09e597804001f634dd1829f031823411a2595
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RALLY TV
