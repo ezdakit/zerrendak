@@ -10,7 +10,7 @@ plugin://script.module.horus?action=play&id=4141892f5df7d6474bf0279895ce02b7336c
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
 plugin://script.module.horus?action=play&id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
-plugin://script.module.horus?action=play&id=d4e68ee57fa77269823ecf4cf714e28a5fa80fb1
+plugin://script.module.horus?action=play&id=acbb58cf3854899355f95e8b6d130cb73a8dbcfa
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD
 plugin://script.module.horus?action=play&id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD
@@ -42,7 +42,7 @@ plugin://script.module.horus?action=play&id=75306ac6ffbe33b08c5c28487674f75f012c
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 HD
 plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
-plugin://script.module.horus?action=play&id=e881fb0c7ef640f1b878b7e855a2f9ef7d5bed04
+plugin://script.module.horus?action=play&id=6b3a019533b93ea7b36545ab710a8936ef48c0f4
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
 plugin://script.module.horus?action=play&id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
@@ -58,7 +58,7 @@ plugin://script.module.horus?action=play&id=c976c7b37964322752db562b4ad65515509c
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
 plugin://script.module.horus?action=play&id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV FHD
-plugin://script.module.horus?action=play&id=21e9665716b55d61bf7fe5a8f91a5ea8249d8047
+plugin://script.module.horus?action=play&id=d42832860c026222b3982bb3d6100e1f267c54f0
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
 plugin://script.module.horus?action=play&id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV FHD
@@ -82,7 +82,7 @@ plugin://script.module.horus?action=play&id=778f08cbae9596ed9e8b2ae0af33ee7a6fe2
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
 plugin://script.module.horus?action=play&id=47223e64a576c21bd61e818a42397a753d34fba5
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
-plugin://script.module.horus?action=play&id=498d1cdeac5cae81a29e208803fa5487bf07f0d6
+plugin://script.module.horus?action=play&id=49c00181b8b8d6e8666672ec13867d5711ce5299
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
 plugin://script.module.horus?action=play&id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
@@ -110,7 +110,7 @@ plugin://script.module.horus?action=play&id=ef9dcc4eaac36a0f608b52a31f8ab237859e
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes FHD
 plugin://script.module.horus?action=play&id=be02b9918b8fe7224cfa9af1e37856760f95b1b8
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes FHD
-plugin://script.module.horus?action=play&id=4f3fc4a626ff07bda8e5c64a5a41b518ec6e0084
+plugin://script.module.horus?action=play&id=1416f5c837c23e3f3a456cb58d731fad38994505
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
 plugin://script.module.horus?action=play&id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
@@ -140,7 +140,7 @@ plugin://script.module.horus?action=play&id=2940120bf034db79a7f5849846ccea025517
 #EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ Vamos FHD
 plugin://script.module.horus?action=play&id=57313e1ef438538df4feb5a6028dc78ee4f66b6a
 #EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ Vamos FHD
-plugin://script.module.horus?action=play&id=fba6f62903f511eef7f5799e521698e767d876f2
+plugin://script.module.horus?action=play&id=b0cf0c3f4e3bdb69d271723d2cf83211b0f3fd1b
 #EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ Vamos HD
 plugin://script.module.horus?action=play&id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ Vamos HD
@@ -156,7 +156,7 @@ plugin://script.module.horus?action=play&id=d8c2ed470e847154a88f011137cc206319f6
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
 plugin://script.module.horus?action=play&id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
-plugin://script.module.horus?action=play&id=e2bc4aee95306b8897d15b01cc64b239dd1b8a1f
+plugin://script.module.horus?action=play&id=b0a7f854aa820339afc249b0fab75bddb9f53dda
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ HD
 plugin://script.module.horus?action=play&id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
@@ -166,7 +166,7 @@ plugin://script.module.horus?action=play&id=c1ee6e1e0ef5928d8261f855c417de21794f
 #EXTINF:-1 tvg-id="no_disponible" group-title="SEGUNDA+1RFEF", 1RFEF canal 2 HD
 plugin://script.module.horus?action=play&id=8677d339ecddd75165c0015025f598b6215974cf
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp FHD
-plugin://script.module.horus?action=play&id=a6746c79bd602b5057bd6cb1761255cb4ecbc400
+plugin://script.module.horus?action=play&id=bab8d05cf42eaa25642a8d1842f1db0a32bcc45c
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp FHD
 plugin://script.module.horus?action=play&id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp HD
@@ -244,7 +244,7 @@ plugin://script.module.horus?action=play&id=515efd8115482bda8d92aa6df9a882a5e579
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD
 plugin://script.module.horus?action=play&id=d27584ebe5128c8033cb6fdc806a994fbd17b790
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD
-plugin://script.module.horus?action=play&id=d73c4295e828978a1ca8397ff5dcf0b21e88de43
+plugin://script.module.horus?action=play&id=31c6ce4e0ea25e81068f1c2d1aa68fc6c41246fc
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD
 plugin://script.module.horus?action=play&id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DEDPORTE 2 FHD
@@ -265,8 +265,6 @@ plugin://script.module.horus?action=play&id=ebca4a63ce3bfda7b272964a1acc52272181
 plugin://script.module.horus?action=play&id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DISCOVERY CHANNEL FHD
 plugin://script.module.horus?action=play&id=c2858a94d2045e5dbb14e99323e90afe4e872266
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DMAX HD
-plugin://script.module.horus?action=play&id=5cd66f03a0042d918eea175fdeeaa57052c9308a
 #EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE]
 plugin://script.module.horus?action=play&id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-id="ESPN.4.nl" group-title="VARIOS", ESPN 4 [BE]
@@ -287,6 +285,8 @@ plugin://script.module.horus?action=play&id=c3da6c4f91d9d10ade00318a869435e19f20
 plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD
 plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD
+plugin://script.module.horus?action=play&id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD
 plugin://script.module.horus?action=play&id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD
@@ -299,10 +299,10 @@ plugin://script.module.horus?action=play&id=2773b39926d15dd3d9495d94c4050604792d
 plugin://script.module.horus?action=play&id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD
 plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-#EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 4K
-plugin://script.module.horus?action=play&id=b7b83ac0d5e7e04a0f6538f5474745d90f8e3d59
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD
 plugin://script.module.horus?action=play&id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
+#EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD
+plugin://script.module.horus?action=play&id=31e50dfd5b0738e4d7e9fa2962f06e7118061d8c
 #EXTINF:-1 tvg-id="La 2" group-title="VARIOS", LA 2 FHD
 plugin://script.module.horus?action=play&id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 #EXTINF:-1 tvg-id="La Sexta HD" group-title="VARIOS", LA SEXTA FHD
@@ -314,15 +314,15 @@ plugin://script.module.horus?action=play&id=9c75e6ed0671eec6670cb2eabcc7d78267c7
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD
 plugin://script.module.horus?action=play&id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION HD
-plugin://script.module.horus?action=play&id=5e188434344241c850ba4c9f602b67a5c6408007
+plugin://script.module.horus?action=play&id=98ed415f0a8472873059fbeb79795ae517cab0c9
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR CLASICOS FHD
 plugin://script.module.horus?action=play&id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
 #EXTINF:-1 tvg-id="M+ Comedia HD" group-title="VARIOS", MOVISTAR COMEDIA HD
-plugin://script.module.horus?action=play&id=c366d103a8c93469ca43e481900a7d23def9c2ad
+plugin://script.module.horus?action=play&id=ef487086ddf0698e0a3888198082a14687d76afc
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR DRAMA HD
-plugin://script.module.horus?action=play&id=1fdde474d884b0bb73342133a1db520ec35cec8f
+plugin://script.module.horus?action=play&id=e40b04258c885648900a5144f2f7311bc3368ae5
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR ESTRENOS FHD
-plugin://script.module.horus?action=play&id=cdac68c671cc9157c3fc55d7797d281ff32bedff
+plugin://script.module.horus?action=play&id=9663fffdef399fdd391c5692f4da39cfe39b3514
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" group-title="VARIOS", MOVISTAR GOLF 2 FHD
 plugin://script.module.horus?action=play&id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD
@@ -330,7 +330,7 @@ plugin://script.module.horus?action=play&id=8546cff89e4ee8bf3ad31cf6457c3bc2c434
 #EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF HD
 plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR HITS FHD
-plugin://script.module.horus?action=play&id=577089d6680145f502ba2a1072179e120f43cc10
+plugin://script.module.horus?action=play&id=b48da1fc4e50a7e95e3f385c8bd19a504b3c37de
 #EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR SERIES FHD
 plugin://script.module.horus?action=play&id=2752dee68a7faa9c847216dc22a6821661db891a
 #EXTINF:-1 tvg-id="" group-title="VARIOS", NBA TV
@@ -339,8 +339,6 @@ plugin://script.module.horus?action=play&id=7acefb808a6c67d95e977b452d53070947bd
 plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2
-plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RALLY TV
 plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR
@@ -365,6 +363,8 @@ plugin://script.module.horus?action=play&id=5133d1e8f45095f0b7dabbd78db0ce19a496
 plugin://script.module.horus?action=play&id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
 plugin://script.module.horus?action=play&id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL
+plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TNIS: WIMBLEDON 2025 [DISNEY]
