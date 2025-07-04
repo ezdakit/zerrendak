@@ -183,10 +183,10 @@ acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="PT | DAZN 5" group-title="VARIOS", ELEVEN DAZN 5 HD
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="PT | DAZN 6" group-title="VARIOS", ELEVEN DAZN 6 HD
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
-acestream://610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD
@@ -321,8 +321,6 @@ acestream://9663fffdef399fdd391c5692f4da39cfe39b3514
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD
 acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF HD
-acestream://872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR HITS FHD
 acestream://b48da1fc4e50a7e95e3f385c8bd19a504b3c37de
 #EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR SERIES FHD
