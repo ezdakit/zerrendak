@@ -27,6 +27,8 @@ http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
@@ -65,6 +67,8 @@ http://127.0.0.1:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
 http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
+http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 HD
@@ -189,8 +193,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS
-http://127.0.0.1:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD
