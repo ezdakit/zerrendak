@@ -67,6 +67,8 @@ plugin://script.module.horus?action=play&id=c9321006921967d6258df6945f1d598a5c0c
 plugin://script.module.horus?action=play&id=4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
 plugin://script.module.horus?action=play&id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
+plugin://script.module.horus?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 FHD
 plugin://script.module.horus?action=play&id=51b363b1c4d42724e05240ad068ad219df8042ec
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 HD
@@ -191,6 +193,8 @@ plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad
 plugin://script.module.horus?action=play&id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
 plugin://script.module.horus?action=play&id=610993aea3a2bfd509594334b7461ce96900f54c
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS
+plugin://script.module.horus?action=play&id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
 plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD
@@ -363,6 +367,8 @@ plugin://script.module.horus?action=play&id=5133d1e8f45095f0b7dabbd78db0ce19a496
 plugin://script.module.horus?action=play&id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
 plugin://script.module.horus?action=play&id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL
+plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TNIS: WIMBLEDON 2025 [DISNEY]
