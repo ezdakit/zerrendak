@@ -175,16 +175,12 @@ plugin://script.module.horus?action=play&id=709075831bf5c41ed0a20dfbd640aab6c289
 plugin://script.module.horus?action=play&id=778d2f60bb7207addedcca0b9aed98f41529724e
 #EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
 plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
-plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
 plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="PT | DAZN 5" group-title="VARIOS", ELEVEN DAZN 5 HD
 plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 plugin://script.module.horus?action=play&id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
-plugin://script.module.horus?action=play&id=610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
 plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD
@@ -276,6 +272,8 @@ plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD
 plugin://script.module.horus?action=play&id=597324795d918c4d828777201d57d3cedc785bc3
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD
+plugin://script.module.horus?action=play&id=cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD
 plugin://script.module.horus?action=play&id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD
 plugin://script.module.horus?action=play&id=d830c1dc3b74e74f79cbb823804cf2037857e78a
@@ -295,8 +293,8 @@ plugin://script.module.horus?action=play&id=8bdd29882fa2c2f9fe49e67b102934c9e293
 plugin://script.module.horus?action=play&id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 #EXTINF:-1 tvg-id="La Sexta HD" group-title="VARIOS", LA SEXTA FHD
 plugin://script.module.horus?action=play&id=1c6486082949172d1ffd318db8fb965dd5af7e31
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORVISION TV
-plugin://script.module.horus?action=play&id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD
+plugin://script.module.horus?action=play&id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD
 plugin://script.module.horus?action=play&id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD
@@ -329,6 +327,8 @@ plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb2
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RALLY TV
 plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR
+plugin://script.module.horus?action=play&id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA
 plugin://script.module.horus?action=play&id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET
@@ -361,5 +361,7 @@ plugin://script.module.horus?action=play&id=999db87cb68b0a671d61a858da7d79dd97b0
 plugin://script.module.horus?action=play&id=9efe41de7f5dcafc9395591feb959832e09683ff
 #EXTINF:-1 tvg-id="" group-title="VARIOS", UFC FIGHT PASS
 plugin://script.module.horus?action=play&id=0ce88d9e7273fddbc9b49f578b6b255513697139
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="VARIOS", ZIGGO SPORT
+plugin://script.module.horus?action=play&id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="VARIOS", ZIGGO SPORT 2
 plugin://script.module.horus?action=play&id=868a6187d6aeec65ded84bd777814c9f7b7a9027
