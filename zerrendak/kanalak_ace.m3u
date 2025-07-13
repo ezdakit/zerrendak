@@ -179,6 +179,12 @@ acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="PT | DAZN 5" group-title="VARIOS", ELEVEN DAZN 5 HD
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="PT | DAZN 6" group-title="VARIOS", ELEVEN DAZN 6 HD
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
@@ -203,8 +209,6 @@ acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK]
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR
-acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD
 acestream://8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD
@@ -277,8 +281,6 @@ acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
 acestream://597324795d918c4d828777201d57d3cedc785bc3
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD
 acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD
