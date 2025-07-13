@@ -299,6 +299,8 @@ acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
 acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 #EXTINF:-1 tvg-id="La Sexta HD" group-title="VARIOS", LA SEXTA FHD
 acestream://1c6486082949172d1ffd318db8fb965dd5af7e31
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD
+acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORVISION TV
 acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD
@@ -331,6 +333,8 @@ acestream://7acefb808a6c67d95e977b452d53070947bd072b
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RALLY TV
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR
