@@ -1,12 +1,128 @@
 date,event_id,time,competition,match,group,acestream_id,quality
-2025-07-14,07:45-Gran Bretaña-España,07:45,Campeonato Mundo Femenino Fase de grupos,Gran Bretaña vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-07-14,07:45-Gran Bretaña-España,07:45,Campeonato Mundo Femenino Fase de grupos,Gran Bretaña vs España,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
-2025-07-14,10:05-1ª Ronda WTA 250,10:05,WTA Torneo de Iasi,1ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-07-14,10:05-1ª Ronda WTA 250,10:05,WTA Torneo de Iasi,1ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-07-14,11:00-1ª Ronda ATP 250,11:00,Torneo de Bastad,1ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-07-14,11:00-1ª Ronda ATP 250,11:00,Torneo de Bastad,1ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-07-14,11:00-1ª Ronda WTA 250,11:00,WTA Torneo de Hamburgo,1ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-07-14,11:00-1ª Ronda WTA 250,11:00,WTA Torneo de Hamburgo,1ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-14,10:00-Australia-España,10:00,Campeonato del Mundo Fase de grupos,Australia vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-07-14,10:00-Australia-España,10:00,Campeonato del Mundo Fase de grupos,Australia vs España,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,22ee52682c634c914f4aeed2d31dc7dc8d93113b,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,d0c01ac6d238bd687f1236b41ec018ac4c289653,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,d27584ebe5128c8033cb6fdc806a994fbd17b790,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,1f1ec562db729fa696e0acc564fa460ba14603fc,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,c51e60bab39eb21c200c3ae95da175e0d3618083,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,597324795d918c4d828777201d57d3cedc785bc3,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
+2025-07-14,13:00-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),13:00,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
+2025-07-14,13:30-T. Wurth-D. Parry,13:30,WTA Torneo de Hamburgo 1ª Ronda,T. Wurth vs D. Parry,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-14,13:30-T. Wurth-D. Parry,13:30,WTA Torneo de Hamburgo 1ª Ronda,T. Wurth vs D. Parry,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,22ee52682c634c914f4aeed2d31dc7dc8d93113b,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,d0c01ac6d238bd687f1236b41ec018ac4c289653,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,d27584ebe5128c8033cb6fdc806a994fbd17b790,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,1f1ec562db729fa696e0acc564fa460ba14603fc,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,c51e60bab39eb21c200c3ae95da175e0d3618083,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,597324795d918c4d828777201d57d3cedc785bc3,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
+2025-07-14,14:25-Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),14:25,Tour de Francia,Etapa 10 Ennezat › Le Mont-Dore Puy de Sancy (163 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
+2025-07-14,14:30-M. Bulgaru-J. Teichmann,14:30,WTA Torneo de Iasi 1ª Ronda,M. Bulgaru vs J. Teichmann,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-14,14:30-M. Bulgaru-J. Teichmann,14:30,WTA Torneo de Iasi 1ª Ronda,M. Bulgaru vs J. Teichmann,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-14,15:00-L. Chirico-M. Sherif,15:00,WTA Torneo de Hamburgo 1ª Ronda,L. Chirico vs M. Sherif,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-14,15:00-L. Chirico-M. Sherif,15:00,WTA Torneo de Hamburgo 1ª Ronda,L. Chirico vs M. Sherif,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-14,16:00-I. Begu-N. Hibino,16:00,WTA Torneo de Iasi 1ª Ronda,I. Begu vs N. Hibino,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-14,16:00-I. Begu-N. Hibino,16:00,WTA Torneo de Iasi 1ª Ronda,I. Begu vs N. Hibino,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-14,17:00-M. Uchijima-N. Schunk,17:00,WTA Torneo de Hamburgo 1ª Ronda,M. Uchijima vs N. Schunk,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-14,17:00-M. Uchijima-N. Schunk,17:00,WTA Torneo de Hamburgo 1ª Ronda,M. Uchijima vs N. Schunk,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-14,17:30-A. Bogdan-V. Gracheva,17:30,WTA Torneo de Iasi 1ª Ronda,A. Bogdan vs V. Gracheva,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-14,17:30-A. Bogdan-V. Gracheva,17:30,WTA Torneo de Iasi 1ª Ronda,A. Bogdan vs V. Gracheva,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-15,07:45-Gran Bretaña-España,07:45,Campeonato Mundo Femenino Fase de grupos,Gran Bretaña vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-07-15,07:45-Gran Bretaña-España,07:45,Campeonato Mundo Femenino Fase de grupos,Gran Bretaña vs España,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
+2025-07-15,10:05-1ª Ronda WTA 250,10:05,WTA Torneo de Iasi,1ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-15,10:05-1ª Ronda WTA 250,10:05,WTA Torneo de Iasi,1ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-15,11:00-1ª Ronda ATP 250,11:00,Torneo de Bastad,1ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-15,11:00-1ª Ronda ATP 250,11:00,Torneo de Bastad,1ª Ronda ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-15,11:00-1ª Ronda WTA 250,11:00,WTA Torneo de Hamburgo,1ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-15,11:00-1ª Ronda WTA 250,11:00,WTA Torneo de Hamburgo,1ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-16,10:05-2ª Ronda WTA 250,10:05,WTA Torneo de Iasi,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-16,10:05-2ª Ronda WTA 250,10:05,WTA Torneo de Iasi,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-16,11:00-2ª Ronda ATP 250,11:00,Torneo de Bastad,2ª Ronda ATP 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
@@ -48,7 +164,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-16,13:00-Etapa 11 Toulouse › Toulouse (154 km),13:00,Tour de Francia,Etapa 11 Toulouse › Toulouse (154 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
 2025-07-16,13:00-Etapa 11 Toulouse › Toulouse (154 km),13:00,Tour de Francia,Etapa 11 Toulouse › Toulouse (154 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-07-16,13:00-Etapa 11 Toulouse › Toulouse (154 km),13:00,Tour de Francia,Etapa 11 Toulouse › Toulouse (154 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
-2025-07-16,13:00-Etapa 11 Toulouse › Toulouse (154 km),13:00,Tour de Francia,Etapa 11 Toulouse › Toulouse (154 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-07-16,13:00-Etapa 11 Toulouse › Toulouse (154 km),13:00,Tour de Francia,Etapa 11 Toulouse › Toulouse (154 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-07-16,13:00-Etapa 11 Toulouse › Toulouse (154 km),13:00,Tour de Francia,Etapa 11 Toulouse › Toulouse (154 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-07-16,13:00-Etapa 11 Toulouse › Toulouse (154 km),13:00,Tour de Francia,Etapa 11 Toulouse › Toulouse (154 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
