@@ -9,9 +9,9 @@ http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="15/07 Campeonato Mundo Femenino Fase de grupos", 07:45 Gran Bretaña vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Iasi", 10:05 1ª Ronda WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Iasi 1ª Ronda", 09:30 PM. Tig vs M. Carle Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Iasi", 10:05 1ª Ronda WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Iasi 1ª Ronda", 09:30 PM. Tig vs M. Carle Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="15/07 FIBA Women's Asia Cup Fase de grupos", 10:30 Japón vs Australia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -101,9 +101,17 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="15/07 FIBA Women's Asia Cup Fase de grupos", 10:30 Japón vs Australia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo", 11:05 1ª Ronda WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo 1ª Ronda", 11:00 A. Krunic vs D. Galfi Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo", 11:05 1ª Ronda WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo 1ª Ronda", 11:00 A. Krunic vs D. Galfi Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Iasi 1ª Ronda", 11:00 E. Avanesyan vs A. Prisacariu Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Iasi 1ª Ronda", 11:00 E. Avanesyan vs A. Prisacariu Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo 1ª Ronda", 12:30 N. Noha Akugue vs A. Bondar Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo 1ª Ronda", 12:30 N. Noha Akugue vs A. Bondar Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="15/07 FIBA Women's Asia Cup Fase de grupos", 13:30 Corea del Sur vs China DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -193,6 +201,26 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="15/07 FIBA Women's Asia Cup Fase de grupos", 13:30 Corea del Sur vs China DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo 1ª Ronda", 14:00 L. Boisson vs J. Grabher Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo 1ª Ronda", 14:00 L. Boisson vs J. Grabher Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Iasi 1ª Ronda", 15:30 D. Lodikova vs J. Cristian Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Iasi 1ª Ronda", 15:30 D. Lodikova vs J. Cristian Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo 1ª Ronda", 17:00 R. Serban vs T. Korpatsch Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo 1ª Ronda", 17:00 R. Serban vs T. Korpatsch Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Iasi 1ª Ronda", 17:30 S. Cirstea vs M. Buzarnescu Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Iasi 1ª Ronda", 17:30 S. Cirstea vs M. Buzarnescu Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo 1ª Ronda", 18:30 C. Werner vs V. Steiner Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="15/07 WTA Torneo de Hamburgo 1ª Ronda", 18:30 C. Werner vs V. Steiner Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/07 Campeonato del Mundo", 02:00 Aguas Abiertas 10km Masculinos Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="16/07 Campeonato del Mundo", 02:00 Aguas Abiertas 10km Masculinos Teledeporte FHD
