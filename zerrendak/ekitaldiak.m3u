@@ -88,13 +88,13 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 07:30 Filipinas vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 07:30 Filipinas vs Líbano DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 07:30 Filipinas vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 07:30 Filipinas vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 07:30 Filipinas vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Iasi 2ª Ronda", 09:30 M. Chwalinska vs J. Teichmann Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Iasi 2ª Ronda", 09:30 M. Chwalinska vs J. Teichmann Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 10:30 Corea del Sur vs Indonesia DAZN 
@@ -180,21 +180,17 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 10:30 Corea del Sur vs Indonesia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 10:30 Corea del Sur vs Indonesia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 10:30 Corea del Sur vs Indonesia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 10:30 Corea del Sur vs Indonesia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 10:30 Corea del Sur vs Indonesia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Hamburgo 1ª Ronda", 11:00 E. Alexandrova vs E. Vedder Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Hamburgo 1ª Ronda", 11:00 E. Alexandrova vs E. Vedder Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Iasi 2ª Ronda", 11:00 A. Siskova vs A. Li Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Iasi 2ª Ronda", 11:00 A. Siskova vs A. Li Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Hamburgo 1ª Ronda", 12:30 J. Niemeier vs D. Yastremska Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Hamburgo 1ª Ronda", 12:30 J. Niemeier vs D. Yastremska Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 13:00 Etapa 11 Toulouse › Toulouse (154 km) DAZN 
@@ -279,6 +275,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 13:00 Etapa 11 Toulouse › Toulouse (154 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 13:00 Etapa 11 Toulouse › Toulouse (154 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 13:00 Etapa 11 Toulouse › Toulouse (154 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 13:00 Etapa 11 Toulouse › Toulouse (154 km) DAZN 
@@ -293,6 +291,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=597324795d918c4d828777201d57d3cedc785bc3
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 13:00 Etapa 11 Toulouse › Toulouse (154 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 13:00 Etapa 11 Toulouse › Toulouse (154 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 13:00 Etapa 11 Toulouse › Toulouse (154 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 13:00 Etapa 11 Toulouse › Toulouse (154 km) Eurosport 1 
@@ -380,13 +380,13 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 13:30 China vs Nueva Zelanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 13:30 China vs Nueva Zelanda DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 13:30 China vs Nueva Zelanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 13:30 China vs Nueva Zelanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="16/07 FIBA Women's Asia Cup Fase de grupos", 13:30 China vs Nueva Zelanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Hamburgo 1ª Ronda", 14:00 V. Tomova vs T. Maria Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Hamburgo 1ª Ronda", 14:00 V. Tomova vs T. Maria Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 14:45 Etapa 11 Toulouse › Toulouse (154 km) DAZN 
@@ -472,6 +472,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 14:45 Etapa 11 Toulouse › Toulouse (154 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 14:45 Etapa 11 Toulouse › Toulouse (154 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 14:45 Etapa 11 Toulouse › Toulouse (154 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 14:45 Etapa 11 Toulouse › Toulouse (154 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -485,6 +487,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=597324795d918c4d828777201d57d3cedc785bc3
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 14:45 Etapa 11 Toulouse › Toulouse (154 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 14:45 Etapa 11 Toulouse › Toulouse (154 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 14:45 Etapa 11 Toulouse › Toulouse (154 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="16/07 Tour de Francia", 14:45 Etapa 11 Toulouse › Toulouse (154 km) Eurosport 1 
@@ -494,31 +498,17 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="16/07 Campeonato del Mundo Fase de grupos", 14:45 España vs Hungría Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Hamburgo 2ª Ronda", 15:30 N. Schunk vs D. Galfi Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Hamburgo 2ª Ronda", 15:30 N. Schunk vs D. Galfi Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Iasi 2ª Ronda", 15:30 I. Begu vs V. Jiménez Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Iasi 2ª Ronda", 15:30 I. Begu vs V. Jiménez Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Hamburgo 2ª Ronda", 17:00 L. Boisson vs T. Korpatsch Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Hamburgo 2ª Ronda", 17:00 L. Boisson vs T. Korpatsch Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="16/07 Hopman Cup Fase de grupos", 17:30 L. Bronzetti vs D. Vekic Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="16/07 Hopman Cup Fase de grupos", 17:30 L. Bronzetti vs D. Vekic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Iasi 2ª Ronda", 17:30 S. Cirstea vs V. Gracheva Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="16/07 WTA Torneo de Iasi 2ª Ronda", 17:30 S. Cirstea vs V. Gracheva Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/07 Hopman Cup Fase de grupos", 19:00 F. Cobolli vs D. Ajdukovic Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="16/07 Hopman Cup Fase de grupos", 19:00 F. Cobolli vs D. Ajdukovic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="16/07 Hopman Cup Fase de grupos", 20:30 Italia vs Croacia Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="16/07 Hopman Cup Fase de grupos", 20:30 Italia vs Croacia Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="16/07 Eurocopa Femenina 1/4 de Final", 21:00 Noruega vs Italia Teledeporte FHD
@@ -608,6 +598,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="17/07 WRC Rally", 10:00 Rally de Estonia Shakedown › SS1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="17/07 WRC Rally", 10:00 Rally de Estonia Shakedown › SS1 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="17/07 WRC Rally", 10:00 Rally de Estonia Shakedown › SS1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/07 WRC Rally", 10:00 Rally de Estonia Shakedown › SS1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -696,6 +688,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="17/07 Campeonato Europa Sub-23", 10:00 Sesión Matinal Bergen (Noruega) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="17/07 Campeonato Europa Sub-23", 10:00 Sesión Matinal Bergen (Noruega) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="17/07 Campeonato Europa Sub-23", 10:00 Sesión Matinal Bergen (Noruega) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/07 Campeonato Europa Sub-23", 10:00 Sesión Matinal Bergen (Noruega) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -784,6 +778,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="17/07 Málaga Open", 10:00 2ª Ronda Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="17/07 Málaga Open", 10:00 2ª Ronda Premier Padel Tour DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="17/07 Málaga Open", 10:00 2ª Ronda Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/07 Málaga Open", 10:00 2ª Ronda Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -872,17 +868,15 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi", 10:00 2ª Ronda WTA 250 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi", 10:00 2ª Ronda WTA 250 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi", 10:00 2ª Ronda WTA 250 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi", 10:00 2ª Ronda WTA 250 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi", 10:00 2ª Ronda WTA 250 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="17/07 Torneo de Bastad", 11:05 2ª Ronda ATP 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 Torneo de Bastad", 11:05 2ª Ronda ATP 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo", 11:05 2ª Ronda WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo", 11:05 2ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) DAZN 
@@ -967,6 +961,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) DAZN 
@@ -981,6 +977,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=597324795d918c4d828777201d57d3cedc785bc3
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 
@@ -1068,6 +1066,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1085,6 +1085,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=597324795d918c4d828777201d57d3cedc785bc3
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 
@@ -1094,27 +1096,15 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="17/07 Campeonato Europa Sub-23", 16:00 Sesión Vespertina Bergen (Noruega) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 17:00 C. Paquet vs D. Vekic Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 17:00 C. Paquet vs D. Vekic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 17:30 D. Papamichail vs M. Bassols Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 17:30 D. Papamichail vs M. Bassols Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 18:30 R. Gasquet vs D. Ajdukovic Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 18:30 R. Gasquet vs D. Ajdukovic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 19:00 S. Tsitsipas vs R. Bautista-Agut Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 19:00 S. Tsitsipas vs R. Bautista-Agut Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 20:00 Francia vs Croacia Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 20:00 Francia vs Croacia Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 20:30 Grecia vs España Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="17/07 Hopman Cup Fase de grupos", 20:30 Grecia vs España Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/07 Eurocopa Femenina 1/4 de Final", 21:00 Suecia vs Inglaterra Teledeporte FHD
@@ -1212,17 +1202,15 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="18/07 WRC Rally", 08:16 Rally de Estonia SS2 › SS8 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="18/07 WRC Rally", 08:16 Rally de Estonia SS2 › SS8 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="18/07 WRC Rally", 08:16 Rally de Estonia SS2 › SS8 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/07 WRC Rally", 08:16 Rally de Estonia SS2 › SS8 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/07 WRC Rally", 08:16 Rally de Estonia SS2 › SS8 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="18/07 Málaga Open", 10:00 1/4 de final femenino Premier Padel Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="18/07 Málaga Open", 10:00 1/4 de final femenino Premier Padel Tour Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="18/07 WTA Torneo de Iasi", 10:00 1/4 de Final WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="18/07 WTA Torneo de Iasi", 10:00 1/4 de Final WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/07 MotoGP", 10:45 G.P. República Checa (Brno) Libres 1 DAZN 
@@ -1308,17 +1296,15 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="18/07 MotoGP", 10:45 G.P. República Checa (Brno) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="18/07 MotoGP", 10:45 G.P. República Checa (Brno) Libres 1 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="18/07 MotoGP", 10:45 G.P. República Checa (Brno) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/07 MotoGP", 10:45 G.P. República Checa (Brno) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/07 MotoGP", 10:45 G.P. República Checa (Brno) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="18/07 Torneo de Bastad", 11:05 1/4 de Final ATP 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="18/07 Torneo de Bastad", 11:05 1/4 de Final ATP 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="18/07 WTA Torneo de Hamburgo", 11:05 1/4 de Final WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="18/07 WTA Torneo de Hamburgo", 11:05 1/4 de Final WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) DAZN 
@@ -1403,6 +1389,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) DAZN 
@@ -1421,6 +1409,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=597324795d918c4d828777201d57d3cedc785bc3
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 
@@ -1508,25 +1498,19 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="18/07 MotoGP", 15:00 G.P. República Checa (Brno) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="18/07 MotoGP", 15:00 G.P. República Checa (Brno) Libres DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="18/07 MotoGP", 15:00 G.P. República Checa (Brno) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/07 MotoGP", 15:00 G.P. República Checa (Brno) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/07 MotoGP", 15:00 G.P. República Checa (Brno) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 17:00 B. Andreescu vs M. Bassols Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 17:00 B. Andreescu vs M. Bassols Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 17:30 L. Bronzetti vs C. Paquet Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 17:30 L. Bronzetti vs C. Paquet Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 18:30 F. Auger-Aliassime vs R. Bautista-Agut Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 18:30 F. Auger-Aliassime vs R. Bautista-Agut Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 19:00 F. Cobolli vs R. Gasquet Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 19:00 F. Cobolli vs R. Gasquet Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/07 Amistoso", 19:30 Como 1907 vs Lille DAZN 
@@ -1612,24 +1596,18 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="18/07 Amistoso", 19:30 Como 1907 vs Lille DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="18/07 Amistoso", 19:30 Como 1907 vs Lille DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="18/07 Amistoso", 19:30 Como 1907 vs Lille DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="18/07 Amistoso", 19:30 Como 1907 vs Lille DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="18/07 Amistoso", 19:30 Como 1907 vs Lille DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="18/07 Torneo de Pozoblanco", 19:30 1/4 de Final ATP Challenger Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="18/07 Torneo de Pozoblanco", 19:30 1/4 de Final ATP Challenger Tour Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 20:00 Canadá vs España Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 20:00 Canadá vs España Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 20:30 Italia vs Francia Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="18/07 Hopman Cup Fase de grupos", 20:30 Italia vs Francia Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="18/07 Torneo de Pozoblanco", 21:30 1/4 de Final ATP Challenger Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="18/07 Torneo de Pozoblanco", 21:30 1/4 de Final ATP Challenger Tour Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
