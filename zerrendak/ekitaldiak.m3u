@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 09:30 F. Jones vs P. Udvardy Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 09:40 F. Jones vs P. Udvardy Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 09:30 F. Jones vs P. Udvardy Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 09:40 F. Jones vs P. Udvardy Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 09:30 E. Avanesyan vs M. Carle Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 09:40 E. Avanesyan vs M. Carle Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 09:30 E. Avanesyan vs M. Carle Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 09:40 E. Avanesyan vs M. Carle Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/07 WRC Rally", 10:00 Rally de Estonia Shakedown › SS1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -273,25 +273,21 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="17/07 Málaga Open", 10:00 2ª Ronda Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 11:00 A. Sharma vs V. Tomova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 11:05 A. Sharma vs V. Tomova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 11:00 A. Sharma vs V. Tomova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 11:05 A. Sharma vs V. Tomova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 11:00 S. Cirstea vs V. Gracheva Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 11:35 I. Burillo vs S. Waltert Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 11:00 S. Cirstea vs V. Gracheva Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 11:35 I. Burillo vs S. Waltert Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 11:30 I. Burillo vs S. Waltert Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 12:15 S. Cirstea vs V. Gracheva Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 11:30 I. Burillo vs S. Waltert Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 12:15 S. Cirstea vs V. Gracheva Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 12:30 S. Kraus vs A. Bondar Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 12:35 S. Kraus vs A. Bondar Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 12:30 S. Kraus vs A. Bondar Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 12:30 I. Begu vs V. Jiménez Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 12:30 I. Begu vs V. Jiménez Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 12:35 S. Kraus vs A. Bondar Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -391,17 +387,19 @@ http://127.0.0.1:6878/ace/getstream?id=0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 13:00 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 14:00 D. Parry vs D. Yastremska Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 13:50 I. Begu vs V. Jiménez Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 14:00 D. Parry vs D. Yastremska Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 13:50 I. Begu vs V. Jiménez Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 14:00 J. Fett vs J. Cristian Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 14:20 D. Parry vs D. Yastremska Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 14:00 J. Fett vs J. Cristian Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Hamburgo 2ª Ronda", 14:20 D. Parry vs D. Yastremska Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -505,10 +503,16 @@ http://127.0.0.1:6878/ace/getstream?id=0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="17/07 Tour de Francia", 14:25 Etapa 12 Auch › Hautacam (181 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 15:45 J. Fett vs J. Cristian Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="17/07 WTA Torneo de Iasi 2ª Ronda", 15:45 J. Fett vs J. Cristian Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="17/07 Campeonato Europa Sub-23", 16:00 Sesión Vespertina Bergen (Noruega) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="17/07 Campeonato Europa Sub-23", 16:00 Sesión Vespertina Bergen (Noruega) Teledeporte FHD
@@ -843,6 +847,8 @@ http://127.0.0.1:6878/ace/getstream?id=0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 12:45 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 
@@ -949,6 +955,8 @@ http://127.0.0.1:6878/ace/getstream?id=0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 14:15 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 14:15 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 14:15 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="18/07 Tour de Francia", 14:15 Etapa 13 Loudenvielle › Peyragudes (11 km) Eurosport 1 
@@ -1451,6 +1459,8 @@ http://127.0.0.1:6878/ace/getstream?id=0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="19/07 Tour de Francia", 11:45 Etapa 14 Pau › Luchon-Superbagnères (183 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-id="" group-title="19/07 Tour de Francia", 11:45 Etapa 14 Pau › Luchon-Superbagnères (183 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="19/07 Tour de Francia", 11:45 Etapa 14 Pau › Luchon-Superbagnères (183 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="19/07 Tour de Francia", 11:45 Etapa 14 Pau › Luchon-Superbagnères (183 km) Eurosport 1 
@@ -1557,6 +1567,8 @@ http://127.0.0.1:6878/ace/getstream?id=0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="19/07 Tour de Bélgica Femenino", 11:45 Etapa 3a Maldegem › Maldegem (87.4km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-id="" group-title="19/07 Tour de Bélgica Femenino", 11:45 Etapa 3a Maldegem › Maldegem (87.4km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="" group-title="19/07 Tour de Bélgica Femenino", 11:45 Etapa 3a Maldegem › Maldegem (87.4km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="19/07 Tour de Bélgica Femenino", 11:45 Etapa 3a Maldegem › Maldegem (87.4km) Eurosport 1 
