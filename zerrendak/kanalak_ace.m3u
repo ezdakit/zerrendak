@@ -143,6 +143,8 @@ acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
 acestream://1d8791bd1972f6159813c2a21d1b649cca79b193
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
+acestream://a340c77b773a4a78a6c9aa25245a02698e05ac1a
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ HD
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
@@ -297,6 +299,8 @@ acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD
 acestream://93b2f5ede5cf2fa0cdb50419258c4f651aabfc42
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR CINE ESPAOL FHD
+acestream://168ad4a958aa6daa26adeee9700ed0312618bd07
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR CLASICOS FHD
 acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR CLASICOS FHD
@@ -313,10 +317,20 @@ acestream://b71478c824f787a6a696139db0d053de6fdd1d38
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD
 acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+#EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD
+acestream://0f5550c9842eac2c295bece78968f77d84159b48
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR HITS FHD
 acestream://48658c3210eb77e00bdd6b826267df8d917c0498
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR INDIE FHD
+acestream://4f35f115971f0b156baabb8efa9926b1eb8ba5af
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR ORIGINALES FHD
+acestream://60fcd59471ac4268e6cd6448f068a2b518841c88
 #EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR SERIES FHD
 acestream://2752dee68a7faa9c847216dc22a6821661db891a
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR VACACIONES FHD
+acestream://a0f71ac4897b2ccdf0114b5b3b7877902376a343
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR WESTERN FHD
+acestream://860dd021db341dbd02979eb8ea650d3f9d846765
 #EXTINF:-1 tvg-id="" group-title="VARIOS", NBA TV
 acestream://7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ONETORO (SOLO EVENTOS)--> NEW ERA III

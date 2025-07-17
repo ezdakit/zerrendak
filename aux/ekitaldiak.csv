@@ -612,6 +612,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-19,11:00-Semifinal 1 ATP 250,11:00,Torneo de Gstaad,Semifinal 1 ATP 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-19,11:00-Semifinal 1 WTA 250,11:00,WTA Torneo de Hamburgo,Semifinal 1 WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-19,11:00-Semifinal 1 WTA 250,11:00,WTA Torneo de Hamburgo,Semifinal 1 WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-19,11:30-Sesión Matinal Bergen (Noruega),11:30,Campeonato Europa Sub-23,Sesión Matinal Bergen (Noruega),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-07-19,11:30-Sesión Matinal Bergen (Noruega),11:30,Campeonato Europa Sub-23,Sesión Matinal Bergen (Noruega),Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-19,11:45-Etapa 14 Pau › Luchon-Superbagnères (183 km),11:45,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-07-19,11:45-Etapa 14 Pau › Luchon-Superbagnères (183 km),11:45,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,e13adb165bd869a60d9bb6dcdf5db61f97f869af,FHD
 2025-07-19,11:45-Etapa 14 Pau › Luchon-Superbagnères (183 km),11:45,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -651,8 +653,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-19,11:45-Etapa 14 Pau › Luchon-Superbagnères (183 km),11:45,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-07-19,11:45-Etapa 14 Pau › Luchon-Superbagnères (183 km),11:45,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-07-19,11:45-Etapa 14 Pau › Luchon-Superbagnères (183 km),11:45,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-07-19,11:45-Etapa 14 Pau › Luchon-Superbagnères (183 km),11:45,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-07-19,11:45-Etapa 14 Pau › Luchon-Superbagnères (183 km),11:45,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-19,11:45-Etapa 14 Pau › Luchon-Superbagnères (183 km),11:45,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
 2025-07-19,11:45-Etapa 14 Pau › Luchon-Superbagnères (183 km),11:45,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-07-19,11:45-Etapa 14 Pau › Luchon-Superbagnères (183 km),11:45,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
@@ -700,8 +700,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-19,11:45-Etapa 3a Maldegem › Maldegem (87.4km),11:45,Tour de Bélgica Femenino,Etapa 3a Maldegem › Maldegem (87.4km),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-07-19,11:45-Etapa 3a Maldegem › Maldegem (87.4km),11:45,Tour de Bélgica Femenino,Etapa 3a Maldegem › Maldegem (87.4km),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-07-19,11:45-Etapa 3a Maldegem › Maldegem (87.4km),11:45,Tour de Bélgica Femenino,Etapa 3a Maldegem › Maldegem (87.4km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-07-19,11:45-Etapa 3a Maldegem › Maldegem (87.4km),11:45,Tour de Bélgica Femenino,Etapa 3a Maldegem › Maldegem (87.4km),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-07-19,11:45-Etapa 3a Maldegem › Maldegem (87.4km),11:45,Tour de Bélgica Femenino,Etapa 3a Maldegem › Maldegem (87.4km),Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-19,11:45-Etapa 3a Maldegem › Maldegem (87.4km),11:45,Tour de Bélgica Femenino,Etapa 3a Maldegem › Maldegem (87.4km),Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
 2025-07-19,11:45-Etapa 3a Maldegem › Maldegem (87.4km),11:45,Tour de Bélgica Femenino,Etapa 3a Maldegem › Maldegem (87.4km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-07-19,11:45-Etapa 3a Maldegem › Maldegem (87.4km),11:45,Tour de Bélgica Femenino,Etapa 3a Maldegem › Maldegem (87.4km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
@@ -757,6 +755,53 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-19,13:00-Semifinal 2 WTA 250,13:00,WTA Torneo de Hamburgo,Semifinal 2 WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-19,13:00-Semifinal 1 WTA 250,13:00,WTA Torneo de Iasi,Semifinal 1 WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-19,13:00-Semifinal 1 WTA 250,13:00,WTA Torneo de Iasi,Semifinal 1 WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,e13adb165bd869a60d9bb6dcdf5db61f97f869af,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,6a1703a6bbe6110a1d27f35a41c88661e1740bfa,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,24f3cf821a16da93c1149e0ad3c2cc85bd5f2b66,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,0f5402f75107112d59d924a5f381cfed33dbe6d2,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,d27584ebe5128c8033cb6fdc806a994fbd17b790,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,f3b85a5fdd61f23b2c008e0d207786f438088fd6,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,c51e60bab39eb21c200c3ae95da175e0d3618083,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
+2025-07-19,13:30-Etapa 14 Pau › Luchon-Superbagnères (183 km),13:30,Tour de Francia,Etapa 14 Pau › Luchon-Superbagnères (183 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-07-19,13:45-G.P. República Checa (Brno) Clasificación,13:45,Moto2,G.P. República Checa (Brno) Clasificación,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-07-19,13:45-G.P. República Checa (Brno) Clasificación,13:45,Moto2,G.P. República Checa (Brno) Clasificación,DAZN,e13adb165bd869a60d9bb6dcdf5db61f97f869af,FHD
 2025-07-19,13:45-G.P. República Checa (Brno) Clasificación,13:45,Moto2,G.P. República Checa (Brno) Clasificación,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -796,6 +841,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-19,13:45-G.P. República Checa (Brno) Clasificación,13:45,Moto2,G.P. República Checa (Brno) Clasificación,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-07-19,13:45-G.P. República Checa (Brno) Clasificación,13:45,Moto2,G.P. República Checa (Brno) Clasificación,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-07-19,13:45-G.P. República Checa (Brno) Clasificación,13:45,Moto2,G.P. República Checa (Brno) Clasificación,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-07-19,14:45-España-Holanda,14:45,Campeonato Mundo Femenino 1/8 de final,España vs Holanda,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-07-19,14:45-España-Holanda,14:45,Campeonato Mundo Femenino 1/8 de final,España vs Holanda,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-19,15:00-Londres (Gran Bretaña),15:00,IAAF Diamond League,Londres (Gran Bretaña),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-07-19,15:00-Londres (Gran Bretaña),15:00,IAAF Diamond League,Londres (Gran Bretaña),DAZN,e13adb165bd869a60d9bb6dcdf5db61f97f869af,FHD
 2025-07-19,15:00-Londres (Gran Bretaña),15:00,IAAF Diamond League,Londres (Gran Bretaña),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -915,6 +962,10 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-19,15:00-Semifinal 2 ATP 250,15:00,Torneo de Bastad,Semifinal 2 ATP 250,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-07-19,16:00-Semifinal 2 WTA 250,16:00,WTA Torneo de Iasi,Semifinal 2 WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-19,16:00-Semifinal 2 WTA 250,16:00,WTA Torneo de Iasi,Semifinal 2 WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-19,17:00-Sesión Vespertina Bergen (Noruega),17:00,Campeonato Europa Sub-23,Sesión Vespertina Bergen (Noruega),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-07-19,17:00-Sesión Vespertina Bergen (Noruega),17:00,Campeonato Europa Sub-23,Sesión Vespertina Bergen (Noruega),Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
+2025-07-19,17:00-Semifinal Masculina Premier Padel Tour,17:00,Málaga Open,Semifinal Masculina Premier Padel Tour,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-07-19,17:00-Semifinal Masculina Premier Padel Tour,17:00,Málaga Open,Semifinal Masculina Premier Padel Tour,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-19,17:30-D. Papamichail-B. Andreescu,17:30,Hopman Cup Fase de grupos,D. Papamichail vs B. Andreescu,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-19,17:30-D. Papamichail-B. Andreescu,17:30,Hopman Cup Fase de grupos,D. Papamichail vs B. Andreescu,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-19,18:30-O. Usyk-D. Dubois,18:30,Título Mundial Peso Pesado,O. Usyk vs D. Dubois,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
@@ -960,6 +1011,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-19,19:00-S. Tsitsipas-F. Auger-Aliassime,19:00,Hopman Cup Fase de grupos,S. Tsitsipas vs F. Auger-Aliassime,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-19,19:30-Semifinal 1 ATP Challenger Tour,19:30,Torneo de Pozoblanco,Semifinal 1 ATP Challenger Tour,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-19,19:30-Semifinal 1 ATP Challenger Tour,19:30,Torneo de Pozoblanco,Semifinal 1 ATP Challenger Tour,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-19,20:00-World Athletics Continental Tour,20:00,Madrid Meeting,World Athletics Continental Tour,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-07-19,20:00-World Athletics Continental Tour,20:00,Madrid Meeting,World Athletics Continental Tour,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-19,20:00-E. Odiase-S. Govedarica,20:00,Título Internacional Peso Pesado,E. Odiase vs S. Govedarica,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-07-19,20:00-E. Odiase-S. Govedarica,20:00,Título Internacional Peso Pesado,E. Odiase vs S. Govedarica,DAZN,e13adb165bd869a60d9bb6dcdf5db61f97f869af,FHD
 2025-07-19,20:00-E. Odiase-S. Govedarica,20:00,Título Internacional Peso Pesado,E. Odiase vs S. Govedarica,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
