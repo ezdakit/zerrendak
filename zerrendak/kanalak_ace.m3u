@@ -48,6 +48,8 @@ acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
 acestream://c51e60bab39eb21c200c3ae95da175e0d3618083
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
+acestream://5b41b5e0f7fb0c2c420158a83a12e8ceed4a7420
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
 acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 HD
 acestream://c976c7b37964322752db562b4ad65515509c8d36
@@ -77,6 +79,8 @@ acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 acestream://47223e64a576c21bd61e818a42397a753d34fba5
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
 acestream://e04e1680ed557074fcde6d296ccc24862300911a
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
+acestream://e84ee527e76e12507449b6c92bbeb6b8f01664a2
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
@@ -355,6 +359,8 @@ acestream://2752dee68a7faa9c847216dc22a6821661db891a
 acestream://a0f71ac4897b2ccdf0114b5b3b7877902376a343
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR WESTERN FHD
 acestream://860dd021db341dbd02979eb8ea650d3f9d846765
+#EXTINF:-1 tvg-id="" group-title="VARIOS", NATIONAL GEOGRAPHIC WILD
+acestream://51d0b5249e229a07ecc52286f56a67c3d9df6d00
 #EXTINF:-1 tvg-id="" group-title="VARIOS", NBA TV
 acestream://7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ONETORO (SOLO EVENTOS)--> NEW ERA III
