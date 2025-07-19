@@ -1173,9 +1173,11 @@ http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/07 WTA Torneo de Iasi Semifinal 2", 17:30 I. Begu vs J. Cristian Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="19/07 Torneo de Pozoblanco Semifinal 1", 18:10 T. Pereira vs F. Sun Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/07 Hopman Cup Fase de grupos", 19:00 S. Tsitsipas vs F. Auger-Aliassime Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="19/07 Torneo de Pozoblanco", 19:30 Semifinal 1 ATP Challenger Tour Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="19/07 Torneo de Pozoblanco Semifinal 2", 19:40 O. Crawford vs D. Mérida Aguilar Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/07 Madrid Meeting", 20:00 World Athletics Continental Tour Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -1187,8 +1189,6 @@ http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="19/07 Eurocopa Femenina 1/4 de Final", 21:00 Francia vs Alemania Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="19/07 Torneo de Pozoblanco", 21:30 Semifinal 2 ATP Challenger Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/07 Título Mundial Peso Pesado", 00:00 O. Usyk vs D. Dubois DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="20/07 Título Mundial Peso Pesado", 00:00 O. Usyk vs D. Dubois DAZN FHD
@@ -2643,7 +2643,7 @@ http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-id="" group-title="20/07 Torneo de Pozoblanco", 21:00 Final ATP Challenger Tour Eurosport 2 SD
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="21/07 WTA Torneo de Praga", 10:00 1ª Ronda WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/07 WTA Torneo de Praga", 10:05 1ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/07 Campeonato Mundo Femenino", 15:30 Semifinales Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
