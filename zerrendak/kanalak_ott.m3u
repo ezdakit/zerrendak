@@ -247,10 +247,6 @@ http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
 http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD
 http://127.0.0.1:6878/ace/getstream?id=f3b85a5fdd61f23b2c008e0d207786f438088fd6
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 HD
-http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 HD
-http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DEDPORTE 2 FHD
