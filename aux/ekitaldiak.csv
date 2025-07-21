@@ -1,10 +1,10 @@
 date,event_id,time,competition,match,group,acestream_id,quality
-2025-07-21,11:00-M. Bouzkova-X. Gao,11:00,WTA Torneo de Praga 1ª Ronda,M. Bouzkova vs X. Gao,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-07-21,12:30-S. Bejlek-M. Uchijima,12:30,WTA Torneo de Praga 1ª Ronda,S. Bejlek vs M. Uchijima,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-07-21,14:00-V. Golubic-E. Cocciaretto,14:00,WTA Torneo de Praga 1ª Ronda,V. Golubic vs E. Cocciaretto,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-21,11:00-M. Bouzkova-X. Gao,11:00,WTA Torneo de Praga 1ª Ronda,M. Bouzkova vs X. Gao,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-21,12:30-S. Bejlek-M. Uchijima,12:30,WTA Torneo de Praga 1ª Ronda,S. Bejlek vs M. Uchijima,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-21,14:00-V. Golubic-E. Cocciaretto,14:00,WTA Torneo de Praga 1ª Ronda,V. Golubic vs E. Cocciaretto,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-21,15:30-Hungría-España,15:30,Campeonato Mundo Femenino Semifinales,Hungría vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-07-21,15:30-Hungría-España,15:30,Campeonato Mundo Femenino Semifinales,Hungría vs España,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
-2025-07-21,15:30-J. Maleckova-R. Sramkova,15:30,WTA Torneo de Praga 1ª Ronda,J. Maleckova vs R. Sramkova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-21,15:30-J. Maleckova-R. Sramkova,15:30,WTA Torneo de Praga 1ª Ronda,J. Maleckova vs R. Sramkova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,DAZN,e13adb165bd869a60d9bb6dcdf5db61f97f869af,FHD
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,DAZN,96a8a772f150d9e57ca71a9765d2278c0c5423de,FHD
@@ -31,6 +31,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
+2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,DAZN,d65257bb934b73647374224fd62d836815804be2,
+2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -55,14 +57,14 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
-2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
+2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-07-21,16:00-UCI Europe Tour,16:00,Clásica Tierras del Ebro,UCI Europe Tour,Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
-2025-07-21,17:00-A. Potapova-V. Mboko,17:00,WTA Torneo de Washington 1ª Ronda,A. Potapova vs V. Mboko,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-07-21,18:30-L. Fernández-M. Joint,18:30,WTA Torneo de Washington 1ª Ronda,L. Fernández vs M. Joint,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-07-22,00:00-M. Sakkari-K. Boulter,00:00,WTA Torneo de Washington 1ª Ronda,M. Sakkari vs K. Boulter,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-07-22,10:05-2ª Ronda WTA 250,10:05,WTA Torneo de Praga,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-21,17:00-A. Potapova-V. Mboko,17:00,WTA Torneo de Washington 1ª Ronda,A. Potapova vs V. Mboko,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-21,18:30-L. Fernández-M. Joint,18:30,WTA Torneo de Washington 1ª Ronda,L. Fernández vs M. Joint,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-22,00:00-M. Sakkari-K. Boulter,00:00,WTA Torneo de Washington 1ª Ronda,M. Sakkari vs K. Boulter,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-22,10:05-2ª Ronda WTA 250,10:05,WTA Torneo de Praga,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,e13adb165bd869a60d9bb6dcdf5db61f97f869af,FHD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,96a8a772f150d9e57ca71a9765d2278c0c5423de,FHD
@@ -89,6 +91,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
+2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
+2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -115,14 +119,14 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
-2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
+2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
-2025-07-22,18:00-1ª Ronda WTA 500,18:00,WTA Torneo de Washington,1ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-22,18:00-1ª Ronda WTA 500,18:00,WTA Torneo de Washington,1ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-22,21:00-Inglaterra-Italia,21:00,Eurocopa Femenina Semifinales,Inglaterra vs Italia,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-07-22,21:00-Inglaterra-Italia,21:00,Eurocopa Femenina Semifinales,Inglaterra vs Italia,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
-2025-07-23,10:05-2ª Ronda WTA 250,10:05,WTA Torneo de Praga,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-23,10:05-2ª Ronda WTA 250,10:05,WTA Torneo de Praga,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,e13adb165bd869a60d9bb6dcdf5db61f97f869af,FHD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,96a8a772f150d9e57ca71a9765d2278c0c5423de,FHD
@@ -149,6 +153,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
+2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
+2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -175,10 +181,10 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
-2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
+2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-07-23,15:30-Final,15:30,Campeonato Mundo Femenino,Final,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-07-23,15:30-Final,15:30,Campeonato Mundo Femenino,Final,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
-2025-07-23,18:00-2ª Ronda WTA 500,18:00,WTA Torneo de Washington,2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-07-23,18:00-2ª Ronda WTA 500,18:00,WTA Torneo de Washington,2ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,

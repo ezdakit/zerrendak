@@ -2,17 +2,17 @@
 #EXTVLCOPT:network-caching=2000
 
 #EXTINF:-1 tvg-id="" group-title="21/07 WTA Torneo de Praga 1ª Ronda", 11:00 M. Bouzkova vs X. Gao Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/07 WTA Torneo de Praga 1ª Ronda", 12:30 S. Bejlek vs M. Uchijima Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/07 WTA Torneo de Praga 1ª Ronda", 14:00 V. Golubic vs E. Cocciaretto Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/07 Campeonato Mundo Femenino Semifinales", 15:30 Hungría vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/07 Campeonato Mundo Femenino Semifinales", 15:30 Hungría vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="21/07 WTA Torneo de Praga 1ª Ronda", 15:30 J. Maleckova vs R. Sramkova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour DAZN FHD
@@ -65,6 +65,10 @@ http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
+#EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour DAZN SD
@@ -114,21 +118,21 @@ http://127.0.0.1:6878/ace/getstream?id=0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4
 #EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour Eurosport 1 
-http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="21/07 Clásica Tierras del Ebro", 16:00 UCI Europe Tour Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="21/07 WTA Torneo de Washington 1ª Ronda", 17:00 A. Potapova vs V. Mboko Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/07 WTA Torneo de Washington 1ª Ronda", 18:30 L. Fernández vs M. Joint Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Washington 1ª Ronda", 00:00 M. Sakkari vs K. Boulter Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga", 10:05 2ª Ronda WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN FHD
@@ -181,6 +185,10 @@ http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
+#EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN SD
@@ -234,21 +242,21 @@ http://127.0.0.1:6878/ace/getstream?id=0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) Eurosport 1 
-http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Washington", 18:00 1ª Ronda WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="22/07 Eurocopa Femenina Semifinales", 21:00 Inglaterra vs Italia Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="22/07 Eurocopa Femenina Semifinales", 21:00 Inglaterra vs Italia Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Praga", 10:05 2ª Ronda WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN FHD
@@ -301,6 +309,10 @@ http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
+#EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN SD
@@ -354,9 +366,9 @@ http://127.0.0.1:6878/ace/getstream?id=0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) Eurosport 1 
-http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) Eurosport 1 
@@ -366,4 +378,4 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="23/07 Campeonato Mundo Femenino", 15:30 Final Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington", 18:00 2ª Ronda WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
