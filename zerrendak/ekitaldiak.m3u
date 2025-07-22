@@ -2,12 +2,8 @@
 #EXTVLCOPT:network-caching=2000
 
 #EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Washington 1ª Ronda", 00:10 M. Sakkari vs K. Boulter Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Washington 1ª Ronda", 00:10 M. Sakkari vs K. Boulter Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga 1ª Ronda", 11:00 L. Samson vs D. Salkova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga 1ª Ronda", 11:00 L. Samson vs D. Salkova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga 1ª Ronda", 11:05 L. Samson vs D. Salkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/07 Campeonato del Mundo Semifinales", 11:30 Grecia vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -67,6 +63,10 @@ http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
+#EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN SD
@@ -121,9 +121,7 @@ http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 12:00 Etapa 16 Montpellier › Mont Ventoux (172 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga 1ª Ronda", 12:30 A. Ito vs T. Valentova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga 1ª Ronda", 12:30 A. Ito vs T. Valentova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga 1ª Ronda", 12:45 A. Ito vs T. Valentova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 13:50 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -177,6 +175,10 @@ http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 13:50 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
+#EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 13:50 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 13:50 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 13:50 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 13:50 Etapa 16 Montpellier › Mont Ventoux (172 km) DAZN SD
@@ -238,8 +240,6 @@ http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="22/07 Tour de Francia", 13:50 Etapa 16 Montpellier › Mont Ventoux (172 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga 1ª Ronda", 14:00 K. Siniakova vs EG. Ruse Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga 1ª Ronda", 14:00 K. Siniakova vs EG. Ruse Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/07 Campeonato del Mundo Semifinales", 15:30 Serbia vs Hungría Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -247,28 +247,16 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="22/07 Campeonato del Mundo Semifinales", 15:30 Serbia vs Hungría Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=cd6ee713e2702d67287a3d0c20c5594cacfe4676
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga 1ª Ronda", 15:30 L. Noskova vs A. Gasanova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga 1ª Ronda", 15:30 L. Noskova vs A. Gasanova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Praga 1ª Ronda", 16:05 L. Noskova vs A. Gasanova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Washington 1ª Ronda", 17:00 T. Townsend vs T. Maria Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Washington 1ª Ronda", 17:00 T. Townsend vs T. Maria Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Washington 1ª Ronda", 17:05 T. Townsend vs T. Maria Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Washington 1ª Ronda", 19:00 H. Baptiste vs S. Kenin Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Washington 1ª Ronda", 19:00 H. Baptiste vs S. Kenin Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Washington 1ª Ronda", 21:30 M. Kostyuk vs E. Raducanu Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/07 WTA Torneo de Washington 1ª Ronda", 21:30 M. Kostyuk vs E. Raducanu Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington 1ª Ronda", 01:30 V. Williams vs P. Stearns Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington 1ª Ronda", 01:30 V. Williams vs P. Stearns Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Praga", 10:05 2ª Ronda WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Praga", 10:05 2ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="23/07 Campeonato Mundo Femenino 3er Puesto", 11:30 Estados Unidos vs España Teledeporte FHD
@@ -329,6 +317,10 @@ http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
+#EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 13:00 Etapa 17 Bollène › Valence (161 km) DAZN SD
@@ -435,6 +427,10 @@ http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 14:45 Etapa 17 Bollène › Valence (161 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
+#EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 14:45 Etapa 17 Bollène › Valence (161 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 14:45 Etapa 17 Bollène › Valence (161 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 14:45 Etapa 17 Bollène › Valence (161 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="23/07 Tour de Francia", 14:45 Etapa 17 Bollène › Valence (161 km) DAZN SD
@@ -496,11 +492,7 @@ http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="23/07 Campeonato Mundo Femenino Final", 15:30 Grecia vs Hungría Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=cd6ee713e2702d67287a3d0c20c5594cacfe4676
 #EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington", 18:00 2ª Ronda WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington", 18:00 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="24/07 WTA Torneo de Praga", 10:05 1/4 de Final WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="24/07 WTA Torneo de Praga", 10:05 1/4 de Final WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="24/07 Campeonato del Mundo", 11:30 3er Puesto Teledeporte FHD
@@ -561,6 +553,10 @@ http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="24/07 Tour de Francia", 11:45 Etapa 18 Vif › Col de la Loze (171 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
+#EXTINF:-1 tvg-id="" group-title="24/07 Tour de Francia", 11:45 Etapa 18 Vif › Col de la Loze (171 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="" group-title="24/07 Tour de Francia", 11:45 Etapa 18 Vif › Col de la Loze (171 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="" group-title="24/07 Tour de Francia", 11:45 Etapa 18 Vif › Col de la Loze (171 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="24/07 Tour de Francia", 11:45 Etapa 18 Vif › Col de la Loze (171 km) DAZN SD
@@ -667,6 +663,10 @@ http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="24/07 Tour de Francia", 13:30 Etapa 18 Vif › Col de la Loze (171 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
+#EXTINF:-1 tvg-id="" group-title="24/07 Tour de Francia", 13:30 Etapa 18 Vif › Col de la Loze (171 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="" group-title="24/07 Tour de Francia", 13:30 Etapa 18 Vif › Col de la Loze (171 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="" group-title="24/07 Tour de Francia", 13:30 Etapa 18 Vif › Col de la Loze (171 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="24/07 Tour de Francia", 13:30 Etapa 18 Vif › Col de la Loze (171 km) DAZN SD
@@ -727,7 +727,5 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="24/07 Campeonato del Mundo", 15:30 Final Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=cd6ee713e2702d67287a3d0c20c5594cacfe4676
-#EXTINF:-1 tvg-id="" group-title="24/07 WTA Torneo de Washington", 18:00 2ª Ronda WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="24/07 WTA Torneo de Washington", 18:00 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
