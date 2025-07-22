@@ -1,5 +1,5 @@
 date,event_id,time,competition,match,group,acestream_id,quality
-2025-07-22,00:00-M. Sakkari-K. Boulter,00:00,WTA Torneo de Washington 1ª Ronda,M. Sakkari vs K. Boulter,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-22,00:10-M. Sakkari-K. Boulter,00:10,WTA Torneo de Washington 1ª Ronda,M. Sakkari vs K. Boulter,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-22,11:00-L. Samson-D. Salkova,11:00,WTA Torneo de Praga 1ª Ronda,L. Samson vs D. Salkova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-07-22,11:30-Grecia-España,11:30,Campeonato del Mundo Semifinales,Grecia vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-07-22,11:30-Grecia-España,11:30,Campeonato del Mundo Semifinales,Grecia vs España,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
@@ -29,6 +29,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
+2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
+2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -42,7 +44,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
-2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
@@ -83,6 +84,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
+2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
+2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -96,7 +99,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
-2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
@@ -146,6 +148,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
+2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
+2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -159,7 +163,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
-2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
@@ -199,6 +202,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
+2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
+2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -212,7 +217,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
-2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
@@ -258,6 +262,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
+2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
+2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -271,7 +277,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
-2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
