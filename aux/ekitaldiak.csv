@@ -1,6 +1,8 @@
 date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,00:10-M. Sakkari-K. Boulter,00:10,WTA Torneo de Washington 1ª Ronda,M. Sakkari vs K. Boulter,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-22,00:10-M. Sakkari-K. Boulter,00:10,WTA Torneo de Washington 1ª Ronda,M. Sakkari vs K. Boulter,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-22,11:00-L. Samson-D. Salkova,11:00,WTA Torneo de Praga 1ª Ronda,L. Samson vs D. Salkova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-22,11:00-L. Samson-D. Salkova,11:00,WTA Torneo de Praga 1ª Ronda,L. Samson vs D. Salkova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-22,11:30-Grecia-España,11:30,Campeonato del Mundo Semifinales,Grecia vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-07-22,11:30-Grecia-España,11:30,Campeonato del Mundo Semifinales,Grecia vs España,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
@@ -29,8 +31,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
-2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
-2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -41,9 +41,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
-2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
+2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
@@ -58,6 +58,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-07-22,12:00-Etapa 16 Montpellier › Mont Ventoux (172 km),12:00,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-07-22,12:30-A. Ito-T. Valentova,12:30,WTA Torneo de Praga 1ª Ronda,A. Ito vs T. Valentova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-22,12:30-A. Ito-T. Valentova,12:30,WTA Torneo de Praga 1ª Ronda,A. Ito vs T. Valentova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,96a8a772f150d9e57ca71a9765d2278c0c5423de,FHD
@@ -84,8 +85,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
-2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
-2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -96,9 +95,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
-2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
+2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
@@ -115,11 +114,15 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-07-22,13:50-Etapa 16 Montpellier › Mont Ventoux (172 km),13:50,Tour de Francia,Etapa 16 Montpellier › Mont Ventoux (172 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-07-22,14:00-K. Siniakova-EG. Ruse,14:00,WTA Torneo de Praga 1ª Ronda,K. Siniakova vs EG. Ruse,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-22,14:00-K. Siniakova-EG. Ruse,14:00,WTA Torneo de Praga 1ª Ronda,K. Siniakova vs EG. Ruse,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-22,15:30-Serbia-Hungría,15:30,Campeonato del Mundo Semifinales,Serbia vs Hungría,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-07-22,15:30-Serbia-Hungría,15:30,Campeonato del Mundo Semifinales,Serbia vs Hungría,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-22,15:30-L. Noskova-A. Gasanova,15:30,WTA Torneo de Praga 1ª Ronda,L. Noskova vs A. Gasanova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-22,15:30-L. Noskova-A. Gasanova,15:30,WTA Torneo de Praga 1ª Ronda,L. Noskova vs A. Gasanova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-22,18:00-1ª Ronda WTA 500,18:00,WTA Torneo de Washington,1ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-22,18:00-1ª Ronda WTA 500,18:00,WTA Torneo de Washington,1ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-23,10:05-2ª Ronda WTA 250,10:05,WTA Torneo de Praga,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-23,10:05-2ª Ronda WTA 250,10:05,WTA Torneo de Praga,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-23,11:30-Estados Unidos-España,11:30,Campeonato Mundo Femenino 3er Puesto,Estados Unidos vs España,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-07-23,11:30-Estados Unidos-España,11:30,Campeonato Mundo Femenino 3er Puesto,Estados Unidos vs España,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
@@ -148,8 +151,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
-2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
-2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -160,9 +161,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
-2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
+2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-07-23,13:00-Etapa 17 Bollène › Valence (161 km),13:00,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
@@ -202,8 +203,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
-2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
-2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -214,9 +213,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
-2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
+2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-07-23,14:45-Etapa 17 Bollène › Valence (161 km),14:45,Tour de Francia,Etapa 17 Bollène › Valence (161 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
@@ -233,7 +232,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-23,15:30-Grecia-Hungría,15:30,Campeonato Mundo Femenino Final,Grecia vs Hungría,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-07-23,15:30-Grecia-Hungría,15:30,Campeonato Mundo Femenino Final,Grecia vs Hungría,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-23,18:00-2ª Ronda WTA 500,18:00,WTA Torneo de Washington,2ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-23,18:00-2ª Ronda WTA 500,18:00,WTA Torneo de Washington,2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-24,10:05-1/4 de Final WTA 250,10:05,WTA Torneo de Praga,1/4 de Final WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-24,10:05-1/4 de Final WTA 250,10:05,WTA Torneo de Praga,1/4 de Final WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-24,11:30-3er Puesto,11:30,Campeonato del Mundo,3er Puesto,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-07-24,11:30-3er Puesto,11:30,Campeonato del Mundo,3er Puesto,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
@@ -262,8 +263,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,bcf9dc38f92e90a71b87bd54b3bac91b76d09a69,FHD
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,fd53cfa7055fe458d4f5c0ff59a06cd43723be55,FHD
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,97d663cba59ddd8aca032267169019b544dcb8f7,
-2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
-2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
@@ -274,9 +273,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
-2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
+2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-07-24,11:45-Etapa 18 Vif › Col de la Loze (171 km),11:45,Tour de Francia,Etapa 18 Vif › Col de la Loze (171 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
@@ -295,3 +294,4 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-24,15:30-Final,15:30,Campeonato del Mundo,Final,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-07-24,15:30-Final,15:30,Campeonato del Mundo,Final,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-24,18:00-2ª Ronda WTA 500,18:00,WTA Torneo de Washington,2ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-24,18:00-2ª Ronda WTA 500,18:00,WTA Torneo de Washington,2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
