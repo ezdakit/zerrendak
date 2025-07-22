@@ -65,8 +65,6 @@ plugin://script.module.horus?action=play&id=c9321006921967d6258df6945f1d598a5c0c
 plugin://script.module.horus?action=play&id=4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
 plugin://script.module.horus?action=play&id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
-plugin://script.module.horus?action=play&id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 FHD
 plugin://script.module.horus?action=play&id=51b363b1c4d42724e05240ad068ad219df8042ec
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 HD
@@ -375,6 +373,8 @@ plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d
 plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="UK | Sky Sport Main Event" group-title="VARIOS", SKY SPORTS MAIN EVENT
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD
+plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD
 plugin://script.module.horus?action=play&id=3d376333ee90d6db3d413fc5764ef635882076f5
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD
@@ -385,6 +385,8 @@ plugin://script.module.horus?action=play&id=5133d1e8f45095f0b7dabbd78db0ce19a496
 plugin://script.module.horus?action=play&id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
 plugin://script.module.horus?action=play&id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL
+plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: BEIN SPORTS 4 FHD
