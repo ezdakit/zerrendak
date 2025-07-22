@@ -189,6 +189,8 @@ acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="PT | DAZN 5" group-title="VARIOS", ELEVEN DAZN 5 HD
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="PT | DAZN 6" group-title="VARIOS", ELEVEN DAZN 6 HD
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
@@ -305,6 +307,8 @@ acestream://5c910d614894635153a7d42de98cc2e4a958a53f
 acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD
 acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
+#EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD
+acestream://14d3d8570a11cbc27ba2c94499df6014b462cb2d
 #EXTINF:-1 tvg-id="La 2" group-title="VARIOS", LA 2 FHD
 acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 #EXTINF:-1 tvg-id="La Sexta HD" group-title="VARIOS", LA SEXTA FHD
@@ -329,7 +333,7 @@ acestream://124aa6d58fd72a763ed0349c874551bd2504798f
 acestream://0ba40acc350bc1493cf576a125806bda86abe38b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR DRAMA FHD
 acestream://aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR ESTRENOS HD
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR ESTRENOS FHD
 acestream://b71478c824f787a6a696139db0d053de6fdd1d38
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" group-title="VARIOS", MOVISTAR GOLF 2 FHD
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
@@ -343,6 +347,8 @@ acestream://872608e734992db636eb79426802cd08f4029afb
 acestream://28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR INDIE FHD
 acestream://4f35f115971f0b156baabb8efa9926b1eb8ba5af
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR LA RESISTENCIA FHD
+acestream://09b8bed9be1feadb4ef83e46d50dc51f763947a7
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR ORIGINALES FHD
 acestream://60fcd59471ac4268e6cd6448f068a2b518841c88
 #EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR SERIES FHD
@@ -385,6 +391,8 @@ acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
+acestream://cd6ee713e2702d67287a3d0c20c5594cacfe4676
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD

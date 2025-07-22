@@ -269,6 +269,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="FUTBOL INT", ELEVEN DAZN 5 --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" tvg-id="PT | DAZN 6" group-title="FUTBOL INT", ELEVEN DAZN 6 --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="FUTBOL INT", ESPN2 [US] --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="ESPN.2.nl" group-title="FUTBOL INT", ESPN 2 [BE] --> NEW LOOP
@@ -313,6 +315,8 @@ http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
 http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD --> NEW ERA VI
+http://127.0.0.1:6878/ace/getstream?id=14d3d8570a11cbc27ba2c94499df6014b462cb2d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="TDT", LA SEXTA FHD --> NEW ERA
@@ -327,6 +331,8 @@ http://127.0.0.1:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="TDT", TELEDEPORTE FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="TDT", TELEDEPORTE FHD --> NEW ERA VI
+http://127.0.0.1:6878/ace/getstream?id=cd6ee713e2702d67287a3d0c20c5594cacfe4676
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="" group-title="EVENTOS", DAZN EVENTOS 1 --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="" group-title="EVENTOS", DAZN EVENTOS 2 --> NEW ERA
@@ -367,12 +373,14 @@ http://127.0.0.1:6878/ace/getstream?id=168ad4a958aa6daa26adeee9700ed0312618bd07
 http://127.0.0.1:6878/ace/getstream?id=0ba40acc350bc1493cf576a125806bda86abe38b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR DRAMA FHD --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR ESTRENOS HD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR ESTRENOS FHD --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=b71478c824f787a6a696139db0d053de6fdd1d38
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR HITS FHD --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR INDIE FHD --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=4f35f115971f0b156baabb8efa9926b1eb8ba5af
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR LA RESISTENCIA FHD --> NEW ERA VI
+http://127.0.0.1:6878/ace/getstream?id=09b8bed9be1feadb4ef83e46d50dc51f763947a7
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR ORIGINALES FHD --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=60fcd59471ac4268e6cd6448f068a2b518841c88
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR VACACIONES FHD --> NEW ERA VI
