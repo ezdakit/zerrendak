@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington 1ª Ronda", 01:30 V. Williams vs P. Stearns Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington 1ª Ronda", 01:50 V. Williams vs P. Stearns Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington 1ª Ronda", 01:30 V. Williams vs P. Stearns Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington 1ª Ronda", 01:50 V. Williams vs P. Stearns Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Praga 2ª Ronda", 11:00 T. Valentova vs R. Sramkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
@@ -253,9 +253,9 @@ http://127.0.0.1:6878/ace/getstream?id=cd6ee713e2702d67287a3d0c20c5594cacfe4676
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Praga 2ª Ronda", 15:30 S. Bejlek vs A. Parks Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington", 18:00 2ª Ronda WTA 500 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington", 18:05 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington", 18:00 2ª Ronda WTA 500 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="23/07 WTA Torneo de Washington", 18:05 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="24/07 WTA Torneo de Praga", 10:05 1/4 de Final WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
@@ -493,9 +493,9 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="24/07 Campeonato del Mundo Final", 15:30 España vs Hungría Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=cd6ee713e2702d67287a3d0c20c5594cacfe4676
-#EXTINF:-1 tvg-id="" group-title="24/07 WTA Torneo de Washington", 18:00 2ª Ronda WTA 500 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="24/07 WTA Torneo de Washington", 18:05 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="24/07 WTA Torneo de Washington", 18:00 2ª Ronda WTA 500 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="24/07 WTA Torneo de Washington", 18:05 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="25/07 WTA Torneo de Praga", 11:00 Semifinal 1 WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
