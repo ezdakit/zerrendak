@@ -226,8 +226,6 @@ acestream://927996b8192c7cc6bf768d52528c8e4198294328
 #EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK]
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK]
-acestream://22fead867a8657cfb58cd84245e18954ab199db3
-#EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK]
 acestream://5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL COCINA FHD
 acestream://db81615f1b2eebaf584edc252ddd73883123fbb3
@@ -381,6 +379,8 @@ acestream://7acefb808a6c67d95e977b452d53070947bd072b
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ONETORO FHD
 acestream://1fd3dbb7d39de875ac70059d70c8768d4a2e43c0
+#EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RALLY TV
