@@ -27,6 +27,8 @@ plugin://script.module.horus?action=play&id=ca923c9873fd206a41c1e83ff8fc40e3cf32
 plugin://script.module.horus?action=play&id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
 plugin://script.module.horus?action=play&id=ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
+plugin://script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 plugin://script.module.horus?action=play&id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD
@@ -187,8 +189,6 @@ plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17
 plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="PT | DAZN 5" group-title="VARIOS", ELEVEN DAZN 5 HD
 plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="PT | DAZN 6" group-title="VARIOS", ELEVEN DAZN 6 HD
-plugin://script.module.horus?action=play&id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 plugin://script.module.horus?action=play&id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS
@@ -383,10 +383,10 @@ plugin://script.module.horus?action=play&id=b8b8c4470d3d27c75302cf49ab6c4b52a660
 plugin://script.module.horus?action=play&id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET
 plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-id="UK | Sky Sport Football" group-title="VARIOS", SKY SPORTS FOOTBALL
+plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="UK | Sky Sport Main Event" group-title="VARIOS", SKY SPORTS MAIN EVENT
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD
-plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD
 plugin://script.module.horus?action=play&id=3d376333ee90d6db3d413fc5764ef635882076f5
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD
@@ -401,8 +401,6 @@ plugin://script.module.horus?action=play&id=bdc32e0f99653f96e0e1a3b98c88764b631e
 plugin://script.module.horus?action=play&id=cd6ee713e2702d67287a3d0c20c5594cacfe4676
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL
 plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD
-plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: BEIN SPORTS 4 FHD
 plugin://script.module.horus?action=play&id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: S SPORT 1 HD
