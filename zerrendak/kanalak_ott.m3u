@@ -191,6 +191,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="PT | DAZN 5" group-title="VARIOS", ELEVEN DAZN 5 HD
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="PT | DAZN 6" group-title="VARIOS", ELEVEN DAZN 6 HD
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS
@@ -255,7 +257,7 @@ http://127.0.0.1:6878/ace/getstream?id=8b55a528c5cf9f1acd11d942472bdd60926db8ae
 http://127.0.0.1:6878/ace/getstream?id=eb3e12408fb7463b4fafe354380f2adf483ea924
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DECASA FHD
+#EXTINF:-1 tvg-id="Decasa" group-title="VARIOS", DECASA FHD
 http://127.0.0.1:6878/ace/getstream?id=4869e4c131cb3478cc375944c7cc68d1bb8e9dc4
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DEPORTE 2 SD
 http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
