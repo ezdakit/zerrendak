@@ -404,7 +404,7 @@ plugin://script.module.horus?action=play&id=cd6ee713e2702d67287a3d0c20c5594cacfe
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEST
-plugin://script.module.horus?action=play&id=0000000000000000000000000000000000000000
+plugin://script.module.horus?action=play&id=0000000000000000000000000000000000000002
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: BEIN SPORTS 4 FHD
 plugin://script.module.horus?action=play&id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: S SPORT 1 HD
