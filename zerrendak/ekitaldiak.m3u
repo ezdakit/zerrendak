@@ -644,6 +644,8 @@ http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-id="" group-title="29/07 Masters Canadá", 17:05 2ª Ronda ATP Masters 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=860dd021db341dbd02979eb8ea650d3f9d846765
 #EXTINF:-1 tvg-id="" group-title="29/07 Masters Canadá", 17:05 2ª Ronda ATP Masters 1000 Movistar+ 
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-id="" group-title="29/07 Masters Canadá", 17:05 2ª Ronda ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #EXTINF:-1 tvg-id="" group-title="29/07 Masters Canadá", 17:05 2ª Ronda ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
@@ -759,6 +761,8 @@ http://127.0.0.1:6878/ace/getstream?id=cd783ac5f4d902ec6a4f261a4849633df69c951f
 http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-id="" group-title="29/07 WTA Canadá", 17:05 2ª Ronda WTA 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=860dd021db341dbd02979eb8ea650d3f9d846765
+#EXTINF:-1 tvg-id="" group-title="29/07 WTA Canadá", 17:05 2ª Ronda WTA 1000 Movistar+ 
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="" group-title="29/07 WTA Canadá", 17:05 2ª Ronda WTA 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #EXTINF:-1 tvg-id="" group-title="29/07 WTA Canadá", 17:05 2ª Ronda WTA 1000 Movistar+ 
@@ -1004,6 +1008,8 @@ http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-id="" group-title="30/07 Masters Canadá", 17:05 2ª Ronda ATP Masters 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=860dd021db341dbd02979eb8ea650d3f9d846765
 #EXTINF:-1 tvg-id="" group-title="30/07 Masters Canadá", 17:05 2ª Ronda ATP Masters 1000 Movistar+ 
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-id="" group-title="30/07 Masters Canadá", 17:05 2ª Ronda ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #EXTINF:-1 tvg-id="" group-title="30/07 Masters Canadá", 17:05 2ª Ronda ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
@@ -1119,6 +1125,8 @@ http://127.0.0.1:6878/ace/getstream?id=cd783ac5f4d902ec6a4f261a4849633df69c951f
 http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá", 17:05 2ª Ronda WTA 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=860dd021db341dbd02979eb8ea650d3f9d846765
+#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá", 17:05 2ª Ronda WTA 1000 Movistar+ 
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá", 17:05 2ª Ronda WTA 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá", 17:05 2ª Ronda WTA 1000 Movistar+ 
