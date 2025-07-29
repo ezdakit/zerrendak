@@ -436,12 +436,12 @@ acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEST
-acestream://0000000000000000000000000000000000000000
+acestream://0000000000000000000000000000000000000002
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TNT SPORTS HD
 acestream://5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: S SPORT 1 HD
 acestream://3f23e772f30c5f127609cbef8aa904219b63caef
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVG EUROPA HD
+#EXTINF:-1 tvg-id="TVG Europa HD" group-title="VARIOS", TVG EUROPA HD
 acestream://d48b299bbcd811cfd14159224bf5012a305021c1
 #EXTINF:-1 tvg-id="" group-title="VARIOS", UFC EVENTOS 1
 acestream://9efe41de7f5dcafc9395591feb959832e09683ff
