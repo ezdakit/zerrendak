@@ -239,10 +239,6 @@ http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="30/07 Tour de Francia Femenino", 15:15 Etapa 5 Chasseneuil-du-Poitou (Futuroscope) › Guéret (166 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 17:00 L. Samsonova vs N. Osaka Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 17:00 L. Samsonova vs N. Osaka Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="30/07 FIBA Women's AfroBasket", 17:00 Egipto vs Sudán del Sur DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="30/07 FIBA Women's AfroBasket", 17:00 Egipto vs Sudán del Sur DAZN FHD
@@ -345,13 +341,13 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="30/07 FIBA Women's AfroBasket", 17:00 Egipto vs Sudán del Sur DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 18:30 H. Guo vs I. Swiatek Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 17:10 L. Samsonova vs N. Osaka Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 18:30 H. Guo vs I. Swiatek Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 17:10 L. Samsonova vs N. Osaka Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 20:00 M. Sakkari vs J. Pegula Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 20:00 H. Guo vs I. Swiatek Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 20:00 M. Sakkari vs J. Pegula Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 20:00 H. Guo vs I. Swiatek Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="30/07 FIBA Women's AfroBasket", 20:00 Senegal vs Ruanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
@@ -455,6 +451,10 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="30/07 FIBA Women's AfroBasket", 20:00 Senegal vs Ruanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 21:35 M. Sakkari vs J. Pegula Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="30/07 WTA Canadá 2ª Ronda", 21:35 M. Sakkari vs J. Pegula Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="30/07 FIBA Women's AfroBasket", 23:00 Camerún vs Angola DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="30/07 FIBA Women's AfroBasket", 23:00 Camerún vs Angola DAZN FHD
