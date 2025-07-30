@@ -125,6 +125,8 @@ plugin://script.module.horus?action=play&id=17b8bc4bf8e29547b0071c742e3d7da3bcbc
 plugin://script.module.horus?action=play&id=4416843c96b7f7a1bc55c476091a60fff0922bc7
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA CAMPEONES", L Campeones 03 HD
 plugin://script.module.horus?action=play&id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="LIGA CAMPEONES", L Campeones 04 HD
+plugin://script.module.horus?action=play&id=152169ce99e1fd27f2249c18384a121079cdef29
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="LIGA CAMPEONES", L Campeones 04 FHD
 plugin://script.module.horus?action=play&id=f1219582a3059e7fff2db22e69475c45cbc84356
 #EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="M+ COPA", M+ Copa del Rey HD
@@ -231,6 +233,8 @@ plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c
 plugin://script.module.horus?action=play&id=cc5ed178702605513cd18b4899c4be954d306cca
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
 plugin://script.module.horus?action=play&id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ARAGON TV HD
+plugin://script.module.horus?action=play&id=ba4597903f099695e7d6bcc5938f91cb0798006b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
 plugin://script.module.horus?action=play&id=610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS
@@ -439,6 +443,8 @@ plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4
 plugin://script.module.horus?action=play&id=3f23e772f30c5f127609cbef8aa904219b63caef
 #EXTINF:-1 tvg-id="TVG Europa HD" group-title="VARIOS", TVG EUROPA HD
 plugin://script.module.horus?action=play&id=d48b299bbcd811cfd14159224bf5012a305021c1
+#EXTINF:-1 tvg-id="" group-title="VARIOS", UFC 317 ESPN
+plugin://script.module.horus?action=play&id=f3fdef8de18c33683856c1eb9240f696f43f2e28
 #EXTINF:-1 tvg-id="" group-title="VARIOS", UFC EVENTOS 1
 plugin://script.module.horus?action=play&id=9efe41de7f5dcafc9395591feb959832e09683ff
 #EXTINF:-1 tvg-id="" group-title="VARIOS", UFC FIGHT PASS
