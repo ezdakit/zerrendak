@@ -103,6 +103,10 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="31/07 Premier League Summer Series", 00:30 West Ham vs Everton DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="31/07 WTA Canadá 2ª Ronda", 01:15 B. Bencic vs E. Bouchard Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="31/07 WTA Canadá 2ª Ronda", 01:15 B. Bencic vs E. Bouchard Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="31/07 Premier League Summer Series", 03:30 Manchester Utd. vs Bournemouth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="31/07 Premier League Summer Series", 03:30 Manchester Utd. vs Bournemouth DAZN FHD
@@ -209,6 +213,10 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="31/07 Campeonato del Mundo", 04:00 Sesión Matinal Singapur 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="31/07 WTA Canadá 2ª Ronda", 04:00 K. Rakhimova vs E. Svitolina Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="31/07 WTA Canadá 2ª Ronda", 04:00 K. Rakhimova vs E. Svitolina Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="31/07 WRC Rally", 08:00 Rally de Finlandia Shakedown › SS1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="31/07 WRC Rally", 08:00 Rally de Finlandia Shakedown › SS1 DAZN FHD
@@ -439,6 +447,22 @@ http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="31/07 Tour de Francia Femenino", 15:15 Etapa 6 Clermont-Ferrand › Ambert (124 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-id="" group-title="31/07 WTA Canadá 3ª Ronda", 18:30 M. Kostyuk vs D. Kasatkina Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="31/07 WTA Canadá 3ª Ronda", 18:30 M. Kostyuk vs D. Kasatkina Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="31/07 WTA Canadá 3ª Ronda", 20:00 C. Gauff vs V. Kudermetova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="31/07 WTA Canadá 3ª Ronda", 20:00 C. Gauff vs V. Kudermetova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="01/08 WTA Canadá 3ª Ronda", 00:00 J. Bouzas vs A. Ito Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="01/08 WTA Canadá 3ª Ronda", 00:00 J. Bouzas vs A. Ito Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="01/08 WTA Canadá 3ª Ronda", 01:00 V. Mboko vs M. Bouzkova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="01/08 WTA Canadá 3ª Ronda", 01:00 V. Mboko vs M. Bouzkova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="01/08 NFL Pretemporada Hall of Fame Game", 02:00 Los Angeles Chargers vs Detroit Lions DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-id="" group-title="01/08 NFL Pretemporada Hall of Fame Game", 02:00 Los Angeles Chargers vs Detroit Lions DAZN FHD
@@ -541,6 +565,10 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="01/08 NFL Pretemporada Hall of Fame Game", 02:00 Los Angeles Chargers vs Detroit Lions DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="01/08 WTA Canadá 3ª Ronda", 02:30 E. Rybakina vs J. Cristian Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="01/08 WTA Canadá 3ª Ronda", 02:30 E. Rybakina vs J. Cristian Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="01/08 Campeonato del Mundo", 04:00 Sesión Matinal Singapur 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="01/08 Campeonato del Mundo", 04:00 Sesión Matinal Singapur 2025 Teledeporte FHD
@@ -2611,6 +2639,14 @@ http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="" group-title="02/08 Tarragona Open", 17:00 Semifinal Masculina Premier Padel Tour Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
+#EXTINF:-1 tvg-id="" group-title="02/08 WTA Canadá", 19:00 1/8 de final WTA 1000 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="02/08 WTA Canadá", 19:00 1/8 de final WTA 1000 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="02/08 Tarragona Open", 19:00 Semifinal Masculina Premier Padel Tour Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="02/08 Tarragona Open", 19:00 Semifinal Masculina Premier Padel Tour Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="02/08 Campeonato de España", 19:30 Sesión Vespertina Tarragona (Cataluña) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="02/08 Campeonato de España", 19:30 Sesión Vespertina Tarragona (Cataluña) Teledeporte FHD
