@@ -51,6 +51,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-31,00:30-West Ham-Everton,00:30,Premier League Summer Series,West Ham vs Everton,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-07-31,00:30-West Ham-Everton,00:30,Premier League Summer Series,West Ham vs Everton,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-07-31,01:15-B. Bencic-E. Bouchard,01:15,WTA Canadá 2ª Ronda,B. Bencic vs E. Bouchard,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-31,01:15-B. Bencic-E. Bouchard,01:15,WTA Canadá 2ª Ronda,B. Bencic vs E. Bouchard,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-31,03:30-Manchester Utd.-Bournemouth,03:30,Premier League Summer Series,Manchester Utd. vs Bournemouth,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-07-31,03:30-Manchester Utd.-Bournemouth,03:30,Premier League Summer Series,Manchester Utd. vs Bournemouth,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
 2025-07-31,03:30-Manchester Utd.-Bournemouth,03:30,Premier League Summer Series,Manchester Utd. vs Bournemouth,DAZN,4e70d4f61c0854d89f34b5bedfe851e33a515d95,FHD
@@ -105,6 +106,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-31,04:00-Sesión Matinal Singapur 2025,04:00,Campeonato del Mundo,Sesión Matinal Singapur 2025,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-07-31,04:00-Sesión Matinal Singapur 2025,04:00,Campeonato del Mundo,Sesión Matinal Singapur 2025,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-07-31,04:00-K. Rakhimova-E. Svitolina,04:00,WTA Canadá 2ª Ronda,K. Rakhimova vs E. Svitolina,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-31,04:00-K. Rakhimova-E. Svitolina,04:00,WTA Canadá 2ª Ronda,K. Rakhimova vs E. Svitolina,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-31,08:00-Rally de Finlandia Shakedown › SS1,08:00,WRC Rally,Rally de Finlandia Shakedown › SS1,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-07-31,08:00-Rally de Finlandia Shakedown › SS1,08:00,WRC Rally,Rally de Finlandia Shakedown › SS1,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
 2025-07-31,08:00-Rally de Finlandia Shakedown › SS1,08:00,WRC Rally,Rally de Finlandia Shakedown › SS1,DAZN,4e70d4f61c0854d89f34b5bedfe851e33a515d95,FHD
@@ -221,9 +223,13 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-07-31,15:15-Etapa 6 Clermont-Ferrand › Ambert (124 km),15:15,Tour de Francia Femenino,Etapa 6 Clermont-Ferrand › Ambert (124 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-07-31,15:15-Etapa 6 Clermont-Ferrand › Ambert (124 km),15:15,Tour de Francia Femenino,Etapa 6 Clermont-Ferrand › Ambert (124 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-07-31,18:30-M. Kostyuk-D. Kasatkina,18:30,WTA Canadá 3ª Ronda,M. Kostyuk vs D. Kasatkina,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-31,18:30-M. Kostyuk-D. Kasatkina,18:30,WTA Canadá 3ª Ronda,M. Kostyuk vs D. Kasatkina,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-07-31,20:00-C. Gauff-V. Kudermetova,20:00,WTA Canadá 3ª Ronda,C. Gauff vs V. Kudermetova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-07-31,20:00-C. Gauff-V. Kudermetova,20:00,WTA Canadá 3ª Ronda,C. Gauff vs V. Kudermetova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-01,00:00-J. Bouzas-A. Ito,00:00,WTA Canadá 3ª Ronda,J. Bouzas vs A. Ito,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-01,00:00-J. Bouzas-A. Ito,00:00,WTA Canadá 3ª Ronda,J. Bouzas vs A. Ito,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-01,01:00-V. Mboko-M. Bouzkova,01:00,WTA Canadá 3ª Ronda,V. Mboko vs M. Bouzkova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-01,01:00-V. Mboko-M. Bouzkova,01:00,WTA Canadá 3ª Ronda,V. Mboko vs M. Bouzkova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-01,02:00-Los Angeles Chargers-Detroit Lions,02:00,NFL Pretemporada Hall of Fame Game,Los Angeles Chargers vs Detroit Lions,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-08-01,02:00-Los Angeles Chargers-Detroit Lions,02:00,NFL Pretemporada Hall of Fame Game,Los Angeles Chargers vs Detroit Lions,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
 2025-08-01,02:00-Los Angeles Chargers-Detroit Lions,02:00,NFL Pretemporada Hall of Fame Game,Los Angeles Chargers vs Detroit Lions,DAZN,4e70d4f61c0854d89f34b5bedfe851e33a515d95,FHD
@@ -276,6 +282,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-01,02:00-Los Angeles Chargers-Detroit Lions,02:00,NFL Pretemporada Hall of Fame Game,Los Angeles Chargers vs Detroit Lions,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-08-01,02:00-Los Angeles Chargers-Detroit Lions,02:00,NFL Pretemporada Hall of Fame Game,Los Angeles Chargers vs Detroit Lions,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-08-01,02:30-E. Rybakina-J. Cristian,02:30,WTA Canadá 3ª Ronda,E. Rybakina vs J. Cristian,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-01,02:30-E. Rybakina-J. Cristian,02:30,WTA Canadá 3ª Ronda,E. Rybakina vs J. Cristian,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-01,04:00-Sesión Matinal Singapur 2025,04:00,Campeonato del Mundo,Sesión Matinal Singapur 2025,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-08-01,04:00-Sesión Matinal Singapur 2025,04:00,Campeonato del Mundo,Sesión Matinal Singapur 2025,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-08-01,07:03-Rally de Finlandia SS2 › SS10,07:03,WRC Rally,Rally de Finlandia SS2 › SS10,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
@@ -1312,6 +1319,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-02,17:00-Semifinal Masculina Premier Padel Tour,17:00,Tarragona Open,Semifinal Masculina Premier Padel Tour,Movistar+,d03c13b6723f66155d7a0df3692a3b073fe630f2,
 2025-08-02,17:00-Semifinal Masculina Premier Padel Tour,17:00,Tarragona Open,Semifinal Masculina Premier Padel Tour,Movistar+,12ba546d229bc39f01c3c18988a034b215fe6adb,
 2025-08-02,19:00-1/8 de final WTA 1000,19:00,WTA Canadá,1/8 de final WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-02,19:00-1/8 de final WTA 1000,19:00,WTA Canadá,1/8 de final WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-02,19:00-Semifinal Masculina Premier Padel Tour,19:00,Tarragona Open,Semifinal Masculina Premier Padel Tour,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-02,19:00-Semifinal Masculina Premier Padel Tour,19:00,Tarragona Open,Semifinal Masculina Premier Padel Tour,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-02,19:30-Sesión Vespertina Tarragona (Cataluña),19:30,Campeonato de España,Sesión Vespertina Tarragona (Cataluña),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-08-02,19:30-Sesión Vespertina Tarragona (Cataluña),19:30,Campeonato de España,Sesión Vespertina Tarragona (Cataluña),Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
