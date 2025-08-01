@@ -1,5 +1,7 @@
 date,event_id,time,competition,match,group,acestream_id,quality
+2025-08-01,00:10-J. Bouzas-A. Ito,00:10,WTA Canadá 3ª Ronda,J. Bouzas vs A. Ito,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-01,00:10-J. Bouzas-A. Ito,00:10,WTA Canadá 3ª Ronda,J. Bouzas vs A. Ito,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-01,01:10-V. Mboko-M. Bouzkova,01:10,WTA Canadá 3ª Ronda,V. Mboko vs M. Bouzkova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-01,01:10-V. Mboko-M. Bouzkova,01:10,WTA Canadá 3ª Ronda,V. Mboko vs M. Bouzkova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-01,02:00-Los Angeles Chargers-Detroit Lions,02:00,NFL Pretemporada Hall of Fame Game,Los Angeles Chargers vs Detroit Lions,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-08-01,02:00-Los Angeles Chargers-Detroit Lions,02:00,NFL Pretemporada Hall of Fame Game,Los Angeles Chargers vs Detroit Lions,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
@@ -52,6 +54,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-01,02:00-Los Angeles Chargers-Detroit Lions,02:00,NFL Pretemporada Hall of Fame Game,Los Angeles Chargers vs Detroit Lions,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-01,02:00-Los Angeles Chargers-Detroit Lions,02:00,NFL Pretemporada Hall of Fame Game,Los Angeles Chargers vs Detroit Lions,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-08-01,02:00-Los Angeles Chargers-Detroit Lions,02:00,NFL Pretemporada Hall of Fame Game,Los Angeles Chargers vs Detroit Lions,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-08-01,03:30-E. Rybakina-J. Cristian,03:30,WTA Canadá 3ª Ronda,E. Rybakina vs J. Cristian,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-01,03:30-E. Rybakina-J. Cristian,03:30,WTA Canadá 3ª Ronda,E. Rybakina vs J. Cristian,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-01,04:00-Sesión Matinal Singapur 2025,04:00,Campeonato del Mundo,Sesión Matinal Singapur 2025,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-08-01,04:00-Sesión Matinal Singapur 2025,04:00,Campeonato del Mundo,Sesión Matinal Singapur 2025,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
@@ -367,9 +370,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-01,17:00-G.P. Hungría (Hungaroring) Libres 2,17:00,Fórmula 1,G.P. Hungría (Hungaroring) Libres 2,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-01,17:00-G.P. Hungría (Hungaroring) Libres 2,17:00,Fórmula 1,G.P. Hungría (Hungaroring) Libres 2,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-08-01,17:00-G.P. Hungría (Hungaroring) Libres 2,17:00,Fórmula 1,G.P. Hungría (Hungaroring) Libres 2,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-08-01,18:30-N. Osaka-J. Ostapenko,18:30,WTA Canadá 3ª Ronda,N. Osaka vs J. Ostapenko,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-01,18:30-N. Osaka-J. Ostapenko,18:30,WTA Canadá 3ª Ronda,N. Osaka vs J. Ostapenko,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-01,19:30-Sesión Vespertina Tarragona (Cataluña),19:30,Campeonato de España,Sesión Vespertina Tarragona (Cataluña),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-08-01,19:30-Sesión Vespertina Tarragona (Cataluña),19:30,Campeonato de España,Sesión Vespertina Tarragona (Cataluña),Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
+2025-08-01,20:00-A. Sevastova-J. Pegula,20:00,WTA Canadá 3ª Ronda,A. Sevastova vs J. Pegula,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-01,20:00-A. Sevastova-J. Pegula,20:00,WTA Canadá 3ª Ronda,A. Sevastova vs J. Pegula,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-01,20:30-Schalke 04-Hertha Berlin,20:30,2. Bundesliga,Schalke 04 vs Hertha Berlin,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-08-01,20:30-Schalke 04-Hertha Berlin,20:30,2. Bundesliga,Schalke 04 vs Hertha Berlin,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
@@ -473,7 +478,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-01,20:45-Mechelen-Club Brugge,20:45,Jupiler Pro League,Mechelen vs Club Brugge,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-01,20:45-Mechelen-Club Brugge,20:45,Jupiler Pro League,Mechelen vs Club Brugge,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-08-01,20:45-Mechelen-Club Brugge,20:45,Jupiler Pro League,Mechelen vs Club Brugge,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-08-02,01:00-E. Lys-I. Swiatek,01:00,WTA Canadá 3ª Ronda,E. Lys vs I. Swiatek,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-02,01:00-E. Lys-I. Swiatek,01:00,WTA Canadá 3ª Ronda,E. Lys vs I. Swiatek,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-02,02:30-A. Anisimova-E. Raducanu,02:30,WTA Canadá 3ª Ronda,A. Anisimova vs E. Raducanu,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-02,02:30-A. Anisimova-E. Raducanu,02:30,WTA Canadá 3ª Ronda,A. Anisimova vs E. Raducanu,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-02,07:01-Rally de Finlandia SS11 › SS18,07:01,WRC Rally,Rally de Finlandia SS11 › SS18,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
 2025-08-02,07:01-Rally de Finlandia SS11 › SS18,07:01,WRC Rally,Rally de Finlandia SS11 › SS18,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
@@ -687,8 +694,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-02,13:30-Semifinal 2 ITF W100,13:30,ITF Torneo de Maspalomas,Semifinal 2 ITF W100,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-08-02,13:30-Semifinal 2 ITF W100,13:30,ITF Torneo de Maspalomas,Semifinal 2 ITF W100,Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
 2025-08-02,13:30-Semifinal 2 ITF W100,13:30,ITF Torneo de Maspalomas,Semifinal 2 ITF W100,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
-2025-08-02,13:30-Semifinal 2 ITF W100,13:30,ITF Torneo de Maspalomas,Semifinal 2 ITF W100,Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-08-02,13:30-Semifinal 2 ITF W100,13:30,ITF Torneo de Maspalomas,Semifinal 2 ITF W100,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
+2025-08-02,13:30-Semifinal 2 ITF W100,13:30,ITF Torneo de Maspalomas,Semifinal 2 ITF W100,Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-08-02,13:30-Semifinal 2 ITF W100,13:30,ITF Torneo de Maspalomas,Semifinal 2 ITF W100,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-08-02,13:30-Semifinal 2 ITF W100,13:30,ITF Torneo de Maspalomas,Semifinal 2 ITF W100,Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-08-02,13:30-Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),13:30,Tour de Francia Femenino,Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
@@ -748,8 +755,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-02,13:30-Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),13:30,Tour de Francia Femenino,Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-08-02,13:30-Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),13:30,Tour de Francia Femenino,Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
 2025-08-02,13:30-Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),13:30,Tour de Francia Femenino,Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
-2025-08-02,13:30-Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),13:30,Tour de Francia Femenino,Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-08-02,13:30-Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),13:30,Tour de Francia Femenino,Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
+2025-08-02,13:30-Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),13:30,Tour de Francia Femenino,Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-08-02,13:30-Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),13:30,Tour de Francia Femenino,Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-08-02,13:30-Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),13:30,Tour de Francia Femenino,Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-08-02,14:15-G.P. Hungría (Hungaroring) Carrera 1,14:15,FIA Fórmula 2,G.P. Hungría (Hungaroring) Carrera 1,DAZN,7e1523ccfaac00800e67bd0b97c428810104b2b8,
@@ -914,7 +921,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-02,17:05-1/8 de final ATP Masters 1000,17:05,Masters Canadá,1/8 de final ATP Masters 1000,Movistar+,56ac8e227d526e722624675ccdd91b0cc850582f,
 2025-08-02,17:05-1/8 de final ATP Masters 1000,17:05,Masters Canadá,1/8 de final ATP Masters 1000,Movistar+,d03c13b6723f66155d7a0df3692a3b073fe630f2,
 2025-08-02,17:05-1/8 de final ATP Masters 1000,17:05,Masters Canadá,1/8 de final ATP Masters 1000,Movistar+,12ba546d229bc39f01c3c18988a034b215fe6adb,
+2025-08-02,19:00-1/8 de final WTA 1000,19:00,WTA Canadá,1/8 de final WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-02,19:00-1/8 de final WTA 1000,19:00,WTA Canadá,1/8 de final WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-02,19:00-Semifinal Masculina Premier Padel Tour,19:00,Tarragona Open,Semifinal Masculina Premier Padel Tour,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-02,19:00-Semifinal Masculina Premier Padel Tour,19:00,Tarragona Open,Semifinal Masculina Premier Padel Tour,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-02,19:30-Sesión Vespertina Tarragona (Cataluña),19:30,Campeonato de España,Sesión Vespertina Tarragona (Cataluña),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-08-02,19:30-Sesión Vespertina Tarragona (Cataluña),19:30,Campeonato de España,Sesión Vespertina Tarragona (Cataluña),Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
@@ -1441,8 +1450,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-03,17:05-1/8 de final ATP Masters 1000,17:05,Masters Canadá,1/8 de final ATP Masters 1000,Movistar+,56ac8e227d526e722624675ccdd91b0cc850582f,
 2025-08-03,17:05-1/8 de final ATP Masters 1000,17:05,Masters Canadá,1/8 de final ATP Masters 1000,Movistar+,d03c13b6723f66155d7a0df3692a3b073fe630f2,
 2025-08-03,17:05-1/8 de final ATP Masters 1000,17:05,Masters Canadá,1/8 de final ATP Masters 1000,Movistar+,12ba546d229bc39f01c3c18988a034b215fe6adb,
+2025-08-03,19:00-1/8 de final WTA 1000,19:00,WTA Canadá,1/8 de final WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-03,19:00-1/8 de final WTA 1000,19:00,WTA Canadá,1/8 de final WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-03,19:00-Final ITF W100,19:00,ITF Torneo de Maspalomas,Final ITF W100,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-03,19:00-Final ITF W100,19:00,ITF Torneo de Maspalomas,Final ITF W100,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-03,19:00-Final Masculina Premier Padel Tour,19:00,Tarragona Open,Final Masculina Premier Padel Tour,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-03,19:00-Final Masculina Premier Padel Tour,19:00,Tarragona Open,Final Masculina Premier Padel Tour,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-03,19:30-Sesión Vespertina Tarragona (Cataluña),19:30,Campeonato de España,Sesión Vespertina Tarragona (Cataluña),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-08-03,19:30-Sesión Vespertina Tarragona (Cataluña),19:30,Campeonato de España,Sesión Vespertina Tarragona (Cataluña),Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
