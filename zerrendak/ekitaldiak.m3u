@@ -1798,6 +1798,8 @@ http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-id="" group-title="02/08 Masters Canadá", 17:05 1/8 de final ATP Masters 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=860dd021db341dbd02979eb8ea650d3f9d846765
 #EXTINF:-1 tvg-id="" group-title="02/08 Masters Canadá", 17:05 1/8 de final ATP Masters 1000 Movistar+ 
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-id="" group-title="02/08 Masters Canadá", 17:05 1/8 de final ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #EXTINF:-1 tvg-id="" group-title="02/08 Masters Canadá", 17:05 1/8 de final ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
@@ -2849,6 +2851,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1db428fd7902aac1e508bfc9e6cf254521b25f4
 http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-id="" group-title="03/08 Masters Canadá", 17:05 1/8 de final ATP Masters 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=860dd021db341dbd02979eb8ea650d3f9d846765
+#EXTINF:-1 tvg-id="" group-title="03/08 Masters Canadá", 17:05 1/8 de final ATP Masters 1000 Movistar+ 
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="" group-title="03/08 Masters Canadá", 17:05 1/8 de final ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
 #EXTINF:-1 tvg-id="" group-title="03/08 Masters Canadá", 17:05 1/8 de final ATP Masters 1000 Movistar+ 
