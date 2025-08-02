@@ -75,8 +75,6 @@ acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
 acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
-acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 FHD
 acestream://51b363b1c4d42724e05240ad068ad219df8042ec
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 HD
@@ -85,6 +83,8 @@ acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" group-title="LALIGA", M+ LaLiga TV 3 HD
 acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" group-title="LALIGA", M+ LaLiga TV 4 HD
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
 acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
@@ -235,231 +235,233 @@ acestream://0f32c0131a2d9444996410801f4e18b04384db98
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="PT | DAZN 6" group-title="VARIOS", ELEVEN DAZN 6 HD
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="24 Horas" group-title="VARIOS", 24 HORAS HD
+#EXTINF:-1 tvg-id="24 Horas" group-title="VARIOS", 24 HORAS HD 6CCA
 acestream://cc5ed178702605513cd18b4899c4be954d306cca
-#EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD
+#EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD 8496
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
-#EXTINF:-1 tvg-id="Aragn TV" group-title="VARIOS", ARAGON TV HD
+#EXTINF:-1 tvg-id="Aragn TV" group-title="VARIOS", ARAGON TV HD 006B
 acestream://ba4597903f099695e7d6bcc5938f91cb0798006b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD
+#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD F54C
 acestream://610993aea3a2bfd509594334b7461ce96900f54c
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS  68F9
 acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
-#EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1
+#EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD 6659
 acestream://eb882a774ddf9f4cf83f3d50fc9a8d3c629f6659
-#EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2
+#EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-id="FR | beIN SPORTS 3" group-title="VARIOS", BEIN SPORTS 3
+#EXTINF:-1 tvg-id="FR | beIN SPORTS 3" group-title="VARIOS", BEIN SPORTS 3 2CF8
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK]
-acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK]
-acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK]
+#EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 3C5B
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK]
+#EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 9BCE
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 9BCE
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK] A801
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK]
+#EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK] 2033
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 1" group-title="VARIOS", BUNDESLIGA 1 FHD
+#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 1" group-title="VARIOS", BUNDESLIGA 1 FHD 20DB
 acestream://cb18d080d81f7fccf26b7723ce6a5d86d31220db
-#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 2" group-title="VARIOS", BUNDESLIGA 2 FHD
+#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 2" group-title="VARIOS", BUNDESLIGA 2 FHD C918
 acestream://d4f56cda0a15f47e7820daaac8e37b4d67d9c918
-#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 3" group-title="VARIOS", BUNDESLIGA 3 FHD
+#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 3" group-title="VARIOS", BUNDESLIGA 3 FHD 9564
 acestream://692d6a47ba99fbfc67fa947e468e859c7f2b9564
-#EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD
+#EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD 849B
 acestream://96f092e1fa99062f6da14cae230b877ad3ed849b
-#EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD
+#EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD FBB3
 acestream://db81615f1b2eebaf584edc252ddd73883123fbb3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL EVENTOS UFC - FOXSPORTS PREMIUNMX
+#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL EVENTOS UFC - FOXSPORTS PREMIUNMX 6772
 acestream://04d8f9a91f551adb9cccbcdd478cffa5b24a6772
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR
+#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
 acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
-#EXTINF:-1 tvg-id="Caza y Pesca HD" group-title="VARIOS", CAZA Y PESCA FHD
+#EXTINF:-1 tvg-id="Caza y Pesca HD" group-title="VARIOS", CAZA Y PESCA FHD E10F
 acestream://6f28b1b9eb9f4047a6179b300e65b03c8316e10f
-#EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD
+#EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 0333
 acestream://8670df538a11c6ec97b3f634981ddc4409ca0333
-#EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD
+#EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 9A91
 acestream://18f63b299de66029e17dc35e12f6c244e1979a91
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1 8FB5
 acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 2
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 2 0267
 acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 3
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 3 447D
 acestream://4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 4K
-acestream://f89fed8eef7b31ef3bff186ef64987343e0c08f9
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD
-acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD
-acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD
-acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD
-acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 4K F66D
+acestream://c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 7494
 acestream://515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD
-acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD
-acestream://8b55a528c5cf9f1acd11d942472bdd60926db8ae
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 9A69
+acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD A553
+acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD A924
 acestream://eb3e12408fb7463b4fafe354380f2adf483ea924
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD B790
+acestream://d27584ebe5128c8033cb6fdc806a994fbd17b790
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD B8AE
+acestream://8b55a528c5cf9f1acd11d942472bdd60926db8ae
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BB29
+acestream://6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BE55
+acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD F6D1
+acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD 1727
 acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="Decasa" group-title="VARIOS", DECASA FHD
+#EXTINF:-1 tvg-id="Decasa" group-title="VARIOS", DECASA FHD 9DC4
 acestream://4869e4c131cb3478cc375944c7cc68d1bb8e9dc4
-#EXTINF:-1 tvg-id="Discovery" group-title="VARIOS", DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="Discovery" group-title="VARIOS", DISCOVERY CHANNEL FHD 2266
 acestream://c2858a94d2045e5dbb14e99323e90afe4e872266
-#EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE]
+#EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE] 7E63
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-id="ESPN.4.nl" group-title="VARIOS", ESPN 4 [BE]
+#EXTINF:-1 tvg-id="ESPN.4.nl" group-title="VARIOS", ESPN 4 [BE] 687A
 acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
-#EXTINF:-1 tvg-id="ESPN" group-title="VARIOS", ESPN HD [US]
+#EXTINF:-1 tvg-id="ESPN" group-title="VARIOS", ESPN HD [US] F442
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 tvg-id="ESPN.1.nl" group-title="VARIOS", ESPN [BE]
+#EXTINF:-1 tvg-id="ESPN.1.nl" group-title="VARIOS", ESPN [BE] EDAB
 acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-#EXTINF:-1 tvg-id="ESPN 2" group-title="VARIOS", ESPN2 [US]
+#EXTINF:-1 tvg-id="ESPN 2" group-title="VARIOS", ESPN2 [US] 8394
 acestream://664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ESPORT 3 FHD
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ESPORT 3 FHD 5D64
 acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 1580
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 4D0E
 acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD
-acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD
-acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 6DF4
 acestream://0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 705D
+acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD F909
+acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 0A62
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 21D3
+acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD E78A
 acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 1551
 acestream://0585e09bb8ac9720e4c11934f1b184e309291551
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 1ECC
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 7031
 acestream://2773b39926d15dd3d9495d94c4050604792d7031
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 SD
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 SD A53F
 acestream://5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD
+#EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 4A3A
 acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-#EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD
+#EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 6175
 acestream://6ca8e5cb0d48f99f3e4bbd0d34eb4d26c13a6175
-#EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD
+#EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD F5A5
 acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
-#EXTINF:-1 tvg-id="La 2" group-title="VARIOS", LA 2 FHD
+#EXTINF:-1 tvg-id="La 2" group-title="VARIOS", LA 2 FHD 9AC5
 acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
-#EXTINF:-1 tvg-id="La Sexta HD" group-title="VARIOS", LA SEXTA FHD
+#EXTINF:-1 tvg-id="La Sexta HD" group-title="VARIOS", LA SEXTA FHD 7E31
 acestream://1c6486082949172d1ffd318db8fb965dd5af7e31
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD DF98
 acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
-#EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION
+#EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION F404
 acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
-#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD
+#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 59CE
 acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
-#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD
+#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD FC42
 acestream://93b2f5ede5cf2fa0cdb50419258c4f651aabfc42
-#EXTINF:-1 tvg-id="M+ Cine Espaol" group-title="VARIOS", MOVISTAR CINE ESPAOL FHD
+#EXTINF:-1 tvg-id="M+ Cine Espaol" group-title="VARIOS", MOVISTAR CINE ESPAOL FHD BD07
 acestream://168ad4a958aa6daa26adeee9700ed0312618bd07
-#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR CLASICOS FHD
+#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR CLASICOS FHD 0C0C
 acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c
-#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR CLASICOS FHD
+#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR CLASICOS FHD 5FD1
 acestream://095134586cd06e1488139842f1183b50b75f5fd1
-#EXTINF:-1 tvg-id="M+ Comedia HD" group-title="VARIOS", MOVISTAR COMEDIA FHD
+#EXTINF:-1 tvg-id="M+ Comedia HD" group-title="VARIOS", MOVISTAR COMEDIA FHD 798F
 acestream://124aa6d58fd72a763ed0349c874551bd2504798f
-#EXTINF:-1 tvg-id="M+ Documentales HD" group-title="VARIOS", MOVISTAR DOCUMENTALES FHD
+#EXTINF:-1 tvg-id="M+ Documentales HD" group-title="VARIOS", MOVISTAR DOCUMENTALES FHD E38B
 acestream://0ba40acc350bc1493cf576a125806bda86abe38b
-#EXTINF:-1 tvg-id="M+ Drama HD" group-title="VARIOS", MOVISTAR DRAMA FHD
+#EXTINF:-1 tvg-id="M+ Drama HD" group-title="VARIOS", MOVISTAR DRAMA FHD C983
 acestream://aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983
-#EXTINF:-1 tvg-id="M+ Estrenos HD" group-title="VARIOS", MOVISTAR ESTRENOS FHD
+#EXTINF:-1 tvg-id="M+ Estrenos HD" group-title="VARIOS", MOVISTAR ESTRENOS FHD 1D38
 acestream://b71478c824f787a6a696139db0d053de6fdd1d38
-#EXTINF:-1 tvg-id="M+ Golf 2 HD" group-title="VARIOS", MOVISTAR GOLF 2 FHD
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" group-title="VARIOS", MOVISTAR GOLF 2 FHD E7D7
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
-#EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD
+#EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD 1031
 acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD
+#EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD 106F
 acestream://b3de2a3f2c178b9636c6a716768eee8c56ce106f
-#EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF HD
+#EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF HD 9AFB
 acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR HITS FHD
+#EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR HITS FHD 0695
 acestream://28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695
-#EXTINF:-1 tvg-id="M+ Indie HD" group-title="VARIOS", MOVISTAR INDIE FHD
+#EXTINF:-1 tvg-id="M+ Indie HD" group-title="VARIOS", MOVISTAR INDIE FHD A5AF
 acestream://4f35f115971f0b156baabb8efa9926b1eb8ba5af
-#EXTINF:-1 tvg-id="La Resistencia 24H" group-title="VARIOS", MOVISTAR LA RESISTENCIA FHD
+#EXTINF:-1 tvg-id="La Resistencia 24H" group-title="VARIOS", MOVISTAR LA RESISTENCIA FHD 47A7
 acestream://09b8bed9be1feadb4ef83e46d50dc51f763947a7
-#EXTINF:-1 tvg-id="M+ Originales HD" group-title="VARIOS", MOVISTAR ORIGINALES FHD
+#EXTINF:-1 tvg-id="M+ Originales HD" group-title="VARIOS", MOVISTAR ORIGINALES FHD 1C88
 acestream://60fcd59471ac4268e6cd6448f068a2b518841c88
-#EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR SERIES FHD
+#EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR SERIES FHD 891A
 acestream://2752dee68a7faa9c847216dc22a6821661db891a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR VACACIONES FHD
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR VACACIONES FHD A343
 acestream://a0f71ac4897b2ccdf0114b5b3b7877902376a343
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR WESTERN FHD
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR WESTERN FHD 6765
 acestream://860dd021db341dbd02979eb8ea650d3f9d846765
-#EXTINF:-1 tvg-id="National Geographic HD" group-title="VARIOS", NATIONAL GEOGRAPHIC FHD
-acestream://55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff
-#EXTINF:-1 tvg-id="National Geographic HD" group-title="VARIOS", NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="VARIOS", NATIONAL GEOGRAPHIC FHD 6D00
 acestream://51d0b5249e229a07ecc52286f56a67c3d9df6d00
-#EXTINF:-1 tvg-id="" group-title="VARIOS", NBA TV
+#EXTINF:-1 tvg-id="National Geographic HD" group-title="VARIOS", NATIONAL GEOGRAPHIC FHD DFFF
+acestream://55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff
+#EXTINF:-1 tvg-id="" group-title="VARIOS", NBA TV 072B
 acestream://7acefb808a6c67d95e977b452d53070947bd072b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ONETORO (SOLO EVENTOS)--> NEW ERA III
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ONETORO (SOLO EVENTOS) 7312
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO FHD
+#EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO FHD 43C0
 acestream://1fd3dbb7d39de875ac70059d70c8768d4a2e43c0
-#EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1
+#EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1 3565
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2
+#EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2 9537
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-id="DE | Rally TV" group-title="VARIOS", RALLY TV
+#EXTINF:-1 tvg-id="DE | Rally TV" group-title="VARIOS", RALLY TV B2EA
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR BFF3
 acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
-#EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA
+#EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA B79C
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET
+#EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET 3DDD
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-id="UK | Sky Sport Football" group-title="VARIOS", SKY SPORTS FOOTBALL
+#EXTINF:-1 tvg-id="UK | Sky Sport Football" group-title="VARIOS", SKY SPORTS FOOTBALL B26D
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-id="UK | Sky Sport Main Event" group-title="VARIOS", SKY SPORTS MAIN EVENT
+#EXTINF:-1 tvg-id="UK | Sky Sport Main Event" group-title="VARIOS", SKY SPORTS MAIN EVENT DF5E
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD 30EE
 acestream://b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD
+#EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD 76F5
 acestream://3d376333ee90d6db3d413fc5764ef635882076f5
-#EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD
+#EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD F75B
 acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b
-#EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD
+#EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD F7BF
 acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
-#EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
+#EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD 0230
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD
+#EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD D9EF
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TEST
-acestream://0000000000000000000000000000000000000000
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TNT SPORTS HD
+#EXTINF:-1 tvg-id="" group-title="VARIOS", TEST 0001
+acestream://000000000000000000000000000000000000001
+#EXTINF:-1 tvg-id="" group-title="VARIOS", TNT SPORTS HD 965E
 acestream://5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TR: S SPORT 1 HD
+#EXTINF:-1 tvg-id="" group-title="VARIOS", TR: S SPORT 1 HD CAEF
 acestream://3f23e772f30c5f127609cbef8aa904219b63caef
-#EXTINF:-1 tvg-id="TVG Europa HD" group-title="VARIOS", TVG EUROPA HD
+#EXTINF:-1 tvg-id="TVG Europa HD" group-title="VARIOS", TVG EUROPA HD 21C1
 acestream://d48b299bbcd811cfd14159224bf5012a305021c1
-#EXTINF:-1 tvg-id="" group-title="VARIOS", UFC 317 ESPN
+#EXTINF:-1 tvg-id="" group-title="VARIOS", UFC 317 ESPN 2E28
 acestream://f3fdef8de18c33683856c1eb9240f696f43f2e28
-#EXTINF:-1 tvg-id="" group-title="VARIOS", UFC EVENTOS 1
+#EXTINF:-1 tvg-id="" group-title="VARIOS", UFC EVENTOS 1 83FF
 acestream://9efe41de7f5dcafc9395591feb959832e09683ff
-#EXTINF:-1 tvg-id="" group-title="VARIOS", UFC FIGHT PASS
+#EXTINF:-1 tvg-id="" group-title="VARIOS", UFC FIGHT PASS 7139
 acestream://0ce88d9e7273fddbc9b49f578b6b255513697139
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="VARIOS", ZIGGO SPORT
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="VARIOS", ZIGGO SPORT 0058
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="VARIOS", ZIGGO SPORT 2
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="VARIOS", ZIGGO SPORT 2 9027
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" group-title="VARIOS", ZIGGO SPORT 6
+#EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" group-title="VARIOS", ZIGGO SPORT 6 16ED
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
