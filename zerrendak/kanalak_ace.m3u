@@ -273,7 +273,7 @@ acestream://692d6a47ba99fbfc67fa947e468e859c7f2b9564
 acestream://96f092e1fa99062f6da14cae230b877ad3ed849b
 #EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD FBB3
 acestream://db81615f1b2eebaf584edc252ddd73883123fbb3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL EVENTOS UFC - FOXSPORTS PREMIUNMX 6772
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", CANAL EVENTOS UFC - FOXSPORTS PREMIUNMX 6772
 acestream://04d8f9a91f551adb9cccbcdd478cffa5b24a6772
 #EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
 acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
@@ -289,8 +289,6 @@ acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5
 acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 3 447D
 acestream://4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 4K F66D
-acestream://c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 7494
 acestream://515efd8115482bda8d92aa6df9a882a5e5797494
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 9A69
@@ -445,8 +443,8 @@ acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TEST 0001
-acestream://000000000000000000000000000000000000001
+#EXTINF:-1 tvg-id="" group-title="VARIOS", TEST 0002
+acestream://000000000000000000000000000000000000002
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TNT SPORTS HD 965E
 acestream://5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: S SPORT 1 HD CAEF
