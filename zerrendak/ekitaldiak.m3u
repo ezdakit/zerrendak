@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="02/08 WTA Canadá 3ª Ronda", 01:00 E. Lys vs I. Swiatek Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="02/08 WTA Canadá 3ª Ronda", 01:10 E. Lys vs I. Swiatek Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="02/08 WTA Canadá 3ª Ronda", 02:30 A. Anisimova vs E. Raducanu Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="02/08 WTA Canadá 3ª Ronda", 02:45 A. Anisimova vs E. Raducanu Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="02/08 WRC Rally", 07:01 Rally de Finlandia SS11 › SS18 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="02/08 WRC Rally", 07:01 Rally de Finlandia SS11 › SS18 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="02/08 WRC Rally", 07:01 Rally de Finlandia SS11 › SS18 DAZN FHD
@@ -45,8 +45,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="02/08 WRC Rally", 07:01 Rally de Finlandia SS11 › SS18 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="02/08 WRC Rally", 07:01 Rally de Finlandia SS11 › SS18 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="02/08 WRC Rally", 07:01 Rally de Finlandia SS11 › SS18 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="02/08 WRC Rally", 07:01 Rally de Finlandia SS11 › SS18 DAZN FHD
@@ -112,7 +110,7 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="02/08 Campeonato de España", 09:30 Sesión Matinal Tarragona (Cataluña) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 3", 10:05 G.P. Hungría (Hungaroring) Carrera 1 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 3", 10:05 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 3", 10:05 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
@@ -151,8 +149,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 3", 10:05 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 3", 10:05 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 3", 10:05 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 3", 10:05 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
@@ -214,7 +210,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 3", 10:05 G.P. Hungría (Hungaroring) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 12:30 G.P. Hungría (Hungaroring) Libres 3 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 12:30 G.P. Hungría (Hungaroring) Libres 3 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 12:30 G.P. Hungría (Hungaroring) Libres 3 DAZN FHD
@@ -253,8 +249,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 12:30 G.P. Hungría (Hungaroring) Libres 3 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 12:30 G.P. Hungría (Hungaroring) Libres 3 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 12:30 G.P. Hungría (Hungaroring) Libres 3 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 12:30 G.P. Hungría (Hungaroring) Libres 3 DAZN FHD
@@ -316,7 +310,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 12:30 G.P. Hungría (Hungaroring) Libres 3 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="02/08 Tour de Francia Femenino", 13:30 Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="02/08 Tour de Francia Femenino", 13:30 Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="02/08 Tour de Francia Femenino", 13:30 Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km) DAZN FHD
@@ -355,8 +349,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="02/08 Tour de Francia Femenino", 13:30 Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="02/08 Tour de Francia Femenino", 13:30 Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="02/08 Tour de Francia Femenino", 13:30 Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="02/08 Tour de Francia Femenino", 13:30 Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km) DAZN FHD
@@ -438,7 +430,7 @@ http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="02/08 Tour de Francia Femenino", 13:30 Etapa 8 Chambéry › Saint-François Longchamp (Col de la Madeleine) (112 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 2", 14:15 G.P. Hungría (Hungaroring) Carrera 1 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 2", 14:15 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 2", 14:15 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
@@ -477,8 +469,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 2", 14:15 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 2", 14:15 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 2", 14:15 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 2", 14:15 G.P. Hungría (Hungaroring) Carrera 1 DAZN FHD
@@ -540,7 +530,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="02/08 FIA Fórmula 2", 14:15 G.P. Hungría (Hungaroring) Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 16:00 G.P. Hungría (Hungaroring) Clasificación DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 16:00 G.P. Hungría (Hungaroring) Clasificación DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 16:00 G.P. Hungría (Hungaroring) Clasificación DAZN FHD
@@ -579,8 +569,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 16:00 G.P. Hungría (Hungaroring) Clasificación DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 16:00 G.P. Hungría (Hungaroring) Clasificación DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 16:00 G.P. Hungría (Hungaroring) Clasificación DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="02/08 Fórmula 1", 16:00 G.P. Hungría (Hungaroring) Clasificación DAZN FHD
@@ -770,7 +758,7 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="02/08 Campeonato de España", 19:30 Sesión Vespertina Tarragona (Cataluña) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="03/08 Velada Peso Superligero", 02:00 O. Duarte vs K. Sims Jr. DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 Velada Peso Superligero", 02:00 O. Duarte vs K. Sims Jr. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 Velada Peso Superligero", 02:00 O. Duarte vs K. Sims Jr. DAZN FHD
@@ -809,8 +797,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 Velada Peso Superligero", 02:00 O. Duarte vs K. Sims Jr. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 Velada Peso Superligero", 02:00 O. Duarte vs K. Sims Jr. DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 Velada Peso Superligero", 02:00 O. Duarte vs K. Sims Jr. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 Velada Peso Superligero", 02:00 O. Duarte vs K. Sims Jr. DAZN FHD
@@ -872,7 +858,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 Velada Peso Superligero", 02:00 O. Duarte vs K. Sims Jr. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 3", 08:30 G.P. Hungría (Hungaroring) Carrera 2 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 3", 08:30 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 3", 08:30 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
@@ -911,8 +897,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 3", 08:30 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 3", 08:30 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 3", 08:30 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 3", 08:30 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
@@ -974,7 +958,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 3", 08:30 G.P. Hungría (Hungaroring) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="03/08 WRC Rally", 09:35 Rally de Finlandia SS19 › SS20 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 WRC Rally", 09:35 Rally de Finlandia SS19 › SS20 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 WRC Rally", 09:35 Rally de Finlandia SS19 › SS20 DAZN FHD
@@ -1013,8 +997,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 WRC Rally", 09:35 Rally de Finlandia SS19 › SS20 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 WRC Rally", 09:35 Rally de Finlandia SS19 › SS20 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 WRC Rally", 09:35 Rally de Finlandia SS19 › SS20 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 WRC Rally", 09:35 Rally de Finlandia SS19 › SS20 DAZN FHD
@@ -1076,7 +1058,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 WRC Rally", 09:35 Rally de Finlandia SS19 › SS20 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 2", 10:00 G.P. Hungría (Hungaroring) Carrera 2 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 2", 10:00 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 2", 10:00 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
@@ -1115,8 +1097,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 2", 10:00 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 2", 10:00 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 2", 10:00 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 2", 10:00 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
@@ -1182,7 +1162,7 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="03/08 Campeonato de España", 11:00 Sesión Matinal Tarragona (Cataluña) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="03/08 2. Bundesliga", 13:30 Hannover 96 vs Kaiserslautern DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 2. Bundesliga", 13:30 Hannover 96 vs Kaiserslautern DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 2. Bundesliga", 13:30 Hannover 96 vs Kaiserslautern DAZN FHD
@@ -1221,8 +1201,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 2. Bundesliga", 13:30 Hannover 96 vs Kaiserslautern DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 2. Bundesliga", 13:30 Hannover 96 vs Kaiserslautern DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 2. Bundesliga", 13:30 Hannover 96 vs Kaiserslautern DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 2. Bundesliga", 13:30 Hannover 96 vs Kaiserslautern DAZN FHD
@@ -1284,7 +1262,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 2. Bundesliga", 13:30 Hannover 96 vs Kaiserslautern DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 13:30 Genk vs Antwerp DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 13:30 Genk vs Antwerp DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 13:30 Genk vs Antwerp DAZN FHD
@@ -1323,8 +1301,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 13:30 Genk vs Antwerp DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 13:30 Genk vs Antwerp DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 13:30 Genk vs Antwerp DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 13:30 Genk vs Antwerp DAZN FHD
@@ -1390,7 +1366,7 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="03/08 Circuito de Getxo", 14:30 UCI Europe Tour Bilbao › Getxo (172.2 km) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="03/08 Fórmula 1", 15:00 G.P. Hungría (Hungaroring) Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 Fórmula 1", 15:00 G.P. Hungría (Hungaroring) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 Fórmula 1", 15:00 G.P. Hungría (Hungaroring) Carrera DAZN FHD
@@ -1429,8 +1405,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 Fórmula 1", 15:00 G.P. Hungría (Hungaroring) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 Fórmula 1", 15:00 G.P. Hungría (Hungaroring) Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 Fórmula 1", 15:00 G.P. Hungría (Hungaroring) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 Fórmula 1", 15:00 G.P. Hungría (Hungaroring) Carrera DAZN FHD
@@ -1492,7 +1466,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 Fórmula 1", 15:00 G.P. Hungría (Hungaroring) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="03/08 Tour de Francia Femenino", 15:00 Etapa 9 Praz-sur-Arly › Châtel Les Portes du Soleil (124 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 Tour de Francia Femenino", 15:00 Etapa 9 Praz-sur-Arly › Châtel Les Portes du Soleil (124 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 Tour de Francia Femenino", 15:00 Etapa 9 Praz-sur-Arly › Châtel Les Portes du Soleil (124 km) DAZN FHD
@@ -1531,8 +1505,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 Tour de Francia Femenino", 15:00 Etapa 9 Praz-sur-Arly › Châtel Les Portes du Soleil (124 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 Tour de Francia Femenino", 15:00 Etapa 9 Praz-sur-Arly › Châtel Les Portes du Soleil (124 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 Tour de Francia Femenino", 15:00 Etapa 9 Praz-sur-Arly › Châtel Les Portes du Soleil (124 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 Tour de Francia Femenino", 15:00 Etapa 9 Praz-sur-Arly › Châtel Les Portes du Soleil (124 km) DAZN FHD
@@ -1594,7 +1566,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 Tour de Francia Femenino", 15:00 Etapa 9 Praz-sur-Arly › Châtel Les Portes du Soleil (124 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 16:00 Cercle Brugge vs Anderlecht DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 16:00 Cercle Brugge vs Anderlecht DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 16:00 Cercle Brugge vs Anderlecht DAZN FHD
@@ -1633,8 +1605,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 16:00 Cercle Brugge vs Anderlecht DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 16:00 Cercle Brugge vs Anderlecht DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 16:00 Cercle Brugge vs Anderlecht DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 16:00 Cercle Brugge vs Anderlecht DAZN FHD
@@ -1826,7 +1796,7 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="03/08 Campeonato de España", 19:30 Sesión Vespertina Tarragona (Cataluña) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 20:00 Bournemouth vs West Ham DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 20:00 Bournemouth vs West Ham DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 20:00 Bournemouth vs West Ham DAZN FHD
@@ -1865,8 +1835,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 20:00 Bournemouth vs West Ham DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 20:00 Bournemouth vs West Ham DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 20:00 Bournemouth vs West Ham DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 20:00 Bournemouth vs West Ham DAZN FHD
@@ -1928,7 +1896,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 20:00 Bournemouth vs West Ham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="03/08 NASCAR Cup Series", 21:30 Iowa Speedway (Newton) Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 NASCAR Cup Series", 21:30 Iowa Speedway (Newton) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 NASCAR Cup Series", 21:30 Iowa Speedway (Newton) Carrera DAZN FHD
@@ -1967,8 +1935,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 NASCAR Cup Series", 21:30 Iowa Speedway (Newton) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 NASCAR Cup Series", 21:30 Iowa Speedway (Newton) Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 NASCAR Cup Series", 21:30 Iowa Speedway (Newton) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 NASCAR Cup Series", 21:30 Iowa Speedway (Newton) Carrera DAZN FHD
@@ -2030,7 +1996,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 NASCAR Cup Series", 21:30 Iowa Speedway (Newton) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 23:00 Manchester Utd. vs Everton DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 23:00 Manchester Utd. vs Everton DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 23:00 Manchester Utd. vs Everton DAZN FHD
@@ -2069,8 +2035,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 23:00 Manchester Utd. vs Everton DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 23:00 Manchester Utd. vs Everton DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 23:00 Manchester Utd. vs Everton DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 23:00 Manchester Utd. vs Everton DAZN FHD
@@ -2132,7 +2096,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 23:00 Manchester Utd. vs Everton DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="04/08 Tour de Polonia", 11:40 Etapa 1 Wroclaw › Legnica (199.7 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="04/08 Tour de Polonia", 11:40 Etapa 1 Wroclaw › Legnica (199.7 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="04/08 Tour de Polonia", 11:40 Etapa 1 Wroclaw › Legnica (199.7 km) DAZN FHD
@@ -2171,8 +2135,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="04/08 Tour de Polonia", 11:40 Etapa 1 Wroclaw › Legnica (199.7 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="04/08 Tour de Polonia", 11:40 Etapa 1 Wroclaw › Legnica (199.7 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="04/08 Tour de Polonia", 11:40 Etapa 1 Wroclaw › Legnica (199.7 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="04/08 Tour de Polonia", 11:40 Etapa 1 Wroclaw › Legnica (199.7 km) DAZN FHD
@@ -2372,7 +2334,7 @@ http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="" group-title="04/08 Masters Canadá", 17:05 1/4 de Final ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="" group-title="04/08 Amistoso", 21:00 Francia vs Montenegro DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="04/08 Amistoso", 21:00 Francia vs Montenegro DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="04/08 Amistoso", 21:00 Francia vs Montenegro DAZN FHD
@@ -2411,8 +2373,6 @@ http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="" group-title="04/08 Amistoso", 21:00 Francia vs Montenegro DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="04/08 Amistoso", 21:00 Francia vs Montenegro DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="" group-title="04/08 Amistoso", 21:00 Francia vs Montenegro DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="04/08 Amistoso", 21:00 Francia vs Montenegro DAZN FHD
