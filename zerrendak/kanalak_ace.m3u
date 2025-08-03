@@ -357,6 +357,8 @@ acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 acestream://1c6486082949172d1ffd318db8fb965dd5af7e31
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD DF98
 acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
+#EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION F404
+acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 59CE
 acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD FC42
@@ -435,8 +437,6 @@ acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD D9EF
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL ECBF
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEST 0002
@@ -453,8 +453,6 @@ acestream://f3fdef8de18c33683856c1eb9240f696f43f2e28
 acestream://9efe41de7f5dcafc9395591feb959832e09683ff
 #EXTINF:-1 tvg-id="" group-title="VARIOS", UFC FIGHT PASS 7139
 acestream://0ce88d9e7273fddbc9b49f578b6b255513697139
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="VARIOS", ZIGGO SPORT 0058
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="VARIOS", ZIGGO SPORT 2 9027
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" group-title="VARIOS", ZIGGO SPORT 6 16ED
