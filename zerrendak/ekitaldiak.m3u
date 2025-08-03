@@ -2,7 +2,7 @@
 #EXTVLCOPT:network-caching=2000
 
 #EXTINF:-1 tvg-id="" group-title="03/08 WTA Canadá 1/8 de final", 01:00 C. Gauff vs V. Mboko Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="03/08 Velada Peso Superligero", 02:00 O. Duarte vs K. Sims Jr. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 Velada Peso Superligero", 02:00 O. Duarte vs K. Sims Jr. DAZN FHD
@@ -104,7 +104,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 Velada Peso Superligero", 02:00 O. Duarte vs K. Sims Jr. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="03/08 WTA Canadá 1/8 de final", 02:30 L. Zhu vs J. Bouzas Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 3", 08:30 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 FIA Fórmula 3", 08:30 G.P. Hungría (Hungaroring) Carrera 2 DAZN FHD
@@ -914,13 +914,13 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 Jupiler Pro League", 16:00 Cercle Brugge vs Anderlecht DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="03/08 WTA Canadá 1/8 de final", 18:30 M. Keys vs K. Muchova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="03/08 Campeonato de España", 19:30 Sesión Vespertina Tarragona (Cataluña) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="03/08 Campeonato de España", 19:30 Sesión Vespertina Tarragona (Cataluña) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="03/08 WTA Canadá 1/8 de final", 20:00 N. Osaka vs A. Sevastova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 20:00 Bournemouth vs West Ham DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 20:00 Bournemouth vs West Ham DAZN FHD
@@ -1222,9 +1222,9 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/08 Premier League Summer Series", 23:00 Manchester Utd. vs Everton DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="04/08 WTA Canadá 1/8 de final", 00:00 C. Tauson vs I. Swiatek Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="04/08 WTA Canadá 1/8 de final", 01:30 A. Anisimova vs E. Svitolina Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="04/08 Tour de Polonia", 11:40 Etapa 1 Wroclaw › Legnica (199.7 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="04/08 Tour de Polonia", 11:40 Etapa 1 Wroclaw › Legnica (199.7 km) DAZN FHD
@@ -1342,7 +1342,7 @@ http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="04/08 Tour de Polonia", 11:40 Etapa 1 Wroclaw › Legnica (199.7 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="04/08 WTA Canadá", 17:00 1/4 de Final WTA 1000 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="04/08 Masters Canadá", 17:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-id="" group-title="04/08 Masters Canadá", 17:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
@@ -1884,7 +1884,7 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="05/08 Vuelta a Burgos", 15:00 Etapa 1 Olmillos de Sasamón › Burgos (204.7 km) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="05/08 WTA Canadá", 17:00 1/4 de Final WTA 1000 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 17:00 China vs Arabia Saudí DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 17:00 China vs Arabia Saudí DAZN FHD
