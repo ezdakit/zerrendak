@@ -1,7 +1,5 @@
 date,event_id,time,competition,match,group,acestream_id,quality
-2025-08-05,00:10-M. Kostyuk-E. Rybakina,00:10,WTA Canadá 1/4 de Final,M. Kostyuk vs E. Rybakina,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-05,00:10-M. Kostyuk-E. Rybakina,00:10,WTA Canadá 1/4 de Final,M. Kostyuk vs E. Rybakina,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-08-05,01:55-V. Mboko-J. Bouzas,01:55,WTA Canadá 1/4 de Final,V. Mboko vs J. Bouzas,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-05,01:55-V. Mboko-J. Bouzas,01:55,WTA Canadá 1/4 de Final,V. Mboko vs J. Bouzas,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-05,10:00-Nueva Zelanda-Irak,10:00,FIBA AsiaCup,Nueva Zelanda vs Irak,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
 2025-08-05,10:00-Nueva Zelanda-Irak,10:00,FIBA AsiaCup,Nueva Zelanda vs Irak,DAZN,4e70d4f61c0854d89f34b5bedfe851e33a515d95,FHD
@@ -37,6 +35,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-05,10:00-Nueva Zelanda-Irak,10:00,FIBA AsiaCup,Nueva Zelanda vs Irak,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-05,10:00-Nueva Zelanda-Irak,10:00,FIBA AsiaCup,Nueva Zelanda vs Irak,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-05,10:00-Nueva Zelanda-Irak,10:00,FIBA AsiaCup,Nueva Zelanda vs Irak,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-05,10:00-Nueva Zelanda-Irak,10:00,FIBA AsiaCup,Nueva Zelanda vs Irak,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-05,10:00-Nueva Zelanda-Irak,10:00,FIBA AsiaCup,Nueva Zelanda vs Irak,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-05,10:00-Nueva Zelanda-Irak,10:00,FIBA AsiaCup,Nueva Zelanda vs Irak,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-05,10:00-Nueva Zelanda-Irak,10:00,FIBA AsiaCup,Nueva Zelanda vs Irak,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -86,6 +85,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-05,12:35-Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),12:35,Tour de Polonia,Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-05,12:35-Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),12:35,Tour de Polonia,Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-05,12:35-Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),12:35,Tour de Polonia,Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-05,12:35-Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),12:35,Tour de Polonia,Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-05,12:35-Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),12:35,Tour de Polonia,Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-05,12:35-Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),12:35,Tour de Polonia,Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-05,12:35-Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),12:35,Tour de Polonia,Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -143,6 +143,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-05,13:00-Jordania-India,13:00,FIBA AsiaCup,Jordania vs India,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-05,13:00-Jordania-India,13:00,FIBA AsiaCup,Jordania vs India,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-05,13:00-Jordania-India,13:00,FIBA AsiaCup,Jordania vs India,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-05,13:00-Jordania-India,13:00,FIBA AsiaCup,Jordania vs India,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-05,13:00-Jordania-India,13:00,FIBA AsiaCup,Jordania vs India,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-05,13:00-Jordania-India,13:00,FIBA AsiaCup,Jordania vs India,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-05,13:00-Jordania-India,13:00,FIBA AsiaCup,Jordania vs India,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -194,6 +195,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-05,17:00-China-Arabia Saudí,17:00,FIBA AsiaCup,China vs Arabia Saudí,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-05,17:00-China-Arabia Saudí,17:00,FIBA AsiaCup,China vs Arabia Saudí,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-05,17:00-China-Arabia Saudí,17:00,FIBA AsiaCup,China vs Arabia Saudí,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-05,17:00-China-Arabia Saudí,17:00,FIBA AsiaCup,China vs Arabia Saudí,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-05,17:00-China-Arabia Saudí,17:00,FIBA AsiaCup,China vs Arabia Saudí,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-05,17:00-China-Arabia Saudí,17:00,FIBA AsiaCup,China vs Arabia Saudí,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-05,17:00-China-Arabia Saudí,17:00,FIBA AsiaCup,China vs Arabia Saudí,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -243,6 +245,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-05,20:00-China Taipéi-Filipinas,20:00,FIBA AsiaCup,China Taipéi vs Filipinas,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-05,20:00-China Taipéi-Filipinas,20:00,FIBA AsiaCup,China Taipéi vs Filipinas,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-05,20:00-China Taipéi-Filipinas,20:00,FIBA AsiaCup,China Taipéi vs Filipinas,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-05,20:00-China Taipéi-Filipinas,20:00,FIBA AsiaCup,China Taipéi vs Filipinas,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-05,20:00-China Taipéi-Filipinas,20:00,FIBA AsiaCup,China Taipéi vs Filipinas,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-05,20:00-China Taipéi-Filipinas,20:00,FIBA AsiaCup,China Taipéi vs Filipinas,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-05,20:00-China Taipéi-Filipinas,20:00,FIBA AsiaCup,China Taipéi vs Filipinas,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -260,9 +263,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-05,20:00-China Taipéi-Filipinas,20:00,FIBA AsiaCup,China Taipéi vs Filipinas,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-08-05,21:00-España-Portugal,21:00,Amistoso,España vs Portugal,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-08-05,21:00-España-Portugal,21:00,Amistoso,España vs Portugal,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
-2025-08-06,00:00-M. Keys-C. Tauson,00:00,WTA Canadá 1/4 de Final,M. Keys vs C. Tauson,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-06,00:00-M. Keys-C. Tauson,00:00,WTA Canadá 1/4 de Final,M. Keys vs C. Tauson,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-08-06,01:30-E. Svitolina-N. Osaka,01:30,WTA Canadá 1/4 de Final,E. Svitolina vs N. Osaka,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-06,01:30-E. Svitolina-N. Osaka,01:30,WTA Canadá 1/4 de Final,E. Svitolina vs N. Osaka,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-06,10:00-Australia-Corea del Sur,10:00,FIBA AsiaCup,Australia vs Corea del Sur,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
 2025-08-06,10:00-Australia-Corea del Sur,10:00,FIBA AsiaCup,Australia vs Corea del Sur,DAZN,4e70d4f61c0854d89f34b5bedfe851e33a515d95,FHD
@@ -298,6 +299,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-06,10:00-Australia-Corea del Sur,10:00,FIBA AsiaCup,Australia vs Corea del Sur,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-06,10:00-Australia-Corea del Sur,10:00,FIBA AsiaCup,Australia vs Corea del Sur,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-06,10:00-Australia-Corea del Sur,10:00,FIBA AsiaCup,Australia vs Corea del Sur,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-06,10:00-Australia-Corea del Sur,10:00,FIBA AsiaCup,Australia vs Corea del Sur,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-06,10:00-Australia-Corea del Sur,10:00,FIBA AsiaCup,Australia vs Corea del Sur,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-06,10:00-Australia-Corea del Sur,10:00,FIBA AsiaCup,Australia vs Corea del Sur,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-06,10:00-Australia-Corea del Sur,10:00,FIBA AsiaCup,Australia vs Corea del Sur,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -347,6 +349,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-06,12:05-Etapa 3 Walbrzych › Walbrzych (159.3 km),12:05,Tour de Polonia,Etapa 3 Walbrzych › Walbrzych (159.3 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-06,12:05-Etapa 3 Walbrzych › Walbrzych (159.3 km),12:05,Tour de Polonia,Etapa 3 Walbrzych › Walbrzych (159.3 km),DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-06,12:05-Etapa 3 Walbrzych › Walbrzych (159.3 km),12:05,Tour de Polonia,Etapa 3 Walbrzych › Walbrzych (159.3 km),DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-06,12:05-Etapa 3 Walbrzych › Walbrzych (159.3 km),12:05,Tour de Polonia,Etapa 3 Walbrzych › Walbrzych (159.3 km),DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-06,12:05-Etapa 3 Walbrzych › Walbrzych (159.3 km),12:05,Tour de Polonia,Etapa 3 Walbrzych › Walbrzych (159.3 km),DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-06,12:05-Etapa 3 Walbrzych › Walbrzych (159.3 km),12:05,Tour de Polonia,Etapa 3 Walbrzych › Walbrzych (159.3 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-06,12:05-Etapa 3 Walbrzych › Walbrzych (159.3 km),12:05,Tour de Polonia,Etapa 3 Walbrzych › Walbrzych (159.3 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -404,6 +407,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-06,13:10-Japón-Siria,13:10,FIBA AsiaCup,Japón vs Siria,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-06,13:10-Japón-Siria,13:10,FIBA AsiaCup,Japón vs Siria,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-06,13:10-Japón-Siria,13:10,FIBA AsiaCup,Japón vs Siria,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-06,13:10-Japón-Siria,13:10,FIBA AsiaCup,Japón vs Siria,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-06,13:10-Japón-Siria,13:10,FIBA AsiaCup,Japón vs Siria,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-06,13:10-Japón-Siria,13:10,FIBA AsiaCup,Japón vs Siria,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-06,13:10-Japón-Siria,13:10,FIBA AsiaCup,Japón vs Siria,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -455,6 +459,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-06,16:45-Etapa 1 Feillens › Lagnieu (163 km),16:45,Tour de l'Ain,Etapa 1 Feillens › Lagnieu (163 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-06,16:45-Etapa 1 Feillens › Lagnieu (163 km),16:45,Tour de l'Ain,Etapa 1 Feillens › Lagnieu (163 km),DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-06,16:45-Etapa 1 Feillens › Lagnieu (163 km),16:45,Tour de l'Ain,Etapa 1 Feillens › Lagnieu (163 km),DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-06,16:45-Etapa 1 Feillens › Lagnieu (163 km),16:45,Tour de l'Ain,Etapa 1 Feillens › Lagnieu (163 km),DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-06,16:45-Etapa 1 Feillens › Lagnieu (163 km),16:45,Tour de l'Ain,Etapa 1 Feillens › Lagnieu (163 km),DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-06,16:45-Etapa 1 Feillens › Lagnieu (163 km),16:45,Tour de l'Ain,Etapa 1 Feillens › Lagnieu (163 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-06,16:45-Etapa 1 Feillens › Lagnieu (163 km),16:45,Tour de l'Ain,Etapa 1 Feillens › Lagnieu (163 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -478,7 +483,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-06,16:45-Etapa 1 Feillens › Lagnieu (163 km),16:45,Tour de l'Ain,Etapa 1 Feillens › Lagnieu (163 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
 2025-08-06,16:45-Etapa 1 Feillens › Lagnieu (163 km),16:45,Tour de l'Ain,Etapa 1 Feillens › Lagnieu (163 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-08-06,16:45-Etapa 1 Feillens › Lagnieu (163 km),16:45,Tour de l'Ain,Etapa 1 Feillens › Lagnieu (163 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
-2025-08-06,17:00-Semifinal 1 WTA 1000,17:00,WTA Canadá,Semifinal 1 WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-06,17:00-Semifinal 1 WTA 1000,17:00,WTA Canadá,Semifinal 1 WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-06,17:00-Guam-Irán,17:00,FIBA AsiaCup,Guam vs Irán,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
 2025-08-06,17:00-Guam-Irán,17:00,FIBA AsiaCup,Guam vs Irán,DAZN,4e70d4f61c0854d89f34b5bedfe851e33a515d95,FHD
@@ -514,6 +518,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-06,17:00-Guam-Irán,17:00,FIBA AsiaCup,Guam vs Irán,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-06,17:00-Guam-Irán,17:00,FIBA AsiaCup,Guam vs Irán,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-06,17:00-Guam-Irán,17:00,FIBA AsiaCup,Guam vs Irán,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-06,17:00-Guam-Irán,17:00,FIBA AsiaCup,Guam vs Irán,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-06,17:00-Guam-Irán,17:00,FIBA AsiaCup,Guam vs Irán,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-06,17:00-Guam-Irán,17:00,FIBA AsiaCup,Guam vs Irán,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-06,17:00-Guam-Irán,17:00,FIBA AsiaCup,Guam vs Irán,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -625,6 +630,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-06,20:00-Catar-Líbano,20:00,FIBA AsiaCup,Catar vs Líbano,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-06,20:00-Catar-Líbano,20:00,FIBA AsiaCup,Catar vs Líbano,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-06,20:00-Catar-Líbano,20:00,FIBA AsiaCup,Catar vs Líbano,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-06,20:00-Catar-Líbano,20:00,FIBA AsiaCup,Catar vs Líbano,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-06,20:00-Catar-Líbano,20:00,FIBA AsiaCup,Catar vs Líbano,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-06,20:00-Catar-Líbano,20:00,FIBA AsiaCup,Catar vs Líbano,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-06,20:00-Catar-Líbano,20:00,FIBA AsiaCup,Catar vs Líbano,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -640,7 +646,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-06,20:00-Catar-Líbano,20:00,FIBA AsiaCup,Catar vs Líbano,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-06,20:00-Catar-Líbano,20:00,FIBA AsiaCup,Catar vs Líbano,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-08-06,20:00-Catar-Líbano,20:00,FIBA AsiaCup,Catar vs Líbano,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-08-06,22:00-Semifinal 2 WTA 1000,22:00,WTA Canadá,Semifinal 2 WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-06,22:00-Semifinal 2 WTA 1000,22:00,WTA Canadá,Semifinal 2 WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-06,22:00-D. Thiem-TBD,22:00,Torneo Tenis Playa Luanco Semifinal 2,D. Thiem vs TBD,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-08-06,22:00-D. Thiem-TBD,22:00,Torneo Tenis Playa Luanco Semifinal 2,D. Thiem vs TBD,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
@@ -738,6 +743,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-07,10:00-India-China,10:00,FIBA AsiaCup,India vs China,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-07,10:00-India-China,10:00,FIBA AsiaCup,India vs China,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-07,10:00-India-China,10:00,FIBA AsiaCup,India vs China,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-07,10:00-India-China,10:00,FIBA AsiaCup,India vs China,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-07,10:00-India-China,10:00,FIBA AsiaCup,India vs China,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-07,10:00-India-China,10:00,FIBA AsiaCup,India vs China,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-07,10:00-India-China,10:00,FIBA AsiaCup,India vs China,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -787,6 +793,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -844,6 +851,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-07,13:00-Irak-China Taipéi,13:00,FIBA AsiaCup,Irak vs China Taipéi,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-07,13:00-Irak-China Taipéi,13:00,FIBA AsiaCup,Irak vs China Taipéi,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-07,13:00-Irak-China Taipéi,13:00,FIBA AsiaCup,Irak vs China Taipéi,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-07,13:00-Irak-China Taipéi,13:00,FIBA AsiaCup,Irak vs China Taipéi,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-07,13:00-Irak-China Taipéi,13:00,FIBA AsiaCup,Irak vs China Taipéi,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-07,13:00-Irak-China Taipéi,13:00,FIBA AsiaCup,Irak vs China Taipéi,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-07,13:00-Irak-China Taipéi,13:00,FIBA AsiaCup,Irak vs China Taipéi,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -895,6 +903,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -1012,6 +1021,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-07,17:00-Filipinas-Nueva Zelanda,17:00,FIBA AsiaCup,Filipinas vs Nueva Zelanda,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-07,17:00-Filipinas-Nueva Zelanda,17:00,FIBA AsiaCup,Filipinas vs Nueva Zelanda,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-07,17:00-Filipinas-Nueva Zelanda,17:00,FIBA AsiaCup,Filipinas vs Nueva Zelanda,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-07,17:00-Filipinas-Nueva Zelanda,17:00,FIBA AsiaCup,Filipinas vs Nueva Zelanda,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-07,17:00-Filipinas-Nueva Zelanda,17:00,FIBA AsiaCup,Filipinas vs Nueva Zelanda,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-07,17:00-Filipinas-Nueva Zelanda,17:00,FIBA AsiaCup,Filipinas vs Nueva Zelanda,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-07,17:00-Filipinas-Nueva Zelanda,17:00,FIBA AsiaCup,Filipinas vs Nueva Zelanda,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,
@@ -1027,11 +1037,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-07,17:00-Filipinas-Nueva Zelanda,17:00,FIBA AsiaCup,Filipinas vs Nueva Zelanda,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-07,17:00-Filipinas-Nueva Zelanda,17:00,FIBA AsiaCup,Filipinas vs Nueva Zelanda,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-08-07,17:00-Filipinas-Nueva Zelanda,17:00,FIBA AsiaCup,Filipinas vs Nueva Zelanda,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-08-07,18:00-1ª Ronda WTA 1000,18:00,WTA Cincinnati,1ª Ronda WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-07,18:00-1ª Ronda WTA 1000,18:00,WTA Cincinnati,1ª Ronda WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-08-07,18:00-Etapa 7 Armenia › Cali (185.2 km),18:00,Vuelta a Colombia,Etapa 7 Armenia › Cali (185.2 km),Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-07,18:00-Etapa 7 Armenia › Cali (185.2 km),18:00,Vuelta a Colombia,Etapa 7 Armenia › Cali (185.2 km),Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-08-07,20:00-Final WTA 1000,20:00,WTA Canadá,Final WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-07,20:00-Final WTA 1000,20:00,WTA Canadá,Final WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-07,20:00-Arabia Saudí-Jordania,20:00,FIBA AsiaCup,Arabia Saudí vs Jordania,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
 2025-08-07,20:00-Arabia Saudí-Jordania,20:00,FIBA AsiaCup,Arabia Saudí vs Jordania,DAZN,4e70d4f61c0854d89f34b5bedfe851e33a515d95,FHD
@@ -1067,6 +1074,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-07,20:00-Arabia Saudí-Jordania,20:00,FIBA AsiaCup,Arabia Saudí vs Jordania,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-08-07,20:00-Arabia Saudí-Jordania,20:00,FIBA AsiaCup,Arabia Saudí vs Jordania,DAZN,35c7f0c966ecde3390f4510bb4caded40018c07a,
 2025-08-07,20:00-Arabia Saudí-Jordania,20:00,FIBA AsiaCup,Arabia Saudí vs Jordania,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
+2025-08-07,20:00-Arabia Saudí-Jordania,20:00,FIBA AsiaCup,Arabia Saudí vs Jordania,DAZN,d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151,
 2025-08-07,20:00-Arabia Saudí-Jordania,20:00,FIBA AsiaCup,Arabia Saudí vs Jordania,DAZN,ca923c9873fd206a41c1e83ff8fc40e3cf323c9a,
 2025-08-07,20:00-Arabia Saudí-Jordania,20:00,FIBA AsiaCup,Arabia Saudí vs Jordania,DAZN,a929eeec1268d69d1556a2e3ace793b2577d8810,
 2025-08-07,20:00-Arabia Saudí-Jordania,20:00,FIBA AsiaCup,Arabia Saudí vs Jordania,DAZN,ae68a0835039fab28fd2314108fabd4fab33b8ab,

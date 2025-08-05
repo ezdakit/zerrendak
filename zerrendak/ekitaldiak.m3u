@@ -2,11 +2,7 @@
 #EXTVLCOPT:network-caching=2000
 
 #EXTINF:-1 tvg-id="" group-title="05/08 WTA Canadá 1/4 de Final", 00:10 M. Kostyuk vs E. Rybakina Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="05/08 WTA Canadá 1/4 de Final", 00:10 M. Kostyuk vs E. Rybakina Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="05/08 WTA Canadá 1/4 de Final", 01:55 V. Mboko vs J. Bouzas Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="05/08 WTA Canadá 1/4 de Final", 01:55 V. Mboko vs J. Bouzas Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 10:00 Nueva Zelanda vs Irak DAZN FHD
@@ -77,6 +73,8 @@ http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 10:00 Nueva Zelanda vs Irak DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 10:00 Nueva Zelanda vs Irak DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 10:00 Nueva Zelanda vs Irak DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 10:00 Nueva Zelanda vs Irak DAZN 
@@ -175,6 +173,8 @@ http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="05/08 Tour de Polonia", 12:35 Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="05/08 Tour de Polonia", 12:35 Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/08 Tour de Polonia", 12:35 Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="05/08 Tour de Polonia", 12:35 Etapa 2 Hotel Golebiewski Karpacz › Karpacz (149.4 km) DAZN 
@@ -290,6 +290,8 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 13:00 Jordania vs India DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 13:00 Jordania vs India DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 13:00 Jordania vs India DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 13:00 Jordania vs India DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
@@ -392,6 +394,8 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 17:00 China vs Arabia Saudí DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 17:00 China vs Arabia Saudí DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 17:00 China vs Arabia Saudí DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 17:00 China vs Arabia Saudí DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
@@ -489,6 +493,8 @@ http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 20:00 China Taipéi vs Filipinas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 20:00 China Taipéi vs Filipinas DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 20:00 China Taipéi vs Filipinas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="05/08 FIBA AsiaCup", 20:00 China Taipéi vs Filipinas DAZN 
@@ -524,11 +530,7 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="05/08 Amistoso", 21:00 España vs Portugal Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="06/08 WTA Canadá 1/4 de Final", 00:00 M. Keys vs C. Tauson Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="06/08 WTA Canadá 1/4 de Final", 00:00 M. Keys vs C. Tauson Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="06/08 WTA Canadá 1/4 de Final", 01:30 E. Svitolina vs N. Osaka Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="06/08 WTA Canadá 1/4 de Final", 01:30 E. Svitolina vs N. Osaka Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 10:00 Australia vs Corea del Sur DAZN FHD
@@ -599,6 +601,8 @@ http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 10:00 Australia vs Corea del Sur DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 10:00 Australia vs Corea del Sur DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 10:00 Australia vs Corea del Sur DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 10:00 Australia vs Corea del Sur DAZN 
@@ -697,6 +701,8 @@ http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="06/08 Tour de Polonia", 12:05 Etapa 3 Walbrzych › Walbrzych (159.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="06/08 Tour de Polonia", 12:05 Etapa 3 Walbrzych › Walbrzych (159.3 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="06/08 Tour de Polonia", 12:05 Etapa 3 Walbrzych › Walbrzych (159.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="06/08 Tour de Polonia", 12:05 Etapa 3 Walbrzych › Walbrzych (159.3 km) DAZN 
@@ -812,6 +818,8 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 13:10 Japón vs Siria DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 13:10 Japón vs Siria DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 13:10 Japón vs Siria DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 13:10 Japón vs Siria DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
@@ -913,6 +921,8 @@ http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="06/08 Tour de l'Ain", 16:45 Etapa 1 Feillens › Lagnieu (163 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="06/08 Tour de l'Ain", 16:45 Etapa 1 Feillens › Lagnieu (163 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="06/08 Tour de l'Ain", 16:45 Etapa 1 Feillens › Lagnieu (163 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="06/08 Tour de l'Ain", 16:45 Etapa 1 Feillens › Lagnieu (163 km) DAZN 
@@ -960,8 +970,6 @@ http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="06/08 Tour de l'Ain", 16:45 Etapa 1 Feillens › Lagnieu (163 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="06/08 WTA Canadá", 17:00 Semifinal 1 WTA 1000 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="06/08 WTA Canadá", 17:00 Semifinal 1 WTA 1000 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 17:00 Guam vs Irán DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
@@ -1031,6 +1039,8 @@ http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 17:00 Guam vs Irán DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 17:00 Guam vs Irán DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 17:00 Guam vs Irán DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 17:00 Guam vs Irán DAZN 
@@ -1254,6 +1264,8 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 20:00 Catar vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 20:00 Catar vs Líbano DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 20:00 Catar vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 20:00 Catar vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
@@ -1283,8 +1295,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="06/08 FIBA AsiaCup", 20:00 Catar vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="06/08 WTA Canadá", 22:00 Semifinal 2 WTA 1000 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="06/08 WTA Canadá", 22:00 Semifinal 2 WTA 1000 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="06/08 Torneo Tenis Playa Luanco Semifinal 2", 22:00 D. Thiem vs TBD Teledeporte FHD
@@ -1480,6 +1490,8 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 10:00 India vs China DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 10:00 India vs China DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 10:00 India vs China DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 10:00 India vs China DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
@@ -1577,6 +1589,8 @@ http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="07/08 Tour de Polonia", 11:30 Etapa 4 Rybnik › Cieszyn (201.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="07/08 Tour de Polonia", 11:30 Etapa 4 Rybnik › Cieszyn (201.4 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/08 Tour de Polonia", 11:30 Etapa 4 Rybnik › Cieszyn (201.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="07/08 Tour de Polonia", 11:30 Etapa 4 Rybnik › Cieszyn (201.4 km) DAZN 
@@ -1692,6 +1706,8 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 13:00 Irak vs China Taipéi DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 13:00 Irak vs China Taipéi DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 13:00 Irak vs China Taipéi DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 13:00 Irak vs China Taipéi DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
@@ -1793,6 +1809,8 @@ http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="07/08 Tour de l'Ain", 16:45 Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="07/08 Tour de l'Ain", 16:45 Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/08 Tour de l'Ain", 16:45 Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="07/08 Tour de l'Ain", 16:45 Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km) DAZN 
@@ -2028,6 +2046,8 @@ http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 17:00 Filipinas vs Nueva Zelanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 17:00 Filipinas vs Nueva Zelanda DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 17:00 Filipinas vs Nueva Zelanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 17:00 Filipinas vs Nueva Zelanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
@@ -2058,15 +2078,9 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 17:00 Filipinas vs Nueva Zelanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="07/08 WTA Cincinnati", 18:00 1ª Ronda WTA 1000 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="07/08 WTA Cincinnati", 18:00 1ª Ronda WTA 1000 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="07/08 Vuelta a Colombia", 18:00 Etapa 7 Armenia › Cali (185.2 km) Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="07/08 Vuelta a Colombia", 18:00 Etapa 7 Armenia › Cali (185.2 km) Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="07/08 WTA Canadá", 20:00 Final WTA 1000 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="07/08 WTA Canadá", 20:00 Final WTA 1000 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 20:00 Arabia Saudí vs Jordania DAZN FHD
@@ -2137,6 +2151,8 @@ http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 20:00 Arabia Saudí vs Jordania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 20:00 Arabia Saudí vs Jordania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 20:00 Arabia Saudí vs Jordania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
 #EXTINF:-1 tvg-id="" group-title="07/08 FIBA AsiaCup", 20:00 Arabia Saudí vs Jordania DAZN 
