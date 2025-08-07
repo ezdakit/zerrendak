@@ -389,8 +389,6 @@ plugin://script.module.horus?action=play&id=872608e734992db636eb79426802cd08f402
 plugin://script.module.horus?action=play&id=2b8e5c7438d56541df3467cc5986cf1e66014101
 #EXTINF:-1 tvg-id="M+ Indie HD" group-title="VARIOS", MOVISTAR INDIE FHD 4D01
 plugin://script.module.horus?action=play&id=508ffdbab097339adb4f3d922070b5df2c114d01
-#EXTINF:-1 tvg-id="La Resistencia 24H" group-title="VARIOS", MOVISTAR LA RESISTENCIA FHD 47A7
-plugin://script.module.horus?action=play&id=09b8bed9be1feadb4ef83e46d50dc51f763947a7
 #EXTINF:-1 tvg-id="M+ Originales HD" group-title="VARIOS", MOVISTAR ORIGINALES FHD 5DD7
 plugin://script.module.horus?action=play&id=1f092144252939810fd302cbd00d46de760b5dd7
 #EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR SERIES FHD 891A
