@@ -1,8 +1,8 @@
 date,event_id,time,competition,match,group,acestream_id,quality
-2025-08-07,00:00-V. Mboko-E. Rybakina,00:00,WTA Canadá Semifinal 1,V. Mboko vs E. Rybakina,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-07,00:00-V. Mboko-E. Rybakina,00:00,WTA Canadá Semifinal 1,V. Mboko vs E. Rybakina,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-08-07,01:30-N. Osaka-C. Tauson,01:30,WTA Canadá Semifinal 2,N. Osaka vs C. Tauson,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-07,01:30-N. Osaka-C. Tauson,01:30,WTA Canadá Semifinal 2,N. Osaka vs C. Tauson,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-07,00:10-V. Mboko-E. Rybakina,00:10,WTA Canadá Semifinal 1,V. Mboko vs E. Rybakina,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-07,00:10-V. Mboko-E. Rybakina,00:10,WTA Canadá Semifinal 1,V. Mboko vs E. Rybakina,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-07,03:15-N. Osaka-C. Tauson,03:15,WTA Canadá Semifinal 2,N. Osaka vs C. Tauson,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-07,03:15-N. Osaka-C. Tauson,03:15,WTA Canadá Semifinal 2,N. Osaka vs C. Tauson,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-07,10:00-India-China,10:00,FIBA AsiaCup,India vs China,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
 2025-08-07,10:00-India-China,10:00,FIBA AsiaCup,India vs China,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-07,10:00-India-China,10:00,FIBA AsiaCup,India vs China,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -107,8 +107,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
-2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
+2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-08-07,11:30-Etapa 4 Rybnik › Cieszyn (201.4 km),11:30,Tour de Polonia,Etapa 4 Rybnik › Cieszyn (201.4 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-08-07,13:00-Irak-China Taipéi,13:00,FIBA AsiaCup,Irak vs China Taipéi,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
@@ -219,8 +219,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
-2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
+2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-08-07,16:45-Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),16:45,Tour de l'Ain,Etapa 2 Saint-Vulbas › Lélex Monts-Jura (153.1 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-08-07,17:00-Filipinas-Nueva Zelanda,17:00,FIBA AsiaCup,Filipinas vs Nueva Zelanda,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
@@ -389,8 +389,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-07,20:00-Arabia Saudí-Jordania,20:00,FIBA AsiaCup,Arabia Saudí vs Jordania,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-08-07,21:00-España-República Checa,21:00,Torneo Ciudad de Málaga,España vs República Checa,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-08-07,21:00-España-República Checa,21:00,Torneo Ciudad de Málaga,España vs República Checa,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
-2025-08-08,00:00-Final WTA 1000,00:00,WTA Canadá,Final WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-08,00:00-Final WTA 1000,00:00,WTA Canadá,Final WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-08,00:00-V. Mboko-N. Osaka,00:00,WTA Canadá Final,V. Mboko vs N. Osaka,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-08,00:00-V. Mboko-N. Osaka,00:00,WTA Canadá Final,V. Mboko vs N. Osaka,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-08,01:00-Baltimore Ravens-Indianápolis Colts,01:00,NFL Pretemporada,Baltimore Ravens vs Indianápolis Colts,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
 2025-08-08,01:00-Baltimore Ravens-Indianápolis Colts,01:00,NFL Pretemporada,Baltimore Ravens vs Indianápolis Colts,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-08,01:00-Baltimore Ravens-Indianápolis Colts,01:00,NFL Pretemporada,Baltimore Ravens vs Indianápolis Colts,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -645,8 +645,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-08,11:30-Etapa 5 Katowice › Zakopane (206.1 km),11:30,Tour de Polonia,Etapa 5 Katowice › Zakopane (206.1 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-08-08,11:30-Etapa 5 Katowice › Zakopane (206.1 km),11:30,Tour de Polonia,Etapa 5 Katowice › Zakopane (206.1 km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
 2025-08-08,11:30-Etapa 5 Katowice › Zakopane (206.1 km),11:30,Tour de Polonia,Etapa 5 Katowice › Zakopane (206.1 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
-2025-08-08,11:30-Etapa 5 Katowice › Zakopane (206.1 km),11:30,Tour de Polonia,Etapa 5 Katowice › Zakopane (206.1 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-08,11:30-Etapa 5 Katowice › Zakopane (206.1 km),11:30,Tour de Polonia,Etapa 5 Katowice › Zakopane (206.1 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
+2025-08-08,11:30-Etapa 5 Katowice › Zakopane (206.1 km),11:30,Tour de Polonia,Etapa 5 Katowice › Zakopane (206.1 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-08,11:30-Etapa 5 Katowice › Zakopane (206.1 km),11:30,Tour de Polonia,Etapa 5 Katowice › Zakopane (206.1 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-08-08,11:30-Etapa 5 Katowice › Zakopane (206.1 km),11:30,Tour de Polonia,Etapa 5 Katowice › Zakopane (206.1 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-08-08,13:10-Irán-Japón,13:10,FIBA AsiaCup,Irán vs Japón,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
@@ -755,8 +755,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-08,16:45-Etapa 3 Plateau d'Hauteville › Belley (130.4 km),16:45,Tour de l'Ain,Etapa 3 Plateau d'Hauteville › Belley (130.4 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-08-08,16:45-Etapa 3 Plateau d'Hauteville › Belley (130.4 km),16:45,Tour de l'Ain,Etapa 3 Plateau d'Hauteville › Belley (130.4 km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
 2025-08-08,16:45-Etapa 3 Plateau d'Hauteville › Belley (130.4 km),16:45,Tour de l'Ain,Etapa 3 Plateau d'Hauteville › Belley (130.4 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
-2025-08-08,16:45-Etapa 3 Plateau d'Hauteville › Belley (130.4 km),16:45,Tour de l'Ain,Etapa 3 Plateau d'Hauteville › Belley (130.4 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-08,16:45-Etapa 3 Plateau d'Hauteville › Belley (130.4 km),16:45,Tour de l'Ain,Etapa 3 Plateau d'Hauteville › Belley (130.4 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
+2025-08-08,16:45-Etapa 3 Plateau d'Hauteville › Belley (130.4 km),16:45,Tour de l'Ain,Etapa 3 Plateau d'Hauteville › Belley (130.4 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-08,16:45-Etapa 3 Plateau d'Hauteville › Belley (130.4 km),16:45,Tour de l'Ain,Etapa 3 Plateau d'Hauteville › Belley (130.4 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-08-08,16:45-Etapa 3 Plateau d'Hauteville › Belley (130.4 km),16:45,Tour de l'Ain,Etapa 3 Plateau d'Hauteville › Belley (130.4 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-08-08,17:00-Líbano-Australia,17:00,FIBA AsiaCup,Líbano vs Australia,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
@@ -1627,8 +1627,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-09,14:15-Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),14:15,Tour de Polonia,Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-08-09,14:15-Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),14:15,Tour de Polonia,Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
 2025-08-09,14:15-Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),14:15,Tour de Polonia,Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
-2025-08-09,14:15-Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),14:15,Tour de Polonia,Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-09,14:15-Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),14:15,Tour de Polonia,Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
+2025-08-09,14:15-Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),14:15,Tour de Polonia,Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-09,14:15-Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),14:15,Tour de Polonia,Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-08-09,14:15-Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),14:15,Tour de Polonia,Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-08-09,15:30-Sesión Vespertina Tampere (Finlandia),15:30,Campeonato Europa Sub-20,Sesión Vespertina Tampere (Finlandia),Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
@@ -2437,8 +2437,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-09,16:45-Etapa 3 Husøy (Senja) › Målselv (182 km),16:45,Carrera Ártica Noruega,Etapa 3 Husøy (Senja) › Målselv (182 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-08-09,16:45-Etapa 3 Husøy (Senja) › Målselv (182 km),16:45,Carrera Ártica Noruega,Etapa 3 Husøy (Senja) › Målselv (182 km),Eurosport 1,0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4,FHD
 2025-08-09,16:45-Etapa 3 Husøy (Senja) › Målselv (182 km),16:45,Carrera Ártica Noruega,Etapa 3 Husøy (Senja) › Målselv (182 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
-2025-08-09,16:45-Etapa 3 Husøy (Senja) › Målselv (182 km),16:45,Carrera Ártica Noruega,Etapa 3 Husøy (Senja) › Målselv (182 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-09,16:45-Etapa 3 Husøy (Senja) › Målselv (182 km),16:45,Carrera Ártica Noruega,Etapa 3 Husøy (Senja) › Målselv (182 km),Eurosport 1,1b0bc4d4dcd609d3c092712e721392b199f50a62,
+2025-08-09,16:45-Etapa 3 Husøy (Senja) › Målselv (182 km),16:45,Carrera Ártica Noruega,Etapa 3 Husøy (Senja) › Målselv (182 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-08-09,16:45-Etapa 3 Husøy (Senja) › Målselv (182 km),16:45,Carrera Ártica Noruega,Etapa 3 Husøy (Senja) › Målselv (182 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-08-09,16:45-Etapa 3 Husøy (Senja) › Målselv (182 km),16:45,Carrera Ártica Noruega,Etapa 3 Husøy (Senja) › Målselv (182 km),Eurosport 1,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,
 2025-08-09,17:00-India-Arabia Saudí,17:00,FIBA AsiaCup,India vs Arabia Saudí,DAZN,4fa168d5401e4b2673100b237a976961b52cf621,FHD
