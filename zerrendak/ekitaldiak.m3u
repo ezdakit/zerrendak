@@ -1,13 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Canadá Final", 00:00 V. Mboko vs N. Osaka Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="08/08 WTA Canadá Final", 00:10 V. Mboko vs N. Osaka Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Canadá Final", 00:00 V. Mboko vs N. Osaka Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 01:00 C. Ngounoue vs H. Baptiste Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 01:00 C. Ngounoue vs H. Baptiste Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="08/08 WTA Canadá Final", 00:10 V. Mboko vs N. Osaka Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="08/08 NFL Pretemporada", 01:00 Baltimore Ravens vs Indianápolis Colts DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
@@ -209,9 +205,13 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="08/08 NFL Pretemporada", 01:30 Philadelphia Eagles vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 02:30 P. Stearns vs Y. Wang Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 02:35 C. Ngounoue vs H. Baptiste Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 02:30 P. Stearns vs Y. Wang Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 02:35 C. Ngounoue vs H. Baptiste Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 03:00 P. Stearns vs Y. Wang Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 03:00 P. Stearns vs Y. Wang Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="08/08 NFL Pretemporada", 04:00 Seattle Seahawks vs Las Vegas Raiders DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
