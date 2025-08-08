@@ -2,8 +2,6 @@
 #EXTVLCOPT:network-caching=2000
 
 #EXTINF:-1 tvg-id="" group-title="08/08 WTA Canadá Final", 00:10 V. Mboko vs N. Osaka Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Canadá Final", 00:10 V. Mboko vs N. Osaka Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="08/08 NFL Pretemporada", 01:00 Baltimore Ravens vs Indianápolis Colts DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
@@ -178,11 +176,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="08/08 NFL Pretemporada", 01:30 Philadelphia Eagles vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 02:35 C. Ngounoue vs H. Baptiste Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 02:35 C. Ngounoue vs H. Baptiste Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 03:00 P. Stearns vs Y. Wang Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 03:00 P. Stearns vs Y. Wang Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="08/08 NFL Pretemporada", 04:00 Seattle Seahawks vs Las Vegas Raiders DAZN FHD
@@ -656,8 +650,6 @@ http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="08/08 Tour de l'Ain", 16:45 Etapa 3 Plateau d'Hauteville › Belley (130.4 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 17:00 S. Kartal vs C. García Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 17:00 S. Kartal vs C. García Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="08/08 FIBA AsiaCup Fase de grupos", 17:00 Líbano vs Australia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
@@ -746,8 +738,6 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="08/08 FIBA AsiaCup Fase de grupos", 17:00 Líbano vs Australia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 18:30 D. Collins vs T. Townsend Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 18:30 D. Collins vs T. Townsend Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="08/08 Título Interino Peso Pluma", 19:30 M. Cuello vs S. Rios DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
@@ -835,8 +825,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="08/08 Título Interino Peso Pluma", 19:30 M. Cuello vs S. Rios DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 20:00 K. Rakhimova vs M. Sakkari Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="08/08 WTA Cincinnati 1ª Ronda", 20:00 K. Rakhimova vs M. Sakkari Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="08/08 FIBA AsiaCup Fase de grupos", 20:00 Siria vs Guam DAZN FHD
@@ -1098,8 +1086,6 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="08/08 Amistoso", 21:00 Francia vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 01:00 A. Parks vs B. Krejcikova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 01:00 A. Parks vs B. Krejcikova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
@@ -1359,8 +1345,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:30 New England Patriots vs Washington Commanders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 02:30 C. McNally vs M. Inglis Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 02:30 C. McNally vs M. Inglis Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="09/08 Supercars Championship", 04:45 Queensland Raceway Carrera 1 DAZN FHD
@@ -3660,8 +3644,6 @@ http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="" group-title="09/08 Masters Cincinnati", 17:05 2ª Ronda ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati", 18:00 2ª Ronda WTA 1000 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati", 18:00 2ª Ronda WTA 1000 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 19:00 Buffalo Bills vs New York Giants DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
@@ -5464,11 +5446,7 @@ http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="" group-title="10/08 Masters Cincinnati", 17:05 2ª Ronda ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="" group-title="10/08 WTA Cincinnati", 18:00 2ª Ronda WTA 1000 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="10/08 WTA Cincinnati", 18:00 2ª Ronda WTA 1000 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="10/08 Torneo Históricos Cataluña", 18:00 Final Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="10/08 Torneo Históricos Cataluña", 18:00 Final Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="10/08 Jupiler Pro League", 18:30 Standard de Liège vs Genk DAZN FHD
