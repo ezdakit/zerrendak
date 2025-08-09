@@ -1,206 +1,210 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 01:00 A. Parks vs B. Krejcikova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=520950d296c952e1864a08e15af9f89f1ab514ec
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=ae16a8f004b1287ee1f53263ab265f72bba0daf5
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=17c5ec4fd10a186893f9f3d545dfcff95034f972
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8b55a528c5cf9f1acd11d942472bdd60926db8ae
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=ba6e1bdc8e03da60ff572557645eb04370af0cd0
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=520950d296c952e1864a08e15af9f89f1ab514ec
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=ae16a8f004b1287ee1f53263ab265f72bba0daf5
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=17c5ec4fd10a186893f9f3d545dfcff95034f972
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8b55a528c5cf9f1acd11d942472bdd60926db8ae
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=ba6e1bdc8e03da60ff572557645eb04370af0cd0
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN SD
+http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 01:10 A. Parks vs B. Krejcikova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 01:00 A. Parks vs B. Krejcikova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 01:10 A. Parks vs B. Krejcikova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=520950d296c952e1864a08e15af9f89f1ab514ec
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=ae16a8f004b1287ee1f53263ab265f72bba0daf5
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=17c5ec4fd10a186893f9f3d545dfcff95034f972
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b55a528c5cf9f1acd11d942472bdd60926db8ae
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=ba6e1bdc8e03da60ff572557645eb04370af0cd0
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=4fa168d5401e4b2673100b237a976961b52cf621
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=520950d296c952e1864a08e15af9f89f1ab514ec
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=ae16a8f004b1287ee1f53263ab265f72bba0daf5
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6a1703a6bbe6110a1d27f35a41c88661e1740bfa
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=17c5ec4fd10a186893f9f3d545dfcff95034f972
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=0f5402f75107112d59d924a5f381cfed33dbe6d2
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=75306ac6ffbe33b08c5c28487674f75f012c7f50
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b55a528c5cf9f1acd11d942472bdd60926db8ae
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=ba6e1bdc8e03da60ff572557645eb04370af0cd0
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=97d663cba59ddd8aca032267169019b544dcb8f7
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:00 Carolina Panthers vs Cleveland Browns DAZN 
-http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:30 New England Patriots vs Washington Commanders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:30 New England Patriots vs Washington Commanders DAZN FHD
@@ -286,6 +290,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:30 New England Patriots vs Washington Commanders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:30 New England Patriots vs Washington Commanders DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:30 New England Patriots vs Washington Commanders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:30 New England Patriots vs Washington Commanders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -299,9 +305,9 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 01:30 New England Patriots vs Washington Commanders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 02:30 C. McNally vs M. Inglis Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 02:50 C. McNally vs M. Inglis Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 02:30 C. McNally vs M. Inglis Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="09/08 WTA Cincinnati 1ª Ronda", 02:50 C. McNally vs M. Inglis Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="09/08 Supercars Championship", 04:45 Queensland Raceway Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=f89fed8eef7b31ef3bff186ef64987343e0c08f9
@@ -388,6 +394,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 Supercars Championship", 04:45 Queensland Raceway Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 Supercars Championship", 04:45 Queensland Raceway Carrera 1 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 Supercars Championship", 04:45 Queensland Raceway Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 Supercars Championship", 04:45 Queensland Raceway Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -485,6 +493,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 Supercars Championship", 08:10 Queensland Raceway Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 Supercars Championship", 08:10 Queensland Raceway Carrera 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 Supercars Championship", 08:10 Queensland Raceway Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 Supercars Championship", 08:10 Queensland Raceway Carrera 2 DAZN 
@@ -584,6 +594,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 10:00 Irak vs Filipinas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 10:00 Irak vs Filipinas DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 10:00 Irak vs Filipinas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 10:00 Irak vs Filipinas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -681,6 +693,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 2. Bundesliga", 13:00 Fortuna Düsseldorf vs Hannover 96 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 2. Bundesliga", 13:00 Fortuna Düsseldorf vs Hannover 96 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 2. Bundesliga", 13:00 Fortuna Düsseldorf vs Hannover 96 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 2. Bundesliga", 13:00 Fortuna Düsseldorf vs Hannover 96 DAZN 
@@ -780,6 +794,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 13:00 China vs Jordania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 13:00 China vs Jordania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 13:00 China vs Jordania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 13:00 China vs Jordania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -877,6 +893,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 DTM", 13:30 Nurburgring Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 DTM", 13:30 Nurburgring Carrera 1 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 DTM", 13:30 Nurburgring Carrera 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 DTM", 13:30 Nurburgring Carrera 1 DAZN 
@@ -976,6 +994,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 Nexo Championship", 13:30 Jornada 3 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 Nexo Championship", 13:30 Jornada 3 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 Nexo Championship", 13:30 Jornada 3 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 Nexo Championship", 13:30 Jornada 3 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -1073,6 +1093,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 Tour de Polonia", 14:15 Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 Tour de Polonia", 14:15 Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 Tour de Polonia", 14:15 Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 Tour de Polonia", 14:15 Etapa 6 Bukowina Resort › Bukowina Tatrzanska (147.5 km) DAZN 
@@ -1196,6 +1218,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Yeovil Town vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Yeovil Town vs Hartlepool United DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Yeovil Town vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Yeovil Town vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -1293,6 +1317,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Gateshead vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Gateshead vs Southend Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Gateshead vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Gateshead vs Southend Utd. DAZN 
@@ -1392,6 +1418,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Brackley Town vs Eastleigh FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Brackley Town vs Eastleigh FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Brackley Town vs Eastleigh FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Brackley Town vs Eastleigh FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -1489,6 +1517,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 York City vs Sutton United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 York City vs Sutton United DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 York City vs Sutton United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 York City vs Sutton United DAZN 
@@ -1588,6 +1618,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Altrincham vs Aldershot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Altrincham vs Aldershot DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Altrincham vs Aldershot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Altrincham vs Aldershot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -1685,6 +1717,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Braintree Town vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Braintree Town vs Halifax Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Braintree Town vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Braintree Town vs Halifax Town DAZN 
@@ -1784,6 +1818,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Solihull Moors vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Solihull Moors vs Forest Green Rovers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Solihull Moors vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Solihull Moors vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -1881,6 +1917,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Boreham Wood vs AFC Rochdale DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Boreham Wood vs AFC Rochdale DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Boreham Wood vs AFC Rochdale DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Boreham Wood vs AFC Rochdale DAZN 
@@ -1980,6 +2018,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Woking vs Carlisle Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Woking vs Carlisle Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Woking vs Carlisle Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Woking vs Carlisle Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -2077,6 +2117,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Boston United vs Morecambe DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Boston United vs Morecambe DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Boston United vs Morecambe DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Boston United vs Morecambe DAZN 
@@ -2176,6 +2218,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Wealdstone FC vs Truro City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Wealdstone FC vs Truro City DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Wealdstone FC vs Truro City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Wealdstone FC vs Truro City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -2273,6 +2317,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Tamworth FC vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Tamworth FC vs Scunthorpe Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Tamworth FC vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League", 16:00 Tamworth FC vs Scunthorpe Utd. DAZN 
@@ -2372,6 +2418,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League North", 16:00 Kidderminster vs Scarborough Athletic DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 National League North", 16:00 Kidderminster vs Scarborough Athletic DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 National League North", 16:00 Kidderminster vs Scarborough Athletic DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League North", 16:00 Kidderminster vs Scarborough Athletic DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -2469,6 +2517,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 National League South", 16:00 Chippenham Town vs Dorking Wanderers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 National League South", 16:00 Chippenham Town vs Dorking Wanderers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 National League South", 16:00 Chippenham Town vs Dorking Wanderers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 National League South", 16:00 Chippenham Town vs Dorking Wanderers DAZN 
@@ -2568,6 +2618,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 Jupiler Pro League", 16:00 Club Brugge vs Cercle Brugge DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 Jupiler Pro League", 16:00 Club Brugge vs Cercle Brugge DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 Jupiler Pro League", 16:00 Club Brugge vs Cercle Brugge DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 Jupiler Pro League", 16:00 Club Brugge vs Cercle Brugge DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -2665,6 +2717,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 Carrera Ártica Noruega", 16:45 Etapa 3 Husøy (Senja) › Målselv (182 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 Carrera Ártica Noruega", 16:45 Etapa 3 Husøy (Senja) › Målselv (182 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 Carrera Ártica Noruega", 16:45 Etapa 3 Husøy (Senja) › Målselv (182 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 Carrera Ártica Noruega", 16:45 Etapa 3 Husøy (Senja) › Målselv (182 km) DAZN 
@@ -2779,6 +2833,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 17:00 India vs Arabia Saudí DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 17:00 India vs Arabia Saudí DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 17:00 India vs Arabia Saudí DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 17:00 India vs Arabia Saudí DAZN 
@@ -3002,6 +3058,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 19:00 Buffalo Bills vs New York Giants DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 19:00 Buffalo Bills vs New York Giants DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 19:00 Buffalo Bills vs New York Giants DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 19:00 Buffalo Bills vs New York Giants DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3099,6 +3157,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 Amistoso", 19:30 Grecia vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 Amistoso", 19:30 Grecia vs Serbia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 Amistoso", 19:30 Grecia vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 Amistoso", 19:30 Grecia vs Serbia DAZN 
@@ -3198,6 +3258,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 20:00 China Taipéi vs Nueva Zelanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 20:00 China Taipéi vs Nueva Zelanda DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 20:00 China Taipéi vs Nueva Zelanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 FIBA AsiaCup Fase de grupos", 20:00 China Taipéi vs Nueva Zelanda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3295,6 +3357,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 2. Bundesliga", 20:30 Kaiserslautern vs Schalke 04 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 2. Bundesliga", 20:30 Kaiserslautern vs Schalke 04 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 2. Bundesliga", 20:30 Kaiserslautern vs Schalke 04 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 2. Bundesliga", 20:30 Kaiserslautern vs Schalke 04 DAZN 
@@ -3394,6 +3458,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 Jupiler Pro League", 20:45 Gent vs Saint-Gilloise DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 Jupiler Pro League", 20:45 Gent vs Saint-Gilloise DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 Jupiler Pro League", 20:45 Gent vs Saint-Gilloise DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 Jupiler Pro League", 20:45 Gent vs Saint-Gilloise DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3492,6 +3558,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 22:00 Minnesota Vikings vs Houston Texans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 22:00 Minnesota Vikings vs Houston Texans DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 22:00 Minnesota Vikings vs Houston Texans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 NFL Pretemporada", 22:00 Minnesota Vikings vs Houston Texans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3589,6 +3657,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="09/08 UFC UFC Fight Night", 23:00 R. Dolidze vs A. Hernandez DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="09/08 UFC UFC Fight Night", 23:00 R. Dolidze vs A. Hernandez DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="09/08 UFC UFC Fight Night", 23:00 R. Dolidze vs A. Hernandez DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="09/08 UFC UFC Fight Night", 23:00 R. Dolidze vs A. Hernandez DAZN 
@@ -3696,6 +3766,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:00 Los Angeles Rams vs Dallas Cowboys DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:00 Los Angeles Rams vs Dallas Cowboys DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:00 Los Angeles Rams vs Dallas Cowboys DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:00 Los Angeles Rams vs Dallas Cowboys DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3793,6 +3865,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:00 Jacksonville Jaguars vs Pittsburgh Steelers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:00 Jacksonville Jaguars vs Pittsburgh Steelers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:00 Jacksonville Jaguars vs Pittsburgh Steelers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:00 Jacksonville Jaguars vs Pittsburgh Steelers DAZN 
@@ -3892,6 +3966,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:30 Tampa Bay Buccaneers vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:30 Tampa Bay Buccaneers vs Tennessee Titans DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:30 Tampa Bay Buccaneers vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 01:30 Tampa Bay Buccaneers vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -3989,6 +4065,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:00 Green Bay Packers vs New York Jets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:00 Green Bay Packers vs New York Jets DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:00 Green Bay Packers vs New York Jets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:00 Green Bay Packers vs New York Jets DAZN 
@@ -4088,6 +4166,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:00 Arizona Cardinals vs Kansas City Chiefs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:00 Arizona Cardinals vs Kansas City Chiefs DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:00 Arizona Cardinals vs Kansas City Chiefs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:00 Arizona Cardinals vs Kansas City Chiefs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -4185,6 +4265,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:30 San Francisco 49ers vs Denver Broncos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:30 San Francisco 49ers vs Denver Broncos DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:30 San Francisco 49ers vs Denver Broncos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 02:30 San Francisco 49ers vs Denver Broncos DAZN 
@@ -4284,6 +4366,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 Supercars Championship", 07:15 Queensland Raceway Carrera 3 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="10/08 Supercars Championship", 07:15 Queensland Raceway Carrera 3 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="10/08 Supercars Championship", 07:15 Queensland Raceway Carrera 3 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 Supercars Championship", 07:15 Queensland Raceway Carrera 3 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -4381,6 +4465,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 10:00 Catar vs Australia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 10:00 Catar vs Australia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 10:00 Catar vs Australia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 10:00 Catar vs Australia DAZN 
@@ -4480,6 +4566,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 13:10 Guam vs Japón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 13:10 Guam vs Japón DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 13:10 Guam vs Japón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 13:10 Guam vs Japón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -4577,6 +4665,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 Tour de Polonia", 13:30 Etapa 7 Wieliczka › Wieliczka (12.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="10/08 Tour de Polonia", 13:30 Etapa 7 Wieliczka › Wieliczka (12.5 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="10/08 Tour de Polonia", 13:30 Etapa 7 Wieliczka › Wieliczka (12.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 Tour de Polonia", 13:30 Etapa 7 Wieliczka › Wieliczka (12.5 km) DAZN 
@@ -4691,6 +4781,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 DTM", 13:30 Nurburgring Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="10/08 DTM", 13:30 Nurburgring Carrera 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="10/08 DTM", 13:30 Nurburgring Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 DTM", 13:30 Nurburgring Carrera 2 DAZN 
@@ -4810,6 +4902,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 Carrera Ártica Noruega", 16:45 Etapa 4 Tromsø › Tromsø (141 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="10/08 Carrera Ártica Noruega", 16:45 Etapa 4 Tromsø › Tromsø (141 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="10/08 Carrera Ártica Noruega", 16:45 Etapa 4 Tromsø › Tromsø (141 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 Carrera Ártica Noruega", 16:45 Etapa 4 Tromsø › Tromsø (141 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -4923,6 +5017,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 17:00 Corea del Sur vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 17:00 Corea del Sur vs Líbano DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 17:00 Corea del Sur vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 17:00 Corea del Sur vs Líbano DAZN 
@@ -5150,6 +5246,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 Jupiler Pro League", 18:30 Standard de Liège vs Genk DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="10/08 Jupiler Pro League", 18:30 Standard de Liège vs Genk DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="10/08 Jupiler Pro League", 18:30 Standard de Liège vs Genk DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 Jupiler Pro League", 18:30 Standard de Liège vs Genk DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -5247,6 +5345,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 19:00 Chicago Bears vs Miami Dolphins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 19:00 Chicago Bears vs Miami Dolphins DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 19:00 Chicago Bears vs Miami Dolphins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 19:00 Chicago Bears vs Miami Dolphins DAZN 
@@ -5346,6 +5446,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 NASCAR Cup Series", 20:00 Watkins Glen International Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="10/08 NASCAR Cup Series", 20:00 Watkins Glen International Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="10/08 NASCAR Cup Series", 20:00 Watkins Glen International Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 NASCAR Cup Series", 20:00 Watkins Glen International Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -5444,6 +5546,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 20:00 Siria vs Irán DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 20:00 Siria vs Irán DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 20:00 Siria vs Irán DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 FIBA AsiaCup Fase de grupos", 20:00 Siria vs Irán DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
@@ -5541,6 +5645,8 @@ http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 22:05 Los Angeles Chargers vs New Orleans Saints DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 22:05 Los Angeles Chargers vs New Orleans Saints DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 22:05 Los Angeles Chargers vs New Orleans Saints DAZN 
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="" group-title="10/08 NFL Pretemporada", 22:05 Los Angeles Chargers vs New Orleans Saints DAZN 
