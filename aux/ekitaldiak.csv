@@ -1,6 +1,8 @@
 date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-11,01:10-B. Krejcikova-E. Svitolina,01:10,WTA Cincinnati 2ª Ronda,B. Krejcikova vs E. Svitolina,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-11,01:10-B. Krejcikova-E. Svitolina,01:10,WTA Cincinnati 2ª Ronda,B. Krejcikova vs E. Svitolina,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-11,02:40-C. García-K. Muchova,02:40,WTA Cincinnati 2ª Ronda,C. García vs K. Muchova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-11,02:40-C. García-K. Muchova,02:40,WTA Cincinnati 2ª Ronda,C. García vs K. Muchova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-11,13:00-China Taipéi-Jordania,13:00,FIBA AsiaCup,China Taipéi vs Jordania,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-11,13:00-China Taipéi-Jordania,13:00,FIBA AsiaCup,China Taipéi vs Jordania,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-11,13:00-China Taipéi-Jordania,13:00,FIBA AsiaCup,China Taipéi vs Jordania,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -50,7 +52,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-11,13:00-China Taipéi-Jordania,13:00,FIBA AsiaCup,China Taipéi vs Jordania,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-11,13:00-China Taipéi-Jordania,13:00,FIBA AsiaCup,China Taipéi vs Jordania,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-08-11,13:00-China Taipéi-Jordania,13:00,FIBA AsiaCup,China Taipéi vs Jordania,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-08-11,17:00-J. Bouzas-T. Townsend,17:00,WTA Cincinnati 3ª Ronda,J. Bouzas vs T. Townsend,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-11,17:10-J. Bouzas-T. Townsend,17:10,WTA Cincinnati 3ª Ronda,J. Bouzas vs T. Townsend,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-11,17:10-J. Bouzas-T. Townsend,17:10,WTA Cincinnati 3ª Ronda,J. Bouzas vs T. Townsend,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-11,18:00-Arabia Saudí-Filipinas,18:00,FIBA AsiaCup,Arabia Saudí vs Filipinas,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-11,18:00-Arabia Saudí-Filipinas,18:00,FIBA AsiaCup,Arabia Saudí vs Filipinas,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-11,18:00-Arabia Saudí-Filipinas,18:00,FIBA AsiaCup,Arabia Saudí vs Filipinas,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -100,10 +103,14 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-11,18:00-Arabia Saudí-Filipinas,18:00,FIBA AsiaCup,Arabia Saudí vs Filipinas,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-11,18:00-Arabia Saudí-Filipinas,18:00,FIBA AsiaCup,Arabia Saudí vs Filipinas,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-08-11,18:00-Arabia Saudí-Filipinas,18:00,FIBA AsiaCup,Arabia Saudí vs Filipinas,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
-2025-08-11,18:30-A. Sabalenka-E. Raducanu,18:30,WTA Cincinnati 3ª Ronda,A. Sabalenka vs E. Raducanu,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-11,21:00-A. Kalinskaya-A. Anisimova,21:00,WTA Cincinnati 3ª Ronda,A. Kalinskaya vs A. Anisimova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-11,18:55-A. Sabalenka-E. Raducanu,18:55,WTA Cincinnati 3ª Ronda,A. Sabalenka vs E. Raducanu,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-11,18:55-A. Sabalenka-E. Raducanu,18:55,WTA Cincinnati 3ª Ronda,A. Sabalenka vs E. Raducanu,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-11,21:15-A. Kalinskaya-A. Anisimova,21:15,WTA Cincinnati 3ª Ronda,A. Kalinskaya vs A. Anisimova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-11,21:15-A. Kalinskaya-A. Anisimova,21:15,WTA Cincinnati 3ª Ronda,A. Kalinskaya vs A. Anisimova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-12,01:00-A. Ito-M. Keys,01:00,WTA Cincinnati 3ª Ronda,A. Ito vs M. Keys,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-12,01:00-A. Ito-M. Keys,01:00,WTA Cincinnati 3ª Ronda,A. Ito vs M. Keys,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-12,02:30-E. Rybakina-E. Mertens,02:30,WTA Cincinnati 3ª Ronda,E. Rybakina vs E. Mertens,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-12,02:30-E. Rybakina-E. Mertens,02:30,WTA Cincinnati 3ª Ronda,E. Rybakina vs E. Mertens,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-12,13:30-Etapa 1 Zamosc › Zamosc (105.7 km),13:30,Tour de Polonia Femenino,Etapa 1 Zamosc › Zamosc (105.7 km),DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-12,13:30-Etapa 1 Zamosc › Zamosc (105.7 km),13:30,Tour de Polonia Femenino,Etapa 1 Zamosc › Zamosc (105.7 km),DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-12,13:30-Etapa 1 Zamosc › Zamosc (105.7 km),13:30,Tour de Polonia Femenino,Etapa 1 Zamosc › Zamosc (105.7 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -210,11 +217,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-12,15:30-Etapa 1 Nexø › Rønne (178.3 km),15:30,Tour de Dinamarca,Etapa 1 Nexø › Rønne (178.3 km),Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
 2025-08-12,15:30-Etapa 1 Nexø › Rønne (178.3 km),15:30,Tour de Dinamarca,Etapa 1 Nexø › Rønne (178.3 km),Eurosport 2,0585e09bb8ac9720e4c11934f1b184e309291551,FHD
 2025-08-12,15:30-Etapa 1 Nexø › Rønne (178.3 km),15:30,Tour de Dinamarca,Etapa 1 Nexø › Rønne (178.3 km),Eurosport 2,5c910d614894635153a7d42de98cc2e4a958a53f,SD
-2025-08-12,17:00-M. Linette-J. Pegula,17:00,WTA Cincinnati 3ª Ronda,M. Linette vs J. Pegula,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-12,17:00-D. Yastremska-C. Gauff,17:00,WTA Cincinnati 3ª Ronda,D. Yastremska vs C. Gauff,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-12,17:00-J. Paolini-A. Krueger,17:00,WTA Cincinnati 3ª Ronda,J. Paolini vs A. Krueger,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-12,17:00-C. Tauson-V. Kudermetova,17:00,WTA Cincinnati 3ª Ronda,C. Tauson vs V. Kudermetova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-12,17:00-I. Jovic-B. Krejcikova,17:00,WTA Cincinnati 3ª Ronda,I. Jovic vs B. Krejcikova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-12,17:00-I. Jovic-B. Krejcikova,17:00,WTA Cincinnati 3ª Ronda,I. Jovic vs B. Krejcikova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-12,17:05-3ª Ronda ATP Masters 1000,17:05,Masters Cincinnati,3ª Ronda ATP Masters 1000,Movistar+,102bcb79ca391e37ac1fc9ee77dc53440d0a59ce,FHD
 2025-08-12,17:05-3ª Ronda ATP Masters 1000,17:05,Masters Cincinnati,3ª Ronda ATP Masters 1000,Movistar+,b125325f52e057b8e5ea17a8b60d512d13d44e53,FHD
 2025-08-12,17:05-3ª Ronda ATP Masters 1000,17:05,Masters Cincinnati,3ª Ronda ATP Masters 1000,Movistar+,e47cdeba9d919d6a9b4fa3c72c8094178985f668,FHD
@@ -279,6 +283,14 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-12,17:05-3ª Ronda ATP Masters 1000,17:05,Masters Cincinnati,3ª Ronda ATP Masters 1000,Movistar+,56ac8e227d526e722624675ccdd91b0cc850582f,
 2025-08-12,17:05-3ª Ronda ATP Masters 1000,17:05,Masters Cincinnati,3ª Ronda ATP Masters 1000,Movistar+,d03c13b6723f66155d7a0df3692a3b073fe630f2,
 2025-08-12,17:05-3ª Ronda ATP Masters 1000,17:05,Masters Cincinnati,3ª Ronda ATP Masters 1000,Movistar+,12ba546d229bc39f01c3c18988a034b215fe6adb,
+2025-08-12,18:30-J. Paolini-A. Krueger,18:30,WTA Cincinnati 3ª Ronda,J. Paolini vs A. Krueger,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-12,18:30-J. Paolini-A. Krueger,18:30,WTA Cincinnati 3ª Ronda,J. Paolini vs A. Krueger,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-12,21:00-D. Yastremska-C. Gauff,21:00,WTA Cincinnati 3ª Ronda,D. Yastremska vs C. Gauff,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-12,21:00-D. Yastremska-C. Gauff,21:00,WTA Cincinnati 3ª Ronda,D. Yastremska vs C. Gauff,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-13,01:00-M. Linette-J. Pegula,01:00,WTA Cincinnati 3ª Ronda,M. Linette vs J. Pegula,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-13,01:00-M. Linette-J. Pegula,01:00,WTA Cincinnati 3ª Ronda,M. Linette vs J. Pegula,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-13,02:30-C. Tauson-V. Kudermetova,02:30,WTA Cincinnati 3ª Ronda,C. Tauson vs V. Kudermetova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-13,02:30-C. Tauson-V. Kudermetova,02:30,WTA Cincinnati 3ª Ronda,C. Tauson vs V. Kudermetova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-13,13:30-Etapa 2 Chelm › Chelm (100 km),13:30,Tour de Polonia Femenino,Etapa 2 Chelm › Chelm (100 km),DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-13,13:30-Etapa 2 Chelm › Chelm (100 km),13:30,Tour de Polonia Femenino,Etapa 2 Chelm › Chelm (100 km),DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-13,13:30-Etapa 2 Chelm › Chelm (100 km),13:30,Tour de Polonia Femenino,Etapa 2 Chelm › Chelm (100 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -450,6 +462,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-13,17:05-1/8 de final ATP Masters 1000,17:05,Masters Cincinnati,1/8 de final ATP Masters 1000,Movistar+,d03c13b6723f66155d7a0df3692a3b073fe630f2,
 2025-08-13,17:05-1/8 de final ATP Masters 1000,17:05,Masters Cincinnati,1/8 de final ATP Masters 1000,Movistar+,12ba546d229bc39f01c3c18988a034b215fe6adb,
 2025-08-13,18:00-1/8 de final WTA 1000,18:00,WTA Cincinnati,1/8 de final WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-13,18:00-1/8 de final WTA 1000,18:00,WTA Cincinnati,1/8 de final WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-13,19:30-España-Suiza,19:30,Campeonato de Europa Masculino Fase de clasificación,España vs Suiza,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-08-13,19:30-España-Suiza,19:30,Campeonato de Europa Masculino Fase de clasificación,España vs Suiza,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-08-13,20:00-Napoli-Olympiacos,20:00,Amistoso,Napoli vs Olympiacos,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
