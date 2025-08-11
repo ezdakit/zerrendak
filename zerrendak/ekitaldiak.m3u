@@ -423,6 +423,16 @@ http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-id="" group-title="12/08 Tour de Dinamarca", 15:30 Etapa 1 Nexø › Rønne (178.3 km) Eurosport 2 SD
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
+#EXTINF:-1 tvg-id="" group-title="12/08 WTA Cincinnati 3ª Ronda", 17:00 M. Linette vs J. Pegula Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="12/08 WTA Cincinnati 3ª Ronda", 17:00 D. Yastremska vs C. Gauff Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="12/08 WTA Cincinnati 3ª Ronda", 17:00 J. Paolini vs A. Krueger Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="12/08 WTA Cincinnati 3ª Ronda", 17:00 C. Tauson vs V. Kudermetova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="12/08 WTA Cincinnati 3ª Ronda", 17:00 I. Jovic vs B. Krejcikova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="12/08 Masters Cincinnati", 17:05 3ª Ronda ATP Masters 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-id="" group-title="12/08 Masters Cincinnati", 17:05 3ª Ronda ATP Masters 1000 Movistar+ FHD
@@ -498,7 +508,7 @@ http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 #EXTINF:-1 tvg-id="" group-title="12/08 Masters Cincinnati", 17:05 3ª Ronda ATP Masters 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
 #EXTINF:-1 tvg-id="" group-title="12/08 Masters Cincinnati", 17:05 3ª Ronda ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=a340c77b773a4a78a6c9aa25245a02698e05ac1a
+http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a
 #EXTINF:-1 tvg-id="" group-title="12/08 Masters Cincinnati", 17:05 3ª Ronda ATP Masters 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-id="" group-title="12/08 Masters Cincinnati", 17:05 3ª Ronda ATP Masters 1000 Movistar+ FHD
@@ -551,8 +561,6 @@ http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="" group-title="12/08 Masters Cincinnati", 17:05 3ª Ronda ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
-#EXTINF:-1 tvg-id="" group-title="12/08 WTA Cincinnati", 18:00 3ª Ronda WTA 1000 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="13/08 Tour de Polonia Femenino", 13:30 Etapa 2 Chelm › Chelm (100 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="13/08 Tour de Polonia Femenino", 13:30 Etapa 2 Chelm › Chelm (100 km) DAZN FHD
@@ -840,7 +848,7 @@ http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 #EXTINF:-1 tvg-id="" group-title="13/08 Masters Cincinnati", 17:05 1/8 de final ATP Masters 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
 #EXTINF:-1 tvg-id="" group-title="13/08 Masters Cincinnati", 17:05 1/8 de final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=a340c77b773a4a78a6c9aa25245a02698e05ac1a
+http://127.0.0.1:6878/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a
 #EXTINF:-1 tvg-id="" group-title="13/08 Masters Cincinnati", 17:05 1/8 de final ATP Masters 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-id="" group-title="13/08 Masters Cincinnati", 17:05 1/8 de final ATP Masters 1000 Movistar+ FHD
