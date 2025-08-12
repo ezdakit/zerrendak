@@ -1,8 +1,6 @@
 date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-12,01:10-A. Ito-M. Keys,01:10,WTA Cincinnati 3ª Ronda,A. Ito vs M. Keys,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-12,01:10-A. Ito-M. Keys,01:10,WTA Cincinnati 3ª Ronda,A. Ito vs M. Keys,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-12,04:05-E. Rybakina-E. Mertens,04:05,WTA Cincinnati 3ª Ronda,E. Rybakina vs E. Mertens,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-12,04:05-E. Rybakina-E. Mertens,04:05,WTA Cincinnati 3ª Ronda,E. Rybakina vs E. Mertens,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-12,13:30-Etapa 1 Zamosc › Zamosc (105.7 km),13:30,Tour de Polonia Femenino,Etapa 1 Zamosc › Zamosc (105.7 km),DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-12,13:30-Etapa 1 Zamosc › Zamosc (105.7 km),13:30,Tour de Polonia Femenino,Etapa 1 Zamosc › Zamosc (105.7 km),DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-12,13:30-Etapa 1 Zamosc › Zamosc (105.7 km),13:30,Tour de Polonia Femenino,Etapa 1 Zamosc › Zamosc (105.7 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -110,15 +108,10 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-12,15:30-Etapa 1 Nexø › Rønne (178.3 km),15:30,Tour de Dinamarca,Etapa 1 Nexø › Rønne (178.3 km),Eurosport 2,0585e09bb8ac9720e4c11934f1b184e309291551,FHD
 2025-08-12,15:30-Etapa 1 Nexø › Rønne (178.3 km),15:30,Tour de Dinamarca,Etapa 1 Nexø › Rønne (178.3 km),Eurosport 2,5c910d614894635153a7d42de98cc2e4a958a53f,SD
 2025-08-12,17:00-I. Jovic-B. Krejcikova,17:00,WTA Cincinnati 3ª Ronda,I. Jovic vs B. Krejcikova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-12,17:00-I. Jovic-B. Krejcikova,17:00,WTA Cincinnati 3ª Ronda,I. Jovic vs B. Krejcikova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-12,18:30-J. Paolini-A. Krueger,18:30,WTA Cincinnati 3ª Ronda,J. Paolini vs A. Krueger,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-12,18:30-J. Paolini-A. Krueger,18:30,WTA Cincinnati 3ª Ronda,J. Paolini vs A. Krueger,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-12,21:00-D. Yastremska-C. Gauff,21:00,WTA Cincinnati 3ª Ronda,D. Yastremska vs C. Gauff,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-12,21:00-D. Yastremska-C. Gauff,21:00,WTA Cincinnati 3ª Ronda,D. Yastremska vs C. Gauff,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-13,01:00-M. Linette-J. Pegula,01:00,WTA Cincinnati 3ª Ronda,M. Linette vs J. Pegula,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-13,01:00-M. Linette-J. Pegula,01:00,WTA Cincinnati 3ª Ronda,M. Linette vs J. Pegula,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-13,02:30-C. Tauson-V. Kudermetova,02:30,WTA Cincinnati 3ª Ronda,C. Tauson vs V. Kudermetova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-13,02:30-C. Tauson-V. Kudermetova,02:30,WTA Cincinnati 3ª Ronda,C. Tauson vs V. Kudermetova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-13,13:30-Etapa 2 Chelm › Chelm (100 km),13:30,Tour de Polonia Femenino,Etapa 2 Chelm › Chelm (100 km),DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-13,13:30-Etapa 2 Chelm › Chelm (100 km),13:30,Tour de Polonia Femenino,Etapa 2 Chelm › Chelm (100 km),DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-13,13:30-Etapa 2 Chelm › Chelm (100 km),13:30,Tour de Polonia Femenino,Etapa 2 Chelm › Chelm (100 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -290,7 +283,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-13,17:05-1/8 de final ATP Masters 1000,17:05,Masters Cincinnati,1/8 de final ATP Masters 1000,Movistar+,d03c13b6723f66155d7a0df3692a3b073fe630f2,
 2025-08-13,17:05-1/8 de final ATP Masters 1000,17:05,Masters Cincinnati,1/8 de final ATP Masters 1000,Movistar+,12ba546d229bc39f01c3c18988a034b215fe6adb,
 2025-08-13,18:00-1/8 de final WTA 1000,18:00,WTA Cincinnati,1/8 de final WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-13,18:00-1/8 de final WTA 1000,18:00,WTA Cincinnati,1/8 de final WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-13,19:30-España-Suiza,19:30,Campeonato de Europa Masculino Fase de clasificación,España vs Suiza,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-08-13,19:30-España-Suiza,19:30,Campeonato de Europa Masculino Fase de clasificación,España vs Suiza,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-08-13,20:00-Napoli-Olympiacos,20:00,Amistoso,Napoli vs Olympiacos,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -566,7 +558,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-14,17:00-1/4 de Final ATP Masters 1000,17:00,Masters Cincinnati,1/4 de Final ATP Masters 1000,Movistar+,d03c13b6723f66155d7a0df3692a3b073fe630f2,
 2025-08-14,17:00-1/4 de Final ATP Masters 1000,17:00,Masters Cincinnati,1/4 de Final ATP Masters 1000,Movistar+,12ba546d229bc39f01c3c18988a034b215fe6adb,
 2025-08-14,18:00-1/4 de Final WTA 1000,18:00,WTA Cincinnati,1/4 de Final WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-14,18:00-1/4 de Final WTA 1000,18:00,WTA Cincinnati,1/4 de Final WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-14,21:00-España-Francia,21:00,Amistoso,España vs Francia,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-14,21:00-España-Francia,21:00,Amistoso,España vs Francia,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-14,21:00-España-Francia,21:00,Amistoso,España vs Francia,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
