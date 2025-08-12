@@ -267,8 +267,6 @@ acestream://692d6a47ba99fbfc67fa947e468e859c7f2b9564
 acestream://96f092e1fa99062f6da14cae230b877ad3ed849b
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", CANAL EVENTOS UFC - FOXSPORTS PREMIUNMX 6772
 acestream://04d8f9a91f551adb9cccbcdd478cffa5b24a6772
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
-acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 0333
 acestream://8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 4EF0
@@ -351,10 +349,10 @@ acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 acestream://73094658f0a3ed523c0e188de67a7a690c0d4f93
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD A30B
 acestream://472d1f3a658a51bcab0ffa9138e1e28a05fba30b
+#EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 40BA
+acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 740C
 acestream://dad5e0e0825cb3e410008f1c4252387b868e740c
-#EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD B3F1
-acestream://8f737fce994915cedebd9fe38888b111bd47b3f1
 #EXTINF:-1 tvg-id="La 2" group-title="VARIOS", LA 2 FHD C2ED
 acestream://9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-id="La Sexta HD" group-title="VARIOS", LA SEXTA FHD 457F
