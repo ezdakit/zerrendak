@@ -237,8 +237,8 @@ plugin://script.module.horus?action=play&id=cc5ed178702605513cd18b4899c4be954d30
 plugin://script.module.horus?action=play&id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-id="Aragn TV" group-title="VARIOS", ARAGON TV HD 006B
 plugin://script.module.horus?action=play&id=ba4597903f099695e7d6bcc5938f91cb0798006b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD F54C
-plugin://script.module.horus?action=play&id=610993aea3a2bfd509594334b7461ce96900f54c
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS  68F9
+plugin://script.module.horus?action=play&id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
@@ -307,6 +307,8 @@ plugin://script.module.horus?action=play&id=3e0ba6867173f345d482d80c771f1a5dc3b3
 plugin://script.module.horus?action=play&id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
 #EXTINF:-1 tvg-id="ESPN" group-title="VARIOS", ESPN HD [US] F442
 plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-id="ESPN.1.nl" group-title="VARIOS", ESPN [BE] EDAB
+plugin://script.module.horus?action=play&id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-id="ESPN 2" group-title="VARIOS", ESPN2 [US] 8394
 plugin://script.module.horus?action=play&id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ESPORT 3 FHD 5D64
@@ -433,8 +435,6 @@ plugin://script.module.horus?action=play&id=5133d1e8f45095f0b7dabbd78db0ce19a496
 plugin://script.module.horus?action=play&id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD D9EF
 plugin://script.module.horus?action=play&id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL ECBF
-plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TNT SPORTS HD 965E
@@ -449,7 +449,5 @@ plugin://script.module.horus?action=play&id=d48b299bbcd811cfd14159224bf5012a3050
 plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="VARIOS", ZIGGO SPORT 0058
 plugin://script.module.horus?action=play&id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="VARIOS", ZIGGO SPORT 2 9027
-plugin://script.module.horus?action=play&id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" group-title="VARIOS", ZIGGO SPORT 6 16ED
 plugin://script.module.horus?action=play&id=9231f38e71a85ad24b4c11a5e360992e30c916ed
