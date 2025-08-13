@@ -221,6 +221,8 @@ plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3
 plugin://script.module.horus?action=play&id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 3 HD
 plugin://script.module.horus?action=play&id=778d2f60bb7207addedcca0b9aed98f41529724e
+#EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
+plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
 plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
@@ -405,6 +407,8 @@ plugin://script.module.horus?action=play&id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd
 plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO FHD 1079
 plugin://script.module.horus?action=play&id=cd0188292b6b3876ff66c99bd3d25eab88b41079
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
+plugin://script.module.horus?action=play&id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1 3565
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2 9537
