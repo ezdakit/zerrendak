@@ -7,16 +7,12 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="14/08 WTA Cincinnati 1/8 de final", 00:55 A. Sabalenka vs J. Bouzas Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="14/08 WTA Cincinnati 1/8 de final", 00:55 A. Sabalenka vs J. Bouzas Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="14/08 WTA Cincinnati 1/8 de final", 04:15 E. Alexandrova vs A. Kalinskaya Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="14/08 WTA Cincinnati 1/8 de final", 04:15 E. Alexandrova vs A. Kalinskaya Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="14/08 WTA Cincinnati 1/8 de final", 04:15 E. Alexandrova vs A. Kalinskaya Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="14/08 WTA Cincinnati 1/8 de final", 04:15 E. Alexandrova vs A. Kalinskaya Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="14/08 Tour de República Checa", 14:30 Etapa 1 Prague › Karlovy Vary (163.2 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="14/08 Tour de República Checa", 14:30 Etapa 1 Prague › Karlovy Vary (163.2 km) DAZN FHD
@@ -107,6 +103,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/08 Tour de República Checa", 14:30 Etapa 1 Prague › Karlovy Vary (163.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="14/08 Tour de República Checa", 14:30 Etapa 1 Prague › Karlovy Vary (163.2 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="14/08 Tour de República Checa", 14:30 Etapa 1 Prague › Karlovy Vary (163.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="14/08 Tour de República Checa", 14:30 Etapa 1 Prague › Karlovy Vary (163.2 km) DAZN 
@@ -212,6 +210,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 15:30 Uganda vs Mali DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 15:30 Uganda vs Mali DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 15:30 Uganda vs Mali DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 15:30 Uganda vs Mali DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -307,6 +307,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/08 Tour de Dinamarca", 16:00 Etapa 3 Kerteminde › Kerteminde (14.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="14/08 Tour de Dinamarca", 16:00 Etapa 3 Kerteminde › Kerteminde (14.3 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="14/08 Tour de Dinamarca", 16:00 Etapa 3 Kerteminde › Kerteminde (14.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="14/08 Tour de Dinamarca", 16:00 Etapa 3 Kerteminde › Kerteminde (14.3 km) DAZN 
@@ -412,6 +414,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/08 Vuelta a Portugal", 16:00 Etapa 7 Sabugal › Torre (179.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="14/08 Vuelta a Portugal", 16:00 Etapa 7 Sabugal › Torre (179.3 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="14/08 Vuelta a Portugal", 16:00 Etapa 7 Sabugal › Torre (179.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="14/08 Vuelta a Portugal", 16:00 Etapa 7 Sabugal › Torre (179.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -516,6 +520,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 17:00 Libia vs Sudán del Sur DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 17:00 Libia vs Sudán del Sur DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 17:00 Libia vs Sudán del Sur DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 17:00 Libia vs Sudán del Sur DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -619,8 +625,6 @@ http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 http://127.0.0.1:6878/ace/getstream?id=e740a34497c3ba5943613a06999e805e6bbfa159
 #EXTINF:-1 tvg-id="" group-title="14/08 Masters Cincinnati", 17:05 1/4 de Final ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-id="" group-title="14/08 Masters Cincinnati", 17:05 1/4 de Final ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="" group-title="14/08 Masters Cincinnati", 17:05 1/4 de Final ATP Masters 1000 Movistar+ SD
 http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-id="" group-title="14/08 Masters Cincinnati", 17:05 1/4 de Final ATP Masters 1000 Movistar+ SD
@@ -655,8 +659,6 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="14/08 WTA Cincinnati", 18:00 1/4 de Final WTA 1000 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="14/08 WTA Cincinnati", 18:00 1/4 de Final WTA 1000 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AsiaCup", 18:00 Nueva Zelanda vs Líbano DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AsiaCup", 18:00 Nueva Zelanda vs Líbano DAZN FHD
@@ -747,6 +749,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AsiaCup", 18:00 Nueva Zelanda vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="14/08 FIBA AsiaCup", 18:00 Nueva Zelanda vs Líbano DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AsiaCup", 18:00 Nueva Zelanda vs Líbano DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AsiaCup", 18:00 Nueva Zelanda vs Líbano DAZN 
@@ -844,6 +848,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 18:30 Egipto vs Senegal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 18:30 Egipto vs Senegal DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 18:30 Egipto vs Senegal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 18:30 Egipto vs Senegal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -940,6 +946,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 20:00 Guinea vs Angola DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 20:00 Guinea vs Angola DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 20:00 Guinea vs Angola DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="14/08 FIBA AfroBasket", 20:00 Guinea vs Angola DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1036,6 +1044,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="14/08 Amistoso", 21:00 España vs Francia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="14/08 Amistoso", 21:00 España vs Francia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="14/08 Amistoso", 21:00 España vs Francia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="14/08 Amistoso", 21:00 España vs Francia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1132,6 +1142,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 MotoGP", 10:45 G.P. Austria (Red Bull Ring) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 MotoGP", 10:45 G.P. Austria (Red Bull Ring) Libres 1 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 MotoGP", 10:45 G.P. Austria (Red Bull Ring) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 MotoGP", 10:45 G.P. Austria (Red Bull Ring) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1227,6 +1239,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 Tour de Romandía Femenino", 13:00 Etapa 1 Huémoz › Villars-sur-Ollon (4.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="15/08 Tour de Romandía Femenino", 13:00 Etapa 1 Huémoz › Villars-sur-Ollon (4.4 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="15/08 Tour de Romandía Femenino", 13:00 Etapa 1 Huémoz › Villars-sur-Ollon (4.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 Tour de Romandía Femenino", 13:00 Etapa 1 Huémoz › Villars-sur-Ollon (4.4 km) DAZN 
@@ -1332,6 +1346,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 Danish Golf Championship", 13:00 Jornada 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 Danish Golf Championship", 13:00 Jornada 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 Danish Golf Championship", 13:00 Jornada 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 Danish Golf Championship", 13:00 Jornada 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1435,6 +1451,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 Tour de República Checa", 14:30 Etapa 2 Pardubice › Dlouhé Stráne (172.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="15/08 Tour de República Checa", 14:30 Etapa 2 Pardubice › Dlouhé Stráne (172.8 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="15/08 Tour de República Checa", 14:30 Etapa 2 Pardubice › Dlouhé Stráne (172.8 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 Tour de República Checa", 14:30 Etapa 2 Pardubice › Dlouhé Stráne (172.8 km) DAZN 
@@ -1540,6 +1558,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 MotoGP", 15:00 G.P. Austria (Red Bull Ring) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 MotoGP", 15:00 G.P. Austria (Red Bull Ring) Libres DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 MotoGP", 15:00 G.P. Austria (Red Bull Ring) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 MotoGP", 15:00 G.P. Austria (Red Bull Ring) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1636,6 +1656,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 15:30 Nigeria vs Túnez DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 15:30 Nigeria vs Túnez DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 15:30 Nigeria vs Túnez DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 15:30 Nigeria vs Túnez DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1731,6 +1753,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 Tour de Dinamarca", 16:00 Etapa 4 Svendborg › Vejle (226.9 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="15/08 Tour de Dinamarca", 16:00 Etapa 4 Svendborg › Vejle (226.9 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="15/08 Tour de Dinamarca", 16:00 Etapa 4 Svendborg › Vejle (226.9 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 Tour de Dinamarca", 16:00 Etapa 4 Svendborg › Vejle (226.9 km) DAZN 
@@ -1836,6 +1860,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 Vuelta a Portugal", 16:00 Etapa 8 Ferreira do Zêzere › Santarém (178.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 Vuelta a Portugal", 16:00 Etapa 8 Ferreira do Zêzere › Santarém (178.2 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 Vuelta a Portugal", 16:00 Etapa 8 Ferreira do Zêzere › Santarém (178.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 Vuelta a Portugal", 16:00 Etapa 8 Ferreira do Zêzere › Santarém (178.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -1940,6 +1966,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 17:00 Ruanda vs R.D. Congo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 17:00 Ruanda vs R.D. Congo DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 17:00 Ruanda vs R.D. Congo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 17:00 Ruanda vs R.D. Congo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -2043,8 +2071,6 @@ http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 http://127.0.0.1:6878/ace/getstream?id=e740a34497c3ba5943613a06999e805e6bbfa159
 #EXTINF:-1 tvg-id="" group-title="15/08 Masters Cincinnati", 17:05 1/4 de Final ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-id="" group-title="15/08 Masters Cincinnati", 17:05 1/4 de Final ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="" group-title="15/08 Masters Cincinnati", 17:05 1/4 de Final ATP Masters 1000 Movistar+ SD
 http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-id="" group-title="15/08 Masters Cincinnati", 17:05 1/4 de Final ATP Masters 1000 Movistar+ SD
@@ -2164,6 +2190,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 18:30 Camerún vs Madagascar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 18:30 Camerún vs Madagascar DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 18:30 Camerún vs Madagascar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 18:30 Camerún vs Madagascar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -2260,6 +2288,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 20:00 Cabo Verde vs Costa de Marfil DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 20:00 Cabo Verde vs Costa de Marfil DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 20:00 Cabo Verde vs Costa de Marfil DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 FIBA AfroBasket", 20:00 Cabo Verde vs Costa de Marfil DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -2356,6 +2386,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 Premier League", 21:00 Liverpool vs Bournemouth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 Premier League", 21:00 Liverpool vs Bournemouth DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 Premier League", 21:00 Liverpool vs Bournemouth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 Premier League", 21:00 Liverpool vs Bournemouth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -2452,6 +2484,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 La Liga EA Sports", 21:30 Villarreal vs Real Oviedo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 La Liga EA Sports", 21:30 Villarreal vs Real Oviedo DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 La Liga EA Sports", 21:30 Villarreal vs Real Oviedo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 La Liga EA Sports", 21:30 Villarreal vs Real Oviedo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -2548,6 +2582,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 LaLiga Hypermotion", 21:30 Real Valladolid vs AD Ceuta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 LaLiga Hypermotion", 21:30 Real Valladolid vs AD Ceuta DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 LaLiga Hypermotion", 21:30 Real Valladolid vs AD Ceuta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 LaLiga Hypermotion", 21:30 Real Valladolid vs AD Ceuta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -2644,6 +2680,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="15/08 LaLiga Hypermotion", 21:30 Burgos CF vs Cultural Leonesa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="15/08 LaLiga Hypermotion", 21:30 Burgos CF vs Cultural Leonesa DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="15/08 LaLiga Hypermotion", 21:30 Burgos CF vs Cultural Leonesa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/08 LaLiga Hypermotion", 21:30 Burgos CF vs Cultural Leonesa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -2740,6 +2778,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Tennessee Titans DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 01:00 Atlanta Falcons vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -2836,6 +2876,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 04:00 Seattle Seahawks vs Kansas City Chiefs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 04:00 Seattle Seahawks vs Kansas City Chiefs DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 04:00 Seattle Seahawks vs Kansas City Chiefs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 04:00 Seattle Seahawks vs Kansas City Chiefs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -2932,6 +2974,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 MotoGP", 10:50 G.P. Austria (Red Bull Ring) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 MotoGP", 10:50 G.P. Austria (Red Bull Ring) Clasificación DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 MotoGP", 10:50 G.P. Austria (Red Bull Ring) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 MotoGP", 10:50 G.P. Austria (Red Bull Ring) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -3028,6 +3072,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Moto3", 12:50 G.P. Austria (Red Bull Ring) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Moto3", 12:50 G.P. Austria (Red Bull Ring) Clasificación DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Moto3", 12:50 G.P. Austria (Red Bull Ring) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Moto3", 12:50 G.P. Austria (Red Bull Ring) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -3123,6 +3169,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Tour de Romandía Femenino", 13:00 Etapa 2 Conthey › La Tzoumaz (123.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="16/08 Tour de Romandía Femenino", 13:00 Etapa 2 Conthey › La Tzoumaz (123.2 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="16/08 Tour de Romandía Femenino", 13:00 Etapa 2 Conthey › La Tzoumaz (123.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Tour de Romandía Femenino", 13:00 Etapa 2 Conthey › La Tzoumaz (123.2 km) DAZN 
@@ -3228,6 +3276,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 13:30 AFC Rochdale vs Altrincham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 13:30 AFC Rochdale vs Altrincham DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 National League", 13:30 AFC Rochdale vs Altrincham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 13:30 AFC Rochdale vs Altrincham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -3324,6 +3374,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 13:30 Aston Villa vs Newcastle DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 13:30 Aston Villa vs Newcastle DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 13:30 Aston Villa vs Newcastle DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 13:30 Aston Villa vs Newcastle DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -3420,6 +3472,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Moto2", 13:45 G.P. Austria (Red Bull Ring) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Moto2", 13:45 G.P. Austria (Red Bull Ring) Clasificación DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Moto2", 13:45 G.P. Austria (Red Bull Ring) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Moto2", 13:45 G.P. Austria (Red Bull Ring) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -3516,6 +3570,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Copa de Alemania Femenina", 14:00 Borussia Dortmund Frauen vs Borussia M'gladbach Frauen DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Copa de Alemania Femenina", 14:00 Borussia Dortmund Frauen vs Borussia M'gladbach Frauen DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Copa de Alemania Femenina", 14:00 Borussia Dortmund Frauen vs Borussia M'gladbach Frauen DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Copa de Alemania Femenina", 14:00 Borussia Dortmund Frauen vs Borussia M'gladbach Frauen DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -3611,6 +3667,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Tour de Dinamarca", 14:15 Etapa 5 Hobro › Silkeborg (157.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="16/08 Tour de Dinamarca", 14:15 Etapa 5 Hobro › Silkeborg (157.4 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="16/08 Tour de Dinamarca", 14:15 Etapa 5 Hobro › Silkeborg (157.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Tour de Dinamarca", 14:15 Etapa 5 Hobro › Silkeborg (157.4 km) DAZN 
@@ -3716,6 +3774,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 MotoGP", 15:00 G.P. Austria (Red Bull Ring) Sprint DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 MotoGP", 15:00 G.P. Austria (Red Bull Ring) Sprint DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 MotoGP", 15:00 G.P. Austria (Red Bull Ring) Sprint DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 MotoGP", 15:00 G.P. Austria (Red Bull Ring) Sprint DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -3812,6 +3872,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 15:30 Senegal vs Mali DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 15:30 Senegal vs Mali DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 15:30 Senegal vs Mali DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 15:30 Senegal vs Mali DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -3907,6 +3969,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Tour de República Checa", 15:30 Etapa 3 Prostejov › Ostrava (148.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="16/08 Tour de República Checa", 15:30 Etapa 3 Prostejov › Ostrava (148.4 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="16/08 Tour de República Checa", 15:30 Etapa 3 Prostejov › Ostrava (148.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Tour de República Checa", 15:30 Etapa 3 Prostejov › Ostrava (148.4 km) DAZN 
@@ -4012,6 +4076,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Hartlepool United vs Braintree Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Hartlepool United vs Braintree Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Hartlepool United vs Braintree Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Hartlepool United vs Braintree Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -4108,6 +4174,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Carlisle Utd. vs Boreham Wood DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Carlisle Utd. vs Boreham Wood DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Carlisle Utd. vs Boreham Wood DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Carlisle Utd. vs Boreham Wood DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -4204,6 +4272,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Southend Utd. vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Southend Utd. vs Tamworth FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Southend Utd. vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Southend Utd. vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -4300,6 +4370,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Aldershot vs Boston United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Aldershot vs Boston United DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Aldershot vs Boston United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Aldershot vs Boston United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -4396,6 +4468,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Forest Green Rovers vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Forest Green Rovers vs Yeovil Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Forest Green Rovers vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Forest Green Rovers vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -4492,6 +4566,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Eastleigh FC vs Gateshead DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Eastleigh FC vs Gateshead DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Eastleigh FC vs Gateshead DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Eastleigh FC vs Gateshead DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -4588,6 +4664,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Wealdstone FC vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Wealdstone FC vs Halifax Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Wealdstone FC vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 16:00 Wealdstone FC vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -4684,6 +4762,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Tottenham vs Burnley DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Tottenham vs Burnley DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Tottenham vs Burnley DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Tottenham vs Burnley DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -4780,6 +4860,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Sunderland vs West Ham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Sunderland vs West Ham DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Sunderland vs West Ham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Sunderland vs West Ham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -4876,6 +4958,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Brighton vs Fulham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Brighton vs Fulham DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Brighton vs Fulham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 16:00 Brighton vs Fulham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -4972,6 +5056,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Jupiler Pro League", 16:00 Zulte Waregem vs Club Brugge DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Jupiler Pro League", 16:00 Zulte Waregem vs Club Brugge DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Jupiler Pro League", 16:00 Zulte Waregem vs Club Brugge DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Jupiler Pro League", 16:00 Zulte Waregem vs Club Brugge DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -5068,6 +5154,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 17:00 Racing Santander vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 17:00 Racing Santander vs CD Castellón DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 17:00 Racing Santander vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 17:00 Racing Santander vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -5164,6 +5252,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 17:00 Guinea vs Libia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 17:00 Guinea vs Libia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 17:00 Guinea vs Libia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 17:00 Guinea vs Libia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -5260,6 +5350,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Coppa Italia 2ª Ronda", 18:30 Como 1907 vs Südtirol DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Coppa Italia 2ª Ronda", 18:30 Como 1907 vs Südtirol DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Coppa Italia 2ª Ronda", 18:30 Como 1907 vs Südtirol DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Coppa Italia 2ª Ronda", 18:30 Como 1907 vs Südtirol DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -5356,6 +5448,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 18:30 Truro City vs York City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 18:30 Truro City vs York City DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 National League", 18:30 Truro City vs York City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 National League", 18:30 Truro City vs York City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -5452,6 +5546,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 18:30 Egipto vs Uganda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 18:30 Egipto vs Uganda DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 18:30 Egipto vs Uganda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 18:30 Egipto vs Uganda DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -5548,6 +5644,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 18:30 Wolverhampton vs Manchester City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 18:30 Wolverhampton vs Manchester City DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 18:30 Wolverhampton vs Manchester City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Premier League", 18:30 Wolverhampton vs Manchester City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -5644,6 +5742,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Velada Peso Pesado", 18:45 M. Itauma vs D. Whyte DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Velada Peso Pesado", 18:45 M. Itauma vs D. Whyte DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Velada Peso Pesado", 18:45 M. Itauma vs D. Whyte DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Velada Peso Pesado", 18:45 M. Itauma vs D. Whyte DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -5740,6 +5840,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Philadelphia Eagles vs Cleveland Browns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Philadelphia Eagles vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Philadelphia Eagles vs Cleveland Browns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Philadelphia Eagles vs Cleveland Browns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -5836,6 +5938,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Detroit Lions vs Miami Dolphins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Detroit Lions vs Miami Dolphins DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Detroit Lions vs Miami Dolphins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Detroit Lions vs Miami Dolphins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -5932,6 +6036,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Indianápolis Colts vs Green Bay Packers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Indianápolis Colts vs Green Bay Packers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Indianápolis Colts vs Green Bay Packers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Indianápolis Colts vs Green Bay Packers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -6028,6 +6134,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Minnesota Vikings vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Minnesota Vikings vs New England Patriots DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Minnesota Vikings vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Minnesota Vikings vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -6124,6 +6232,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Houston Texans vs Carolina Panthers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Houston Texans vs Carolina Panthers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Houston Texans vs Carolina Panthers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 19:00 Houston Texans vs Carolina Panthers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -6220,6 +6330,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 19:30 Málaga vs Eibar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 19:30 Málaga vs Eibar DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 19:30 Málaga vs Eibar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 19:30 Málaga vs Eibar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -6316,6 +6428,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 20:00 Angola vs Sudán del Sur DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 20:00 Angola vs Sudán del Sur DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 20:00 Angola vs Sudán del Sur DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 FIBA AfroBasket", 20:00 Angola vs Sudán del Sur DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -6412,6 +6526,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Supercopa de Alemania", 20:30 Stuttgart vs FC Bayern DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Supercopa de Alemania", 20:30 Stuttgart vs FC Bayern DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Supercopa de Alemania", 20:30 Stuttgart vs FC Bayern DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Supercopa de Alemania", 20:30 Stuttgart vs FC Bayern DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -6508,6 +6624,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Jupiler Pro League", 20:45 Saint-Gilloise vs Standard de Liège DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 Jupiler Pro League", 20:45 Saint-Gilloise vs Standard de Liège DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 Jupiler Pro League", 20:45 Saint-Gilloise vs Standard de Liège DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Jupiler Pro League", 20:45 Saint-Gilloise vs Standard de Liège DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -6603,6 +6721,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 Amistoso", 21:00 Francia vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="16/08 Amistoso", 21:00 Francia vs España DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="16/08 Amistoso", 21:00 Francia vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 Amistoso", 21:00 Francia vs España DAZN 
@@ -6704,6 +6824,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 La Liga EA Sports", 21:30 Alavés vs Levante DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="16/08 La Liga EA Sports", 21:30 Alavés vs Levante DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="16/08 La Liga EA Sports", 21:30 Alavés vs Levante DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 La Liga EA Sports", 21:30 Alavés vs Levante DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
@@ -6799,6 +6921,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 21:30 Granada CF vs Deportivo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 21:30 Granada CF vs Deportivo DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 21:30 Granada CF vs Deportivo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 LaLiga Hypermotion", 21:30 Granada CF vs Deportivo DAZN 
@@ -6903,8 +7027,6 @@ http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 http://127.0.0.1:6878/ace/getstream?id=e740a34497c3ba5943613a06999e805e6bbfa159
 #EXTINF:-1 tvg-id="" group-title="16/08 Masters Cincinnati", 22:00 Semifinal 1 ATP Masters 1000 Movistar+ 
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-id="" group-title="16/08 Masters Cincinnati", 22:00 Semifinal 1 ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-id="" group-title="16/08 Masters Cincinnati", 22:00 Semifinal 1 ATP Masters 1000 Movistar+ SD
 http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-id="" group-title="16/08 Masters Cincinnati", 22:00 Semifinal 1 ATP Masters 1000 Movistar+ SD
@@ -7023,6 +7145,8 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 22:00 Las Vegas Raiders vs San Francisco 49ers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 22:00 Las Vegas Raiders vs San Francisco 49ers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 22:00 Las Vegas Raiders vs San Francisco 49ers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="16/08 NFL Pretemporada", 22:00 Las Vegas Raiders vs San Francisco 49ers DAZN 
