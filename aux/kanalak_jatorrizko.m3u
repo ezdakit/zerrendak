@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/24%20Horas%20HD.png" tvg-id="24 Horas" group-title="MOVISTAR", 24 HORAS HD 6cca --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=cc5ed178702605513cd18b4899c4be954d306cca
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Arag%C3%B3n%20TV%20Internacional.png?raw=true" tvg-id="Aragón TV" group-title="MOVISTAR", ARAGON TV HD 006b --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina" group-title="MOVISTAR", CANAL COCINA FHD 849b --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="MOVISTAR", DISCOVERY CHANNEL HD 73d8 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="MOVISTAR", DISCOVERY CHANNEL FHD 2266 --> NEW ERA II
 http://127.0.0.1:6878/ace/getstream?id=c2858a94d2045e5dbb14e99323e90afe4e872266
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR ACCION FHD 59ce --> NEW ERA
