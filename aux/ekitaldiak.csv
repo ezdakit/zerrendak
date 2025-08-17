@@ -714,6 +714,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-17,14:10-Etapa 4 Kromeríž › Pustevny (179 km),14:10,Tour de República Checa,Etapa 4 Kromeríž › Pustevny (179 km),Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
 2025-08-17,14:10-Etapa 4 Kromeríž › Pustevny (179 km),14:10,Tour de República Checa,Etapa 4 Kromeríž › Pustevny (179 km),Eurosport 2,0585e09bb8ac9720e4c11934f1b184e309291551,FHD
 2025-08-17,14:10-Etapa 4 Kromeríž › Pustevny (179 km),14:10,Tour de República Checa,Etapa 4 Kromeríž › Pustevny (179 km),Eurosport 2,5c910d614894635153a7d42de98cc2e4a958a53f,SD
+2025-08-17,14:30-España-Bélgica,14:30,EuroHockey Championship Femenino,España vs Bélgica,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-08-17,14:30-España-Bélgica,14:30,EuroHockey Championship Femenino,España vs Bélgica,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-08-17,15:00-Chelsea-Crystal Palace,15:00,Premier League,Chelsea vs Crystal Palace,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-17,15:00-Chelsea-Crystal Palace,15:00,Premier League,Chelsea vs Crystal Palace,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-17,15:00-Chelsea-Crystal Palace,15:00,Premier League,Chelsea vs Crystal Palace,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -1151,6 +1153,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-17,17:30-Manchester Utd.-Arsenal,17:30,Premier League,Manchester Utd. vs Arsenal,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-17,17:30-Manchester Utd.-Arsenal,17:30,Premier League,Manchester Utd. vs Arsenal,DAZN,8bdeb6055da0be3bd1e1977dbf3640408f7d0267,
 2025-08-17,17:30-Manchester Utd.-Arsenal,17:30,Premier League,Manchester Utd. vs Arsenal,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
+2025-08-17,18:30-España-Alemania,18:30,IHF Mundial Sub-19,España vs Alemania,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-08-17,18:30-España-Alemania,18:30,IHF Mundial Sub-19,España vs Alemania,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-08-17,18:30-Nigeria-Camerún,18:30,FIBA AfroBasket,Nigeria vs Camerún,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-17,18:30-Nigeria-Camerún,18:30,FIBA AfroBasket,Nigeria vs Camerún,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-17,18:30-Nigeria-Camerún,18:30,FIBA AfroBasket,Nigeria vs Camerún,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -1207,6 +1211,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-17,18:30-Nigeria-Camerún,18:30,FIBA AfroBasket,Nigeria vs Camerún,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-08-17,19:00-E. Rybakina-I. Swiatek,19:00,WTA Cincinnati Semifinal 1,E. Rybakina vs I. Swiatek,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
 2025-08-17,19:00-E. Rybakina-I. Swiatek,19:00,WTA Cincinnati Semifinal 1,E. Rybakina vs I. Swiatek,Tennis Channel,3254851ab35da4a1f1a00911aa8f0da9b7ca5be7,
+2025-08-17,19:00-E. Rybakina-I. Swiatek,19:00,WTA Cincinnati Semifinal 1,E. Rybakina vs I. Swiatek,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-17,19:00-E. Rybakina-I. Swiatek,19:00,WTA Cincinnati Semifinal 1,E. Rybakina vs I. Swiatek,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-17,19:00-New Orleans Saints-Jacksonville Jaguars,19:00,NFL Pretemporada,New Orleans Saints vs Jacksonville Jaguars,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-17,19:00-New Orleans Saints-Jacksonville Jaguars,19:00,NFL Pretemporada,New Orleans Saints vs Jacksonville Jaguars,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
@@ -1480,6 +1485,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-17,20:00-Costa de Marfil-R.D. Congo,20:00,FIBA AfroBasket,Costa de Marfil vs R.D. Congo,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-08-17,21:00-V. Kudermetova-J. Paolini,21:00,WTA Cincinnati Semifinal 2,V. Kudermetova vs J. Paolini,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
 2025-08-17,21:00-V. Kudermetova-J. Paolini,21:00,WTA Cincinnati Semifinal 2,V. Kudermetova vs J. Paolini,Tennis Channel,3254851ab35da4a1f1a00911aa8f0da9b7ca5be7,
+2025-08-17,21:00-V. Kudermetova-J. Paolini,21:00,WTA Cincinnati Semifinal 2,V. Kudermetova vs J. Paolini,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-17,21:00-V. Kudermetova-J. Paolini,21:00,WTA Cincinnati Semifinal 2,V. Kudermetova vs J. Paolini,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-17,21:15-AC Milan-Bari,21:15,Coppa Italia 2ª Ronda,AC Milan vs Bari,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-17,21:15-AC Milan-Bari,21:15,Coppa Italia 2ª Ronda,AC Milan vs Bari,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
@@ -1699,6 +1705,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-18,02:00-Chicago Bears-Buffalo Bills,02:00,NFL Pretemporada,Chicago Bears vs Buffalo Bills,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-08-18,17:00-1ª Ronda WTA 250,17:00,WTA Torneo de Cleveland,1ª Ronda WTA 250,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
 2025-08-18,17:00-1ª Ronda WTA 250,17:00,WTA Torneo de Cleveland,1ª Ronda WTA 250,Tennis Channel,3254851ab35da4a1f1a00911aa8f0da9b7ca5be7,
+2025-08-18,17:00-1ª Ronda WTA 250,17:00,WTA Torneo de Cleveland,1ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-18,17:00-1ª Ronda WTA 250,17:00,WTA Torneo de Cleveland,1ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-18,18:30-Spezia Calcio-Sampdoria,18:30,Coppa Italia 2ª Ronda,Spezia Calcio vs Sampdoria,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-18,18:30-Spezia Calcio-Sampdoria,18:30,Coppa Italia 2ª Ronda,Spezia Calcio vs Sampdoria,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
@@ -1810,6 +1817,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-18,19:00-Sporting Gijón-Córdoba,19:00,LaLiga Hypermotion,Sporting Gijón vs Córdoba,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-08-18,21:00-Final WTA 1000,21:00,WTA Cincinnati,Final WTA 1000,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
 2025-08-18,21:00-Final WTA 1000,21:00,WTA Cincinnati,Final WTA 1000,Tennis Channel,3254851ab35da4a1f1a00911aa8f0da9b7ca5be7,
+2025-08-18,21:00-Final WTA 1000,21:00,WTA Cincinnati,Final WTA 1000,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-18,21:00-Final WTA 1000,21:00,WTA Cincinnati,Final WTA 1000,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-18,21:00-Leeds Utd-Everton,21:00,Premier League,Leeds Utd vs Everton,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-18,21:00-Leeds Utd-Everton,21:00,Premier League,Leeds Utd vs Everton,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
@@ -1921,6 +1929,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-18,21:30-UD Almería-Albacete,21:30,LaLiga Hypermotion,UD Almería vs Albacete,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-08-18,23:00-1ª Ronda WTA 500,23:00,WTA Torneo de Monterrey,1ª Ronda WTA 500,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
 2025-08-18,23:00-1ª Ronda WTA 500,23:00,WTA Torneo de Monterrey,1ª Ronda WTA 500,Tennis Channel,3254851ab35da4a1f1a00911aa8f0da9b7ca5be7,
+2025-08-18,23:00-1ª Ronda WTA 500,23:00,WTA Torneo de Monterrey,1ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-18,23:00-1ª Ronda WTA 500,23:00,WTA Torneo de Monterrey,1ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-19,02:00-Washington Commanders-Cincinnati Bengals,02:00,NFL Pretemporada,Washington Commanders vs Cincinnati Bengals,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-19,02:00-Washington Commanders-Cincinnati Bengals,02:00,NFL Pretemporada,Washington Commanders vs Cincinnati Bengals,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
@@ -1978,9 +1987,11 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,02:00-Washington Commanders-Cincinnati Bengals,02:00,NFL Pretemporada,Washington Commanders vs Cincinnati Bengals,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-08-19,17:00-1ª Ronda Dobles Mixtos Grand Slam,17:00,US Open,1ª Ronda Dobles Mixtos Grand Slam,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
 2025-08-19,17:00-1ª Ronda Dobles Mixtos Grand Slam,17:00,US Open,1ª Ronda Dobles Mixtos Grand Slam,Tennis Channel,3254851ab35da4a1f1a00911aa8f0da9b7ca5be7,
+2025-08-19,17:00-1ª Ronda Dobles Mixtos Grand Slam,17:00,US Open,1ª Ronda Dobles Mixtos Grand Slam,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-19,17:00-1ª Ronda Dobles Mixtos Grand Slam,17:00,US Open,1ª Ronda Dobles Mixtos Grand Slam,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-19,17:00-2ª Ronda WTA 250,17:00,WTA Torneo de Cleveland,2ª Ronda WTA 250,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
 2025-08-19,17:00-2ª Ronda WTA 250,17:00,WTA Torneo de Cleveland,2ª Ronda WTA 250,Tennis Channel,3254851ab35da4a1f1a00911aa8f0da9b7ca5be7,
+2025-08-19,17:00-2ª Ronda WTA 250,17:00,WTA Torneo de Cleveland,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-19,17:00-2ª Ronda WTA 250,17:00,WTA Torneo de Cleveland,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-19,20:00-Eslovenia-Gran Bretaña,20:00,Amistoso,Eslovenia vs Gran Bretaña,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-19,20:00-Eslovenia-Gran Bretaña,20:00,Amistoso,Eslovenia vs Gran Bretaña,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
@@ -2470,4 +2481,5 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,21:00-Real Madrid-Osasuna,21:00,La Liga EA Sports,Real Madrid vs Osasuna,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-08-19,23:00-1ª y 2ª Ronda WTA 500,23:00,WTA Torneo de Monterrey,1ª y 2ª Ronda WTA 500,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
 2025-08-19,23:00-1ª y 2ª Ronda WTA 500,23:00,WTA Torneo de Monterrey,1ª y 2ª Ronda WTA 500,Tennis Channel,3254851ab35da4a1f1a00911aa8f0da9b7ca5be7,
+2025-08-19,23:00-1ª y 2ª Ronda WTA 500,23:00,WTA Torneo de Monterrey,1ª y 2ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-19,23:00-1ª y 2ª Ronda WTA 500,23:00,WTA Torneo de Monterrey,1ª y 2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
