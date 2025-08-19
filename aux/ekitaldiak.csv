@@ -51,7 +51,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,02:00-Washington Commanders-Cincinnati Bengals,02:00,NFL Pretemporada,Washington Commanders vs Cincinnati Bengals,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-19,02:00-Washington Commanders-Cincinnati Bengals,02:00,NFL Pretemporada,Washington Commanders vs Cincinnati Bengals,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-19,02:00-Washington Commanders-Cincinnati Bengals,02:00,NFL Pretemporada,Washington Commanders vs Cincinnati Bengals,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-19,02:00-Washington Commanders-Cincinnati Bengals,02:00,NFL Pretemporada,Washington Commanders vs Cincinnati Bengals,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-19,02:00-Washington Commanders-Cincinnati Bengals,02:00,NFL Pretemporada,Washington Commanders vs Cincinnati Bengals,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-19,02:00-Washington Commanders-Cincinnati Bengals,02:00,NFL Pretemporada,Washington Commanders vs Cincinnati Bengals,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-19,03:05-K. Boulter-Y. Yuan,03:05,WTA Torneo de Cleveland 1ª Ronda,K. Boulter vs Y. Yuan,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
@@ -63,9 +62,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,05:25-J. Cristian-L. Fernández,05:25,WTA Torneo de Monterrey 1ª Ronda,J. Cristian vs L. Fernández,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
 2025-08-19,05:25-J. Cristian-L. Fernández,05:25,WTA Torneo de Monterrey 1ª Ronda,J. Cristian vs L. Fernández,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
 2025-08-19,05:25-J. Cristian-L. Fernández,05:25,WTA Torneo de Monterrey 1ª Ronda,J. Cristian vs L. Fernández,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
-2025-08-19,17:05-2ª Ronda WTA 250,17:05,WTA Torneo de Cleveland,2ª Ronda WTA 250,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
-2025-08-19,17:05-2ª Ronda WTA 250,17:05,WTA Torneo de Cleveland,2ª Ronda WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-19,17:05-2ª Ronda WTA 250,17:05,WTA Torneo de Cleveland,2ª Ronda WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-19,17:00-A. Zakharova-H. Baptiste,17:00,WTA Torneo de Cleveland 2ª Ronda,A. Zakharova vs H. Baptiste,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
+2025-08-19,17:00-A. Zakharova-H. Baptiste,17:00,WTA Torneo de Cleveland 2ª Ronda,A. Zakharova vs H. Baptiste,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-19,17:00-A. Zakharova-H. Baptiste,17:00,WTA Torneo de Cleveland 2ª Ronda,A. Zakharova vs H. Baptiste,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-19,18:30-E. Lys-P. Kudermetova,18:30,WTA Torneo de Cleveland 2ª Ronda,E. Lys vs P. Kudermetova,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
+2025-08-19,18:30-E. Lys-P. Kudermetova,18:30,WTA Torneo de Cleveland 2ª Ronda,E. Lys vs P. Kudermetova,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-19,18:30-E. Lys-P. Kudermetova,18:30,WTA Torneo de Cleveland 2ª Ronda,E. Lys vs P. Kudermetova,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-19,20:00-Eslovenia-Gran Bretaña,20:00,Amistoso,Eslovenia vs Gran Bretaña,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-19,20:00-Eslovenia-Gran Bretaña,20:00,Amistoso,Eslovenia vs Gran Bretaña,DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-19,20:00-Eslovenia-Gran Bretaña,20:00,Amistoso,Eslovenia vs Gran Bretaña,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -109,7 +111,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,20:00-Eslovenia-Gran Bretaña,20:00,Amistoso,Eslovenia vs Gran Bretaña,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-19,20:00-Eslovenia-Gran Bretaña,20:00,Amistoso,Eslovenia vs Gran Bretaña,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-19,20:00-Eslovenia-Gran Bretaña,20:00,Amistoso,Eslovenia vs Gran Bretaña,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-19,20:00-Eslovenia-Gran Bretaña,20:00,Amistoso,Eslovenia vs Gran Bretaña,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-19,20:00-Eslovenia-Gran Bretaña,20:00,Amistoso,Eslovenia vs Gran Bretaña,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-19,20:00-Eslovenia-Gran Bretaña,20:00,Amistoso,Eslovenia vs Gran Bretaña,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-19,20:45-Carlisle Utd.-Solihull Moors,20:45,National League,Carlisle Utd. vs Solihull Moors,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -155,7 +156,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,20:45-Carlisle Utd.-Solihull Moors,20:45,National League,Carlisle Utd. vs Solihull Moors,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-19,20:45-Carlisle Utd.-Solihull Moors,20:45,National League,Carlisle Utd. vs Solihull Moors,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-19,20:45-Carlisle Utd.-Solihull Moors,20:45,National League,Carlisle Utd. vs Solihull Moors,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-19,20:45-Carlisle Utd.-Solihull Moors,20:45,National League,Carlisle Utd. vs Solihull Moors,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-19,20:45-Carlisle Utd.-Solihull Moors,20:45,National League,Carlisle Utd. vs Solihull Moors,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-19,20:45-Carlisle Utd.-Solihull Moors,20:45,National League,Carlisle Utd. vs Solihull Moors,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-19,20:45-Altrincham-Hartlepool United,20:45,National League,Altrincham vs Hartlepool United,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -201,7 +201,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,20:45-Altrincham-Hartlepool United,20:45,National League,Altrincham vs Hartlepool United,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-19,20:45-Altrincham-Hartlepool United,20:45,National League,Altrincham vs Hartlepool United,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-19,20:45-Altrincham-Hartlepool United,20:45,National League,Altrincham vs Hartlepool United,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-19,20:45-Altrincham-Hartlepool United,20:45,National League,Altrincham vs Hartlepool United,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-19,20:45-Altrincham-Hartlepool United,20:45,National League,Altrincham vs Hartlepool United,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-19,20:45-Altrincham-Hartlepool United,20:45,National League,Altrincham vs Hartlepool United,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-19,20:45-Woking-Wealdstone FC,20:45,National League,Woking vs Wealdstone FC,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -247,7 +246,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,20:45-Woking-Wealdstone FC,20:45,National League,Woking vs Wealdstone FC,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-19,20:45-Woking-Wealdstone FC,20:45,National League,Woking vs Wealdstone FC,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-19,20:45-Woking-Wealdstone FC,20:45,National League,Woking vs Wealdstone FC,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-19,20:45-Woking-Wealdstone FC,20:45,National League,Woking vs Wealdstone FC,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-19,20:45-Woking-Wealdstone FC,20:45,National League,Woking vs Wealdstone FC,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-19,20:45-Woking-Wealdstone FC,20:45,National League,Woking vs Wealdstone FC,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-19,20:45-Boston United-Halifax Town,20:45,National League,Boston United vs Halifax Town,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -293,7 +291,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,20:45-Boston United-Halifax Town,20:45,National League,Boston United vs Halifax Town,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-19,20:45-Boston United-Halifax Town,20:45,National League,Boston United vs Halifax Town,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-19,20:45-Boston United-Halifax Town,20:45,National League,Boston United vs Halifax Town,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-19,20:45-Boston United-Halifax Town,20:45,National League,Boston United vs Halifax Town,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-19,20:45-Boston United-Halifax Town,20:45,National League,Boston United vs Halifax Town,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-19,20:45-Boston United-Halifax Town,20:45,National League,Boston United vs Halifax Town,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-19,20:45-Tamworth FC-Truro City,20:45,National League,Tamworth FC vs Truro City,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -339,7 +336,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,20:45-Tamworth FC-Truro City,20:45,National League,Tamworth FC vs Truro City,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-19,20:45-Tamworth FC-Truro City,20:45,National League,Tamworth FC vs Truro City,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-19,20:45-Tamworth FC-Truro City,20:45,National League,Tamworth FC vs Truro City,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-19,20:45-Tamworth FC-Truro City,20:45,National League,Tamworth FC vs Truro City,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-19,20:45-Tamworth FC-Truro City,20:45,National League,Tamworth FC vs Truro City,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-19,20:45-Tamworth FC-Truro City,20:45,National League,Tamworth FC vs Truro City,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-19,20:45-Southport-Macclesfield Town,20:45,National League North,Southport vs Macclesfield Town,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -385,7 +381,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,20:45-Southport-Macclesfield Town,20:45,National League North,Southport vs Macclesfield Town,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-19,20:45-Southport-Macclesfield Town,20:45,National League North,Southport vs Macclesfield Town,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-19,20:45-Southport-Macclesfield Town,20:45,National League North,Southport vs Macclesfield Town,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-19,20:45-Southport-Macclesfield Town,20:45,National League North,Southport vs Macclesfield Town,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-19,20:45-Southport-Macclesfield Town,20:45,National League North,Southport vs Macclesfield Town,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-19,20:45-Southport-Macclesfield Town,20:45,National League North,Southport vs Macclesfield Town,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-19,20:45-Maidstone Utd-Hampton & Richmond,20:45,National League South,Maidstone Utd vs Hampton & Richmond,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -431,7 +426,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,20:45-Maidstone Utd-Hampton & Richmond,20:45,National League South,Maidstone Utd vs Hampton & Richmond,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-19,20:45-Maidstone Utd-Hampton & Richmond,20:45,National League South,Maidstone Utd vs Hampton & Richmond,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-19,20:45-Maidstone Utd-Hampton & Richmond,20:45,National League South,Maidstone Utd vs Hampton & Richmond,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-19,20:45-Maidstone Utd-Hampton & Richmond,20:45,National League South,Maidstone Utd vs Hampton & Richmond,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-19,20:45-Maidstone Utd-Hampton & Richmond,20:45,National League South,Maidstone Utd vs Hampton & Richmond,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-19,20:45-Maidstone Utd-Hampton & Richmond,20:45,National League South,Maidstone Utd vs Hampton & Richmond,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-19,21:00-Real Madrid-Osasuna,21:00,La Liga EA Sports,Real Madrid vs Osasuna,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -477,12 +471,23 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-19,21:00-Real Madrid-Osasuna,21:00,La Liga EA Sports,Real Madrid vs Osasuna,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-19,21:00-Real Madrid-Osasuna,21:00,La Liga EA Sports,Real Madrid vs Osasuna,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-19,21:00-Real Madrid-Osasuna,21:00,La Liga EA Sports,Real Madrid vs Osasuna,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-19,21:00-Real Madrid-Osasuna,21:00,La Liga EA Sports,Real Madrid vs Osasuna,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-19,21:00-Real Madrid-Osasuna,21:00,La Liga EA Sports,Real Madrid vs Osasuna,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-19,21:00-Real Madrid-Osasuna,21:00,La Liga EA Sports,Real Madrid vs Osasuna,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
-2025-08-19,23:05-1ª y 2ª Ronda WTA 500,23:05,WTA Torneo de Monterrey,1ª y 2ª Ronda WTA 500,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
-2025-08-19,23:05-1ª y 2ª Ronda WTA 500,23:05,WTA Torneo de Monterrey,1ª y 2ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-08-19,23:05-1ª y 2ª Ronda WTA 500,23:05,WTA Torneo de Monterrey,1ª y 2ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-19,23:00-R. Sramkova-V. Rodríguez,23:00,WTA Torneo de Monterrey 1ª Ronda,R. Sramkova vs V. Rodríguez,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
+2025-08-19,23:00-R. Sramkova-V. Rodríguez,23:00,WTA Torneo de Monterrey 1ª Ronda,R. Sramkova vs V. Rodríguez,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-19,23:00-R. Sramkova-V. Rodríguez,23:00,WTA Torneo de Monterrey 1ª Ronda,R. Sramkova vs V. Rodríguez,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-20,00:30-A. Li-I. Jovic,00:30,WTA Torneo de Cleveland 2ª Ronda,A. Li vs I. Jovic,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
+2025-08-20,00:30-A. Li-I. Jovic,00:30,WTA Torneo de Cleveland 2ª Ronda,A. Li vs I. Jovic,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-20,00:30-A. Li-I. Jovic,00:30,WTA Torneo de Cleveland 2ª Ronda,A. Li vs I. Jovic,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-20,01:00-A. Pavlyuchenkova-A. Ruzic,01:00,WTA Torneo de Monterrey 1ª Ronda,A. Pavlyuchenkova vs A. Ruzic,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
+2025-08-20,01:00-A. Pavlyuchenkova-A. Ruzic,01:00,WTA Torneo de Monterrey 1ª Ronda,A. Pavlyuchenkova vs A. Ruzic,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-20,01:00-A. Pavlyuchenkova-A. Ruzic,01:00,WTA Torneo de Monterrey 1ª Ronda,A. Pavlyuchenkova vs A. Ruzic,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-20,03:30-R. Zarazúa-A. Tomljanovic,03:30,WTA Torneo de Monterrey 1ª Ronda,R. Zarazúa vs A. Tomljanovic,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
+2025-08-20,03:30-R. Zarazúa-A. Tomljanovic,03:30,WTA Torneo de Monterrey 1ª Ronda,R. Zarazúa vs A. Tomljanovic,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-20,03:30-R. Zarazúa-A. Tomljanovic,03:30,WTA Torneo de Monterrey 1ª Ronda,R. Zarazúa vs A. Tomljanovic,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
+2025-08-20,05:00-L. Noskova-L. Sun,05:00,WTA Torneo de Monterrey 1ª Ronda,L. Noskova vs L. Sun,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
+2025-08-20,05:00-L. Noskova-L. Sun,05:00,WTA Torneo de Monterrey 1ª Ronda,L. Noskova vs L. Sun,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
+2025-08-20,05:00-L. Noskova-L. Sun,05:00,WTA Torneo de Monterrey 1ª Ronda,L. Noskova vs L. Sun,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-08-20,15:30-Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),15:30,Tour del Benelux,Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
 2025-08-20,15:30-Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),15:30,Tour del Benelux,Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),DAZN,520950d296c952e1864a08e15af9f89f1ab514ec,FHD
 2025-08-20,15:30-Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),15:30,Tour del Benelux,Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
@@ -526,7 +531,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-20,15:30-Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),15:30,Tour del Benelux,Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-20,15:30-Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),15:30,Tour del Benelux,Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-20,15:30-Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),15:30,Tour del Benelux,Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-20,15:30-Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),15:30,Tour del Benelux,Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-20,15:30-Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),15:30,Tour del Benelux,Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-20,15:30-Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),15:30,Tour del Benelux,Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-20,15:30-Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),15:30,Tour del Benelux,Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km),Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
@@ -581,7 +585,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-20,20:45-Yeovil Town-Brackley Town,20:45,National League,Yeovil Town vs Brackley Town,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-20,20:45-Yeovil Town-Brackley Town,20:45,National League,Yeovil Town vs Brackley Town,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-20,20:45-Yeovil Town-Brackley Town,20:45,National League,Yeovil Town vs Brackley Town,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-20,20:45-Yeovil Town-Brackley Town,20:45,National League,Yeovil Town vs Brackley Town,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-20,20:45-Yeovil Town-Brackley Town,20:45,National League,Yeovil Town vs Brackley Town,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-20,20:45-Yeovil Town-Brackley Town,20:45,National League,Yeovil Town vs Brackley Town,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-20,20:45-AFC Rochdale-Gateshead,20:45,National League,AFC Rochdale vs Gateshead,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -627,7 +630,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-20,20:45-AFC Rochdale-Gateshead,20:45,National League,AFC Rochdale vs Gateshead,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-20,20:45-AFC Rochdale-Gateshead,20:45,National League,AFC Rochdale vs Gateshead,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-20,20:45-AFC Rochdale-Gateshead,20:45,National League,AFC Rochdale vs Gateshead,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-20,20:45-AFC Rochdale-Gateshead,20:45,National League,AFC Rochdale vs Gateshead,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-20,20:45-AFC Rochdale-Gateshead,20:45,National League,AFC Rochdale vs Gateshead,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-20,20:45-AFC Rochdale-Gateshead,20:45,National League,AFC Rochdale vs Gateshead,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-20,20:45-Southend Utd.-York City,20:45,National League,Southend Utd. vs York City,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -673,7 +675,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-20,20:45-Southend Utd.-York City,20:45,National League,Southend Utd. vs York City,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-20,20:45-Southend Utd.-York City,20:45,National League,Southend Utd. vs York City,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-20,20:45-Southend Utd.-York City,20:45,National League,Southend Utd. vs York City,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-20,20:45-Southend Utd.-York City,20:45,National League,Southend Utd. vs York City,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-20,20:45-Southend Utd.-York City,20:45,National League,Southend Utd. vs York City,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-20,20:45-Southend Utd.-York City,20:45,National League,Southend Utd. vs York City,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-20,20:45-Aldershot-Eastleigh FC,20:45,National League,Aldershot vs Eastleigh FC,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -719,7 +720,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-20,20:45-Aldershot-Eastleigh FC,20:45,National League,Aldershot vs Eastleigh FC,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-20,20:45-Aldershot-Eastleigh FC,20:45,National League,Aldershot vs Eastleigh FC,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-20,20:45-Aldershot-Eastleigh FC,20:45,National League,Aldershot vs Eastleigh FC,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-20,20:45-Aldershot-Eastleigh FC,20:45,National League,Aldershot vs Eastleigh FC,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-20,20:45-Aldershot-Eastleigh FC,20:45,National League,Aldershot vs Eastleigh FC,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-20,20:45-Aldershot-Eastleigh FC,20:45,National League,Aldershot vs Eastleigh FC,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-20,20:45-Forest Green Rovers-Sutton United,20:45,National League,Forest Green Rovers vs Sutton United,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -765,7 +765,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-20,20:45-Forest Green Rovers-Sutton United,20:45,National League,Forest Green Rovers vs Sutton United,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-20,20:45-Forest Green Rovers-Sutton United,20:45,National League,Forest Green Rovers vs Sutton United,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-20,20:45-Forest Green Rovers-Sutton United,20:45,National League,Forest Green Rovers vs Sutton United,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-20,20:45-Forest Green Rovers-Sutton United,20:45,National League,Forest Green Rovers vs Sutton United,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-20,20:45-Forest Green Rovers-Sutton United,20:45,National League,Forest Green Rovers vs Sutton United,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-20,20:45-Forest Green Rovers-Sutton United,20:45,National League,Forest Green Rovers vs Sutton United,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-20,20:45-Boreham Wood-Braintree Town,20:45,National League,Boreham Wood vs Braintree Town,DAZN,f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892,FHD
@@ -811,7 +810,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-20,20:45-Boreham Wood-Braintree Town,20:45,National League,Boreham Wood vs Braintree Town,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-20,20:45-Boreham Wood-Braintree Town,20:45,National League,Boreham Wood vs Braintree Town,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-20,20:45-Boreham Wood-Braintree Town,20:45,National League,Boreham Wood vs Braintree Town,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-20,20:45-Boreham Wood-Braintree Town,20:45,National League,Boreham Wood vs Braintree Town,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-20,20:45-Boreham Wood-Braintree Town,20:45,National League,Boreham Wood vs Braintree Town,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-20,20:45-Boreham Wood-Braintree Town,20:45,National League,Boreham Wood vs Braintree Town,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-20,23:05-2ª Ronda WTA 500,23:05,WTA Torneo de Monterrey,2ª Ronda WTA 500,Tennis Channel,71698ee415b6ba3f123aac1c8c37cc97376f20d0,FHD
@@ -860,7 +858,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-21,15:30-Etapa 2 Blankenberge › Ardooie (172.7 km),15:30,Tour del Benelux,Etapa 2 Blankenberge › Ardooie (172.7 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-21,15:30-Etapa 2 Blankenberge › Ardooie (172.7 km),15:30,Tour del Benelux,Etapa 2 Blankenberge › Ardooie (172.7 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-21,15:30-Etapa 2 Blankenberge › Ardooie (172.7 km),15:30,Tour del Benelux,Etapa 2 Blankenberge › Ardooie (172.7 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-21,15:30-Etapa 2 Blankenberge › Ardooie (172.7 km),15:30,Tour del Benelux,Etapa 2 Blankenberge › Ardooie (172.7 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-21,15:30-Etapa 2 Blankenberge › Ardooie (172.7 km),15:30,Tour del Benelux,Etapa 2 Blankenberge › Ardooie (172.7 km),DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-21,15:30-Etapa 2 Blankenberge › Ardooie (172.7 km),15:30,Tour del Benelux,Etapa 2 Blankenberge › Ardooie (172.7 km),DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-21,15:30-Etapa 2 Blankenberge › Ardooie (172.7 km),15:30,Tour del Benelux,Etapa 2 Blankenberge › Ardooie (172.7 km),Eurosport 1,bae98f69fbf867550b4f73b4eb176dae84d7f909,FHD
@@ -918,7 +915,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-08-21,21:00-España-Alemania,21:00,Amistoso,España vs Alemania,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-08-21,21:00-España-Alemania,21:00,Amistoso,España vs Alemania,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-08-21,21:00-España-Alemania,21:00,Amistoso,España vs Alemania,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
-2025-08-21,21:00-España-Alemania,21:00,Amistoso,España vs Alemania,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-08-21,21:00-España-Alemania,21:00,Amistoso,España vs Alemania,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-08-21,21:00-España-Alemania,21:00,Amistoso,España vs Alemania,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-08-21,21:00-España-Alemania,21:00,Amistoso,España vs Alemania,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
