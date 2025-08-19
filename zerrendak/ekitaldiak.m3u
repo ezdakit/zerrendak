@@ -5,14 +5,20 @@
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Cincinnati Final", 00:00 I. Swiatek vs J. Paolini Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/08 WTA Cincinnati Final", 00:00 I. Swiatek vs J. Paolini Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 1ª Ronda", 00:40 P. Stearns vs Y. Wang Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 1ª Ronda", 00:40 P. Stearns vs Y. Wang Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 1ª Ronda", 00:40 P. Stearns vs Y. Wang Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 01:05 A. Blinkova vs E. Mertens Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 01:05 A. Blinkova vs E. Mertens Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 01:05 A. Blinkova vs E. Mertens Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
@@ -109,22 +115,32 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 1ª Ronda", 03:05 K. Boulter vs Y. Yuan Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 1ª Ronda", 03:05 K. Boulter vs Y. Yuan Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 03:40 M. Sakkari vs D. Vekic Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 03:40 M. Sakkari vs D. Vekic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 03:40 M. Sakkari vs D. Vekic Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 05:25 J. Cristian vs L. Fernández Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 05:25 J. Cristian vs L. Fernández Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 05:25 J. Cristian vs L. Fernández Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 2ª Ronda", 17:00 A. Zakharova vs H. Baptiste Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 2ª Ronda", 17:00 A. Zakharova vs H. Baptiste Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 2ª Ronda", 17:00 A. Zakharova vs H. Baptiste Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 2ª Ronda", 18:30 E. Lys vs P. Kudermetova Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 2ª Ronda", 18:30 E. Lys vs P. Kudermetova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 2ª Ronda", 18:30 E. Lys vs P. Kudermetova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
@@ -957,22 +973,32 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 23:00 R. Sramkova vs V. Rodríguez Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 23:00 R. Sramkova vs V. Rodríguez Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Cleveland 2ª Ronda", 00:30 A. Li vs I. Jovic Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Cleveland 2ª Ronda", 00:30 A. Li vs I. Jovic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Cleveland 2ª Ronda", 00:30 A. Li vs I. Jovic Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey 1ª Ronda", 01:00 A. Pavlyuchenkova vs A. Ruzic Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey 1ª Ronda", 01:00 A. Pavlyuchenkova vs A. Ruzic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey 1ª Ronda", 01:00 A. Pavlyuchenkova vs A. Ruzic Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey 1ª Ronda", 03:30 R. Zarazúa vs A. Tomljanovic Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey 1ª Ronda", 03:30 R. Zarazúa vs A. Tomljanovic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey 1ª Ronda", 03:30 R. Zarazúa vs A. Tomljanovic Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey 1ª Ronda", 05:00 L. Noskova vs L. Sun Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey 1ª Ronda", 05:00 L. Noskova vs L. Sun Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey 1ª Ronda", 05:00 L. Noskova vs L. Sun Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
@@ -1071,8 +1097,6 @@ http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
-#EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) Eurosport 1 
-http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) Eurosport 1 
@@ -1081,6 +1105,8 @@ http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Cleveland", 17:05 2ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Cleveland", 17:05 2ª Ronda WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
@@ -1637,6 +1663,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey", 23:05 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey", 23:05 2ª Ronda WTA 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
@@ -1735,8 +1763,6 @@ http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
-#EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) Eurosport 1 
-http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) Eurosport 1 
@@ -1747,6 +1773,8 @@ http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland", 17:05 1/4 de Final WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland", 17:05 1/4 de Final WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/08 Vuelta a España", 19:30 Presentación de Equipos Edición 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/08 Vuelta a España", 19:30 Presentación de Equipos Edición 2025 Teledeporte FHD
@@ -1851,3 +1879,5 @@ http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey", 23:05 1/4 de Final WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey", 23:05 1/4 de Final WTA 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
