@@ -257,8 +257,6 @@ plugin://script.module.horus?action=play&id=d4f56cda0a15f47e7820daaac8e37b4d67d9
 plugin://script.module.horus?action=play&id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
 #EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD 849B
 plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed849b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
-plugin://script.module.horus?action=play&id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 0333
 plugin://script.module.horus?action=play&id=8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 4EF0
