@@ -19,6 +19,8 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Monterrey 1ª Ronda", 01:05 A. Blinkova vs E. Mertens Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
@@ -52,7 +54,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
@@ -61,6 +71,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="19/08 NFL Pretemporada", 02:00 Washington Commanders vs Cincinnati Bengals DAZN FHD
@@ -141,6 +153,8 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="19/08 WTA Torneo de Cleveland 2ª Ronda", 18:30 E. Lys vs P. Kudermetova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
@@ -174,7 +188,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
@@ -183,6 +205,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN FHD
@@ -233,6 +257,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="19/08 Amistoso", 20:00 Eslovenia vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
@@ -266,7 +292,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
@@ -275,6 +309,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN FHD
@@ -325,6 +361,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Carlisle Utd. vs Solihull Moors DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
@@ -358,7 +396,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
@@ -367,6 +413,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN FHD
@@ -417,6 +465,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Altrincham vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
@@ -450,7 +500,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
@@ -459,6 +517,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN FHD
@@ -509,6 +569,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Woking vs Wealdstone FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
@@ -542,7 +604,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
@@ -551,6 +621,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN FHD
@@ -601,6 +673,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Boston United vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
@@ -634,7 +708,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
@@ -643,6 +725,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN FHD
@@ -693,6 +777,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="19/08 National League", 20:45 Tamworth FC vs Truro City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
@@ -726,7 +812,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
@@ -735,6 +829,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN FHD
@@ -785,6 +881,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="19/08 National League North", 20:45 Southport vs Macclesfield Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
@@ -818,7 +916,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
@@ -827,6 +933,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN FHD
@@ -877,6 +985,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="19/08 National League South", 20:45 Maidstone Utd vs Hampton & Richmond DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
@@ -910,7 +1020,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
@@ -919,6 +1037,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="19/08 La Liga EA Sports", 21:00 Real Madrid vs Osasuna DAZN FHD
@@ -999,6 +1119,8 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey 1ª Ronda", 05:00 L. Noskova vs L. Sun Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
@@ -1032,7 +1154,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
@@ -1041,6 +1171,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) DAZN FHD
@@ -1094,6 +1226,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) Eurosport 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="" group-title="20/08 Tour del Benelux", 15:30 Etapa 1 Terneuzen › Breskens (Sluis) (182.6 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
@@ -1109,6 +1243,8 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Cleveland", 17:05 2ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
@@ -1142,7 +1278,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
@@ -1151,6 +1295,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN FHD
@@ -1201,6 +1347,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Yeovil Town vs Brackley Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
@@ -1234,7 +1382,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
@@ -1243,6 +1399,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN FHD
@@ -1293,6 +1451,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 AFC Rochdale vs Gateshead DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
@@ -1326,7 +1486,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
@@ -1335,6 +1503,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN FHD
@@ -1385,6 +1555,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Southend Utd. vs York City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
@@ -1418,7 +1590,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
@@ -1427,6 +1607,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN FHD
@@ -1477,6 +1659,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Aldershot vs Eastleigh FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
@@ -1510,7 +1694,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
@@ -1519,6 +1711,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN FHD
@@ -1569,6 +1763,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Forest Green Rovers vs Sutton United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
@@ -1602,7 +1798,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
@@ -1611,6 +1815,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="20/08 National League", 20:45 Boreham Wood vs Braintree Town DAZN FHD
@@ -1667,6 +1873,8 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="20/08 WTA Torneo de Monterrey", 23:05 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
@@ -1700,7 +1908,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
@@ -1709,6 +1925,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN FHD
@@ -1762,6 +1980,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) Eurosport 1 FHD
+http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
@@ -1783,6 +2003,8 @@ http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/08 Vuelta a España", 19:30 Presentación de Equipos Edición 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
@@ -1816,7 +2038,15 @@ http://127.0.0.1:6878/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 #EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6fb944e8985881ae6db89667aca6362e746255b6
+#EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
+#EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
@@ -1825,6 +2055,8 @@ http://127.0.0.1:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
 http://127.0.0.1:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
+#EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="" group-title="21/08 Amistoso", 21:00 España vs Alemania DAZN FHD
