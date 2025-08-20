@@ -29,6 +29,8 @@ plugin://script.module.horus?action=play&id=ca923c9873fd206a41c1e83ff8fc40e3cf32
 plugin://script.module.horus?action=play&id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
 plugin://script.module.horus?action=play&id=ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
+plugin://script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 plugin://script.module.horus?action=play&id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
