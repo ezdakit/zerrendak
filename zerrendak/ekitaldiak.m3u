@@ -1,29 +1,29 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 00:30 L. Samsonova vs Y. Wang Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 00:55 L. Samsonova vs Y. Wang Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 00:30 L. Samsonova vs Y. Wang Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 00:55 L. Samsonova vs Y. Wang Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 00:30 L. Samsonova vs Y. Wang Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 00:55 L. Samsonova vs Y. Wang Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 01:00 M. Bouzkova vs B. Haddad Maia Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 01:15 M. Bouzkova vs B. Haddad Maia Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 01:00 M. Bouzkova vs B. Haddad Maia Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 01:15 M. Bouzkova vs B. Haddad Maia Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 01:00 M. Bouzkova vs B. Haddad Maia Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 01:15 M. Bouzkova vs B. Haddad Maia Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 03:30 E. Navarro vs A. Parks Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 03:40 E. Navarro vs A. Parks Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 03:30 E. Navarro vs A. Parks Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 03:40 E. Navarro vs A. Parks Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 03:30 E. Navarro vs A. Parks Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 03:40 E. Navarro vs A. Parks Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 05:00 A. Tomljanovic vs E. Alexandrova Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 06:10 A. Tomljanovic vs E. Alexandrova Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 05:00 A. Tomljanovic vs E. Alexandrova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 06:10 A. Tomljanovic vs E. Alexandrova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 05:00 A. Tomljanovic vs E. Alexandrova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Monterrey 2ª Ronda", 06:10 A. Tomljanovic vs E. Alexandrova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/08 Tour del Benelux", 15:30 Etapa 2 Blankenberge › Ardooie (172.7 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
@@ -147,11 +147,23 @@ http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-id="" group-title="21/08 Amistoso Femenino", 16:00 FC Bayern Femenino vs Real Madrid Femenino Real Madrid TV 
 http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 17:00 T. Gibson vs X. Wang Tennis Channel FHD
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 17:00 T. Gibson vs X. Wang Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 17:00 T. Gibson vs X. Wang Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland", 17:05 1/4 de Final WTA 250 Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland", 17:05 1/4 de Final WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland", 17:05 1/4 de Final WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 17:30 K. Boulter vs V. Golubic Tennis Channel FHD
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 17:30 K. Boulter vs V. Golubic Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/08 WTA Torneo de Cleveland 2ª Ronda", 17:30 K. Boulter vs V. Golubic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/08 Amistoso Femenino", 19:00 London City Lionesses vs O. Lyonnais Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
