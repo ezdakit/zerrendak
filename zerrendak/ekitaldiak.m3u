@@ -1,12 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 01:00 A. Parks vs R. Sramkova Tennis Channel FHD
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 01:00 A. Parks vs R. Sramkova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 01:00 A. Parks vs R. Sramkova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/08 NFL Pretemporada", 01:00 Carolina Panthers vs Pittsburgh Steelers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="22/08 NFL Pretemporada", 01:00 Carolina Panthers vs Pittsburgh Steelers DAZN FHD
@@ -113,11 +107,11 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="22/08 NFL Pretemporada", 01:00 Carolina Panthers vs Pittsburgh Steelers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland 1/4 de Final", 02:00 L. Samsonova vs S. Cirstea Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland 1/4 de Final", 01:25 L. Samsonova vs S. Cirstea Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland 1/4 de Final", 02:00 L. Samsonova vs S. Cirstea Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland 1/4 de Final", 01:25 L. Samsonova vs S. Cirstea Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland 1/4 de Final", 02:00 L. Samsonova vs S. Cirstea Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland 1/4 de Final", 01:25 L. Samsonova vs S. Cirstea Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/08 NFL Pretemporada", 02:00 New York Giants vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
@@ -225,17 +219,29 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="22/08 NFL Pretemporada", 02:00 New York Giants vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey 1/4 de Final", 03:00 L. Noskova vs E. Alexandrova Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 02:25 A. Parks vs R. Sramkova Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey 1/4 de Final", 03:00 L. Noskova vs E. Alexandrova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 02:25 A. Parks vs R. Sramkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey 1/4 de Final", 03:00 L. Noskova vs E. Alexandrova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 02:25 A. Parks vs R. Sramkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 04:30 A. Ruzic vs M. Bouzkova Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland 1/4 de Final", 04:00 V. Golubic vs X. Wang Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 04:30 A. Ruzic vs M. Bouzkova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland 1/4 de Final", 04:00 V. Golubic vs X. Wang Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 04:30 A. Ruzic vs M. Bouzkova Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland 1/4 de Final", 04:00 V. Golubic vs X. Wang Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey 1/4 de Final", 04:05 L. Noskova vs E. Alexandrova Tennis Channel FHD
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey 1/4 de Final", 04:05 L. Noskova vs E. Alexandrova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey 1/4 de Final", 04:05 L. Noskova vs E. Alexandrova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 06:45 A. Ruzic vs M. Bouzkova Tennis Channel FHD
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 06:45 A. Ruzic vs M. Bouzkova Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Monterrey", 06:45 A. Ruzic vs M. Bouzkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/08 MotoGP", 10:45 G.P. Hungría (Balaton Park) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
@@ -1419,11 +1425,11 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="22/08 LaLiga Hypermotion", 21:30 CD Castellón vs Real Valladolid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland", 23:30 Semifinal 1 WTA 250 Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland Semifinal 1", 23:30 S. Cirstea vs A. Zakharova Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland", 23:30 Semifinal 1 WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland Semifinal 1", 23:30 S. Cirstea vs A. Zakharova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland", 23:30 Semifinal 1 WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="22/08 WTA Torneo de Cleveland Semifinal 1", 23:30 S. Cirstea vs A. Zakharova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="22/08 FIBA AmeriCup", 23:40 Venezuela vs Canadá DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
@@ -1531,17 +1537,17 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="22/08 FIBA AmeriCup", 23:40 Venezuela vs Canadá DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Monterrey", 01:30 Semifinal 1 WTA 500 Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Monterrey Semifinal 1", 01:30 A. Parks vs D. Shnaider Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Monterrey", 01:30 Semifinal 1 WTA 500 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Monterrey Semifinal 1", 01:30 A. Parks vs D. Shnaider Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Monterrey", 01:30 Semifinal 1 WTA 500 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Monterrey Semifinal 1", 01:30 A. Parks vs D. Shnaider Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Cleveland", 01:30 Semifinal 2 WTA 250 Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Cleveland Semifinal 2", 01:30 A. Li vs X. Wang Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Cleveland", 01:30 Semifinal 2 WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Cleveland Semifinal 2", 01:30 A. Li vs X. Wang Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Cleveland", 01:30 Semifinal 2 WTA 250 Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Cleveland Semifinal 2", 01:30 A. Li vs X. Wang Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="23/08 NFL Pretemporada", 01:30 New York Jets vs Philadelphia Eagles DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d

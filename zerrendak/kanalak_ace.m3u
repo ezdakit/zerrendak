@@ -357,6 +357,8 @@ acestream://9934906503661142f97a044ae1509a294057c2ed
 acestream://44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD DF98
 acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
+#EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION F404
+acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 4E53
 acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 59CE
@@ -403,6 +405,8 @@ acestream://0000000000000000000000000000000000000006
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO FHD 1079
 acestream://cd0188292b6b3876ff66c99bd3d25eab88b41079
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
+acestream://abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1 3565
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2 9537
