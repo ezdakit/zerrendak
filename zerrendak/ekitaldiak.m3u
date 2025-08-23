@@ -5,14 +5,10 @@
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Monterrey Semifinal 1", 01:10 A. Parks vs D. Shnaider Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Monterrey Semifinal 1", 01:10 A. Parks vs D. Shnaider Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Cleveland Semifinal 2", 01:15 A. Li vs X. Wang Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Cleveland Semifinal 2", 01:15 A. Li vs X. Wang Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Cleveland Semifinal 2", 01:15 A. Li vs X. Wang Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="23/08 NFL Pretemporada", 01:30 New York Jets vs Philadelphia Eagles DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="23/08 NFL Pretemporada", 01:30 New York Jets vs Philadelphia Eagles DAZN FHD
@@ -641,8 +637,6 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Monterrey Semifinal 2", 03:40 M. Bouzkova vs E. Alexandrova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Monterrey Semifinal 2", 03:40 M. Bouzkova vs E. Alexandrova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="23/08 FIBA AmeriCup", 05:10 República Dominicana vs Colombia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="23/08 FIBA AmeriCup", 05:10 República Dominicana vs Colombia DAZN FHD
@@ -1072,9 +1066,9 @@ http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="" group-title="23/08 Vuelta a España", 12:45 Etapa 1 Torino - Reggia di Venaria › Novara (200 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="23/08 Vuelta a España", 12:45 Etapa 1 Torino - Reggia di Venaria › Novara (200 km) Eurosport 1 
-http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="" group-title="23/08 Vuelta a España", 12:45 Etapa 1 Torino - Reggia di Venaria › Novara (200 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="" group-title="23/08 Vuelta a España", 12:45 Etapa 1 Torino - Reggia di Venaria › Novara (200 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="23/08 Vuelta a España", 12:45 Etapa 1 Torino - Reggia di Venaria › Novara (200 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="23/08 Moto3", 12:45 G.P. Hungría (Balaton Park) Clasificación DAZN 
@@ -1194,9 +1188,9 @@ http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="" group-title="23/08 Moto3", 12:45 G.P. Hungría (Balaton Park) Clasificación Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="23/08 Moto3", 12:45 G.P. Hungría (Balaton Park) Clasificación Eurosport 1 
-http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="" group-title="23/08 Moto3", 12:45 G.P. Hungría (Balaton Park) Clasificación Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="" group-title="23/08 Moto3", 12:45 G.P. Hungría (Balaton Park) Clasificación Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="23/08 Moto3", 12:45 G.P. Hungría (Balaton Park) Clasificación Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="23/08 2. Bundesliga", 13:00 Hannover 96 vs 1. FC Magdeburg DAZN 
@@ -3920,9 +3914,9 @@ http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="" group-title="23/08 Vuelta a España", 16:15 Etapa 1 Torino - Reggia di Venaria › Novara (200 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="23/08 Vuelta a España", 16:15 Etapa 1 Torino - Reggia di Venaria › Novara (200 km) Eurosport 1 
-http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="" group-title="23/08 Vuelta a España", 16:15 Etapa 1 Torino - Reggia di Venaria › Novara (200 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="" group-title="23/08 Vuelta a España", 16:15 Etapa 1 Torino - Reggia di Venaria › Novara (200 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="23/08 Vuelta a España", 16:15 Etapa 1 Torino - Reggia di Venaria › Novara (200 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="23/08 LaLiga Hypermotion", 17:00 Mirandés vs Huesca DAZN 
@@ -5489,8 +5483,6 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Cleveland Final", 20:30 S. Cirstea vs A. Li Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="23/08 WTA Torneo de Cleveland Final", 20:30 S. Cirstea vs A. Li Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="23/08 Serie A Italiana", 20:45 AS Roma vs Bologna DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="23/08 Serie A Italiana", 20:45 AS Roma vs Bologna DAZN FHD
@@ -6847,8 +6839,6 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="24/08 WTA Torneo de Monterrey", 04:00 Final WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="24/08 WTA Torneo de Monterrey", 04:00 Final WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="24/08 Velada Peso Medio", 04:00 A. Gonzalez vs A. Flores DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="24/08 Velada Peso Medio", 04:00 A. Gonzalez vs A. Flores DAZN FHD
@@ -7486,9 +7476,9 @@ http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="" group-title="24/08 Vuelta a España", 13:20 Etapa 2 Alba › Puerto Limone (157 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="24/08 Vuelta a España", 13:20 Etapa 2 Alba › Puerto Limone (157 km) Eurosport 1 
-http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="" group-title="24/08 Vuelta a España", 13:20 Etapa 2 Alba › Puerto Limone (157 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="" group-title="24/08 Vuelta a España", 13:20 Etapa 2 Alba › Puerto Limone (157 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="24/08 Vuelta a España", 13:20 Etapa 2 Alba › Puerto Limone (157 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="24/08 2. Bundesliga", 13:30 Darmstadt 98 vs Hertha Berlin DAZN 
@@ -8652,9 +8642,9 @@ http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="" group-title="24/08 Vuelta a España", 16:15 Etapa 2 Alba › Puerto Limone (157 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="24/08 Vuelta a España", 16:15 Etapa 2 Alba › Puerto Limone (157 km) Eurosport 1 
-http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="" group-title="24/08 Vuelta a España", 16:15 Etapa 2 Alba › Puerto Limone (157 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="" group-title="24/08 Vuelta a España", 16:15 Etapa 2 Alba › Puerto Limone (157 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="24/08 Vuelta a España", 16:15 Etapa 2 Alba › Puerto Limone (157 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="24/08 La Liga EA Sports", 17:00 Osasuna vs Valencia CF DAZN 
@@ -10650,9 +10640,9 @@ http://127.0.0.1:6878/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="" group-title="25/08 Vuelta a España", 14:00 Etapa 3 San Maurizio Canavese › Ceres (139 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="25/08 Vuelta a España", 14:00 Etapa 3 San Maurizio Canavese › Ceres (139 km) Eurosport 1 
-http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-id="" group-title="25/08 Vuelta a España", 14:00 Etapa 3 San Maurizio Canavese › Ceres (139 km) Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="" group-title="25/08 Vuelta a España", 14:00 Etapa 3 San Maurizio Canavese › Ceres (139 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="25/08 Vuelta a España", 14:00 Etapa 3 San Maurizio Canavese › Ceres (139 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="25/08 National League", 16:00 Yeovil Town vs Gateshead DAZN 
