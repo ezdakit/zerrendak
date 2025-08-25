@@ -399,6 +399,8 @@ acestream://0000000000000000000000000000000000000006
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO FHD 1079
 acestream://cd0188292b6b3876ff66c99bd3d25eab88b41079
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
+acestream://abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1 3565
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2 9537
@@ -431,6 +433,8 @@ acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL FHD 20D0
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", TNT SPORTS HD 965E
 acestream://5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 #EXTINF:-1 tvg-id="Torol TV" group-title="VARIOS", TOROLE TV FHD 3B0C
@@ -443,5 +447,7 @@ acestream://d48b299bbcd811cfd14159224bf5012a305021c1
 acestream://108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="VARIOS", ZIGGO SPORT 0058
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="VARIOS", ZIGGO SPORT 2 9027
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" group-title="VARIOS", ZIGGO SPORT 6 16ED
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
