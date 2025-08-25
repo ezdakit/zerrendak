@@ -313,8 +313,6 @@ plugin://script.module.horus?action=play&id=c1dc6eae98863efdaf1ac941a620b2eb5ee7
 plugin://script.module.horus?action=play&id=704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 4D0E
 plugin://script.module.horus?action=play&id=c3da6c4f91d9d10ade00318a869435e19f204d0e
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 705D
-plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD F909
 plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 0A62
@@ -339,8 +337,6 @@ plugin://script.module.horus?action=play&id=9fb99c40a2c45d5c5342b30626eb56140f98
 plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 4F93
 plugin://script.module.horus?action=play&id=73094658f0a3ed523c0e188de67a7a690c0d4f93
-#EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 740C
-plugin://script.module.horus?action=play&id=dad5e0e0825cb3e410008f1c4252387b868e740c
 #EXTINF:-1 tvg-id="La 2" group-title="VARIOS", LA 2 FHD C2ED
 plugin://script.module.horus?action=play&id=9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-id="La Sexta HD" group-title="VARIOS", LA SEXTA FHD 457F
