@@ -205,8 +205,6 @@ plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3
 plugin://script.module.horus?action=play&id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 3 HD
 plugin://script.module.horus?action=play&id=778d2f60bb7207addedcca0b9aed98f41529724e
-#EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
-plugin://script.module.horus?action=play&id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
 plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
@@ -351,6 +349,8 @@ plugin://script.module.horus?action=play&id=9934906503661142f97a044ae1509a294057
 plugin://script.module.horus?action=play&id=44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD DF98
 plugin://script.module.horus?action=play&id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
+#EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION F404
+plugin://script.module.horus?action=play&id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 4E53
 plugin://script.module.horus?action=play&id=b125325f52e057b8e5ea17a8b60d512d13d44e53
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 59CE
@@ -415,8 +415,6 @@ plugin://script.module.horus?action=play&id=6ad87abc93cc3c8508be327e313afcd3aa37
 plugin://script.module.horus?action=play&id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET 3DDD
 plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-id="UK | Sky Sport Football" group-title="VARIOS", SKY SPORTS FOOTBALL B26D
-plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="UK | Sky Sport Main Event" group-title="VARIOS", SKY SPORTS MAIN EVENT DF5E
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD 76F5
@@ -445,8 +443,6 @@ plugin://script.module.horus?action=play&id=a912c28fa837e6a3f2aa8bb6c52661bb533c
 plugin://script.module.horus?action=play&id=d48b299bbcd811cfd14159224bf5012a305021c1
 #EXTINF:-1 tvg-id="" group-title="VARIOS", UFC FIGHT PASS 89AD
 plugin://script.module.horus?action=play&id=108aebe20efc826e56f3a1cb01117a124a6b89ad
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="VARIOS", ZIGGO SPORT 0058
-plugin://script.module.horus?action=play&id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="VARIOS", ZIGGO SPORT 2 9027
 plugin://script.module.horus?action=play&id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" group-title="VARIOS", ZIGGO SPORT 6 16ED
