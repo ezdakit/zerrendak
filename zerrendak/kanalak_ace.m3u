@@ -17,6 +17,12 @@ acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
+acestream://55fbbfad1710ee189571a12c03aea16a575d3587
+#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD
+acestream://922f78bda47b116a04bdecbdf87910e50c613884
+#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD
+acestream://89741b5b8811706b07596f9501897261dabcc8c9
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD
 acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD
@@ -27,6 +33,8 @@ acestream://9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
 acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
+acestream://934f6932d3df1dadfca3abb1de700c7de768a07e
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
@@ -43,6 +51,8 @@ acestream://c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 acestream://6a11eb510edc5b3581c5c97883c44563eb894b1b
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 HD
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 HD
+acestream://fe93574af69d8c0881348d5fd21427ef355e2820
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
 acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
@@ -53,6 +63,14 @@ acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
+acestream://e9c86ef2a37805347db90763c399f4dfd5dce7d3
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
+acestream://7541f7062898d46353176e7a5a565b9d6102347b
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
+acestream://d29dd1cf451e619beb8e2d20c32361380da5ca92
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
+acestream://a725595391ccbd9cb42dfadbef3890384bd1180a
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
 acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
@@ -279,14 +297,26 @@ acestream://515efd8115482bda8d92aa6df9a882a5e5797494
 acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 9A69
 acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD AFC8
+acestream://0d8741d425dc148271c003ccb4d311704146afc8
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD AFC8
+acestream://0d8741d425dc148271c003ccb4d311704146afc8
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD B8CC
 acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BB29
 acestream://6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BE55
 acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD CE11
+acestream://1232d1e56aab9998e96d8bd7dee2819a2ebece11
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD CE11
+acestream://1232d1e56aab9998e96d8bd7dee2819a2ebece11
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD F6D1
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 HD 32B9
+acestream://c0ce08172e4b8a0eb5d4229538a091c64c8532b9
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 HD 32B9
+acestream://c0ce08172e4b8a0eb5d4229538a091c64c8532b9
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD 1727
 acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="Discovery" group-title="VARIOS", DISCOVERY CHANNEL FHD 2266
@@ -307,6 +337,8 @@ acestream://181fcc443b953d54b00a1bf6320ccbb097e85d64
 acestream://4bf4431b4815f07c1b3749f5a10f905ba566cd47
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ESSPN LAT DEPORT 8AF8
 acestream://ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 6CD8
+acestream://bb5bf47cd03273d226c1e69f14c942e3d41d6cd8
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 414A
 acestream://704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 4D0E
@@ -315,12 +347,12 @@ acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e
 acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD F909
 acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 0A62
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 21D3
 acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD E78A
 acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 AD74
+acestream://5bf803f91edcf3eb4246f9d5dc23bd038737ad74
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 1551
 acestream://0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 1ECC
@@ -339,6 +371,10 @@ acestream://73094658f0a3ed523c0e188de67a7a690c0d4f93
 acestream://dad5e0e0825cb3e410008f1c4252387b868e740c
 #EXTINF:-1 tvg-id="La 2" group-title="VARIOS", LA 2 FHD C2ED
 acestream://9934906503661142f97a044ae1509a294057c2ed
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD DF98
+acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
+#EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION F404
+acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 4E53
 acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 59CE
@@ -405,8 +441,6 @@ acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD D9EF
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL ECBF
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL FHD 20D0
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
