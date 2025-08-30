@@ -229,8 +229,6 @@ plugin://script.module.horus?action=play&id=cc5ed178702605513cd18b4899c4be954d30
 plugin://script.module.horus?action=play&id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-id="Aragn TV" group-title="VARIOS", ARAGON TV HD 006B
 plugin://script.module.horus?action=play&id=ba4597903f099695e7d6bcc5938f91cb0798006b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD F54C
-plugin://script.module.horus?action=play&id=610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD 69EB
@@ -315,8 +313,6 @@ plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7
 plugin://script.module.horus?action=play&id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD E78A
 plugin://script.module.horus?action=play&id=d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 AD74
-plugin://script.module.horus?action=play&id=5bf803f91edcf3eb4246f9d5dc23bd038737ad74
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 1551
 plugin://script.module.horus?action=play&id=0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 1ECC
@@ -399,6 +395,8 @@ plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849
 plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 #EXTINF:-1 tvg-id="" group-title="VARIOS", REAL MADRID TV HD 891E
 plugin://script.module.horus?action=play&id=7a955964c91c66311eef9137a96332352dbb891e
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR BFF3
+plugin://script.module.horus?action=play&id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA B79C
 plugin://script.module.horus?action=play&id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET 3DDD
@@ -417,6 +415,8 @@ plugin://script.module.horus?action=play&id=5133d1e8f45095f0b7dabbd78db0ce19a496
 plugin://script.module.horus?action=play&id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD D9EF
 plugin://script.module.horus?action=play&id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL ECBF
+plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL FHD 20D0
 plugin://script.module.horus?action=play&id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
