@@ -174,6 +174,8 @@ acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933
 #EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ Vamos FHD
 acestream://2940120bf034db79a7f5849846ccea0255172eae
 #EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ Vamos FHD
+acestream://651d6be899d1fafa107a265a9dc00ff914c1b548
+#EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ Vamos FHD
 acestream://1444a976d2cf6e7fdcee833ed36ee5e55632253f
 #EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ Vamos FHD
 acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
@@ -259,6 +261,10 @@ acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 acestream://8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 4EF0
 acestream://8d66979e705a8b532b9243bbc0862c0f1c734ef0
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1 8FB5
+acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 2 0267
+acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 3 447D
 acestream://4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 4K F66D
@@ -303,8 +309,12 @@ acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-id="ESPN 2" group-title="VARIOS", ESPN2 [US] 8394
 acestream://664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 tvg-id="Esport 3" group-title="VARIOS", ESPORT 3 FHD 7425
+acestream://ca20f93ea5d9c15744e48a21b52598b9fce87425
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ESSPN ARGENTINA CD47
 acestream://4bf4431b4815f07c1b3749f5a10f905ba566cd47
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ESSPN LAT DEPORT 8AF8
+acestream://ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 414A
 acestream://704e51760a644bc90aa22269bf84139947a0414a
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 4D0E
