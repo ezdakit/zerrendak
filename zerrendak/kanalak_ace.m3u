@@ -56,7 +56,7 @@ acestream://c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
 acestream://2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV FHD
-acestream://07f2b92762cfff99bba785c2f5260c7934ca6034
+acestream://555855f4fc0125bfcf113648887d99a47941b3b3
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV FHD
 acestream://c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
@@ -189,6 +189,8 @@ acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 acestream://8677d339ecddd75165c0015025f598b6215974cf
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp FHD
 acestream://f15f997f457e49ad9697e65cf2d78db26ee875b9
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp FHD
+acestream://ff38b875b60074d60edb64cf10d09b32370a7135
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp FHD
 acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp HD
@@ -355,14 +357,14 @@ acestream://508ffdbab097339adb4f3d922070b5df2c114d01
 acestream://1f092144252939810fd302cbd00d46de760b5dd7
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR VACACIONES FHD 4DE6
 acestream://15123ab3458c59bf548fbf6e5503799e81da4de6
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR WESTERN FHD A159
-acestream://e740a34497c3ba5943613a06999e805e6bbfa159
 #EXTINF:-1 tvg-id="Sport NBA" group-title="VARIOS", NBA TV 8073
 acestream://b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO 7312
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO FHD 1079
 acestream://cd0188292b6b3876ff66c99bd3d25eab88b41079
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
+acestream://abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1 3565
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2 9537
@@ -375,6 +377,8 @@ acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 acestream://651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 #EXTINF:-1 tvg-id="" group-title="VARIOS", REAL MADRID TV HD 891E
 acestream://7a955964c91c66311eef9137a96332352dbb891e
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR BFF3
+acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA B79C
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET 3DDD
