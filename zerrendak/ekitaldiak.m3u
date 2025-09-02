@@ -58,6 +58,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Bélgica vs Israel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Bélgica vs Israel DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Bélgica vs Israel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Bélgica vs Israel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -75,8 +77,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Bélgica vs Israel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Bélgica vs Israel DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Bélgica vs Israel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Bélgica vs Israel DAZN 
@@ -140,6 +140,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Grecia vs Bosnia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Grecia vs Bosnia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Grecia vs Bosnia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Grecia vs Bosnia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -157,8 +159,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Grecia vs Bosnia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Grecia vs Bosnia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Grecia vs Bosnia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 14:00 Grecia vs Bosnia DAZN 
@@ -222,6 +222,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 14:45 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 14:45 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 14:45 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 14:45 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -239,8 +241,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 14:45 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 14:45 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 14:45 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 14:45 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
@@ -320,6 +320,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 15:55 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 15:55 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 15:55 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 15:55 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -337,8 +339,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 15:55 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 15:55 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 15:55 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 Vuelta a España", 15:55 Etapa 10 Parque de la Naturaleza Sendaviva › El Ferial Larra Belagua (168 km) DAZN 
@@ -414,6 +414,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:00 Islandia vs Eslovenia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:00 Islandia vs Eslovenia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:00 Islandia vs Eslovenia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:00 Islandia vs Eslovenia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -431,8 +433,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:00 Islandia vs Eslovenia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:00 Islandia vs Eslovenia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:00 Islandia vs Eslovenia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:00 Islandia vs Eslovenia DAZN 
@@ -496,6 +496,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:15 Chipre vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:15 Chipre vs Georgia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:15 Chipre vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:15 Chipre vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -513,8 +515,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:15 Chipre vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:15 Chipre vs Georgia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:15 Chipre vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 17:15 Chipre vs Georgia DAZN 
@@ -582,6 +582,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Italia vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Italia vs España DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Italia vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Italia vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -599,8 +601,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Italia vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Italia vs España DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Italia vs España DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Italia vs España DAZN 
@@ -664,6 +664,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Francia vs Polonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Francia vs Polonia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Francia vs Polonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Francia vs Polonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -681,8 +683,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Francia vs Polonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Francia vs Polonia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Francia vs Polonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 Eurobasket Fase de grupos", 20:30 Francia vs Polonia DAZN 
@@ -746,6 +746,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Morecambe vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Morecambe vs Forest Green Rovers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Morecambe vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Morecambe vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -763,8 +765,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Morecambe vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Morecambe vs Forest Green Rovers DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Morecambe vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Morecambe vs Forest Green Rovers DAZN 
@@ -828,6 +828,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Eastleigh FC vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Eastleigh FC vs Scunthorpe Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Eastleigh FC vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Eastleigh FC vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -845,8 +847,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Eastleigh FC vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Eastleigh FC vs Scunthorpe Utd. DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Eastleigh FC vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Eastleigh FC vs Scunthorpe Utd. DAZN 
@@ -910,6 +910,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Braintree Town vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Braintree Town vs Tamworth FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Braintree Town vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Braintree Town vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -927,8 +929,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Braintree Town vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Braintree Town vs Tamworth FC DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Braintree Town vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Braintree Town vs Tamworth FC DAZN 
@@ -992,6 +992,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Solihull Moors vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Solihull Moors vs Yeovil Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Solihull Moors vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Solihull Moors vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1009,8 +1011,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Solihull Moors vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Solihull Moors vs Yeovil Town DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Solihull Moors vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Solihull Moors vs Yeovil Town DAZN 
@@ -1074,6 +1074,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Wealdstone FC vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Wealdstone FC vs Southend Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Wealdstone FC vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Wealdstone FC vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1091,8 +1093,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Wealdstone FC vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Wealdstone FC vs Southend Utd. DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Wealdstone FC vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 National League", 20:45 Wealdstone FC vs Southend Utd. DAZN 
@@ -1156,6 +1156,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 National League North", 20:45 Marine FC vs Darlington DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 National League North", 20:45 Marine FC vs Darlington DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 National League North", 20:45 Marine FC vs Darlington DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 National League North", 20:45 Marine FC vs Darlington DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1173,8 +1175,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 National League North", 20:45 Marine FC vs Darlington DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 National League North", 20:45 Marine FC vs Darlington DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 National League North", 20:45 Marine FC vs Darlington DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 National League North", 20:45 Marine FC vs Darlington DAZN 
@@ -1238,6 +1238,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/09 National League South", 20:45 Hampton & Richmond vs Torquay Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/09 National League South", 20:45 Hampton & Richmond vs Torquay Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/09 National League South", 20:45 Hampton & Richmond vs Torquay Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="02/09 National League South", 20:45 Hampton & Richmond vs Torquay Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1255,8 +1257,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="02/09 National League South", 20:45 Hampton & Richmond vs Torquay Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="02/09 National League South", 20:45 Hampton & Richmond vs Torquay Utd. DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="02/09 National League South", 20:45 Hampton & Richmond vs Torquay Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="02/09 National League South", 20:45 Hampton & Richmond vs Torquay Utd. DAZN 
@@ -1320,6 +1320,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 12:30 Montenegro vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 12:30 Montenegro vs Gran Bretaña DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 12:30 Montenegro vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 12:30 Montenegro vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1337,8 +1339,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 12:30 Montenegro vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 12:30 Montenegro vs Gran Bretaña DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 12:30 Montenegro vs Gran Bretaña DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 12:30 Montenegro vs Gran Bretaña DAZN 
@@ -1402,6 +1402,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 Vuelta a España", 13:15 Etapa 11 Bilbao › Bilbao (167 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 Vuelta a España", 13:15 Etapa 11 Bilbao › Bilbao (167 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 Vuelta a España", 13:15 Etapa 11 Bilbao › Bilbao (167 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 Vuelta a España", 13:15 Etapa 11 Bilbao › Bilbao (167 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1419,8 +1421,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 Vuelta a España", 13:15 Etapa 11 Bilbao › Bilbao (167 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 Vuelta a España", 13:15 Etapa 11 Bilbao › Bilbao (167 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 Vuelta a España", 13:15 Etapa 11 Bilbao › Bilbao (167 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 Vuelta a España", 13:15 Etapa 11 Bilbao › Bilbao (167 km) DAZN 
@@ -1500,6 +1500,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 13:45 Estonia vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 13:45 Estonia vs Portugal DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 13:45 Estonia vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 13:45 Estonia vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1517,8 +1519,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 13:45 Estonia vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 13:45 Estonia vs Portugal DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 13:45 Estonia vs Portugal DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 13:45 Estonia vs Portugal DAZN 
@@ -1582,6 +1582,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 15:30 Lituania vs Suecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 15:30 Lituania vs Suecia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 15:30 Lituania vs Suecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 15:30 Lituania vs Suecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1599,8 +1601,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 15:30 Lituania vs Suecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 15:30 Lituania vs Suecia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 15:30 Lituania vs Suecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 15:30 Lituania vs Suecia DAZN 
@@ -1664,6 +1664,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 17:00 República Checa vs Letonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 17:00 República Checa vs Letonia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 17:00 República Checa vs Letonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 17:00 República Checa vs Letonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1681,8 +1683,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 17:00 República Checa vs Letonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 17:00 República Checa vs Letonia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 17:00 República Checa vs Letonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 17:00 República Checa vs Letonia DAZN 
@@ -1746,6 +1746,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 19:30 Finlandia vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 19:30 Finlandia vs Alemania DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 19:30 Finlandia vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 19:30 Finlandia vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1763,8 +1765,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 19:30 Finlandia vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 19:30 Finlandia vs Alemania DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 19:30 Finlandia vs Alemania DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 19:30 Finlandia vs Alemania DAZN 
@@ -1828,6 +1828,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 20:15 Turquía vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 20:15 Turquía vs Serbia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 20:15 Turquía vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 20:15 Turquía vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1845,8 +1847,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 20:15 Turquía vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 20:15 Turquía vs Serbia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 20:15 Turquía vs Serbia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 Eurobasket Fase de grupos", 20:15 Turquía vs Serbia DAZN 
@@ -1914,6 +1914,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Hartlepool United vs Boston United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Hartlepool United vs Boston United DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Hartlepool United vs Boston United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Hartlepool United vs Boston United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -1931,8 +1933,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Hartlepool United vs Boston United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Hartlepool United vs Boston United DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Hartlepool United vs Boston United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Hartlepool United vs Boston United DAZN 
@@ -1996,6 +1996,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Gateshead vs Altrincham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Gateshead vs Altrincham DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Gateshead vs Altrincham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Gateshead vs Altrincham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2013,8 +2015,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Gateshead vs Altrincham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Gateshead vs Altrincham DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Gateshead vs Altrincham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Gateshead vs Altrincham DAZN 
@@ -2078,6 +2078,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Brackley Town vs Carlisle Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Brackley Town vs Carlisle Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Brackley Town vs Carlisle Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Brackley Town vs Carlisle Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2095,8 +2097,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Brackley Town vs Carlisle Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Brackley Town vs Carlisle Utd. DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Brackley Town vs Carlisle Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Brackley Town vs Carlisle Utd. DAZN 
@@ -2160,6 +2160,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Halifax Town vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Halifax Town vs Woking DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Halifax Town vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Halifax Town vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2177,8 +2179,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Halifax Town vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Halifax Town vs Woking DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Halifax Town vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Halifax Town vs Woking DAZN 
@@ -2242,6 +2242,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Sutton United vs Boreham Wood DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Sutton United vs Boreham Wood DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Sutton United vs Boreham Wood DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Sutton United vs Boreham Wood DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2259,8 +2261,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Sutton United vs Boreham Wood DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Sutton United vs Boreham Wood DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Sutton United vs Boreham Wood DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Sutton United vs Boreham Wood DAZN 
@@ -2324,6 +2324,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Truro City vs Aldershot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Truro City vs Aldershot DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Truro City vs Aldershot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Truro City vs Aldershot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2342,13 +2344,15 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Truro City vs Aldershot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Truro City vs Aldershot DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Truro City vs Aldershot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Truro City vs Aldershot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="03/09 National League", 20:45 Truro City vs Aldershot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="03/09 Mundial Clubes Juvenil Fase de grupos", 22:15 Real Madrid Academy vs Real Betis Academy Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="03/09 Mundial Clubes Juvenil Fase de grupos", 22:15 Real Madrid Academy vs Real Betis Academy Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Francia vs Islandia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Francia vs Islandia DAZN FHD
@@ -2406,6 +2410,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Francia vs Islandia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Francia vs Islandia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Francia vs Islandia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Francia vs Islandia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2423,8 +2429,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Francia vs Islandia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Francia vs Islandia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Francia vs Islandia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Francia vs Islandia DAZN 
@@ -2488,6 +2492,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Bosnia vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Bosnia vs Georgia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Bosnia vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Bosnia vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2505,8 +2511,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Bosnia vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Bosnia vs Georgia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Bosnia vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 14:00 Bosnia vs Georgia DAZN 
@@ -2570,6 +2574,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="04/09 Vuelta a España", 14:45 Etapa 12 Laredo › Los Corrales de Buelna (143 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="04/09 Vuelta a España", 14:45 Etapa 12 Laredo › Los Corrales de Buelna (143 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="04/09 Vuelta a España", 14:45 Etapa 12 Laredo › Los Corrales de Buelna (143 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="04/09 Vuelta a España", 14:45 Etapa 12 Laredo › Los Corrales de Buelna (143 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2587,8 +2593,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="04/09 Vuelta a España", 14:45 Etapa 12 Laredo › Los Corrales de Buelna (143 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="04/09 Vuelta a España", 14:45 Etapa 12 Laredo › Los Corrales de Buelna (143 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="04/09 Vuelta a España", 14:45 Etapa 12 Laredo › Los Corrales de Buelna (143 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="04/09 Vuelta a España", 14:45 Etapa 12 Laredo › Los Corrales de Buelna (143 km) DAZN 
@@ -2668,6 +2672,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:00 Israel vs Eslovenia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:00 Israel vs Eslovenia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:00 Israel vs Eslovenia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:00 Israel vs Eslovenia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2685,8 +2691,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:00 Israel vs Eslovenia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:00 Israel vs Eslovenia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:00 Israel vs Eslovenia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:00 Israel vs Eslovenia DAZN 
@@ -2750,6 +2754,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:15 Italia vs Chipre DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:15 Italia vs Chipre DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:15 Italia vs Chipre DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:15 Italia vs Chipre DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2767,8 +2773,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:15 Italia vs Chipre DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:15 Italia vs Chipre DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:15 Italia vs Chipre DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 17:15 Italia vs Chipre DAZN 
@@ -2838,6 +2842,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 España vs Grecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 España vs Grecia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 España vs Grecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 España vs Grecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2855,8 +2861,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 España vs Grecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 España vs Grecia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 España vs Grecia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 España vs Grecia DAZN 
@@ -2924,6 +2928,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 Polonia vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 Polonia vs Bélgica DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 Polonia vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 Polonia vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
@@ -2941,8 +2947,6 @@ http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 Polonia vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 Polonia vs Bélgica DAZN 
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 Polonia vs Bélgica DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 Polonia vs Bélgica DAZN 
