@@ -383,16 +383,12 @@ plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849
 plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 #EXTINF:-1 tvg-id="" group-title="VARIOS", REAL MADRID TV HD 891E
 plugin://script.module.horus?action=play&id=7a955964c91c66311eef9137a96332352dbb891e
-#EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA B79C
-plugin://script.module.horus?action=play&id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET 3DDD
 plugin://script.module.horus?action=play&id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-id="UK | Sky Sport Football" group-title="VARIOS", SKY SPORTS FOOTBALL B26D
 plugin://script.module.horus?action=play&id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="UK | Sky Sport Main Event" group-title="VARIOS", SKY SPORTS MAIN EVENT DF5E
 plugin://script.module.horus?action=play&id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD 30EE
-plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD 76F5
 plugin://script.module.horus?action=play&id=3d376333ee90d6db3d413fc5764ef635882076f5
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD 9CA7
@@ -405,8 +401,6 @@ plugin://script.module.horus?action=play&id=138b30c93e8a780ac490a4f6d2181c41f367
 plugin://script.module.horus?action=play&id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEN TV FHD 4ABC
 plugin://script.module.horus?action=play&id=19cab799c86251ae8ae5f4b4faace9b78d784abc
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL ECBF
-plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL FHD 20D0
 plugin://script.module.horus?action=play&id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
