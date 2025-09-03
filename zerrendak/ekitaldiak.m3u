@@ -1757,8 +1757,6 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="04/09 Torneo de Sevilla", 19:00 1/4 de Final ATP Challenger Tour Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="04/09 Torneo de Sevilla", 19:00 1/4 de Final ATP Challenger Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 España vs Grecia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="04/09 Eurobasket Fase de grupos", 20:30 España vs Grecia DAZN FHD
@@ -1935,8 +1933,6 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="04/09 Torneo de Sevilla", 21:00 1/4 de Final ATP Challenger Tour Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="04/09 Torneo de Sevilla", 21:00 1/4 de Final ATP Challenger Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="05/09 NFL Liga Regular", 02:20 Philadelphia Eagles vs Dallas Cowboys DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="05/09 NFL Liga Regular", 02:20 Philadelphia Eagles vs Dallas Cowboys DAZN FHD
@@ -3223,8 +3219,6 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="05/09 Torneo de Sevilla", 19:00 Semifinal 1 ATP Challenger Tour Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="05/09 Torneo de Sevilla", 19:00 Semifinal 1 ATP Challenger Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="05/09 LaLiga Hypermotion", 19:30 Albacete vs Mirandés DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="05/09 LaLiga Hypermotion", 19:30 Albacete vs Mirandés DAZN FHD
@@ -3401,14 +3395,10 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="05/09 Torneo de Sevilla", 21:00 Semifinal 2 ATP Challenger Tour Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="05/09 Torneo de Sevilla", 21:00 Semifinal 2 ATP Challenger Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="05/09 Madrid Open", 21:00 1/4 de final masculino Premier Padel Tour Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="05/09 Madrid Open", 21:00 1/4 de final masculino Premier Padel Tour Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="05/09 Madrid Open", 21:00 1/4 de final masculino Premier Padel Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="05/09 LaLiga Hypermotion", 21:30 Córdoba vs CD Castellón DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892
 #EXTINF:-1 tvg-id="" group-title="05/09 LaLiga Hypermotion", 21:30 Córdoba vs CD Castellón DAZN FHD
