@@ -245,6 +245,8 @@ plugin://script.module.horus?action=play&id=8670df538a11c6ec97b3f634981ddc4409ca
 plugin://script.module.horus?action=play&id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1 8FB5
 plugin://script.module.horus?action=play&id=176f0b8565a161f87c81a4a250463e3eaf678fb5
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 2 0267
+plugin://script.module.horus?action=play&id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 3 447D
 plugin://script.module.horus?action=play&id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 0CD0
