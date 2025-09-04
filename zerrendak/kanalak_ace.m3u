@@ -75,6 +75,8 @@ acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" group-title="LALIGA", M+ LaLiga TV 3 HD
 acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" group-title="LALIGA", M+ LaLiga TV 4 HD
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
 acestream://680187938f9305cce3ae240298f10e8695bf77c2
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
@@ -87,6 +89,8 @@ acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
 acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
 acestream://b028202ff335911db3118bceac027df3e8ef6c32
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 FHD
@@ -115,6 +119,8 @@ acestream://a139afc03d1623c321f6b084f79def682c492efa
 acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
 acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M+ Deportes 2 FHD
 acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M+ Deportes 2 FHD
@@ -213,14 +219,14 @@ acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 acestream://f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-id="Aragn TV" group-title="VARIOS", ARAGON TV HD 006B
 acestream://ba4597903f099695e7d6bcc5938f91cb0798006b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD F54C
-acestream://610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD 69EB
 acestream://f0951d40eb84162014752c054ea7a1370d2169eb
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 FHD 5454
+acestream://690f0f15439c773017ace3b6979c6e518d865454
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 3" group-title="VARIOS", BEIN SPORTS 3 2CF8
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 3" group-title="VARIOS", BEIN SPORTS 3 FHD 6E7A
@@ -237,8 +243,6 @@ acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 acestream://5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD 849B
 acestream://96f092e1fa99062f6da14cae230b877ad3ed849b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
-acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 0333
 acestream://8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 4EF0
@@ -293,8 +297,6 @@ acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
 acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 0A62
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 21D3
-acestream://cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD E78A
 acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 1551
@@ -321,42 +323,42 @@ acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
 acestream://9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-id="La Sexta HD" group-title="VARIOS", LA SEXTA FHD 457F
 acestream://44828a7580cd99fcb36245c327889c47f34b457f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD DF98
-acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
-#EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION F404
-acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
-#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 4E53
-acestream://b125325f52e057b8e5ea17a8b60d512d13d44e53
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 59CE
 acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
-#EXTINF:-1 tvg-id="M+ Cine Espaol" group-title="VARIOS", MOVISTAR CINE ESPAOL FHD F668
-acestream://e47cdeba9d919d6a9b4fa3c72c8094178985f668
+#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 6F96
+acestream://089673779de9fa7a18ac8dc26eb4a79cf5a86f96
+#EXTINF:-1 tvg-id="M+ Cine Espaol" group-title="VARIOS", MOVISTAR CINE ESPAOL FHD 691C
+acestream://e4bce95dd4faeb9cb09ade36a0636bc4b22b691c
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR CLASICOS FHD 0C0C
 acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c
-#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR CLASICOS FHD 0F39
-acestream://f9d431a6839e7f9964a0884dc1f18d298d990f39
-#EXTINF:-1 tvg-id="M+ Comedia HD" group-title="VARIOS", MOVISTAR COMEDIA FHD 6914
-acestream://90a3ad526f67f987f662eaf7d52e88004c796914
-#EXTINF:-1 tvg-id="M+ Documentales HD" group-title="VARIOS", MOVISTAR DOCUMENTALES FHD 7D7D
-acestream://6cda7d2622bcafd6aef486016238936855927d7d
-#EXTINF:-1 tvg-id="M+ Drama HD" group-title="VARIOS", MOVISTAR DRAMA FHD 0D83
-acestream://edee311dc307e1638eeac880b11bb6f4759b0d83
-#EXTINF:-1 tvg-id="M+ Estrenos HD" group-title="VARIOS", MOVISTAR ESTRENOS FHD 4007
-acestream://6341392460596e63edf38b013bd137c015e44007
+#EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR CLASICOS FHD 6BAE
+acestream://6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
+#EXTINF:-1 tvg-id="M+ Comedia HD" group-title="VARIOS", MOVISTAR COMEDIA FHD 5DF6
+acestream://cf0cb321eed6765c2eadbd9983570f6674ce5df6
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR COMIC FHD F9C2
+acestream://4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
+#EXTINF:-1 tvg-id="M+ Documentales HD" group-title="VARIOS", MOVISTAR DOCUMENTALES FHD 87B9
+acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9
+#EXTINF:-1 tvg-id="M+ Drama HD" group-title="VARIOS", MOVISTAR DRAMA FHD 58AE
+acestream://a6de6a4977d7801bbddc9c7739d822f4beb358ae
+#EXTINF:-1 tvg-id="M+ Estrenos HD" group-title="VARIOS", MOVISTAR ESTRENOS FHD D131
+acestream://5d35f906b735f25164fa2b9b7a4e6ef91dfed131
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" group-title="VARIOS", MOVISTAR GOLF 2 FHD E7D7
 acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7
+#EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD 1031
+acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 #EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD 5174
 acestream://9be118a64eb603b5eb62be6cf27631d3891b5174
 #EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD 6064
 acestream://76a69812c66bfc4899e89df498220588a56e6064
-#EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR HITS FHD 4101
-acestream://2b8e5c7438d56541df3467cc5986cf1e66014101
-#EXTINF:-1 tvg-id="M+ Indie HD" group-title="VARIOS", MOVISTAR INDIE FHD 4D01
-acestream://508ffdbab097339adb4f3d922070b5df2c114d01
-#EXTINF:-1 tvg-id="M+ Originales HD" group-title="VARIOS", MOVISTAR ORIGINALES FHD 5DD7
-acestream://1f092144252939810fd302cbd00d46de760b5dd7
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR VACACIONES FHD 4DE6
-acestream://15123ab3458c59bf548fbf6e5503799e81da4de6
+#EXTINF:-1 tvg-id="M+ Hits HD" group-title="VARIOS", MOVISTAR HITS FHD 5065
+acestream://50553edb5e8c54d15e0d43161369b3b4cef95065
+#EXTINF:-1 tvg-id="M+ Indie HD" group-title="VARIOS", MOVISTAR INDIE FHD EE80
+acestream://7716c9fd5bd4413715e4e26f97efb91802f6ee80
+#EXTINF:-1 tvg-id="M+ Originales HD" group-title="VARIOS", MOVISTAR ORIGINALES FHD 3162
+acestream://096b817fcc836535f608facb15fca6408fae3162
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR VACACIONES FHD FEE7
+acestream://cf99e99c105162410ec6d1f68cc6f4811560fee7
 #EXTINF:-1 tvg-id="Sport NBA" group-title="VARIOS", NBA TV 8073
 acestream://b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO 7312
@@ -371,10 +373,10 @@ acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
 acestream://a2e6be93b26141343c31cf6b6e46f57f14547f07
 #EXTINF:-1 tvg-id="DE | Rally TV" group-title="VARIOS", RALLY TV B2EA
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
+#EXTINF:-1 tvg-id="DE | Rally TV" group-title="VARIOS", RALLY TV FHD 41EB
+acestream://651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 #EXTINF:-1 tvg-id="" group-title="VARIOS", REAL MADRID TV HD 891E
 acestream://7a955964c91c66311eef9137a96332352dbb891e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR BFF3
-acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA B79C
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET 3DDD
@@ -395,8 +397,6 @@ acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEN TV FHD 4ABC
 acestream://19cab799c86251ae8ae5f4b4faace9b78d784abc
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL ECBF
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL FHD 20D0
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
