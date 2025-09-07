@@ -121,8 +121,6 @@ plugin://script.module.horus?action=play&id=3692ea4cdda97eb0062ed5d656ebd61f149e
 plugin://script.module.horus?action=play&id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
 plugin://script.module.horus?action=play&id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
-plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M+ Deportes 2 FHD
 plugin://script.module.horus?action=play&id=73d38feaa770d788848ec098470e32670fe55a61
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M+ Deportes 2 FHD
@@ -191,6 +189,8 @@ plugin://script.module.horus?action=play&id=0f32c0131a2d9444996410801f4e18b04384
 plugin://script.module.horus?action=play&id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="PT | DAZN 6" group-title="VARIOS", ELEVEN DAZN 6 HD
 plugin://script.module.horus?action=play&id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS  68F9
+plugin://script.module.horus?action=play&id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
@@ -207,8 +207,6 @@ plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc
 plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK] 2033
 plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
-plugin://script.module.horus?action=play&id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 0333
 plugin://script.module.horus?action=play&id=8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1 8FB5
@@ -323,8 +321,6 @@ plugin://script.module.horus?action=play&id=4903ca695edb64bc72ae29eb85a5333ba013
 plugin://script.module.horus?action=play&id=b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1 tvg-id="DE | Rally TV" group-title="VARIOS", RALLY TV B2EA
 plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR BFF3
-plugin://script.module.horus?action=play&id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA B79C
 plugin://script.module.horus?action=play&id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET 3DDD
