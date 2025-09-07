@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN FHD
@@ -25,10 +23,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN FHD
@@ -70,8 +64,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -107,8 +99,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Título Mundial Peso Supermosca", 03:00 E. Núñez vs C. Diaz DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN FHD
@@ -131,10 +121,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN FHD
@@ -176,8 +162,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -213,8 +197,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 3", 08:15 G.P. Italia (Monza) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN FHD
@@ -237,10 +219,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN FHD
@@ -282,8 +260,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -319,8 +295,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 FIA Fórmula 2", 09:45 G.P. Italia (Monza) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN FHD
@@ -343,10 +317,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN FHD
@@ -388,8 +358,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -425,8 +393,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 11:00 Polonia vs Bosnia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
@@ -449,10 +415,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
@@ -494,8 +456,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -531,8 +491,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto3", 11:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN FHD
@@ -555,10 +513,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN FHD
@@ -600,8 +554,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -637,8 +589,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 11:00 G.P. Francia (Magny-Cours) Carrera Superpole DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN FHD
@@ -661,10 +611,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN FHD
@@ -706,8 +652,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -743,8 +687,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Athletic Femenino vs FC Barcelona Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN FHD
@@ -767,10 +709,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN FHD
@@ -812,8 +750,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -849,8 +785,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 12:00 Granada Femenino vs FC Badalona Women DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
@@ -873,10 +807,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
@@ -918,8 +848,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -955,8 +883,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Moto2", 12:15 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
@@ -979,10 +905,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
@@ -1023,8 +945,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport 300", 12:45 G.P. Francia (Magny-Cours) Carrera 2 DAZN 
@@ -1065,8 +985,6 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="07/09 Copa Mundial Femenina Fase de grupos", 13:00 Japón vs España Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
@@ -1089,10 +1007,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN FHD
@@ -1134,8 +1048,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -1171,8 +1083,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 MotoGP", 14:00 G.P. Cataluña (Circuito de Barcelona) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
@@ -1195,10 +1105,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
@@ -1240,8 +1146,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -1277,8 +1181,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Supersport", 14:00 G.P. Francia (Magny-Cours) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN FHD
@@ -1301,10 +1203,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN FHD
@@ -1346,8 +1244,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -1383,8 +1279,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Huesca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN FHD
@@ -1407,10 +1301,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN FHD
@@ -1452,8 +1342,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -1489,8 +1377,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 14:15 Francia vs Georgia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
@@ -1513,10 +1399,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
@@ -1557,8 +1439,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN 
@@ -1611,8 +1491,6 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 14:45 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN FHD
@@ -1635,10 +1513,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN FHD
@@ -1680,8 +1554,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -1717,8 +1589,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Fórmula 1", 15:00 G.P. Italia (Monza) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
@@ -1741,10 +1611,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN FHD
@@ -1786,8 +1652,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -1823,8 +1687,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Superbike", 15:30 G.P. Francia (Magny-Cours) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN FHD
@@ -1847,10 +1709,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN FHD
@@ -1892,8 +1750,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -1929,8 +1785,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Bundesliga Femenina", 16:00 Hamburger SV Frauen vs Wolfsburg Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
@@ -1953,10 +1807,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN FHD
@@ -1997,8 +1847,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) DAZN 
@@ -2047,8 +1895,6 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="07/09 Vuelta a España", 16:15 Etapa 15 A Veiga/Vegadeo › Monforte de Lemos (167 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN FHD
@@ -2071,10 +1917,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN FHD
@@ -2115,8 +1957,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN 
@@ -2153,8 +1993,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Real Sociedad B vs Cádiz CF DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN FHD
@@ -2177,10 +2015,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN FHD
@@ -2221,8 +2055,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN 
@@ -2259,8 +2091,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 16:15 Burgos CF vs UD Las Palmas DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN FHD
@@ -2283,10 +2113,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN FHD
@@ -2327,8 +2153,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia DAZN 
@@ -2369,8 +2193,6 @@ http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 17:30 Italia vs Eslovenia Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN FHD
@@ -2393,10 +2215,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN FHD
@@ -2438,8 +2256,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -2475,8 +2291,8 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 D1 Féminine", 17:30 O. Lyonnais Femenino vs O. Marseille Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
+#EXTINF:-1 tvg-id="" group-title="07/09 Torneo Costa del Sol", 18:00 Unicaja Málaga vs Real Madrid Baloncesto Real Madrid TV 
+http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN FHD
@@ -2499,10 +2315,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN FHD
@@ -2544,8 +2356,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -2581,8 +2391,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 UD Almería vs Racing Santander DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN FHD
@@ -2605,10 +2413,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN FHD
@@ -2650,8 +2454,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -2687,8 +2489,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 LaLiga Hypermotion", 18:30 Cultural Leonesa vs Leganés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN FHD
@@ -2711,10 +2511,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN FHD
@@ -2756,8 +2552,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -2793,8 +2587,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New Orleans Saints vs Arizona Cardinals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN FHD
@@ -2817,10 +2609,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN FHD
@@ -2862,8 +2650,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -2899,8 +2685,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Atlanta Falcons vs Tampa Bay Buccaneers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN FHD
@@ -2923,10 +2707,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN FHD
@@ -2968,8 +2748,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -3005,8 +2783,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Washington Commanders vs New York Giants DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN FHD
@@ -3029,10 +2805,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN FHD
@@ -3074,8 +2846,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -3111,8 +2881,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Indianápolis Colts vs Miami Dolphins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN FHD
@@ -3135,10 +2903,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN FHD
@@ -3180,8 +2944,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -3217,8 +2979,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New England Patriots vs Las Vegas Raiders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN FHD
@@ -3241,10 +3001,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN FHD
@@ -3286,8 +3042,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -3323,8 +3077,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 New York Jets vs Pittsburgh Steelers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN FHD
@@ -3347,10 +3099,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN FHD
@@ -3392,8 +3140,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -3429,8 +3175,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Cleveland Browns vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN FHD
@@ -3453,10 +3197,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN FHD
@@ -3498,8 +3238,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -3535,8 +3273,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Carolina Panthers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN FHD
@@ -3559,10 +3295,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN FHD
@@ -3604,8 +3336,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -3641,8 +3371,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Liga F", 19:00 Levante Femenino vs Alhama CF DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN FHD
@@ -3665,10 +3393,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN FHD
@@ -3709,8 +3433,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera DAZN 
@@ -3757,8 +3479,6 @@ http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
 http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-id="" group-title="07/09 6 Horas de Austin", 20:00 Campeonato Mundial de Resistencia FIA Carrera Eurosport 2 SD
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN FHD
@@ -3781,10 +3501,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN FHD
@@ -3826,8 +3542,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -3863,8 +3577,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 Eurobasket 1/8 de final", 20:45 Grecia vs Israel DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN FHD
@@ -3887,10 +3599,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN FHD
@@ -3932,8 +3640,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -3969,8 +3675,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NASCAR Cup Series", 21:00 World Wide Technology Raceway (Madison) Carrera de Playoff DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN FHD
@@ -3993,10 +3697,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN FHD
@@ -4038,8 +3738,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -4075,8 +3773,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Denver Broncos vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN FHD
@@ -4099,10 +3795,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN FHD
@@ -4144,8 +3836,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -4181,8 +3871,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:05 Seattle Seahawks vs San Francisco 49ers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN FHD
@@ -4205,10 +3893,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN FHD
@@ -4250,8 +3934,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -4287,8 +3969,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Green Bay Packers vs Detroit Lions DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN FHD
@@ -4311,10 +3991,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN FHD
@@ -4356,8 +4032,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -4393,8 +4067,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="07/09 NFL Liga Regular", 22:25 Los Angeles Rams vs Houston Texans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN FHD
@@ -4417,10 +4089,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN FHD
@@ -4462,8 +4130,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -4499,10 +4165,12 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="08/09 NFL Liga Regular", 02:20 Buffalo Bills vs Baltimore Ravens DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="08/09 WTA Torneo de Sao Paulo", 17:00 1ª Ronda WTA 250 Tennis Channel FHD
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="" group-title="08/09 WTA Torneo de Sao Paulo", 17:00 1ª Ronda WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="08/09 WTA Torneo de Sao Paulo", 17:00 1ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN FHD
@@ -4525,10 +4193,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN FHD
@@ -4569,8 +4233,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="08/09 Bundesliga Femenina", 18:00 Carl Zeiss Jena Femenino vs Hoffenheim Femenino DAZN 
@@ -4615,8 +4277,6 @@ http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="08/09 Campeonato del Mundo WBC", 19:00 Día 5 Liverpool 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN FHD
@@ -4639,10 +4299,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN FHD
@@ -4683,8 +4339,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="08/09 LaLiga Hypermotion", 20:30 Eibar vs FC Andorra DAZN 
@@ -4729,8 +4383,6 @@ http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="08/09 WTA Torneo de Guadalajara", 21:00 1ª Ronda WTA 500 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN FHD
@@ -4753,10 +4405,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN FHD
@@ -4798,8 +4446,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -4835,8 +4481,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="09/09 NFL Liga Regular", 02:15 Chicago Bears vs Minnesota Vikings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN FHD
@@ -4859,10 +4503,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN FHD
@@ -4904,8 +4544,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -4941,8 +4579,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Turquía vs Polonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN FHD
@@ -4965,10 +4601,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN FHD
@@ -5010,8 +4642,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -5047,8 +4677,6 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="09/09 Eurobasket 1/4 de Final", PD Lituania vs TBD DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN FHD
@@ -5071,10 +4699,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN FHD
@@ -5115,8 +4739,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) DAZN 
@@ -5169,10 +4791,12 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="09/09 Vuelta a España", 14:30 Etapa 16 Poio › Mos.Castro de Herville (172 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
+#EXTINF:-1 tvg-id="" group-title="09/09 WTA Torneo de Sao Paulo", 17:00 1ª Ronda WTA 250 Tennis Channel FHD
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="" group-title="09/09 WTA Torneo de Sao Paulo", 17:00 1ª Ronda WTA 250 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="09/09 WTA Torneo de Sao Paulo", 17:00 1ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN FHD
@@ -5195,10 +4819,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN FHD
@@ -5239,8 +4859,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 DAZN 
@@ -5287,8 +4905,6 @@ http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
 http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:05 Cross Country Élite Femenino Valais 2025 Eurosport 2 SD
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN FHD
@@ -5311,10 +4927,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN FHD
@@ -5355,8 +4967,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 DAZN 
@@ -5403,8 +5013,6 @@ http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
 http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-id="" group-title="09/09 Cto. Mundo Mountain Bike", 17:50 Cross Country Élite Masculino Valais 2025 Eurosport 2 SD
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN FHD
@@ -5427,10 +5035,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN FHD
@@ -5471,8 +5075,6 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 DAZN 
@@ -5519,8 +5121,6 @@ http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
 http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-id="" group-title="09/09 Campeonato del Mundo WBC", 19:25 Día 6 Liverpool 2025 Eurosport 2 SD
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN 
-http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN FHD
@@ -5543,10 +5143,6 @@ http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7
-#EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
-#EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN FHD
@@ -5588,8 +5184,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
@@ -5625,5 +5219,9 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="09/09 National League", 20:45 York City vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="" group-title="09/09 WTA Torneo de Guadalajara", 21:00 1ª Ronda WTA 500 Tennis Channel FHD
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="" group-title="09/09 WTA Torneo de Guadalajara", 21:00 1ª Ronda WTA 500 Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="09/09 WTA Torneo de Guadalajara", 21:00 1ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
