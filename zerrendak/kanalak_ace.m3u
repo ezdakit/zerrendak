@@ -429,6 +429,8 @@ acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEN TV FHD 4ABC
 acestream://19cab799c86251ae8ae5f4b4faace9b78d784abc
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL ECBF
+acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL FHD 20D0
 acestream://71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
