@@ -129,6 +129,8 @@ plugin://script.module.horus?action=play&id=3692ea4cdda97eb0062ed5d656ebd61f149e
 plugin://script.module.horus?action=play&id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
 plugin://script.module.horus?action=play&id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
+plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M+ Deportes 2 FHD
 plugin://script.module.horus?action=play&id=edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M+ Deportes 2 FHD
@@ -305,6 +307,8 @@ plugin://script.module.horus?action=play&id=c3da6c4f91d9d10ade00318a869435e19f20
 plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD F909
 plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 0A62
+plugin://script.module.horus?action=play&id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD E78A
 plugin://script.module.horus?action=play&id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 1551
@@ -383,6 +387,8 @@ plugin://script.module.horus?action=play&id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd
 plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO FHD 1079
 plugin://script.module.horus?action=play&id=cd0188292b6b3876ff66c99bd3d25eab88b41079
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
+plugin://script.module.horus?action=play&id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1 3565
 plugin://script.module.horus?action=play&id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2 9537
@@ -423,8 +429,6 @@ plugin://script.module.horus?action=play&id=138b30c93e8a780ac490a4f6d2181c41f367
 plugin://script.module.horus?action=play&id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEN TV FHD 4ABC
 plugin://script.module.horus?action=play&id=19cab799c86251ae8ae5f4b4faace9b78d784abc
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL ECBF
-plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL FHD 20D0
 plugin://script.module.horus?action=play&id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
