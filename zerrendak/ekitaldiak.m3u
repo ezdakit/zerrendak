@@ -621,21 +621,13 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="10/09 Premier League International Cup Fase de grupos", 20:00 Wolves Academy vs RM Castilla Real Madrid TV 
 http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 20:00 F. Jones vs W. Osuigwe Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 20:10 F. Jones vs W. Osuigwe Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 20:00 F. Jones vs W. Osuigwe Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 20:10 F. Jones vs W. Osuigwe Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 20:00 F. Jones vs W. Osuigwe Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 20:10 F. Jones vs W. Osuigwe Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 20:00 F. Jones vs W. Osuigwe Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 21:30 NV Leme Da Silva vs S. Sierra Tennis Channel FHD
-http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 21:30 NV Leme Da Silva vs S. Sierra Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 21:30 NV Leme Da Silva vs S. Sierra Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 21:30 NV Leme Da Silva vs S. Sierra Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 20:10 F. Jones vs W. Osuigwe Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="10/09 Mundial Clubes Juvenil Final", 22:00 Racing Avellaneda Academy vs FC Barcelona Academy Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -649,13 +641,13 @@ http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Guadalajara 2ª Ronda", 22:00 D. Vidmanova vs N. Bartunkova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 23:00 J. Riera vs A. Eala Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 22:40 NV Leme Da Silva vs S. Sierra Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 23:00 J. Riera vs A. Eala Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 22:40 NV Leme Da Silva vs S. Sierra Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 23:00 J. Riera vs A. Eala Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 22:40 NV Leme Da Silva vs S. Sierra Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 23:00 J. Riera vs A. Eala Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Sao Paulo 2ª Ronda", 22:40 NV Leme Da Silva vs S. Sierra Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Guadalajara 1ª Ronda", 23:30 S. Stephens vs L. Stefanini Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
@@ -664,6 +656,14 @@ http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Guadalajara 1ª Ronda", 23:30 S. Stephens vs L. Stefanini Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="10/09 WTA Torneo de Guadalajara 1ª Ronda", 23:30 S. Stephens vs L. Stefanini Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Sao Paulo 2ª Ronda", 00:00 J. Riera vs A. Eala Tennis Channel FHD
+http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Sao Paulo 2ª Ronda", 00:00 J. Riera vs A. Eala Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
+#EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Sao Paulo 2ª Ronda", 00:00 J. Riera vs A. Eala Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Sao Paulo 2ª Ronda", 00:00 J. Riera vs A. Eala Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Guadalajara 2ª Ronda", 01:00 R. Marino vs T. Maria Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
