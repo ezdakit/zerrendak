@@ -7,16 +7,12 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Sao Paulo 2ª Ronda", 00:00 J. Riera vs A. Eala Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Sao Paulo 2ª Ronda", 00:00 J. Riera vs A. Eala Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Guadalajara 2ª Ronda", 01:00 R. Marino vs T. Maria Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Guadalajara 2ª Ronda", 01:00 R. Marino vs T. Maria Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Guadalajara 2ª Ronda", 01:00 R. Marino vs T. Maria Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Guadalajara 2ª Ronda", 01:00 R. Marino vs T. Maria Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="11/09 WRC Rally", 14:01 Rally de Chile Shakedown DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="11/09 WRC Rally", 14:01 Rally de Chile Shakedown DAZN FHD
@@ -335,8 +331,6 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Sao Paulo", 17:00 2ª Ronda WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Sao Paulo", 17:00 2ª Ronda WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="11/09 Champions League Femenina Playoffs", 19:00 Eintracht Frankfurt Femenino vs Real Madrid Femenino Real Madrid TV 
 http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-id="" group-title="11/09 EHF Champions League", 20:45 Barça BM vs GOG Gudme DAZN FHD
@@ -437,16 +431,12 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Guadalajara", 21:00 2ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Guadalajara", 21:00 2ª Ronda WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Guadalajara 2ª Ronda", 23:30 E. Mertens vs E. Jacquemot Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Guadalajara 2ª Ronda", 23:30 E. Mertens vs E. Jacquemot Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Guadalajara 2ª Ronda", 23:30 E. Mertens vs E. Jacquemot Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="11/09 WTA Torneo de Guadalajara 2ª Ronda", 23:30 E. Mertens vs E. Jacquemot Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="12/09 NFL Liga Regular", 02:15 Green Bay Packers vs Washington Commanders DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="12/09 NFL Liga Regular", 02:15 Green Bay Packers vs Washington Commanders DAZN FHD
@@ -1027,16 +1017,12 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="12/09 WTA Torneo de Sao Paulo", 17:00 1/4 de Final WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="12/09 WTA Torneo de Sao Paulo", 17:00 1/4 de Final WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="12/09 WTA Torneo de San Sebastián", 17:00 Semifinal 2 WTA 125 Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="12/09 WTA Torneo de San Sebastián", 17:00 Semifinal 2 WTA 125 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="12/09 WTA Torneo de San Sebastián", 17:00 Semifinal 2 WTA 125 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="12/09 WTA Torneo de San Sebastián", 17:00 Semifinal 2 WTA 125 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="12/09 Eurobasket Semifinales", 18:00 Grecia vs Turquía DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="12/09 Eurobasket Semifinales", 18:00 Grecia vs Turquía DAZN FHD
@@ -1919,8 +1905,6 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="12/09 WTA Torneo de Guadalajara", 21:00 1/4 de Final WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="12/09 WTA Torneo de Guadalajara", 21:00 1/4 de Final WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 01:00 Final 35 km Marcha Masculino Tokio 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 01:00 Final 35 km Marcha Masculino Tokio 2025 DAZN FHD
@@ -5505,16 +5489,12 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="13/09 París Major", 17:00 Semifinal Masculina Premier Padel Tour Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="13/09 París Major", 17:00 Semifinal Masculina Premier Padel Tour Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Sao Paulo", 17:00 Semifinal 1 WTA 250 Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Sao Paulo", 17:00 Semifinal 1 WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Sao Paulo", 17:00 Semifinal 1 WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Sao Paulo", 17:00 Semifinal 1 WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="13/09 Liga F", 17:00 Costa Adeje Tenerife vs Espanyol Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="13/09 Liga F", 17:00 Costa Adeje Tenerife vs Espanyol Femenino DAZN FHD
@@ -5985,8 +5965,6 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Sao Paulo", 18:30 Semifinal 2 WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Sao Paulo", 18:30 Semifinal 2 WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="13/09 Premier League", 18:30 West Ham vs Tottenham DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="" group-title="13/09 Premier League", 18:30 West Ham vs Tottenham DAZN FHD
