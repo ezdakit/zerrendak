@@ -39,8 +39,6 @@ plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc2
 plugin://script.module.horus?action=play&id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD
 plugin://script.module.horus?action=play&id=eb884f77ce8815cf1028c4d85e8b092c27ea1693
-#EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 HD
-plugin://script.module.horus?action=play&id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
 plugin://script.module.horus?action=play&id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
@@ -433,8 +431,6 @@ plugin://script.module.horus?action=play&id=8e96e35afd910d1a056dc7bf25139b8e2849
 plugin://script.module.horus?action=play&id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 #EXTINF:-1 tvg-id="" group-title="VARIOS", REAL MADRID TV HD 891E
 plugin://script.module.horus?action=play&id=7a955964c91c66311eef9137a96332352dbb891e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR BFF3
-plugin://script.module.horus?action=play&id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="" group-title="VARIOS", S SPORT 1 FHD EC0B
 plugin://script.module.horus?action=play&id=6ad87abc93cc3c8508be327e313afcd3aa37ec0b
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA B79C
@@ -461,8 +457,6 @@ plugin://script.module.horus?action=play&id=19cab799c86251ae8ae5f4b4faace9b78d78
 plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL FHD 20D0
 plugin://script.module.horus?action=play&id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
-plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 5BE7
 plugin://script.module.horus?action=play&id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", TNT SPORTS HD 965E
