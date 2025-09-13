@@ -247,8 +247,6 @@ http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD 849B
 http://127.0.0.1:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
-http://127.0.0.1:6878/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Caza y Pesca HD" group-title="VARIOS", CAZA Y PESCA FHD HD 3E9C
 http://127.0.0.1:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 0333
@@ -345,8 +343,6 @@ http://127.0.0.1:6878/ace/getstream?id=9934906503661142f97a044ae1509a294057c2ed
 http://127.0.0.1:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MIXED TV (SOLO EVENTOS) 21B3
 http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD DF98
-http://127.0.0.1:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION F404
 http://127.0.0.1:6878/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 59CE
@@ -409,8 +405,6 @@ http://127.0.0.1:6878/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 http://127.0.0.1:6878/ace/getstream?id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 #EXTINF:-1 tvg-id="" group-title="VARIOS", REAL MADRID TV HD 891E
 http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR BFF3
-http://127.0.0.1:6878/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-id="" group-title="VARIOS", S SPORT 1 FHD EC0B
 http://127.0.0.1:6878/ace/getstream?id=6ad87abc93cc3c8508be327e313afcd3aa37ec0b
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA B79C
