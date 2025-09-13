@@ -111,12 +111,12 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 01:00 Final 35 km Marcha Masculino Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 01:00 Final 35 km Marcha Masculino Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 01:00 Final 35 km Marcha Masculino Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Guadalajara 1/4 de Final", 01:25 I. Jovic vs V. Jiménez Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Guadalajara 1/4 de Final", 01:25 I. Jovic vs V. Jiménez Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 DAZN FHD
@@ -227,12 +227,12 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Guadalajara 1/4 de Final", 05:20 M. Stakusic vs E. Arango Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Guadalajara 1/4 de Final", 05:20 M. Stakusic vs E. Arango Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="13/09 MotoGP", 10:50 G.P. San Marino (Misano) Clasificación DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-id="" group-title="13/09 MotoGP", 10:50 G.P. San Marino (Misano) Clasificación DAZN FHD
@@ -539,6 +539,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 11:05 Sesión Vespertina Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 11:05 Sesión Vespertina Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="13/09 Campeonato del Mundo", 11:05 Sesión Vespertina Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="13/09 Liga F", 12:00 Real Sociedad Femenino vs Sevilla FC Femenino DAZN FHD
@@ -2423,6 +2425,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="13/09 Vuelta a España", 15:55 Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="13/09 Vuelta a España", 15:55 Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="13/09 Vuelta a España", 15:55 Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="13/09 National League", 16:00 Hartlepool United vs Brackley Town DAZN FHD
@@ -4293,8 +4297,6 @@ http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Sao Paulo Semifinal 1", 18:00 J. Tjen vs F. Jones Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Sao Paulo Semifinal 1", 18:00 J. Tjen vs F. Jones Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="13/09 Serie A Italiana", 18:00 Juventus vs Inter Milan DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-id="" group-title="13/09 Serie A Italiana", 18:00 Juventus vs Inter Milan DAZN FHD
@@ -5323,8 +5325,6 @@ http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Sao Paulo Semifinal 2", 19:30 R. Zarazúa vs T. Rakotomanga Rajaonah Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="13/09 WTA Torneo de Sao Paulo Semifinal 2", 19:30 R. Zarazúa vs T. Rakotomanga Rajaonah Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="13/09 Título Mundial Peso Welter", 20:00 L. Crocker vs P. Donovan DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-id="" group-title="13/09 Título Mundial Peso Welter", 20:00 L. Crocker vs P. Donovan DAZN FHD
@@ -6125,8 +6125,6 @@ http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="14/09 WTA Torneo de Guadalajara Semifinal 1", 00:00 E. Jacquemot vs E. Arango Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="14/09 WTA Torneo de Guadalajara Semifinal 1", 00:00 E. Jacquemot vs E. Arango Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="14/09 Campeonato del Mundo", 01:00 Maratón Femenina Tokio 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-id="" group-title="14/09 Campeonato del Mundo", 01:00 Maratón Femenina Tokio 2025 DAZN FHD
@@ -6237,6 +6235,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="14/09 Campeonato del Mundo", 01:00 Maratón Femenina Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="14/09 Campeonato del Mundo", 01:00 Maratón Femenina Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="14/09 Campeonato del Mundo", 01:00 Maratón Femenina Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="14/09 NASCAR Cup Series", 01:30 Bristol Speedway Carrera de Playoff DAZN FHD
@@ -6447,12 +6447,12 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="14/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="14/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="14/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="14/09 WTA Torneo de Guadalajara Semifinal 2", 02:00 N. Bartunkova vs I. Jovic Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="14/09 WTA Torneo de Guadalajara Semifinal 2", 02:00 N. Bartunkova vs I. Jovic Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="14/09 Supercars Championship", 06:15 The Bend Motorsport Park Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-id="" group-title="14/09 Supercars Championship", 06:15 The Bend Motorsport Park Carrera DAZN FHD
@@ -6761,6 +6761,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="14/09 Campeonato del Mundo", 11:35 Sesión Vespertina Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="14/09 Campeonato del Mundo", 11:35 Sesión Vespertina Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="14/09 Campeonato del Mundo", 11:35 Sesión Vespertina Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="14/09 Liga F", 12:00 Deportivo Abanca vs Athletic Femenino DAZN FHD
@@ -8743,12 +8745,12 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="14/09 Vuelta a España", 16:30 Etapa 21 Alalpardo › Madrid (101 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="14/09 Vuelta a España", 16:30 Etapa 21 Alalpardo › Madrid (101 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="14/09 Vuelta a España", 16:30 Etapa 21 Alalpardo › Madrid (101 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="14/09 WTA Torneo de Sao Paulo", 17:00 Final WTA 250 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="14/09 WTA Torneo de Sao Paulo", 17:00 Final WTA 250 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="14/09 Premier League", 17:30 Manchester City vs Manchester Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-id="" group-title="14/09 Premier League", 17:30 Manchester City vs Manchester Utd. DAZN FHD
@@ -10841,6 +10843,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="14/09 GP Montreal", 20:30 UCI World Tour Montréal › Montréal (209.1 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="14/09 GP Montreal", 20:30 UCI World Tour Montréal › Montréal (209.1 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="14/09 GP Montreal", 20:30 UCI World Tour Montréal › Montréal (209.1 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="14/09 Serie A Italiana", 20:45 AC Milan vs Bologna DAZN FHD
@@ -11443,12 +11447,12 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 01:00 Maratón Masculina Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 01:00 Maratón Masculina Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 01:00 Maratón Masculina Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="15/09 WTA Torneo de Guadalajara", 01:30 Final WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="15/09 WTA Torneo de Guadalajara", 01:30 Final WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 DAZN FHD
@@ -11559,6 +11563,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="15/09 NFL Liga Regular", 02:20 Minnesota Vikings vs Atlanta Falcons DAZN FHD
@@ -11661,8 +11667,6 @@ http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="15/09 WTA Torneo de Seúl", 05:00 1ª Ronda WTA 500 Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="15/09 WTA Torneo de Seúl", 05:00 1ª Ronda WTA 500 Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 12:35 Sesión Vespertina Tokio 2025 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 12:35 Sesión Vespertina Tokio 2025 DAZN FHD
@@ -11773,6 +11777,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 12:35 Sesión Vespertina Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 12:35 Sesión Vespertina Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-id="" group-title="15/09 Campeonato del Mundo", 12:35 Sesión Vespertina Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="15/09 Serie A Italiana", 18:30 Hellas Verona vs US Cremonese DAZN FHD

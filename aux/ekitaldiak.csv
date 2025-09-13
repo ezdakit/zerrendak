@@ -54,9 +54,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-13,01:00-Final 35 km Marcha Masculino Tokio 2025,01:00,Campeonato del Mundo,Final 35 km Marcha Masculino Tokio 2025,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-13,01:00-Final 35 km Marcha Masculino Tokio 2025,01:00,Campeonato del Mundo,Final 35 km Marcha Masculino Tokio 2025,Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-13,01:00-Final 35 km Marcha Masculino Tokio 2025,01:00,Campeonato del Mundo,Final 35 km Marcha Masculino Tokio 2025,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-13,01:00-Final 35 km Marcha Masculino Tokio 2025,01:00,Campeonato del Mundo,Final 35 km Marcha Masculino Tokio 2025,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-13,01:00-Final 35 km Marcha Masculino Tokio 2025,01:00,Campeonato del Mundo,Final 35 km Marcha Masculino Tokio 2025,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-13,01:25-I. Jovic-V. Jiménez,01:25,WTA Torneo de Guadalajara 1/4 de Final,I. Jovic vs V. Jiménez,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-09-13,01:25-I. Jovic-V. Jiménez,01:25,WTA Torneo de Guadalajara 1/4 de Final,I. Jovic vs V. Jiménez,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-09-13,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-13,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-09-13,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -112,9 +112,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-13,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-13,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-13,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-13,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-13,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-13,05:20-M. Stakusic-E. Arango,05:20,WTA Torneo de Guadalajara 1/4 de Final,M. Stakusic vs E. Arango,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-09-13,05:20-M. Stakusic-E. Arango,05:20,WTA Torneo de Guadalajara 1/4 de Final,M. Stakusic vs E. Arango,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-09-13,10:50-G.P. San Marino (Misano) Clasificación,10:50,MotoGP,G.P. San Marino (Misano) Clasificación,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-13,10:50-G.P. San Marino (Misano) Clasificación,10:50,MotoGP,G.P. San Marino (Misano) Clasificación,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-09-13,10:50-G.P. San Marino (Misano) Clasificación,10:50,MotoGP,G.P. San Marino (Misano) Clasificación,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -268,6 +268,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-13,11:05-Sesión Vespertina Tokio 2025,11:05,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-13,11:05-Sesión Vespertina Tokio 2025,11:05,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-13,11:05-Sesión Vespertina Tokio 2025,11:05,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-13,11:05-Sesión Vespertina Tokio 2025,11:05,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-13,11:05-Sesión Vespertina Tokio 2025,11:05,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-13,12:00-Real Sociedad Femenino-Sevilla FC Femenino,12:00,Liga F,Real Sociedad Femenino vs Sevilla FC Femenino,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-13,12:00-Real Sociedad Femenino-Sevilla FC Femenino,12:00,Liga F,Real Sociedad Femenino vs Sevilla FC Femenino,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
@@ -1210,6 +1211,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-13,15:55-Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km),15:55,Vuelta a España,Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-13,15:55-Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km),15:55,Vuelta a España,Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km),Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-13,15:55-Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km),15:55,Vuelta a España,Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-13,15:55-Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km),15:55,Vuelta a España,Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-13,15:55-Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km),15:55,Vuelta a España,Etapa 20 Robledo de Chavela › Bola del Mundo. Puerto de Navacerrada (156 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-13,16:00-Hartlepool United-Brackley Town,16:00,National League,Hartlepool United vs Brackley Town,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-13,16:00-Hartlepool United-Brackley Town,16:00,National League,Hartlepool United vs Brackley Town,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
@@ -2145,7 +2147,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-13,18:00-P. Ruhe-A. Zugo,18:00,Título Internacional Peso Superwelter,P. Ruhe vs A. Zugo,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-09-13,18:00-P. Ruhe-A. Zugo,18:00,Título Internacional Peso Superwelter,P. Ruhe vs A. Zugo,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-09-13,18:00-J. Tjen-F. Jones,18:00,WTA Torneo de Sao Paulo Semifinal 1,J. Tjen vs F. Jones,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-09-13,18:00-J. Tjen-F. Jones,18:00,WTA Torneo de Sao Paulo Semifinal 1,J. Tjen vs F. Jones,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-09-13,18:00-Juventus-Inter Milan,18:00,Serie A Italiana,Juventus vs Inter Milan,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-13,18:00-Juventus-Inter Milan,18:00,Serie A Italiana,Juventus vs Inter Milan,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-09-13,18:00-Juventus-Inter Milan,18:00,Serie A Italiana,Juventus vs Inter Milan,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -2660,7 +2661,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-13,19:00-Jornada 3,19:00,LPGA Kroger Queen City Championship,Jornada 3,Eurosport 2,0585e09bb8ac9720e4c11934f1b184e309291551,FHD
 2025-09-13,19:00-Jornada 3,19:00,LPGA Kroger Queen City Championship,Jornada 3,Eurosport 2,5c910d614894635153a7d42de98cc2e4a958a53f,SD
 2025-09-13,19:30-R. Zarazúa-T. Rakotomanga Rajaonah,19:30,WTA Torneo de Sao Paulo Semifinal 2,R. Zarazúa vs T. Rakotomanga Rajaonah,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-09-13,19:30-R. Zarazúa-T. Rakotomanga Rajaonah,19:30,WTA Torneo de Sao Paulo Semifinal 2,R. Zarazúa vs T. Rakotomanga Rajaonah,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-09-13,20:00-L. Crocker-P. Donovan,20:00,Título Mundial Peso Welter,L. Crocker vs P. Donovan,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-13,20:00-L. Crocker-P. Donovan,20:00,Título Mundial Peso Welter,L. Crocker vs P. Donovan,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-09-13,20:00-L. Crocker-P. Donovan,20:00,Título Mundial Peso Welter,L. Crocker vs P. Donovan,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -3061,7 +3061,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-14,00:00-D. Lopes-J. Silva,00:00,UFC UFC Fight Night,D. Lopes vs J. Silva,Eurosport 2,0585e09bb8ac9720e4c11934f1b184e309291551,FHD
 2025-09-14,00:00-D. Lopes-J. Silva,00:00,UFC UFC Fight Night,D. Lopes vs J. Silva,Eurosport 2,5c910d614894635153a7d42de98cc2e4a958a53f,SD
 2025-09-14,00:00-E. Jacquemot-E. Arango,00:00,WTA Torneo de Guadalajara Semifinal 1,E. Jacquemot vs E. Arango,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-09-14,00:00-E. Jacquemot-E. Arango,00:00,WTA Torneo de Guadalajara Semifinal 1,E. Jacquemot vs E. Arango,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-09-14,01:00-Maratón Femenina Tokio 2025,01:00,Campeonato del Mundo,Maratón Femenina Tokio 2025,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-14,01:00-Maratón Femenina Tokio 2025,01:00,Campeonato del Mundo,Maratón Femenina Tokio 2025,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-09-14,01:00-Maratón Femenina Tokio 2025,01:00,Campeonato del Mundo,Maratón Femenina Tokio 2025,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -3117,6 +3116,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-14,01:00-Maratón Femenina Tokio 2025,01:00,Campeonato del Mundo,Maratón Femenina Tokio 2025,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-14,01:00-Maratón Femenina Tokio 2025,01:00,Campeonato del Mundo,Maratón Femenina Tokio 2025,Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-14,01:00-Maratón Femenina Tokio 2025,01:00,Campeonato del Mundo,Maratón Femenina Tokio 2025,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-14,01:00-Maratón Femenina Tokio 2025,01:00,Campeonato del Mundo,Maratón Femenina Tokio 2025,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-14,01:00-Maratón Femenina Tokio 2025,01:00,Campeonato del Mundo,Maratón Femenina Tokio 2025,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-14,01:30-Bristol Speedway Carrera de Playoff,01:30,NASCAR Cup Series,Bristol Speedway Carrera de Playoff,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-14,01:30-Bristol Speedway Carrera de Playoff,01:30,NASCAR Cup Series,Bristol Speedway Carrera de Playoff,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
@@ -3222,9 +3222,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-14,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-14,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-14,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-14,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-14,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-14,02:00-N. Bartunkova-I. Jovic,02:00,WTA Torneo de Guadalajara Semifinal 2,N. Bartunkova vs I. Jovic,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-09-14,02:00-N. Bartunkova-I. Jovic,02:00,WTA Torneo de Guadalajara Semifinal 2,N. Bartunkova vs I. Jovic,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-09-14,06:15-The Bend Motorsport Park Carrera,06:15,Supercars Championship,The Bend Motorsport Park Carrera,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-14,06:15-The Bend Motorsport Park Carrera,06:15,Supercars Championship,The Bend Motorsport Park Carrera,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-09-14,06:15-The Bend Motorsport Park Carrera,06:15,Supercars Championship,The Bend Motorsport Park Carrera,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -3379,6 +3379,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-14,11:35-Sesión Vespertina Tokio 2025,11:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-14,11:35-Sesión Vespertina Tokio 2025,11:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-14,11:35-Sesión Vespertina Tokio 2025,11:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-14,11:35-Sesión Vespertina Tokio 2025,11:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-14,11:35-Sesión Vespertina Tokio 2025,11:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-14,12:00-Deportivo Abanca-Athletic Femenino,12:00,Liga F,Deportivo Abanca vs Athletic Femenino,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-14,12:00-Deportivo Abanca-Athletic Femenino,12:00,Liga F,Deportivo Abanca vs Athletic Femenino,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
@@ -4370,9 +4371,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-14,16:30-Etapa 21 Alalpardo › Madrid (101 km),16:30,Vuelta a España,Etapa 21 Alalpardo › Madrid (101 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-14,16:30-Etapa 21 Alalpardo › Madrid (101 km),16:30,Vuelta a España,Etapa 21 Alalpardo › Madrid (101 km),Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-14,16:30-Etapa 21 Alalpardo › Madrid (101 km),16:30,Vuelta a España,Etapa 21 Alalpardo › Madrid (101 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-14,16:30-Etapa 21 Alalpardo › Madrid (101 km),16:30,Vuelta a España,Etapa 21 Alalpardo › Madrid (101 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-14,16:30-Etapa 21 Alalpardo › Madrid (101 km),16:30,Vuelta a España,Etapa 21 Alalpardo › Madrid (101 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-14,17:00-Final WTA 250,17:00,WTA Torneo de Sao Paulo,Final WTA 250,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-09-14,17:00-Final WTA 250,17:00,WTA Torneo de Sao Paulo,Final WTA 250,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-09-14,17:30-Manchester City-Manchester Utd.,17:30,Premier League,Manchester City vs Manchester Utd.,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-14,17:30-Manchester City-Manchester Utd.,17:30,Premier League,Manchester City vs Manchester Utd.,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-09-14,17:30-Manchester City-Manchester Utd.,17:30,Premier League,Manchester City vs Manchester Utd.,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -5419,6 +5420,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-14,20:30-UCI World Tour Montréal › Montréal (209.1 km),20:30,GP Montreal,UCI World Tour Montréal › Montréal (209.1 km),Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-14,20:30-UCI World Tour Montréal › Montréal (209.1 km),20:30,GP Montreal,UCI World Tour Montréal › Montréal (209.1 km),Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-14,20:30-UCI World Tour Montréal › Montréal (209.1 km),20:30,GP Montreal,UCI World Tour Montréal › Montréal (209.1 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-14,20:30-UCI World Tour Montréal › Montréal (209.1 km),20:30,GP Montreal,UCI World Tour Montréal › Montréal (209.1 km),Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-14,20:30-UCI World Tour Montréal › Montréal (209.1 km),20:30,GP Montreal,UCI World Tour Montréal › Montréal (209.1 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-14,20:45-AC Milan-Bologna,20:45,Serie A Italiana,AC Milan vs Bologna,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-14,20:45-AC Milan-Bologna,20:45,Serie A Italiana,AC Milan vs Bologna,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
@@ -5720,9 +5722,9 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-15,01:00-Maratón Masculina Tokio 2025,01:00,Campeonato del Mundo,Maratón Masculina Tokio 2025,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-15,01:00-Maratón Masculina Tokio 2025,01:00,Campeonato del Mundo,Maratón Masculina Tokio 2025,Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-15,01:00-Maratón Masculina Tokio 2025,01:00,Campeonato del Mundo,Maratón Masculina Tokio 2025,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-15,01:00-Maratón Masculina Tokio 2025,01:00,Campeonato del Mundo,Maratón Masculina Tokio 2025,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-15,01:00-Maratón Masculina Tokio 2025,01:00,Campeonato del Mundo,Maratón Masculina Tokio 2025,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-15,01:30-Final WTA 500,01:30,WTA Torneo de Guadalajara,Final WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-09-15,01:30-Final WTA 500,01:30,WTA Torneo de Guadalajara,Final WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-09-15,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-15,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-09-15,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -5778,6 +5780,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-15,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-15,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-15,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-15,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-15,02:00-Sesión Matinal Tokio 2025,02:00,Campeonato del Mundo,Sesión Matinal Tokio 2025,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-15,02:20-Minnesota Vikings-Atlanta Falcons,02:20,NFL Liga Regular,Minnesota Vikings vs Atlanta Falcons,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-15,02:20-Minnesota Vikings-Atlanta Falcons,02:20,NFL Liga Regular,Minnesota Vikings vs Atlanta Falcons,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
@@ -5829,7 +5832,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-15,02:20-Minnesota Vikings-Atlanta Falcons,02:20,NFL Liga Regular,Minnesota Vikings vs Atlanta Falcons,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
 2025-09-15,02:20-Minnesota Vikings-Atlanta Falcons,02:20,NFL Liga Regular,Minnesota Vikings vs Atlanta Falcons,DAZN,176f0b8565a161f87c81a4a250463e3eaf678fb5,
 2025-09-15,05:00-1ª Ronda WTA 500,05:00,WTA Torneo de Seúl,1ª Ronda WTA 500,Tennis Channel,039fae21c9e7e5214d3d898cba80863e37e623ac,
-2025-09-15,05:00-1ª Ronda WTA 500,05:00,WTA Torneo de Seúl,1ª Ronda WTA 500,Tennis Channel,8091334c82e8720fc6aa05ff0bd6d343c5bfecbf,
 2025-09-15,12:35-Sesión Vespertina Tokio 2025,12:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-15,12:35-Sesión Vespertina Tokio 2025,12:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-09-15,12:35-Sesión Vespertina Tokio 2025,12:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -5885,6 +5887,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-09-15,12:35-Sesión Vespertina Tokio 2025,12:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,714e14e6d6e27660fd25a75b57b0ac5580fe705d,FHD
 2025-09-15,12:35-Sesión Vespertina Tokio 2025,12:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,ef2abf419586d9876370be127ad592dbb41b126a,FHD
 2025-09-15,12:35-Sesión Vespertina Tokio 2025,12:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
+2025-09-15,12:35-Sesión Vespertina Tokio 2025,12:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,cfa75ade53810dac64411b22d56c3d4582a221d3,
 2025-09-15,12:35-Sesión Vespertina Tokio 2025,12:35,Campeonato del Mundo,Sesión Vespertina Tokio 2025,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-09-15,18:30-Hellas Verona-US Cremonese,18:30,Serie A Italiana,Hellas Verona vs US Cremonese,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-09-15,18:30-Hellas Verona-US Cremonese,18:30,Serie A Italiana,Hellas Verona vs US Cremonese,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
