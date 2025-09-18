@@ -26,6 +26,8 @@ plugin://script.module.horus?action=play&id=ae68a0835039fab28fd2314108fabd4fab33
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
 plugin://script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
+plugin://script.module.horus?action=play&id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
+#EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 plugin://script.module.horus?action=play&id=8a86cd6152154a25ad4b76523160552a40313b28
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 plugin://script.module.horus?action=play&id=4e401fdceebffdf1f09aef954844d09f6c62f460
@@ -285,6 +287,12 @@ plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc
 plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK] 2033
 plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 1" group-title="VARIOS", BUNDESLIGA 1 FHD 20DB
+plugin://script.module.horus?action=play&id=cb18d080d81f7fccf26b7723ce6a5d86d31220db
+#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 2" group-title="VARIOS", BUNDESLIGA 2 FHD C918
+plugin://script.module.horus?action=play&id=d4f56cda0a15f47e7820daaac8e37b4d67d9c918
+#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 3" group-title="VARIOS", BUNDESLIGA 3 FHD 9564
+plugin://script.module.horus?action=play&id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
 #EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD 849B
 plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed849b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
