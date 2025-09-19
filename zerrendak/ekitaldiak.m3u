@@ -347,6 +347,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="19/09 Campeonato del Mundo", 10:33 Sesión Vespertina Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="19/09 Campeonato del Mundo", 10:33 Sesión Vespertina Tokio 2025 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="19/09 Campeonato del Mundo", 10:33 Sesión Vespertina Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="" group-title="19/09 Campeonato del Mundo", 10:33 Sesión Vespertina Tokio 2025 Eurosport 1 FHD
@@ -369,8 +371,12 @@ http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="19/09 Champions League Femenina", 12:00 Sorteo de Fase Liga Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="19/09 Champions League Femenina", 12:00 Sorteo de Fase Liga Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="19/09 FIA Fórmula 2", 12:00 G.P. Azerbaiyán (Bakú) Clasificación Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="19/09 FIA Fórmula 2", 12:00 G.P. Azerbaiyán (Bakú) Clasificación Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="19/09 Billie Jean King Cup Semifinal 1", 12:30 Italia vs Ucrania Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="19/09 Billie Jean King Cup Semifinal 1", 12:30 Italia vs Ucrania Tennis Channel 
@@ -1253,6 +1259,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="19/09 Amistoso", 21:00 España vs Armenia Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="19/09 Amistoso", 21:00 España vs Armenia Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="19/09 D1 Féminine", 21:00 O. Marseille Femenino vs Le Havre AC Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="19/09 D1 Féminine", 21:00 O. Marseille Femenino vs Le Havre AC Femenino DAZN FHD
@@ -1797,6 +1805,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 00:30 Final 20 km Marcha Femeninos Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 00:30 Final 20 km Marcha Femeninos Tokio 2025 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 00:30 Final 20 km Marcha Femeninos Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 00:30 Final 20 km Marcha Femeninos Tokio 2025 Eurosport 1 FHD
@@ -1915,6 +1925,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 FHD
@@ -2137,6 +2149,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:50 Final 20 km Marcha Masculinos Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:50 Final 20 km Marcha Masculinos Tokio 2025 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:50 Final 20 km Marcha Masculinos Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:50 Final 20 km Marcha Masculinos Tokio 2025 Eurosport 1 FHD
@@ -2611,6 +2625,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 Eurosport 1 FHD
@@ -5237,6 +5253,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="20/09 Primera Federación Femenina", 16:00 Poio Pescamar FS vs AD Ceuta FS Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="20/09 Primera Federación Femenina", 16:00 Poio Pescamar FS vs AD Ceuta FS Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Liga F", 16:00 FC Badalona Women vs DUX Logroño Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/09 Liga F", 16:00 FC Badalona Women vs DUX Logroño Femenino DAZN FHD
@@ -6499,6 +6517,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="20/09 Liga ASOBAL", 18:30 Balonmano Caserío Ciudad Real vs BM Cuenca Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="20/09 Liga ASOBAL", 18:30 Balonmano Caserío Ciudad Real vs BM Cuenca Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Liga F", 18:30 Real Sociedad Femenino vs Levante Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/09 Liga F", 18:30 Real Sociedad Femenino vs Levante Femenino DAZN FHD
@@ -7769,6 +7789,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 02:05 Sesión Matinal Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 02:05 Sesión Matinal Tokio 2025 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup", 04:00 Partido 7 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup", 04:00 Partido 7 DAZN FHD
@@ -8321,6 +8343,8 @@ http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 10:35 Sesión Vespertina Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 10:35 Sesión Vespertina Tokio 2025 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup", 11:00 Final Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup", 11:00 Final Tennis Channel 
