@@ -180,8 +180,6 @@ plugin://script.module.horus?action=play&id=9b84af74b2fa3690c519199326fc2f181b02
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
 plugin://script.module.horus?action=play&id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
-plugin://script.module.horus?action=play&id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
 plugin://script.module.horus?action=play&id=199190e3f28c1de0be34bccf0d3568dc65209b99
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
 plugin://script.module.horus?action=play&id=5866e83279307bf919068ae7a0d250e4e424e464
@@ -265,6 +263,10 @@ plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27
 plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK] 9DB3
 plugin://script.module.horus?action=play&id=22fead867a8657cfb58cd84245e18954ab199db3
+#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 1" group-title="VARIOS", BUNDESLIGA 1 FHD 20DB
+plugin://script.module.horus?action=play&id=cb18d080d81f7fccf26b7723ce6a5d86d31220db
+#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 2" group-title="VARIOS", BUNDESLIGA 2 FHD C918
+plugin://script.module.horus?action=play&id=d4f56cda0a15f47e7820daaac8e37b4d67d9c918
 #EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD 849B
 plugin://script.module.horus?action=play&id=96f092e1fa99062f6da14cae230b877ad3ed849b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
@@ -277,6 +279,8 @@ plugin://script.module.horus?action=play&id=8670df538a11c6ec97b3f634981ddc4409ca
 plugin://script.module.horus?action=play&id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DARK HD DC20
 plugin://script.module.horus?action=play&id=25465ea2deba65c623b7659136abf6fcc9f5dc20
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1 8FB5
+plugin://script.module.horus?action=play&id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 2 0267
 plugin://script.module.horus?action=play&id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 3 447D
@@ -359,10 +363,6 @@ plugin://script.module.horus?action=play&id=90d101676ec61e02e7f77b489f0981e9dd81
 plugin://script.module.horus?action=play&id=9fb99c40a2c45d5c5342b30626eb56140f980612
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 4A3A
 plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-#EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 4F93
-plugin://script.module.horus?action=play&id=73094658f0a3ed523c0e188de67a7a690c0d4f93
-#EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 40BA
-plugin://script.module.horus?action=play&id=7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 740C
 plugin://script.module.horus?action=play&id=dad5e0e0825cb3e410008f1c4252387b868e740c
 #EXTINF:-1 tvg-id="La 2" group-title="VARIOS", LA 2 FHD C2ED
@@ -447,8 +447,6 @@ plugin://script.module.horus?action=play&id=3d376333ee90d6db3d413fc5764ef6358820
 plugin://script.module.horus?action=play&id=3e7b1911a1f83fd869b6995650a3057778259ca7
 #EXTINF:-1 tvg-id="Telecinco HD" group-title="VARIOS", TELECINCO FHD F7BF
 plugin://script.module.horus?action=play&id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
-#EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD 0230
-plugin://script.module.horus?action=play&id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD D9EF
 plugin://script.module.horus?action=play&id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEN TV FHD 4ABC
