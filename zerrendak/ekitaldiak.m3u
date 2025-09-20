@@ -450,8 +450,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 3", 04:00 F. Cobolli vs J. Fonseca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 3", 04:00 F. Cobolli vs J. Fonseca Eurosport 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 3", 04:00 F. Cobolli vs J. Fonseca Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 3", 04:00 F. Cobolli vs J. Fonseca Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
@@ -461,12 +459,8 @@ http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl 1/4 de Final", 05:10 I. Swiatek vs B. Krejcikova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl 1/4 de Final", 05:10 I. Swiatek vs B. Krejcikova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl 1/4 de Final", 05:10 C. Tauson vs M. Joint Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl 1/4 de Final", 05:10 C. Tauson vs M. Joint Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 4 (Dobles)", 05:30 C. Alcaraz | J. Menšík vs T. Fritz | A. Michelsen DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 4 (Dobles)", 05:30 C. Alcaraz | J. Menšík vs T. Fritz | A. Michelsen DAZN FHD
@@ -547,8 +541,6 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 4 (Dobles)", 05:30 C. Alcaraz | J. Menšík vs T. Fritz | A. Michelsen DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 4 (Dobles)", 05:30 C. Alcaraz | J. Menšík vs T. Fritz | A. Michelsen Eurosport 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 4 (Dobles)", 05:30 C. Alcaraz | J. Menšík vs T. Fritz | A. Michelsen Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 4 (Dobles)", 05:30 C. Alcaraz | J. Menšík vs T. Fritz | A. Michelsen Eurosport 2 FHD
@@ -559,16 +551,10 @@ http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl 1/4 de Final", 06:40 S. Lamens vs K. Siniakova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl 1/4 de Final", 06:40 S. Lamens vs K. Siniakova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl 1/4 de Final", 06:50 E. Seidel vs E. Alexandrova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl 1/4 de Final", 06:50 E. Seidel vs E. Alexandrova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl Semifinal 1", 10:10 I. Swiatek vs M. Joint Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl Semifinal 1", 10:10 I. Swiatek vs M. Joint Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/09 Fórmula 1", 10:30 G.P. Azerbaiyán (Bakú) Libres 3 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/09 Fórmula 1", 10:30 G.P. Azerbaiyán (Bakú) Libres 3 DAZN FHD
@@ -651,12 +637,8 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/09 Billie Jean King Cup Semifinal 2", 11:00 Estados Unidos vs Gran Bretaña Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/09 Billie Jean King Cup Semifinal 2", 11:00 Estados Unidos vs Gran Bretaña Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl Semifinal 2", 11:35 K. Siniakova vs E. Alexandrova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/09 WTA Torneo de Seúl Semifinal 2", 11:35 K. Siniakova vs E. Alexandrova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 DAZN FHD
@@ -995,8 +977,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/09 Billie Jean King Cup Semifinal 2", 12:30 Estados Unidos vs Gran Bretaña Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/09 Billie Jean King Cup Semifinal 2", 12:30 Estados Unidos vs Gran Bretaña Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/09 2. Bundesliga", 13:00 1. FC Magdeburg vs Schalke 04 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/09 2. Bundesliga", 13:00 1. FC Magdeburg vs Schalke 04 DAZN FHD
@@ -1479,8 +1459,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/09 Billie Jean King Cup Semifinal 2", 14:00 Estados Unidos vs Gran Bretaña Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="20/09 Billie Jean King Cup Semifinal 2", 14:00 Estados Unidos vs Gran Bretaña Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="20/09 Serie A Italiana", 15:00 Bologna vs Genoa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="20/09 Serie A Italiana", 15:00 Bologna vs Genoa DAZN FHD
@@ -4474,8 +4452,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 5", 22:00 A. Zverev vs A. De Miñaur DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 5", 22:00 A. Zverev vs A. De Miñaur Eurosport 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 5", 22:00 A. Zverev vs A. De Miñaur Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 5", 22:00 A. Zverev vs A. De Miñaur Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
@@ -4563,8 +4539,6 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 6", 23:30 H. Rune vs F. Cerúndolo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 6", 23:30 H. Rune vs F. Cerúndolo Eurosport 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 6", 23:30 H. Rune vs F. Cerúndolo Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 6", 23:30 H. Rune vs F. Cerúndolo Eurosport 2 FHD
@@ -4818,8 +4792,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 7", 04:00 C. Alcaraz vs T. Fritz DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 7", 04:00 C. Alcaraz vs T. Fritz Eurosport 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 7", 04:00 C. Alcaraz vs T. Fritz Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 7", 04:00 C. Alcaraz vs T. Fritz Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
@@ -4907,8 +4879,6 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 8 (Dobles)", 05:30 C. Ruud | H. Rune vs A. De Miñaur | A. Michelsen DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 8 (Dobles)", 05:30 C. Ruud | H. Rune vs A. De Miñaur | A. Michelsen Eurosport 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 8 (Dobles)", 05:30 C. Ruud | H. Rune vs A. De Miñaur | A. Michelsen Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 8 (Dobles)", 05:30 C. Ruud | H. Rune vs A. De Miñaur | A. Michelsen Eurosport 2 FHD
@@ -5078,8 +5048,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 10:00 Contrarreloj Femenina Kigali › Kigali (31.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 10:00 Contrarreloj Femenina Kigali › Kigali (31.2 km) Eurosport 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 10:00 Contrarreloj Femenina Kigali › Kigali (31.2 km) Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 10:00 Contrarreloj Femenina Kigali › Kigali (31.2 km) Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
@@ -5089,16 +5057,12 @@ http://127.0.0.1:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="21/09 WTA Torneo de Seúl Final", 10:00 I. Swiatek vs E. Alexandrova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="21/09 WTA Torneo de Seúl Final", 10:00 I. Swiatek vs E. Alexandrova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 10:35 Sesión Vespertina Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 10:35 Sesión Vespertina Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 11:00 Italia vs TBD Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 11:00 Italia vs TBD Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Madrid CFF vs At. Madrid Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Madrid CFF vs At. Madrid Femenino DAZN FHD
@@ -5259,6 +5223,8 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Alhama CF vs Costa Adeje Tenerife DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="21/09 División Honor Juvenil", 12:00 Burgos CF Academy vs Real Madrid Academy Real Madrid TV 
+http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 12:30 Lazio vs AS Roma DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 12:30 Lazio vs AS Roma DAZN FHD
@@ -6399,6 +6365,8 @@ http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="21/09 Amistoso", 17:00 España vs Armenia Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="21/09 Liga Nacional Juvenil Grupo 12 (Madrid)", 17:00 Rayo Ciudad Alcobendas Academy vs Real Madrid Academy Real Madrid TV 
+http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 17:30 Arsenal vs Manchester City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 17:30 Arsenal vs Manchester City DAZN FHD
@@ -8239,8 +8207,6 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup", 21:00 Partido 9 (Dobles) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup", 21:00 Partido 9 (Dobles) Eurosport 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup", 21:00 Partido 9 (Dobles) Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup", 21:00 Partido 9 (Dobles) Eurosport 2 FHD
@@ -8650,8 +8616,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup", 22:30 Partido 10 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup", 22:30 Partido 10 Eurosport 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup", 22:30 Partido 10 Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup", 22:30 Partido 10 Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
@@ -8740,8 +8704,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup", 00:00 Partido 11 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup", 00:00 Partido 11 Eurosport 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup", 00:00 Partido 11 Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup", 00:00 Partido 11 Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
@@ -8829,8 +8791,6 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup", 01:30 Partido 12 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup", 01:30 Partido 12 Eurosport 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup", 01:30 Partido 12 Eurosport 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup", 01:30 Partido 12 Eurosport 2 FHD
