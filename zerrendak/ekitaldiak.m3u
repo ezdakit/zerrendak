@@ -82,8 +82,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 00:30 Final 20 km Marcha Femeninos Tokio 2025 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 00:30 Final 20 km Marcha Femeninos Tokio 2025 Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 00:30 Final 20 km Marcha Femeninos Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 00:30 Final 20 km Marcha Femeninos Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
@@ -93,6 +91,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 00:30 Final 20 km Marcha Femeninos Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 00:30 Final 20 km Marcha Femeninos Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 00:30 Final 20 km Marcha Femeninos Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 DAZN 
@@ -176,8 +176,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
@@ -187,6 +185,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:00 Sesión Matinal Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="20/09 Título Estados Unidos Peso Welter", 02:00 B. Moore vs D. Savage DAZN 
@@ -350,8 +350,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:50 Final 20 km Marcha Masculinos Tokio 2025 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:50 Final 20 km Marcha Masculinos Tokio 2025 Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:50 Final 20 km Marcha Masculinos Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:50 Final 20 km Marcha Masculinos Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
@@ -361,6 +359,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:50 Final 20 km Marcha Masculinos Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:50 Final 20 km Marcha Masculinos Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 02:50 Final 20 km Marcha Masculinos Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="20/09 Laver Cup Partido 3", 04:00 F. Cobolli vs J. Fonseca DAZN 
@@ -728,8 +728,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
@@ -739,6 +737,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="" group-title="20/09 Campeonato del Mundo", 12:00 Sesión Vespertina Tokio 2025 Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="20/09 Liga F", 12:00 Espanyol Femenino vs Athletic Femenino DAZN 
@@ -1637,6 +1637,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="20/09 Tour de Eslovaquia", 15:30 Etapa 4 Vráble › Sládkovicovo (169.1 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="20/09 Tour de Eslovaquia", 15:30 Etapa 4 Vráble › Sládkovicovo (169.1 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="" group-title="20/09 Tour de Eslovaquia", 15:30 Etapa 4 Vráble › Sládkovicovo (169.1 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="20/09 Bundesliga", 15:30 Augsburg vs Mainz 05 DAZN 
@@ -2760,8 +2762,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="20/09 National League", 16:00 Tamworth FC vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="20/09 Primera Federación Femenina", 16:00 Poio Pescamar FS vs AD Ceuta FS Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="20/09 Primera Federación Femenina", 16:00 Poio Pescamar FS vs AD Ceuta FS Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Liga F", 16:00 FC Badalona Women vs DUX Logroño Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
@@ -3331,6 +3331,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="20/09 Tour de Luxemburgo", 17:00 Etapa 4 Niederanven › Niederanven (26.3 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="20/09 Tour de Luxemburgo", 17:00 Etapa 4 Niederanven › Niederanven (26.3 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="" group-title="20/09 Tour de Luxemburgo", 17:00 Etapa 4 Niederanven › Niederanven (26.3 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="20/09 Serie A Italiana", 18:00 Hellas Verona vs Juventus DAZN 
@@ -3733,8 +3735,6 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="20/09 LaLiga Hypermotion", 18:30 FC Andorra vs Mirandés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="20/09 Liga ASOBAL", 18:30 Balonmano Caserío Ciudad Real vs BM Cuenca Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="20/09 Liga ASOBAL", 18:30 Balonmano Caserío Ciudad Real vs BM Cuenca Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="20/09 Liga F", 18:30 Real Sociedad Femenino vs Levante Femenino DAZN 
@@ -4714,8 +4714,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="21/09 Título Norteamericano Peso Superligero", 02:00 B. Gorham vs Y. Alamo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 02:05 Sesión Matinal Tokio 2025 Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 02:05 Sesión Matinal Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 7", 04:00 C. Alcaraz vs T. Fritz DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
@@ -5066,12 +5064,10 @@ http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/09 WTA Torneo de Seúl Final", 10:00 I. Swiatek vs E. Alexandrova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 10:35 Sesión Vespertina Tokio 2025 Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 10:35 Sesión Vespertina Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 11:00 Italia vs TBD Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 11:00 Italia vs Estados Unidos Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 11:00 Italia vs TBD Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 11:00 Italia vs Estados Unidos Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Madrid CFF vs At. Madrid Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
@@ -5235,6 +5231,10 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="21/09 División Honor Juvenil", 12:00 Burgos CF Academy vs Real Madrid Academy Real Madrid TV 
 http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
+#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 12:30 Italia vs Estados Unidos Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 12:30 Italia vs Estados Unidos Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 12:30 Lazio vs AS Roma DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 12:30 Lazio vs AS Roma DAZN FHD
@@ -5635,6 +5635,10 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Real Zaragoza DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 14:00 Italia vs Estados Unidos Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 14:00 Italia vs Estados Unidos Tennis Channel 
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) DAZN FHD
@@ -5715,8 +5719,6 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Eurosport 1 FHD
@@ -5727,6 +5729,8 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
+#EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 15:00 Sunderland vs Aston Villa DAZN 
@@ -6369,8 +6373,6 @@ http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 16:15 Albacete vs Real Valladolid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="21/09 Amistoso", 17:00 España vs Armenia Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="21/09 Amistoso", 17:00 España vs Armenia Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga Nacional Juvenil Grupo 12 (Madrid)", 17:00 Rayo Ciudad Alcobendas Academy vs Real Madrid Academy Real Madrid TV 
