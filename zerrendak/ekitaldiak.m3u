@@ -186,8 +186,6 @@ http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="21/09 Título Norteamericano Peso Superligero", 02:00 B. Gorham vs Y. Alamo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 02:05 Sesión Matinal Tokio 2025 Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 02:05 Sesión Matinal Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 7", 04:00 C. Alcaraz vs T. Fritz DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
@@ -593,10 +591,6 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="21/09 WTA Torneo de Seúl Final", 10:10 I. Swiatek vs E. Alexandrova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="" group-title="21/09 WTA Torneo de Seúl Final", 10:10 I. Swiatek vs E. Alexandrova Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 10:35 Sesión Vespertina Tokio 2025 Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 10:35 Sesión Vespertina Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 11:00 Italia vs Estados Unidos Tennis Channel FHD
@@ -605,8 +599,6 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 11:00 Italia vs Estados Unidos Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 11:00 Italia vs Estados Unidos Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Madrid CFF vs At. Madrid Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Madrid CFF vs At. Madrid Femenino DAZN FHD
@@ -799,8 +791,6 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 12:30 Italia vs Estados Unidos Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 12:30 Italia vs Estados Unidos Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 12:30 Lazio vs AS Roma DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 12:30 Lazio vs AS Roma DAZN FHD
@@ -1267,8 +1257,6 @@ http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 14:00 Italia vs Estados Unidos Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 14:00 Italia vs Estados Unidos Tennis Channel 
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) DAZN FHD
@@ -1361,8 +1349,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Eurosport 1 FHD
@@ -2113,8 +2099,6 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 16:15 Albacete vs Real Valladolid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-id="" group-title="21/09 Amistoso", 17:00 España vs Armenia Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="21/09 Amistoso", 17:00 España vs Armenia Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga Nacional Juvenil Grupo 12 (Madrid)", 17:00 Rayo Ciudad Alcobendas Academy vs Real Madrid Academy Real Madrid TV 
