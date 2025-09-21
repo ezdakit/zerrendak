@@ -20,8 +20,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Título Mundial Peso Ligero", 02:00 O. Collazo vs J. Vayson DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="" group-title="21/09 Título Mundial Peso Ligero", 02:00 O. Collazo vs J. Vayson DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="21/09 Título Mundial Peso Ligero", 02:00 O. Collazo vs J. Vayson DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Título Mundial Peso Ligero", 02:00 O. Collazo vs J. Vayson DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
@@ -111,8 +109,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Título Norteamericano Peso Superligero", 02:00 B. Gorham vs Y. Alamo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Título Norteamericano Peso Superligero", 02:00 B. Gorham vs Y. Alamo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Título Norteamericano Peso Superligero", 02:00 B. Gorham vs Y. Alamo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Título Norteamericano Peso Superligero", 02:00 B. Gorham vs Y. Alamo DAZN FHD
@@ -186,6 +182,8 @@ http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="21/09 Título Norteamericano Peso Superligero", 02:00 B. Gorham vs Y. Alamo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 02:05 Sesión Matinal Tokio 2025 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 02:05 Sesión Matinal Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 7", 04:00 C. Alcaraz vs T. Fritz DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
@@ -205,8 +203,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 7", 04:00 C. Alcaraz vs T. Fritz DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 7", 04:00 C. Alcaraz vs T. Fritz DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 7", 04:00 C. Alcaraz vs T. Fritz DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 7", 04:00 C. Alcaraz vs T. Fritz DAZN FHD
@@ -308,8 +304,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 8 (Dobles)", 05:30 C. Ruud | H. Rune vs A. De Miñaur | A. Michelsen DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 8 (Dobles)", 05:30 C. Ruud | H. Rune vs A. De Miñaur | A. Michelsen DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 8 (Dobles)", 05:30 C. Ruud | H. Rune vs A. De Miñaur | A. Michelsen DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 8 (Dobles)", 05:30 C. Ruud | H. Rune vs A. De Miñaur | A. Michelsen DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
@@ -410,8 +404,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 FIA Fórmula 2", 09:00 G.P. Azerbaiyán (Bakú) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="" group-title="21/09 FIA Fórmula 2", 09:00 G.P. Azerbaiyán (Bakú) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="21/09 FIA Fórmula 2", 09:00 G.P. Azerbaiyán (Bakú) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 FIA Fórmula 2", 09:00 G.P. Azerbaiyán (Bakú) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
@@ -501,8 +493,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 10:00 Contrarreloj Femenina Kigali › Kigali (31.2 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 10:00 Contrarreloj Femenina Kigali › Kigali (31.2 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 10:00 Contrarreloj Femenina Kigali › Kigali (31.2 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 10:00 Contrarreloj Femenina Kigali › Kigali (31.2 km) DAZN FHD
@@ -592,6 +582,8 @@ http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="" group-title="21/09 WTA Torneo de Seúl Final", 10:10 I. Swiatek vs E. Alexandrova Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 10:35 Sesión Vespertina Tokio 2025 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="21/09 Campeonato del Mundo", 10:35 Sesión Vespertina Tokio 2025 Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Billie Jean King Cup Final", 11:00 Italia vs Estados Unidos Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
@@ -617,8 +609,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Madrid CFF vs At. Madrid Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Madrid CFF vs At. Madrid Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Madrid CFF vs At. Madrid Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Madrid CFF vs At. Madrid Femenino DAZN FHD
@@ -709,8 +699,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Alhama CF vs Costa Adeje Tenerife DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Alhama CF vs Costa Adeje Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Alhama CF vs Costa Adeje Tenerife DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 12:00 Alhama CF vs Costa Adeje Tenerife DAZN FHD
@@ -810,8 +798,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 12:30 Lazio vs AS Roma DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 12:30 Lazio vs AS Roma DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 12:30 Lazio vs AS Roma DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 12:30 Lazio vs AS Roma DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
@@ -901,8 +887,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Fórmula 1", 13:00 G.P. Azerbaiyán (Bakú) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Fórmula 1", 13:00 G.P. Azerbaiyán (Bakú) Carrera DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Fórmula 1", 13:00 G.P. Azerbaiyán (Bakú) Carrera DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Fórmula 1", 13:00 G.P. Azerbaiyán (Bakú) Carrera DAZN FHD
@@ -993,8 +977,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 2. Bundesliga", 13:30 Dynamo Dresden vs Hannover 96 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 2. Bundesliga", 13:30 Dynamo Dresden vs Hannover 96 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 2. Bundesliga", 13:30 Dynamo Dresden vs Hannover 96 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 2. Bundesliga", 13:30 Dynamo Dresden vs Hannover 96 DAZN FHD
@@ -1085,8 +1067,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Jupiler Pro League", 13:30 Genk vs Saint-Gilloise DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Jupiler Pro League", 13:30 Genk vs Saint-Gilloise DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Jupiler Pro League", 13:30 Genk vs Saint-Gilloise DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Jupiler Pro League", 13:30 Genk vs Saint-Gilloise DAZN FHD
@@ -1177,8 +1157,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Real Zaragoza DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Real Zaragoza DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Real Zaragoza DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 14:00 AD Ceuta vs Real Zaragoza DAZN FHD
@@ -1276,8 +1254,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
@@ -1350,6 +1326,8 @@ http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Mundial de Ciclismo en Ruta", 14:35 Contrarreloj Masculina Kigali › Kigali (40.6 km) Eurosport 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
@@ -1381,8 +1359,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 15:00 Sunderland vs Aston Villa DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 15:00 Sunderland vs Aston Villa DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 15:00 Sunderland vs Aston Villa DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 15:00 Sunderland vs Aston Villa DAZN FHD
@@ -1473,8 +1449,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 15:00 Bournemouth vs Newcastle DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 15:00 Bournemouth vs Newcastle DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 15:00 Bournemouth vs Newcastle DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 15:00 Bournemouth vs Newcastle DAZN FHD
@@ -1565,8 +1539,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 15:00 Torino vs Atalanta DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 15:00 Torino vs Atalanta DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 15:00 Torino vs Atalanta DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 15:00 Torino vs Atalanta DAZN FHD
@@ -1657,8 +1629,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 15:00 US Cremonese vs Parma DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 15:00 US Cremonese vs Parma DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 15:00 US Cremonese vs Parma DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 15:00 US Cremonese vs Parma DAZN FHD
@@ -1749,8 +1719,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 15:30 Eintracht Frankfurt vs 1. FC Union Berlin DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 15:30 Eintracht Frankfurt vs 1. FC Union Berlin DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 15:30 Eintracht Frankfurt vs 1. FC Union Berlin DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 15:30 Eintracht Frankfurt vs 1. FC Union Berlin DAZN FHD
@@ -1841,8 +1809,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 16:00 Sevilla FC Femenino vs FC Barcelona Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 16:00 Sevilla FC Femenino vs FC Barcelona Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 16:00 Sevilla FC Femenino vs FC Barcelona Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 16:00 Sevilla FC Femenino vs FC Barcelona Femenino DAZN FHD
@@ -1933,8 +1899,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 16:15 Mallorca vs At. Madrid DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 16:15 Mallorca vs At. Madrid DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 16:15 Mallorca vs At. Madrid DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 16:15 Mallorca vs At. Madrid DAZN FHD
@@ -2025,8 +1989,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 16:15 Albacete vs Real Valladolid DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 16:15 Albacete vs Real Valladolid DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 16:15 Albacete vs Real Valladolid DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 16:15 Albacete vs Real Valladolid DAZN FHD
@@ -2100,6 +2062,8 @@ http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 16:15 Albacete vs Real Valladolid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="21/09 Amistoso", 17:00 España vs Armenia Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="21/09 Amistoso", 17:00 España vs Armenia Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga Nacional Juvenil Grupo 12 (Madrid)", 17:00 Rayo Ciudad Alcobendas Academy vs Real Madrid Academy Real Madrid TV 
 http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
@@ -2121,8 +2085,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 17:30 Arsenal vs Manchester City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 17:30 Arsenal vs Manchester City DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 17:30 Arsenal vs Manchester City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Premier League", 17:30 Arsenal vs Manchester City DAZN FHD
@@ -2213,8 +2175,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 17:30 Bayer Leverkusen vs Borussia M'gladbach DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 17:30 Bayer Leverkusen vs Borussia M'gladbach DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 17:30 Bayer Leverkusen vs Borussia M'gladbach DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 17:30 Bayer Leverkusen vs Borussia M'gladbach DAZN FHD
@@ -2305,8 +2265,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 18:00 Fiorentina vs Como 1907 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 18:00 Fiorentina vs Como 1907 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 18:00 Fiorentina vs Como 1907 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 18:00 Fiorentina vs Como 1907 DAZN FHD
@@ -2397,8 +2355,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 18:30 Elche vs Real Oviedo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 18:30 Elche vs Real Oviedo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 18:30 Elche vs Real Oviedo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 18:30 Elche vs Real Oviedo DAZN FHD
@@ -2489,8 +2445,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 18:30 Eibar vs Real Sociedad B DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 18:30 Eibar vs Real Sociedad B DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 18:30 Eibar vs Real Sociedad B DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 18:30 Eibar vs Real Sociedad B DAZN FHD
@@ -2581,8 +2535,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 18:30 Málaga vs Cádiz CF DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 18:30 Málaga vs Cádiz CF DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 18:30 Málaga vs Cádiz CF DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 18:30 Málaga vs Cádiz CF DAZN FHD
@@ -2673,8 +2625,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 18:30 Real Madrid Femenino vs Deportivo Abanca DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 18:30 Real Madrid Femenino vs Deportivo Abanca DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 18:30 Real Madrid Femenino vs Deportivo Abanca DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Liga F", 18:30 Real Madrid Femenino vs Deportivo Abanca DAZN FHD
@@ -2765,8 +2715,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Jupiler Pro League", 18:30 Club Brugge vs Sint-Truiden VV DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Jupiler Pro League", 18:30 Club Brugge vs Sint-Truiden VV DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Jupiler Pro League", 18:30 Club Brugge vs Sint-Truiden VV DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Jupiler Pro League", 18:30 Club Brugge vs Sint-Truiden VV DAZN FHD
@@ -2857,8 +2805,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Washington Commanders vs Las Vegas Raiders DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Washington Commanders vs Las Vegas Raiders DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Washington Commanders vs Las Vegas Raiders DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Washington Commanders vs Las Vegas Raiders DAZN FHD
@@ -2949,8 +2895,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Philadelphia Eagles vs Los Angeles Rams DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Philadelphia Eagles vs Los Angeles Rams DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Philadelphia Eagles vs Los Angeles Rams DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Philadelphia Eagles vs Los Angeles Rams DAZN FHD
@@ -3041,8 +2985,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Minnesota Vikings vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Minnesota Vikings vs Cincinnati Bengals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Minnesota Vikings vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Minnesota Vikings vs Cincinnati Bengals DAZN FHD
@@ -3133,8 +3075,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 New England Patriots vs Pittsburgh Steelers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 New England Patriots vs Pittsburgh Steelers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 New England Patriots vs Pittsburgh Steelers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 New England Patriots vs Pittsburgh Steelers DAZN FHD
@@ -3225,8 +3165,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Carolina Panthers vs Atlanta Falcons DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Carolina Panthers vs Atlanta Falcons DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Carolina Panthers vs Atlanta Falcons DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Carolina Panthers vs Atlanta Falcons DAZN FHD
@@ -3317,8 +3255,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Tampa Bay Buccaneers vs New York Jets DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Tampa Bay Buccaneers vs New York Jets DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Tampa Bay Buccaneers vs New York Jets DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Tampa Bay Buccaneers vs New York Jets DAZN FHD
@@ -3409,8 +3345,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Cleveland Browns vs Green Bay Packers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Cleveland Browns vs Green Bay Packers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Cleveland Browns vs Green Bay Packers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Cleveland Browns vs Green Bay Packers DAZN FHD
@@ -3501,8 +3435,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Houston Texans DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Houston Texans DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Houston Texans DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Houston Texans DAZN FHD
@@ -3593,8 +3525,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Tennessee Titans vs Indianápolis Colts DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Tennessee Titans vs Indianápolis Colts DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Tennessee Titans vs Indianápolis Colts DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 19:00 Tennessee Titans vs Indianápolis Colts DAZN FHD
@@ -3685,8 +3615,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 19:30 Borussia Dortmund vs VfL Wolfsburg DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 19:30 Borussia Dortmund vs VfL Wolfsburg DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 19:30 Borussia Dortmund vs VfL Wolfsburg DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Bundesliga", 19:30 Borussia Dortmund vs VfL Wolfsburg DAZN FHD
@@ -3777,8 +3705,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NASCAR Cup Series", 20:00 New Hampshire Speedway (Loudon) Carrera de Playoff DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NASCAR Cup Series", 20:00 New Hampshire Speedway (Loudon) Carrera de Playoff DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NASCAR Cup Series", 20:00 New Hampshire Speedway (Loudon) Carrera de Playoff DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NASCAR Cup Series", 20:00 New Hampshire Speedway (Loudon) Carrera de Playoff DAZN FHD
@@ -3869,8 +3795,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 20:45 Inter Milan vs Sassuolo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 20:45 Inter Milan vs Sassuolo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 20:45 Inter Milan vs Sassuolo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Serie A Italiana", 20:45 Inter Milan vs Sassuolo DAZN FHD
@@ -3961,8 +3885,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 21:00 FC Barcelona vs Getafe DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 21:00 FC Barcelona vs Getafe DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 21:00 FC Barcelona vs Getafe DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 La Liga EA Sports", 21:00 FC Barcelona vs Getafe DAZN FHD
@@ -4053,8 +3975,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 21:00 Córdoba vs Racing Santander DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 21:00 Córdoba vs Racing Santander DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 21:00 Córdoba vs Racing Santander DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 LaLiga Hypermotion", 21:00 Córdoba vs Racing Santander DAZN FHD
@@ -4145,8 +4065,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 9 (Dobles)", 21:00 C. Alcaraz | C. Ruud vs A. Michelsen | R. Opelka DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 9 (Dobles)", 21:00 C. Alcaraz | C. Ruud vs A. Michelsen | R. Opelka DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 9 (Dobles)", 21:00 C. Alcaraz | C. Ruud vs A. Michelsen | R. Opelka DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 9 (Dobles)", 21:00 C. Alcaraz | C. Ruud vs A. Michelsen | R. Opelka DAZN FHD
@@ -4248,8 +4166,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:05 Seattle Seahawks vs New Orleans Saints DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:05 Seattle Seahawks vs New Orleans Saints DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:05 Seattle Seahawks vs New Orleans Saints DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:05 Seattle Seahawks vs New Orleans Saints DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
@@ -4339,8 +4255,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:05 Los Angeles Chargers vs Denver Broncos DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:05 Los Angeles Chargers vs Denver Broncos DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:05 Los Angeles Chargers vs Denver Broncos DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:05 Los Angeles Chargers vs Denver Broncos DAZN FHD
@@ -4431,8 +4345,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:25 San Francisco 49ers vs Arizona Cardinals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:25 San Francisco 49ers vs Arizona Cardinals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:25 San Francisco 49ers vs Arizona Cardinals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:25 San Francisco 49ers vs Arizona Cardinals DAZN FHD
@@ -4523,8 +4435,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:25 Chicago Bears vs Dallas Cowboys DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:25 Chicago Bears vs Dallas Cowboys DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:25 Chicago Bears vs Dallas Cowboys DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 NFL Liga Regular", 22:25 Chicago Bears vs Dallas Cowboys DAZN FHD
@@ -4615,8 +4525,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 10", 22:30 J. Mensik vs A. De Miñaur DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 10", 22:30 J. Mensik vs A. De Miñaur DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 10", 22:30 J. Mensik vs A. De Miñaur DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="21/09 Laver Cup Partido 10", 22:30 J. Mensik vs A. De Miñaur DAZN FHD
@@ -4718,8 +4626,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup Partido 11", 00:00 C. Alcaraz vs F. Cerúndolo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup Partido 11", 00:00 C. Alcaraz vs F. Cerúndolo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup Partido 11", 00:00 C. Alcaraz vs F. Cerúndolo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup Partido 11", 00:00 C. Alcaraz vs F. Cerúndolo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
@@ -4819,8 +4725,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup Partido 12", 01:30 A. Zverev vs T. Fritz DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup Partido 12", 01:30 A. Zverev vs T. Fritz DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup Partido 12", 01:30 A. Zverev vs T. Fritz DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="22/09 Laver Cup Partido 12", 01:30 A. Zverev vs T. Fritz DAZN FHD
@@ -4922,8 +4826,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="22/09 NFL Liga Regular", 02:20 New York Giants vs Kansas City Chiefs DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="" group-title="22/09 NFL Liga Regular", 02:20 New York Giants vs Kansas City Chiefs DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="22/09 NFL Liga Regular", 02:20 New York Giants vs Kansas City Chiefs DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="22/09 NFL Liga Regular", 02:20 New York Giants vs Kansas City Chiefs DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
@@ -5013,8 +4915,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="22/09 Bundesliga Femenina", 18:00 Eintracht Frankfurt Femenino vs RB Leipzig Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="22/09 Bundesliga Femenina", 18:00 Eintracht Frankfurt Femenino vs RB Leipzig Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="22/09 Bundesliga Femenina", 18:00 Eintracht Frankfurt Femenino vs RB Leipzig Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="22/09 Bundesliga Femenina", 18:00 Eintracht Frankfurt Femenino vs RB Leipzig Femenino DAZN FHD
@@ -5105,8 +5005,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="22/09 LaLiga Hypermotion", 20:30 Burgos CF vs Granada CF DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="22/09 LaLiga Hypermotion", 20:30 Burgos CF vs Granada CF DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="22/09 LaLiga Hypermotion", 20:30 Burgos CF vs Granada CF DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="22/09 LaLiga Hypermotion", 20:30 Burgos CF vs Granada CF DAZN FHD
@@ -5197,8 +5095,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="22/09 Serie A Italiana", 20:45 Napoli vs Pisa Sporting Club DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="22/09 Serie A Italiana", 20:45 Napoli vs Pisa Sporting Club DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="22/09 Serie A Italiana", 20:45 Napoli vs Pisa Sporting Club DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="22/09 Serie A Italiana", 20:45 Napoli vs Pisa Sporting Club DAZN FHD
@@ -5289,8 +5185,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 NFL Liga Regular", 02:15 Baltimore Ravens vs Detroit Lions DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 NFL Liga Regular", 02:15 Baltimore Ravens vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 NFL Liga Regular", 02:15 Baltimore Ravens vs Detroit Lions DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 NFL Liga Regular", 02:15 Baltimore Ravens vs Detroit Lions DAZN FHD
@@ -5381,8 +5275,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 Mundial de Ciclismo en Ruta", 10:35 Carrera Junior Femenina Kigali › Kigali (18.3 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 Mundial de Ciclismo en Ruta", 10:35 Carrera Junior Femenina Kigali › Kigali (18.3 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 Mundial de Ciclismo en Ruta", 10:35 Carrera Junior Femenina Kigali › Kigali (18.3 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 Mundial de Ciclismo en Ruta", 10:35 Carrera Junior Femenina Kigali › Kigali (18.3 km) DAZN FHD
@@ -5486,8 +5378,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 Mundial de Ciclismo en Ruta", 13:50 Carrera Junior Masculina Kigali › Kigali (22.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="" group-title="23/09 Mundial de Ciclismo en Ruta", 13:50 Carrera Junior Masculina Kigali › Kigali (22.6 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="23/09 Mundial de Ciclismo en Ruta", 13:50 Carrera Junior Masculina Kigali › Kigali (22.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 Mundial de Ciclismo en Ruta", 13:50 Carrera Junior Masculina Kigali › Kigali (22.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
@@ -5590,8 +5480,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 Coppa Italia 3ª Ronda", 18:30 Udinese vs Palermo SSD DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="" group-title="23/09 Coppa Italia 3ª Ronda", 18:30 Udinese vs Palermo SSD DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="" group-title="23/09 Coppa Italia 3ª Ronda", 18:30 Udinese vs Palermo SSD DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 Coppa Italia 3ª Ronda", 18:30 Udinese vs Palermo SSD DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
@@ -5681,8 +5569,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 La Liga EA Sports", 19:00 Athletic Club vs Girona DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 La Liga EA Sports", 19:00 Athletic Club vs Girona DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 La Liga EA Sports", 19:00 Athletic Club vs Girona DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 La Liga EA Sports", 19:00 Athletic Club vs Girona DAZN FHD
@@ -5773,8 +5659,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 Jupiler Pro League", 20:30 Anderlecht vs Gent DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 Jupiler Pro League", 20:30 Anderlecht vs Gent DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 Jupiler Pro League", 20:30 Anderlecht vs Gent DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 Jupiler Pro League", 20:30 Anderlecht vs Gent DAZN FHD
@@ -5865,8 +5749,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Gateshead vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Gateshead vs Hartlepool United DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Gateshead vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Gateshead vs Hartlepool United DAZN FHD
@@ -5957,8 +5839,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Brackley Town vs Truro City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Brackley Town vs Truro City DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Brackley Town vs Truro City DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Brackley Town vs Truro City DAZN FHD
@@ -6049,8 +5929,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 AFC Rochdale vs Solihull Moors DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 AFC Rochdale vs Solihull Moors DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 AFC Rochdale vs Solihull Moors DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 AFC Rochdale vs Solihull Moors DAZN FHD
@@ -6141,8 +6019,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 York City vs Carlisle Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 York City vs Carlisle Utd. DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 York City vs Carlisle Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 York City vs Carlisle Utd. DAZN FHD
@@ -6233,8 +6109,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Altrincham vs Forest Green Rovers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Altrincham vs Forest Green Rovers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Altrincham vs Forest Green Rovers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Altrincham vs Forest Green Rovers DAZN FHD
@@ -6325,8 +6199,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Woking vs Sutton United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Woking vs Sutton United DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Woking vs Sutton United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 National League", 20:45 Woking vs Sutton United DAZN FHD
@@ -6417,8 +6289,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 Coppa Italia 3ª Ronda", 21:00 AC Milan vs US Lecce DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 Coppa Italia 3ª Ronda", 21:00 AC Milan vs US Lecce DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 Coppa Italia 3ª Ronda", 21:00 AC Milan vs US Lecce DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 Coppa Italia 3ª Ronda", 21:00 AC Milan vs US Lecce DAZN FHD
@@ -6509,8 +6379,6 @@ http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="23/09 La Liga EA Sports", 21:30 Sevilla FC vs Villarreal DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
-#EXTINF:-1 tvg-id="" group-title="23/09 La Liga EA Sports", 21:30 Sevilla FC vs Villarreal DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="" group-title="23/09 La Liga EA Sports", 21:30 Sevilla FC vs Villarreal DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-id="" group-title="23/09 La Liga EA Sports", 21:30 Sevilla FC vs Villarreal DAZN FHD
