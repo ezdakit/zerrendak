@@ -4,10 +4,6 @@
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
 acestream://6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
-acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9
-#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
-acestream://4141892f5df7d6474bf0279895ce02b7336c9928
-#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
 acestream://b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
 acestream://36394be1db2e20b5997d987c32fd38c7f0f194b7
@@ -415,6 +411,8 @@ acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 acestream://b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1 tvg-id="DE | Rally TV" group-title="VARIOS", RALLY TV B2EA
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
+#EXTINF:-1 tvg-id="DE | Rally TV" group-title="VARIOS", RALLY TV FHD 41EB
+acestream://651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 #EXTINF:-1 tvg-id="" group-title="VARIOS", REAL MADRID TV HD 891E
 acestream://7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR BFF3
