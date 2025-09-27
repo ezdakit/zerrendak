@@ -239,6 +239,8 @@ acestream://cc5ed178702605513cd18b4899c4be954d306cca
 acestream://f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-id="Aragn TV" group-title="VARIOS", ARAGON TV HD 006B
 acestream://ba4597903f099695e7d6bcc5938f91cb0798006b
+#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD F54C
+acestream://610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORT 1 7C27
 acestream://005a2f40458c51226e03d86fb3100ecbfbcd7c27
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS  68F9
@@ -273,6 +275,8 @@ acestream://5f966c123759de46dff29c379266b7a403452033
 acestream://22fead867a8657cfb58cd84245e18954ab199db3
 #EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD 849B
 acestream://96f092e1fa99062f6da14cae230b877ad3ed849b
+#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
+acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="Caza y Pesca HD" group-title="VARIOS", CAZA Y PESCA FHD HD 3E9C
 acestream://277a6fb47189db801c5b7b05ad89c690571f3e9c
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 0333
@@ -425,8 +429,6 @@ acestream://096b817fcc836535f608facb15fca6408fae3162
 acestream://b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO 7312
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
-acestream://abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1 3565
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2 9537
