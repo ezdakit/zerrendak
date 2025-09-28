@@ -126,6 +126,8 @@ plugin://script.module.horus?action=play&id=5620c0ce3dcbf14a6375cb2c2d681207f45e
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 8" group-title="LIGA CAMPEONES", L Campeones 08 FHD
 plugin://script.module.horus?action=play&id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes FHD
+plugin://script.module.horus?action=play&id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
+#EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes FHD
 plugin://script.module.horus?action=play&id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes FHD
 plugin://script.module.horus?action=play&id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
@@ -473,6 +475,8 @@ plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e6
 plugin://script.module.horus?action=play&id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", TNT SPORTS HD 965E
 plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
+#EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", TNT SPORTS HD FHD C592
+plugin://script.module.horus?action=play&id=363f1d119b1971237318c0d953ab6eea5eb7c592
 #EXTINF:-1 tvg-id="Torol TV" group-title="VARIOS", TOROLE TV FHD 3B0C
 plugin://script.module.horus?action=play&id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
 #EXTINF:-1 tvg-id="TVG Europa HD" group-title="VARIOS", TVG EUROPA HD 21C1

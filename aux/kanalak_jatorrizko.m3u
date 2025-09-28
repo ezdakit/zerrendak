@@ -23,6 +23,8 @@ http://127.0.0.1:6878/ace/getstream?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c
 http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/comedia-por-movistar-plus-es.png" tvg-id="M+ Comedia HD" group-title="MOVISTAR", MOVISTAR COMEDIA FHD 5df6 --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=cf0cb321eed6765c2eadbd9983570f6674ce5df6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD 071a --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD 355d --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD c7e5 --> NEW ERA
@@ -483,5 +485,7 @@ http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/TNT%20Sports%201.png?raw=true" tvg-id="UK | Sky Sport Cricket" group-title="OTROS", TNT SPORTS HD 965e --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/TNT%20Sports%201.png?raw=true" tvg-id="UK | Sky Sport Cricket" group-title="OTROS", TNT SPORTS HD FHD c592 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=363f1d119b1971237318c0d953ab6eea5eb7c592
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="OTROS", UFC Fight Pass 89ad --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
