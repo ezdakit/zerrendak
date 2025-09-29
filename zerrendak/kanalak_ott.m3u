@@ -229,6 +229,8 @@ http://127.0.0.1:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
 http://127.0.0.1:6878/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e
 #EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
@@ -243,8 +245,6 @@ http://127.0.0.1:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 http://127.0.0.1:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORT 1 7C27
 http://127.0.0.1:6878/ace/getstream?id=005a2f40458c51226e03d86fb3100ecbfbcd7c27
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS  68F9
-http://127.0.0.1:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 620D
@@ -313,8 +313,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD 1727
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD 1727
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN PVV 242A
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN PVV ADB7
@@ -327,6 +325,8 @@ http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA2 FHD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP CBA8
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA2 SD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP 8D36
+http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="Discovery" group-title="VARIOS", DISCOVERY CHANNEL HD 73D8
 http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE] 7E63
@@ -433,8 +433,6 @@ http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
 http://127.0.0.1:6878/ace/getstream?id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO 7312
 http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
-http://127.0.0.1:6878/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1 3565
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2 9537
