@@ -229,6 +229,8 @@ http://127.0.0.1:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
 http://127.0.0.1:6878/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e
 #EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
@@ -295,6 +297,8 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 9A69
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 9A69
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD AEBD
 http://127.0.0.1:6878/ace/getstream?id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BDF7
@@ -323,6 +327,8 @@ http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA2 FHD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP CBA8
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA2 SD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP 8D36
+http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="Discovery" group-title="VARIOS", DISCOVERY CHANNEL HD 73D8
 http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE] 7E63
