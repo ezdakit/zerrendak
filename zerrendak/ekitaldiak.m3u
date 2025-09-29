@@ -48,15 +48,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN SD
@@ -72,11 +70,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN 
@@ -101,21 +103,21 @@ http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="29/09 NFL Liga Regular", 02:20 Dallas Cowboys vs Green Bay Packers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=99171f30c83bf7ab5df28b39607c91334cc60e4b
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 05:00 M. Andreeva vs J. Bouzas Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 05:10 M. Andreeva vs J. Bouzas Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 05:00 M. Andreeva vs J. Bouzas Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 05:10 M. Andreeva vs J. Bouzas Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 05:00 M. Andreeva vs J. Bouzas Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 05:10 M. Andreeva vs J. Bouzas Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 05:00 M. Andreeva vs J. Bouzas Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 05:10 M. Andreeva vs J. Bouzas Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 07:00 L. Boisson vs E. Navarro Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 07:10 L. Boisson vs E. Navarro Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 07:00 L. Boisson vs E. Navarro Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 07:10 L. Boisson vs E. Navarro Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 07:00 L. Boisson vs E. Navarro Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 07:10 L. Boisson vs E. Navarro Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 07:00 L. Boisson vs E. Navarro Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 07:10 L. Boisson vs E. Navarro Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
@@ -164,15 +166,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN SD
@@ -188,11 +188,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) DAZN 
@@ -229,13 +233,13 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="" group-title="29/09 Tour de Langkawi", 07:50 Etapa 2 Padang Besar › Kepala Batas (166.1 km) Eurosport 1 SD
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 08:30 I. Swiatek vs MC. Osorio Tennis Channel FHD
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 08:40 I. Swiatek vs MC. Osorio Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 08:30 I. Swiatek vs MC. Osorio Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 08:40 I. Swiatek vs MC. Osorio Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 08:30 I. Swiatek vs MC. Osorio Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 08:40 I. Swiatek vs MC. Osorio Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 08:30 I. Swiatek vs MC. Osorio Tennis Channel 
+#EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 08:40 I. Swiatek vs MC. Osorio Tennis Channel 
 http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="" group-title="29/09 WTA Pekín 3ª Ronda", 10:00 E. Raducanu vs J. Pegula Tennis Channel FHD
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
@@ -300,15 +304,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN SD
@@ -324,11 +326,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 18:30 Parma vs Torino DAZN 
@@ -400,15 +406,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN SD
@@ -424,11 +428,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="29/09 LaLiga Hypermotion", 20:30 Leganés vs CD Castellón DAZN 
@@ -500,15 +508,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN SD
@@ -524,11 +530,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="29/09 Serie A Italiana", 20:45 Genoa vs Lazio DAZN 
@@ -600,15 +610,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN SD
@@ -624,11 +632,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="29/09 La Liga EA Sports", 21:00 Valencia CF vs Real Oviedo DAZN 
@@ -700,15 +712,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN SD
@@ -724,11 +734,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="29/09 Premier League", 21:00 Everton vs West Ham DAZN 
@@ -800,15 +814,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN SD
@@ -824,11 +836,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 01:15 Miami Dolphins vs New York Jets DAZN 
@@ -900,15 +916,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN SD
@@ -924,11 +938,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="30/09 NFL Liga Regular", 02:15 Denver Broncos vs Cincinnati Bengals DAZN 
@@ -1008,15 +1026,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN SD
@@ -1032,11 +1048,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Langkawi", 08:50 Etapa 3 Gerik › Pasir Puteh (198.2 km) DAZN 
@@ -1120,15 +1140,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN SD
@@ -1144,11 +1162,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="30/09 Tour de Croacia", 14:00 Etapa 1 Split › Sinj (162.5 km) DAZN 
@@ -1232,15 +1254,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN SD
@@ -1256,11 +1276,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Morecambe vs Gateshead DAZN 
@@ -1332,15 +1356,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN SD
@@ -1356,11 +1378,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Aldershot vs Braintree Town DAZN 
@@ -1432,15 +1458,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN SD
@@ -1456,11 +1480,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Sutton United vs Yeovil Town DAZN 
@@ -1532,15 +1560,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN SD
@@ -1556,11 +1582,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Solihull Moors vs Woking DAZN 
@@ -1632,15 +1662,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN SD
@@ -1656,11 +1684,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Boreham Wood vs Southend Utd. DAZN 
@@ -1732,15 +1764,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN SD
@@ -1756,11 +1786,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="30/09 National League", 20:45 Truro City vs Eastleigh FC DAZN 
@@ -1893,6 +1927,8 @@ http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 http://127.0.0.1:6878/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
 #EXTINF:-1 tvg-id="" group-title="01/10 Masters Shanghai", 06:30 1ª Ronda ATP Masters 1000 Movistar+ FHD
 http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
+#EXTINF:-1 tvg-id="" group-title="01/10 Masters Shanghai", 06:30 1ª Ronda ATP Masters 1000 Movistar+ 
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="" group-title="01/10 Masters Shanghai", 06:30 1ª Ronda ATP Masters 1000 Movistar+ SD
 http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-id="" group-title="01/10 Masters Shanghai", 06:30 1ª Ronda ATP Masters 1000 Movistar+ SD
@@ -1948,15 +1984,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN SD
@@ -1972,11 +2006,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
@@ -2060,15 +2098,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN SD
@@ -2084,11 +2120,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
@@ -2172,15 +2212,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN SD
@@ -2196,11 +2234,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
@@ -2272,15 +2314,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN SD
@@ -2296,11 +2336,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
@@ -2372,15 +2416,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN SD
@@ -2396,11 +2438,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
@@ -2472,15 +2518,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN SD
@@ -2496,11 +2540,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
@@ -2572,15 +2620,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN SD
@@ -2596,11 +2642,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
@@ -2672,15 +2722,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN SD
@@ -2696,11 +2744,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
@@ -2772,15 +2824,13 @@ http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN SD
@@ -2796,11 +2846,15 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
