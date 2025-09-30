@@ -28,6 +28,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,7b361369a40046ad3011086f9d4ae2982fb4d5aa,FHD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,e4124b2143ed75e5ce902bed61be08cc5e5c3c03,FHD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,190a81938c2ddc6fe97758271f8c48f4db31c28a,FHD
+2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,f7fa1e42376d1d65d1bf5abca8728dff273d02d7,FHD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,b3fc9b5647c5933b101c0b6b64322590c68587b9,FHD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,a6de6a4977d7801bbddc9c7739d822f4beb358ae,FHD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,9b84af74b2fa3690c519199326fc2f181b025cdd,FHD
@@ -45,7 +46,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,199190e3f28c1de0be34bccf0d3568dc65209b99,FHD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,5866e83279307bf919068ae7a0d250e4e424e464,FHD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78,FHD
-2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,fbc39d8a9e5d7c9ac6a1438d440104620f54e09c,FHD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003,FHD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,3b2a8b41e7097c16b0468b42d7de0320886fa933,FHD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,2940120bf034db79a7f5849846ccea0255172eae,FHD
@@ -65,21 +65,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,bfa01c11c5c6b7a616a516de4f2c769a89d26b25,SD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,2fd410c5d89e7a627cd3785685b7915b8e4bd534,SD
 2025-10-01,06:30-1ª Ronda ATP Masters 1000,06:30,Masters Shanghai,1ª Ronda ATP Masters 1000,Movistar+,0e5d8c9724fa9163f49096b70484e315251eb785,SD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -96,10 +110,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -109,6 +125,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -126,21 +143,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),Eurosport 1,547ab7146a86d6119c9332c011669544720124e3,
 2025-10-01,07:05-Etapa 5 Temerloh › Fraser's Hill (123.1 km),07:05,Tour de Langkawi,Etapa 5 Temerloh › Fraser's Hill (123.1 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -157,10 +188,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -170,6 +203,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -187,21 +221,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,Eurosport 1,547ab7146a86d6119c9332c011669544720124e3,
 2025-10-01,14:00-Jornada 1 PGA Tour,14:00,Sanderson Farms Championship,Jornada 1 PGA Tour,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -218,10 +266,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -231,6 +281,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -250,21 +301,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-01,14:00-Etapa 3 Gospic › Rijeka (150.5 km),14:00,Tour de Croacia,Etapa 3 Gospic › Rijeka (150.5 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
 2025-10-01,22:00-Estados Unidos-Francia,22:00,FIFA Mundial Sub-20 Fase de grupos,Estados Unidos vs Francia,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-10-01,22:00-Estados Unidos-Francia,22:00,FIFA Mundial Sub-20 Fase de grupos,Estados Unidos vs Francia,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -281,10 +346,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -294,6 +361,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -305,21 +373,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,02:15-Los Angeles Rams-San Francisco 49ers,02:15,NFL Liga Regular,Los Angeles Rams vs San Francisco 49ers,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -336,10 +418,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -349,6 +433,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,04:45-G.P. Indonesia (Mandalika) Libres 1,04:45,MotoGP,G.P. Indonesia (Mandalika) Libres 1,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -389,6 +474,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,7b361369a40046ad3011086f9d4ae2982fb4d5aa,FHD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,e4124b2143ed75e5ce902bed61be08cc5e5c3c03,FHD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,190a81938c2ddc6fe97758271f8c48f4db31c28a,FHD
+2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,f7fa1e42376d1d65d1bf5abca8728dff273d02d7,FHD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,b3fc9b5647c5933b101c0b6b64322590c68587b9,FHD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,a6de6a4977d7801bbddc9c7739d822f4beb358ae,FHD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,9b84af74b2fa3690c519199326fc2f181b025cdd,FHD
@@ -406,7 +492,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,199190e3f28c1de0be34bccf0d3568dc65209b99,FHD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,5866e83279307bf919068ae7a0d250e4e424e464,FHD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78,FHD
-2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,fbc39d8a9e5d7c9ac6a1438d440104620f54e09c,FHD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003,FHD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,3b2a8b41e7097c16b0468b42d7de0320886fa933,FHD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,2940120bf034db79a7f5849846ccea0255172eae,FHD
@@ -426,21 +511,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,bfa01c11c5c6b7a616a516de4f2c769a89d26b25,SD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,2fd410c5d89e7a627cd3785685b7915b8e4bd534,SD
 2025-10-03,06:30-2ª Ronda ATP Masters 1000,06:30,Masters Shanghai,2ª Ronda ATP Masters 1000,Movistar+,0e5d8c9724fa9163f49096b70484e315251eb785,SD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -457,10 +556,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -470,6 +571,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -481,21 +583,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,09:00-G.P. Indonesia (Mandalika) Libres,09:00,MotoGP,G.P. Indonesia (Mandalika) Libres,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -512,10 +628,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -525,6 +643,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -536,21 +655,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,09:00-Semifinal 1 WTA 1000,09:00,WTA Pekín,Semifinal 1 WTA 1000,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -567,10 +700,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -580,6 +715,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -591,21 +727,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,11:30-G.P. Singapur (Singapur) Libres 1,11:30,Fórmula 1,G.P. Singapur (Singapur) Libres 1,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -622,10 +772,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -635,6 +787,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -646,21 +799,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,13:00-Jornada 2,13:00,Alfred Dunhill Links Championship,Jornada 2,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -677,10 +844,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -690,6 +859,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -701,21 +871,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,13:00-G.P. Singapur (Singapur) Clasificación,13:00,F1 Academy,G.P. Singapur (Singapur) Clasificación,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -732,10 +916,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -745,6 +931,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -762,21 +949,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,Eurosport 1,547ab7146a86d6119c9332c011669544720124e3,
 2025-10-03,14:00-Jornada 2 PGA Tour,14:00,Sanderson Farms Championship,Jornada 2 PGA Tour,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -793,10 +994,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -806,6 +1009,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -823,21 +1027,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),Eurosport 1,547ab7146a86d6119c9332c011669544720124e3,
 2025-10-03,14:00-Etapa 4 Krk › Labin (187.5 km),14:00,Tour de Croacia,Etapa 4 Krk › Labin (187.5 km),Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -854,10 +1072,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -867,6 +1087,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -884,21 +1105,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,Eurosport 1,547ab7146a86d6119c9332c011669544720124e3,
 2025-10-03,14:00-1/4 de final femenino Premier Padel Tour,14:00,Rotterdam Open,1/4 de final femenino Premier Padel Tour,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -915,10 +1150,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -928,6 +1165,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -939,21 +1177,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,15:00-G.P. Singapur (Singapur) Libres 2,15:00,Fórmula 1,G.P. Singapur (Singapur) Libres 2,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -970,10 +1222,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -983,6 +1237,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -1000,21 +1255,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,Eurosport 1,547ab7146a86d6119c9332c011669544720124e3,
 2025-10-03,16:00-1/4 de Final ATP Challenger Tour,16:00,Torneo de Villena,1/4 de Final ATP Challenger Tour,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -1031,10 +1300,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -1044,6 +1315,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -1061,21 +1333,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,Eurosport 1,c3da6c4f91d9d10ade00318a869435e19f204d0e,FHD
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,Eurosport 1,547ab7146a86d6119c9332c011669544720124e3,
 2025-10-03,16:00-UCI ProSeries,16:00,Sparkassen Münsterland Giro,UCI ProSeries,Eurosport 1,d830c1dc3b74e74f79cbb823804cf2037857e78a,SD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -1092,10 +1378,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -1105,6 +1393,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -1116,21 +1405,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,18:30-Eintracht Frankfurt Femenino-Carl Zeiss Jena Femenino,18:30,Bundesliga Femenina,Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -1147,10 +1450,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -1160,6 +1465,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -1171,21 +1477,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,20:30-AD Ceuta-Eibar,20:30,LaLiga Hypermotion,AD Ceuta vs Eibar,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -1202,10 +1522,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -1215,6 +1537,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -1226,21 +1549,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,20:30-Hoffenheim-FC Köln,20:30,Bundesliga,Hoffenheim vs FC Köln,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -1257,10 +1594,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -1270,6 +1609,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -1281,21 +1621,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,20:45-Hellas Verona-Sassuolo,20:45,Serie A Italiana,Hellas Verona vs Sassuolo,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -1312,10 +1666,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -1325,6 +1681,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -1336,21 +1693,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
 2025-10-03,20:45-Gent-Charleroi,20:45,Jupiler Pro League,Gent vs Charleroi,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -1367,10 +1738,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -1380,6 +1753,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
@@ -1393,21 +1767,35 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,21:00-Osasuna-Getafe,21:00,La Liga EA Sports,Osasuna vs Getafe,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-03,21:00-BM Torrelavega-Recoletas At. Valladolid,21:00,Liga ASOBAL,BM Torrelavega vs Recoletas At. Valladolid,Teledeporte,bdc32e0f99653f96e0e1a3b98c88764b631ed9ef,FHD
 2025-10-03,21:00-BM Torrelavega-Recoletas At. Valladolid,21:00,Liga ASOBAL,BM Torrelavega vs Recoletas At. Valladolid,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,d1596a3988b84a4d2711fd380eb8a53256ad74ae,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,74defb8f4ed3a917fd07c21b34f43c17107ec618,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,635b61c1f240449163260cd914d10d886a54fee3,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,5091ea94b75ba4b50b078b4102a3d0e158ef59c3,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,a231b2fa1f7754433efeb8bb8d69d7b9096dcba8,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,6538b79ce0da657d8455d1da6a5f342398899a0e,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,50a8a13c474848d1efbd5586efdb5b6cdd173fa9,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,4141892f5df7d6474bf0279895ce02b7336c9928,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,b03f9310155cf3b4eafc1dfba763781abc3ff025,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,36394be1db2e20b5997d987c32fd38c7f0f194b7,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,688e785893b50acc1d00cb37f15bfc42e72f5ae3,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,8b081c8afbd9beafc8c5fbf0115eb36eadb07a35,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,fb2dd566824658eeab27aae19a01c09430f1a97d,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,43004e955731cd3afcc34d24e5178d4b427bff37,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,2f9211669499f413dab1a490198afab2a9b4b57c,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,d641cd0fca0f467b3130754a091e2f4d22e68eb1,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,4e401fdceebffdf1f09aef954844d09f6c62f460,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,7e27e46c25d4308d16098d9dc67fcd8736e8c1f0,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,c015d37d1ead8155b1e7b97e743a1fe9850f0af5,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,eb884f77ce8815cf1028c4d85e8b092c27ea1693,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,6422e8bc34282871634c81947be093c04ad1bb29,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,c9c18ae7a9dafba1caae5beb22060f9c92bba553,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,515efd8115482bda8d92aa6df9a882a5e5797494,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,82b4f249788f93b8f9ce968803662d7cd4f1b8cc,FHD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,d5cf2dfa4fb4165ce58bf9db815088c28fec7711,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7,FHD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,3f5b7e2f883fe4b4b973e198d147a513d5c7c32a,FHD
@@ -1424,10 +1812,12 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,d65257bb934b73647374224fd62d836815804be2,
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,4bc6f4cb6697c1defc981c0afe1a4c3a62284aee,SD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,ed6188dcbb491efeb2092c1a6199226c27f61727,SD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,c976c7b37964322752db562b4ad65515509c8d36,SD
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f,SD
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,19f28f60c908f987b1a03da078e63320d7bf29e8,
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,dda5d2cace9bc4cb0918e62bc50d657d4a10496a,
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,eb6ffec065b26259ad3d1811e0bbb0a5332ed276,
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,7ba1f321f4d0791b7ebd42f41a07c1cd1479e784,
@@ -1437,6 +1827,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,b0eabe0fdd02fdd165896236765a9b753a2ff516,
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,d1d9ec2361a6ac8edc0b2841866383768cc28df9,
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,7e90956539f4e1318a63f3960e4f75c7c7c5a3b8,
+2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,1a63d886860e2b770590dcd64a4dd472eabb841d,
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-03,21:00-Bournemouth-Fulham,21:00,Premier League,Bournemouth vs Fulham,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
