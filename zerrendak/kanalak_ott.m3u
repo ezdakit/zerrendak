@@ -43,8 +43,6 @@ http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
 http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
-http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
@@ -53,8 +51,6 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 HD
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV FHD
 http://127.0.0.1:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f31e
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV FHD
@@ -221,8 +217,6 @@ http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ HD
-http://127.0.0.1:6878/ace/getstream?id=755483260c00e095f825286bc8b3562966814022
 #EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" group-title="MOVISTAR", Movistar Plus+ 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 #EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" group-title="MOVISTAR", Movistar Plus+ 2 FHD
@@ -249,338 +243,22 @@ http://127.0.0.1:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
 http://127.0.0.1:6878/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e
 #EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
-http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
-http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
-http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
-http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
 #EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
-http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
 #EXTINF:-1 tvg-id="PT | DAZN 5" group-title="VARIOS", ELEVEN DAZN 5 HD
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-id="PT | DAZN 6" group-title="VARIOS", ELEVEN DAZN 6 HD
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="VARIOS",     [RU] (KIDS) 58A0
-http://127.0.0.1:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0
-#EXTINF:-1 tvg-id="" group-title="VARIOS",    HD [RU] (EDUCATIONAL) 57EF
-http://127.0.0.1:6878/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef
-#EXTINF:-1 tvg-id="" group-title="VARIOS",    HD [RU] (MOVIES) B9E9
-http://127.0.0.1:6878/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9
-#EXTINF:-1 tvg-id="" group-title="VARIOS",    [RU] (EDUCATIONAL) 437C
-http://127.0.0.1:6878/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c
-#EXTINF:-1 tvg-id="" group-title="VARIOS",    [RU] (EDUCATIONAL) DFA0
-http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0
-#EXTINF:-1 tvg-id="" group-title="VARIOS",    [RU] (MOVIES) 0F4E
-http://127.0.0.1:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e
-#EXTINF:-1 tvg-id="" group-title="VARIOS",    [RU] (MOVIES) 69F6
-http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   HD [RU] (EDUCATIONAL) 1613
-http://127.0.0.1:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   HD [RU] (EDUCATIONAL) 3C14
-http://127.0.0.1:6878/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   HD [RU] (EDUCATIONAL) 9E83
-http://127.0.0.1:6878/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   HD [RU] (EDUCATIONAL) A299
-http://127.0.0.1:6878/ace/getstream?id=42f32ae94fa97417ddd6f2b6f141bca76f56a299
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   HD [RU] (KIDS) 4464
-http://127.0.0.1:6878/ace/getstream?id=5bfc90fb33d6046da53943364b3d68d0e19e4464
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   HD [RU] (MOVIES) 0507
-http://127.0.0.1:6878/ace/getstream?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   HD [RU] (MOVIES) A563
-http://127.0.0.1:6878/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   HD [RU] (MOVIES) A5F0
-http://127.0.0.1:6878/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   HD [RU] (MOVIES) C6ED
-http://127.0.0.1:6878/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   HD [RU] (MOVIES) D3C1
-http://127.0.0.1:6878/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (EDUCATIONAL) 03FD
-http://127.0.0.1:6878/ace/getstream?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (EDUCATIONAL) 0E4D
-http://127.0.0.1:6878/ace/getstream?id=fccd5e7ff7469f38dea15ac0d396034c81bd0e4d
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (EDUCATIONAL) 30D6
-http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (EDUCATIONAL) 9549
-http://127.0.0.1:6878/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (EDUCATIONAL) ECB9
-http://127.0.0.1:6878/ace/getstream?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) 0993
-http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) 4A36
-http://127.0.0.1:6878/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) 85AF
-http://127.0.0.1:6878/ace/getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) 86DE
-http://127.0.0.1:6878/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) 8D86
-http://127.0.0.1:6878/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) 8E21
-http://127.0.0.1:6878/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) 930B
-http://127.0.0.1:6878/ace/getstream?id=4403739564a9b19055786e9844ea48147b3f930b
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) C280
-http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) CDE1
-http://127.0.0.1:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) DF8C
-http://127.0.0.1:6878/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) E80A
-http://127.0.0.1:6878/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MOVIES) F123
-http://127.0.0.1:6878/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MUSIC) 9637
-http://127.0.0.1:6878/ace/getstream?id=71506b08243e6b12e0e6e69c8582622a38009637
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (MUSIC) EEF0
-http://127.0.0.1:6878/ace/getstream?id=4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  1 HD [RU] (MOVIES) 5C2E
-http://127.0.0.1:6878/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  1 [RU] (MOVIES) C3F2
-http://127.0.0.1:6878/ace/getstream?id=6c6849a17243f967d0c6f04323af9dfde161c3f2
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  2.0 [RU] (EDUCATIONAL) 485B
-http://127.0.0.1:6878/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  24 [RU] (EDUCATIONAL) 6780
-http://127.0.0.1:6878/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (EDUCATIONAL) 7283
-http://127.0.0.1:6878/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (KIDS) 6F7F
-http://127.0.0.1:6878/ace/getstream?id=83392085bd6971ff98e8884913a51c3313126f7f
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (MOVIES) 1FEE
-http://127.0.0.1:6878/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (MOVIES) 3700
-http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (MOVIES) 3CE6
-http://127.0.0.1:6878/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (MOVIES) 5B5D
-http://127.0.0.1:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (MOVIES) 5F2C
-http://127.0.0.1:6878/ace/getstream?id=322a734d2e4f99121e09df9f4831a7edf3d55f2c
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (MOVIES) 64E0
-http://127.0.0.1:6878/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (MOVIES) AD9D
-http://127.0.0.1:6878/ace/getstream?id=682b445d50584498d63230dd10d05c793779ad9d
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (MOVIES) B4F5
-http://127.0.0.1:6878/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (MOVIES) F131
-http://127.0.0.1:6878/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (MOVIES) F640
-http://127.0.0.1:6878/ace/getstream?id=7cf9a5935adc526cab260a6a561af7d6fe34f640
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (MOVIES) FA15
-http://127.0.0.1:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  KIDS [RU] (KIDS) 18CB
-http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  XXI [RU] (MOVIES) ABB6
-http://127.0.0.1:6878/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (EDUCATIONAL) 09E1
-http://127.0.0.1:6878/ace/getstream?id=6f333af96362664dd566c585601d7c522c9b09e1
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (EDUCATIONAL) 3199
-http://127.0.0.1:6878/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (EDUCATIONAL) 4832
-http://127.0.0.1:6878/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (EDUCATIONAL) D1E9
-http://127.0.0.1:6878/ace/getstream?id=ac92a83d7e7903ee7b843e4a490d247ff357d1e9
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (EDUCATIONAL) DB2A
-http://127.0.0.1:6878/ace/getstream?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (EDUCATIONAL) E39D
-http://127.0.0.1:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (EDUCATIONAL) F2D0
-http://127.0.0.1:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (KIDS) 4132
-http://127.0.0.1:6878/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (KIDS) 57EE
-http://127.0.0.1:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (KIDS) 6AAC
-http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (KIDS) 87FB
-http://127.0.0.1:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (KIDS) AA19
-http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (KIDS) BC7E
-http://127.0.0.1:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) 0952
-http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) 15E7
-http://127.0.0.1:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) 18A2
-http://127.0.0.1:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) 2AFC
-http://127.0.0.1:6878/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) 333D
-http://127.0.0.1:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) 572E
-http://127.0.0.1:6878/ace/getstream?id=3dba401ca5f2508ddfa955333e233d40d7f3572e
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) 981E
-http://127.0.0.1:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) 9CCE
-http://127.0.0.1:6878/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) B586
-http://127.0.0.1:6878/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) B6B3
-http://127.0.0.1:6878/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) BBBD
-http://127.0.0.1:6878/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) D200
-http://127.0.0.1:6878/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) D5A6
-http://127.0.0.1:6878/ace/getstream?id=b2314014f5b3c51ed75dc5066260b5134fa4d5a6
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) D9DD
-http://127.0.0.1:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MOVIES) DDDE
-http://127.0.0.1:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MUSIC) 0501
-http://127.0.0.1:6878/ace/getstream?id=0f777acf2def9b2c0ae254041796fbae5ba60501
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (MUSIC) 6E91
-http://127.0.0.1:6878/ace/getstream?id=38cf205218182050f0df6c7d8321e5e651286e91
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ! [RU] (EDUCATIONAL) 6ADB
-http://127.0.0.1:6878/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ! [RU] (KIDS) 04F2
-http://127.0.0.1:6878/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ! [RU] (MOVIES) 5794
-http://127.0.0.1:6878/ace/getstream?id=79fc325adef8b1977b790c8435ff868cb6f75794
-#EXTINF:-1 tvg-id="" group-title="VARIOS", + [RU] (MOVIES) 12FD
-http://127.0.0.1:6878/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd
-#EXTINF:-1 tvg-id="" group-title="VARIOS", - [RU] (MUSIC) 0C22
-http://127.0.0.1:6878/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22
-#EXTINF:-1 tvg-id="" group-title="VARIOS", -MUSIC [RU] (MUSIC) 0B63
-http://127.0.0.1:6878/ace/getstream?id=347126177d806d4578b249807200e71db6470b63
-#EXTINF:-1 tvg-id="" group-title="VARIOS", .  [RU] (EDUCATIONAL) ACB5
-http://127.0.0.1:6878/ace/getstream?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", .BLACK [RU] (MOVIES) 92A5
-http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", .RED [RU] (MOVIES) A06E
-http://127.0.0.1:6878/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", .SCI-FI [RU] (MOVIES) 42E6
-http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6
-#EXTINF:-1 tvg-id="" group-title="VARIOS", 13 ULICA [PL] (REGIONAL) 6843
-http://127.0.0.1:6878/ace/getstream?id=4c9739e99e64298098bd735392b8da7735e16843
-#EXTINF:-1 tvg-id="" group-title="VARIOS", 13TH STREET HD [DE] (REGIONAL) EE70
-http://127.0.0.1:6878/ace/getstream?id=e5214fbee923eea9dbf94b3ec7277f51cf74ee70
-#EXTINF:-1 tvg-id="" group-title="VARIOS", 1HD [RU] (MUSIC) C30A
-http://127.0.0.1:6878/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a
 #EXTINF:-1 tvg-id="24 Horas" group-title="VARIOS", 24 HORAS HD 6CCA
 http://127.0.0.1:6878/ace/getstream?id=cc5ed178702605513cd18b4899c4be954d306cca
-#EXTINF:-1 tvg-id="" group-title="VARIOS", 2X2 [RU] (KIDS) 6801
-http://127.0.0.1:6878/ace/getstream?id=ae0290d2b26b326c76a6842c1f62b643e29a6801
-#EXTINF:-1 tvg-id="" group-title="VARIOS", 3SAT HD [DE] (REGIONAL) 5304
-http://127.0.0.1:6878/ace/getstream?id=d52b8a34de386a2371de539afb31495e78cc5304
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ACTIVE FAMILY [PL] (REGIONAL) DA29
-http://127.0.0.1:6878/ace/getstream?id=552b300fe6a9d641982791b3e1a09f33a04ada29
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ADVENTURE [PL] (REGIONAL) 6B60
-http://127.0.0.1:6878/ace/getstream?id=b42612f5449f34193c9ae2fc8b442cd40f196b60
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ALE KINO+ HD [PL] (REGIONAL) A31B
-http://127.0.0.1:6878/ace/getstream?id=872360e74223d809523e7b32ad78b2b857bea31b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AMEDIA 1 [RU] (MOVIES) 5E82
-http://127.0.0.1:6878/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AMEDIA 2 [RU] (MOVIES) 89AC
-http://127.0.0.1:6878/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AMEDIA HIT [RU] (MOVIES) 6CD8
-http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AMEDIA PREMIUM HD [RU] (MOVIES) 38C2
-http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ANI [RU] (KIDS) DE52
-http://127.0.0.1:6878/ace/getstream?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ANIMAL PLANET HD [PL] (REGIONAL) D92B
-http://127.0.0.1:6878/ace/getstream?id=f0606ea7c732bdc8c04b7624d89be04aed70d92b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ANIMAL PLANET HD [RU] (EDUCATIONAL) 6068
-http://127.0.0.1:6878/ace/getstream?id=4326cb056ec172c0d9958cd44535045723b66068
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ANIXE HD [DE] (REGIONAL) BACB
-http://127.0.0.1:6878/ace/getstream?id=8638ff6c4b98625233842d362ad43eea1e7bbacb
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD 40E9
 http://127.0.0.1:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-id="Aragn TV" group-title="VARIOS", ARAGON TV HD 006B
 http://127.0.0.1:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ATV [DE] (REGIONAL) C9EF
-http://127.0.0.1:6878/ace/getstream?id=7d50d90895f44e97039eca21ae6bc17172acc9ef
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD F54C
-http://127.0.0.1:6878/ace/getstream?id=610993aea3a2bfd509594334b7461ce96900f54c
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AXN BLACK [PL] (REGIONAL) 3F76
-http://127.0.0.1:6878/ace/getstream?id=e42f59f2288a75332fc56a1a0c15f0435f893f76
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AXN HD [DE] (REGIONAL) 3AD4
-http://127.0.0.1:6878/ace/getstream?id=f835867c82063fc133d84cf37e89e6545e6e3ad4
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AXN WHITE [PL] (REGIONAL) 4A4D
-http://127.0.0.1:6878/ace/getstream?id=595a79d2a7ea11d033bf09c0515f870d419e4a4d
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AXN [PL] (REGIONAL) 8FDE
-http://127.0.0.1:6878/ace/getstream?id=9c72c5a37a3adb76942bc530fbb9ed951bd98fde
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AXNSPINHD [PL] (REGIONAL) 8E62
-http://127.0.0.1:6878/ace/getstream?id=3e247f41a97526034710d315e2ea5c0a80088e62
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BBC EARTH HD [PL] (REGIONAL) C016
-http://127.0.0.1:6878/ace/getstream?id=59f05ddddf845c24d72c9b27ec45b02e3778c016
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BBC HD [PL] (REGIONAL) 1106
-http://127.0.0.1:6878/ace/getstream?id=68822500e44ec333c33877c9f602ea47a4791106
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU   HD [RU] (MOVIES) 46B0
-http://127.0.0.1:6878/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU  HD [RU] (MOVIES) 111B
-http://127.0.0.1:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU  HD [RU] (MOVIES) 72F8
-http://127.0.0.1:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU  PREMIERE 1 HD [RU] (MOVIES) 5DF5
-http://127.0.0.1:6878/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU  PREMIERE 2 HD [RU] (MOVIES) FD07
-http://127.0.0.1:6878/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU  PREMIERE 3 HD [RU] (MOVIES) E7E1
-http://127.0.0.1:6878/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU  [RU] (KIDS) 5964
-http://127.0.0.1:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU ACTION HD [RU] (MOVIES) F45D
-http://127.0.0.1:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU CATASTROPHE HD [RU] (MOVIES) AEAC
-http://127.0.0.1:6878/ace/getstream?id=07d24566226c5851b9c3a3235e3451854d6baeac
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU CINEMA HD [RU] (MOVIES) F5E6
-http://127.0.0.1:6878/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU CINEMA+ HD [RU] (MOVIES) B54A
-http://127.0.0.1:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU COMEDY HD [RU] (MOVIES) 4134
-http://127.0.0.1:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU COSMO HD [RU] (MOVIES) BBB5
-http://127.0.0.1:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU CRIMINAL HD [RU] (MOVIES) 2180
-http://127.0.0.1:6878/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU FANTASTIC HD [RU] (MOVIES) 50AC
-http://127.0.0.1:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU FILMYSTIC HD [RU] (MOVIES) 3A04
-http://127.0.0.1:6878/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU HISTORY HD [RU] (MOVIES) 8D6D
-http://127.0.0.1:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU KIDS 4K [RU] (KIDS) D293
-http://127.0.0.1:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU KIDS HD [RU] (KIDS) 6AB9
-http://127.0.0.1:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU KIDS+ HD [RU] (KIDS) B69A
-http://127.0.0.1:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU KINORATING HD [RU] (MOVIES) 20E2
-http://127.0.0.1:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU KINOZAKAZ HD [RU] (MOVIES) 482B
-http://127.0.0.1:6878/ace/getstream?id=9cd5a5ee3d83b36cd5dd36dbc912e37531df482b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU MARVEL HD [RU] (MOVIES) 9FD7
-http://127.0.0.1:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU PREMIERE HD [RU] (MOVIES) 1154
-http://127.0.0.1:6878/ace/getstream?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU PREMIERE ULTRA 4K [RU] (REGIONAL) 61EA
-http://127.0.0.1:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU REALITY HD [RU] (MOVIES) 8187
-http://127.0.0.1:6878/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU RUSERIAL HD [RU] (MOVIES) 61E2
-http://127.0.0.1:6878/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU RUSSIAN HD [RU] (MOVIES) FEC9
-http://127.0.0.1:6878/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU STARS HD [RU] (MOVIES) B617
-http://127.0.0.1:6878/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU SURVIVAL HD [RU] (MOVIES) 51D3
-http://127.0.0.1:6878/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU TRUMOTION HD [RU] (MOVIES) 4791
-http://127.0.0.1:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU ULTRA 4K [RU] (MOVIES) E0B7
-http://127.0.0.1:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BCU VHS HD [RU] (MOVIES) 265D
-http://127.0.0.1:6878/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORT 1 7C27
 http://127.0.0.1:6878/ace/getstream?id=005a2f40458c51226e03d86fb3100ecbfbcd7c27
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
@@ -597,20 +275,8 @@ http://127.0.0.1:6878/ace/getstream?id=186a997787dcdb76f1b17e4dd5c55910d4847fa7
 http://127.0.0.1:6878/ace/getstream?id=690f0f15439c773017ace3b6979c6e518d865454
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 3" group-title="VARIOS", BEIN SPORTS 3 2CF8
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BILD HD [DE] (REGIONAL) 4E19
-http://127.0.0.1:6878/ace/getstream?id=598900f86da2a7b2f9b17972b2070e8de4bf4e19
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BOLLYWOOD HD [RU] (MOVIES) 40F0
-http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BOOMERANG [DE] (REGIONAL) F94B
-http://127.0.0.1:6878/ace/getstream?id=0011f12a7bfa97f90bd1eab99631f0d492e5f94b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BOOMERANG [RU] (KIDS) 2ED5
-http://127.0.0.1:6878/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BR FERNSEHEN HD [DE] (REGIONAL) 7070
-http://127.0.0.1:6878/ace/getstream?id=55b69cac18cbeb14c00705d06bc3396f7f6b7070
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BRIDGE HD [RU] (MUSIC) 641B
-http://127.0.0.1:6878/ace/getstream?id=32c2ea9b766da382ee892dae57871b3dd1e8641b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BRIDGE TV   [RU] (MUSIC) 3C9A
-http://127.0.0.1:6878/ace/getstream?id=eb3add8d104fa237e14343f3236a932595023c9a
+#EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 09D1
+http://127.0.0.1:6878/ace/getstream?id=06fd695a8353f40d6586db7c778a5862554c09d1
 #EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 3C5B
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 9BCE
@@ -623,82 +289,24 @@ http://127.0.0.1:6878/ace/getstream?id=927996b8192c7cc6bf768d52528c8e4198294328
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK] 2033
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK] 9DB3
-http://127.0.0.1:6878/ace/getstream?id=22fead867a8657cfb58cd84245e18954ab199db3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", C MUSIC TV [RU] (MUSIC) 4203
-http://127.0.0.1:6878/ace/getstream?id=635159bee85b23dd079e505fe5842b34eb124203
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL + [PL] (REGIONAL) 808D
-http://127.0.0.1:6878/ace/getstream?id=7a2c53a15cbd5b694759bb107dd099db6f84808d
 #EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD 849B
 http://127.0.0.1:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
-http://127.0.0.1:6878/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ 1 [PL] (REGIONAL) CA4E
-http://127.0.0.1:6878/ace/getstream?id=9def614ad2e9dab30a710ecb6868b4ed3746ca4e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ DOKUMENT HD [PL] (REGIONAL) B5BA
-http://127.0.0.1:6878/ace/getstream?id=87798426e972b483210644ced2a6bc1ce4ceb5ba
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ FAMILY HD [PL] (REGIONAL) 657D
-http://127.0.0.1:6878/ace/getstream?id=1613812c13e27c7748272e2a156ad88da3e0657d
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ FILM HD [PL] (REGIONAL) 2831
-http://127.0.0.1:6878/ace/getstream?id=a663f007059f573e641386a1e8d5a0b8e7c92831
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ NOW [PL] (REGIONAL) 32C6
-http://127.0.0.1:6878/ace/getstream?id=ca70d3784d73e30be88432e62a8817c7184332c6
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SERIALE HD [PL] (REGIONAL) 5EFF
-http://127.0.0.1:6878/ace/getstream?id=84d0d6e3ac8bdf8bc37406b647c8ddd1e5905eff
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT 2 HD [PL] (REGIONAL) 01D3
-http://127.0.0.1:6878/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT 3 [PL] (REGIONAL) 8944
-http://127.0.0.1:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT 4 [PL] (REGIONAL) 1BD7
-http://127.0.0.1:6878/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT [PL] (REGIONAL) 6ED7
-http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CARTOON NETWORK [DE] (REGIONAL) 05B5
-http://127.0.0.1:6878/ace/getstream?id=2c4fd2b35d296135d8c52ee9eaa6ab5beae405b5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CARTOON NETWORK [RU] (KIDS) 9C2D
-http://127.0.0.1:6878/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d
 #EXTINF:-1 tvg-id="Caza y Pesca HD" group-title="VARIOS", CAZA Y PESCA FHD HD 3E9C
 http://127.0.0.1:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CBS REALITY [PL] (REGIONAL) 022D
-http://127.0.0.1:6878/ace/getstream?id=de5d8d00d7a2483bba9d5a04ee9957047a20022d
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CINEMA ( ) [RU] (MOVIES) 2328
-http://127.0.0.1:6878/ace/getstream?id=3814b39d024f50efefb0a30cccf33bac16842328
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CINEMAN  [RU] (MOVIES) B30B
-http://127.0.0.1:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CINEMAN TOP [RU] (MOVIES) 630F
-http://127.0.0.1:6878/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CINEMAN [RU] (MOVIES) 78BE
-http://127.0.0.1:6878/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CINEMAX 2 [PL] (REGIONAL) 8046
-http://127.0.0.1:6878/ace/getstream?id=5cc11fdb007856a52f131a63a5baee1b15908046
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CINEMAX HD [PL] (REGIONAL) FEA9
-http://127.0.0.1:6878/ace/getstream?id=624ba2d277ec55c7d742acd687dadc6e69a8fea9
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CLASSICA [DE] (REGIONAL) C772
-http://127.0.0.1:6878/ace/getstream?id=0dc1a5dc724bbe0b3b3e9c4c5c5f5041e1a0c772
-#EXTINF:-1 tvg-id="" group-title="VARIOS", COMEDY CENTRAL HD [PL] (REGIONAL) B023
-http://127.0.0.1:6878/ace/getstream?id=4e8e2b6006b6a877f18c6d53631c79b073d0b023
-#EXTINF:-1 tvg-id="" group-title="VARIOS", COMEDY CENTRAL POLSKA [PL] (REGIONAL) 356C
-http://127.0.0.1:6878/ace/getstream?id=90a3bf8ec3584007de4183143883aae24c3f356c
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CRIME + INVESTIGATION [DE] (REGIONAL) 5250
-http://127.0.0.1:6878/ace/getstream?id=3e42a89d66c2afff75ca7641a52f92a61e5f5250
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CRIME AND INVESTIGATION [PL] (REGIONAL) 9032
-http://127.0.0.1:6878/ace/getstream?id=39b0143a80547ee7e3848d6afe1d171773e99032
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 0333
 http://127.0.0.1:6878/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
 #EXTINF:-1 tvg-id="Cuatro HD" group-title="VARIOS", CUATRO FHD 4EF0
 http://127.0.0.1:6878/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DA VINCI [RU] (EDUCATIONAL) 5F14
-http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DARK HD DC20
 http://127.0.0.1:6878/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DAS ERSTE HD [DE] (REGIONAL) 431C
-http://127.0.0.1:6878/ace/getstream?id=c33404e81c7499e9c962e8a672c6cb4d534e431c
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1 8FB5
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 2 0267
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 3 447D
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 9A69
+http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 9A69
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD AEBD
@@ -729,38 +337,8 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA2 SD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP 8D36
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DELUXE MUSIC HD [DE] (REGIONAL) 5EDE
-http://127.0.0.1:6878/ace/getstream?id=da8c0764bea30d7fe2321383292bb33ff04a5ede
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DIKAYA OKHOTA HD [RU] (EDUCATIONAL) 30AA
-http://127.0.0.1:6878/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DIKAYA RYBALKA HD [RU] (EDUCATIONAL) 8BD0
-http://127.0.0.1:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0
-#EXTINF:-1 tvg-id="Discovery" group-title="VARIOS", DISCOVERY CHANNEL D951
-http://127.0.0.1:6878/ace/getstream?id=f40d450991da3daa22b7a5007603a139def6d951
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DISCOVERY HD [RU] (EDUCATIONAL) A771
-http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DISCOVERY HISTORIA [PL] (REGIONAL) B331
-http://127.0.0.1:6878/ace/getstream?id=f4a8fd751bea74c099b556e2eb1869462753b331
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DISCOVERY LIFE [PL] (REGIONAL) D85A
-http://127.0.0.1:6878/ace/getstream?id=662cf7c13c77a8790b745aed9f8d921a7055d85a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DISCOVERY SCIENCE [PL] (REGIONAL) 3E50
-http://127.0.0.1:6878/ace/getstream?id=1e74c2c028af55e4581dc410f95900d6b2cc3e50
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DISCOVERY TURBO XTRA [PL] (REGIONAL) 2537
-http://127.0.0.1:6878/ace/getstream?id=5f99334cac446b0d080c3474a86651a24ca12537
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DISCOVERY [PL] (REGIONAL) FB06
-http://127.0.0.1:6878/ace/getstream?id=54f740398543ea683c38dfff3414e20763c3fb06
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DISNEY HD [DE] (REGIONAL) 42E2
-http://127.0.0.1:6878/ace/getstream?id=ba06199060bece6beb9abba7007d4fd7844342e2
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DISNEY [RU] (KIDS) 23F3
-http://127.0.0.1:6878/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DMAX HD [DE] (REGIONAL) 0512
-http://127.0.0.1:6878/ace/getstream?id=ff3ec08b3af26c5c545c45e82cda6f4382780512
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DOMO TV [PL] (REGIONAL) 9F49
-http://127.0.0.1:6878/ace/getstream?id=71450bfa8ab37a60f4e8d57dba6f8913f95d9f49
-#EXTINF:-1 tvg-id="" group-title="VARIOS", E! ENTERTAINMENT [PL] (REGIONAL) D653
-http://127.0.0.1:6878/ace/getstream?id=11e78bcf4b82c303aec76bfc7c623008ae19d653
-#EXTINF:-1 tvg-id="" group-title="VARIOS", E! [DE] (REGIONAL) 6459
-http://127.0.0.1:6878/ace/getstream?id=70cd3b5f96fb8d415099263226309aab3c616459
+#EXTINF:-1 tvg-id="Discovery" group-title="VARIOS", DISCOVERY CHANNEL HD 73D8
+http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE] 7E63
 http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-id="ESPN.4.nl" group-title="VARIOS", ESPN 4 [BE] 687A
@@ -777,10 +355,6 @@ http://127.0.0.1:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
 http://127.0.0.1:6878/ace/getstream?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ESSPN LAT DEPORT 8AF8
 http://127.0.0.1:6878/ace/getstream?id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EUREKA HD [RU] (EDUCATIONAL) 6C5F
-http://127.0.0.1:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EURONEWS [RU] (REGIONAL) D10D
-http://127.0.0.1:6878/ace/getstream?id=837edb9f5dab770965ddbd1b1f9f1ef55305d10d
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 126A
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 4D0E
@@ -791,8 +365,6 @@ http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 24E3
 http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD F766
-http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD E78A
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 1551
@@ -803,20 +375,10 @@ http://127.0.0.1:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 http://127.0.0.1:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD F8BF
 http://127.0.0.1:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 HD 7C32
-http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 SD A53F
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT2720 ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP A53F
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", FAN [RU] (KIDS) 00D2
-http://127.0.0.1:6878/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2
-#EXTINF:-1 tvg-id="" group-title="VARIOS", FASHION TV HD [RU] (EDUCATIONAL) AFC6
-http://127.0.0.1:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6
-#EXTINF:-1 tvg-id="" group-title="VARIOS", FOX HD [RU] (MOVIES) 126E
-http://127.0.0.1:6878/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", FOX LIFE HD [RU] (MOVIES) 4526
-http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526
 #EXTINF:-1 tvg-id="" group-title="VARIOS", FOX PREMIUM UFC E1E1
 http://127.0.0.1:6878/ace/getstream?id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1
 #EXTINF:-1 tvg-id="FOX SPORTS" group-title="VARIOS", FOX SPORT MX 4DA9
@@ -825,18 +387,6 @@ http://127.0.0.1:6878/ace/getstream?id=a0464d3642e054f6122e7c309017d1e8d23f4da9
 http://127.0.0.1:6878/ace/getstream?id=90d101676ec61e02e7f77b489f0981e9dd815eda
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 4A3A
 http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", GULLI GIRL [RU] (KIDS) DF5A
-http://127.0.0.1:6878/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", H2 HD [RU] (EDUCATIONAL) FBEE
-http://127.0.0.1:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee
-#EXTINF:-1 tvg-id="" group-title="VARIOS", HD LIFE [RU] (EDUCATIONAL) F107
-http://127.0.0.1:6878/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107
-#EXTINF:-1 tvg-id="" group-title="VARIOS", HISTORY HD [RU] (EDUCATIONAL) 8F63
-http://127.0.0.1:6878/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63
-#EXTINF:-1 tvg-id="Canal Hollywood HD" group-title="VARIOS", HOLLYWOOD HD E501
-http://127.0.0.1:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ICONCERTS [RU] (MUSIC) 597A
-http://127.0.0.1:6878/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 40BA
 http://127.0.0.1:6878/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 740C
@@ -847,8 +397,6 @@ http://127.0.0.1:6878/ace/getstream?id=9934906503661142f97a044ae1509a294057c2ed
 http://127.0.0.1:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", M+ LIGA DE CAMPEONBES 2 FHD A188
 http://127.0.0.1:6878/ace/getstream?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188
-#EXTINF:-1 tvg-id="Mega" group-title="VARIOS", MEGA 45C8
-http://127.0.0.1:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MIXED TV (SOLO EVENTOS) 21B3
 http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD DF98
@@ -893,22 +441,12 @@ http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065
 http://127.0.0.1:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
 #EXTINF:-1 tvg-id="M+ Originales HD" group-title="VARIOS", MOVISTAR ORIGINALES FHD 3162
 http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MTV LIVE HD [RU] (MUSIC) C0B2
-http://127.0.0.1:6878/ace/getstream?id=5a08cc63a0aef61f2f659efae6f7b9c2b584c0b2
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MUSICBOX RU [RU] (MUSIC) E3D6
-http://127.0.0.1:6878/ace/getstream?id=a5149234466b95643eec346ffbd24bc71c64e3d6
-#EXTINF:-1 tvg-id="" group-title="VARIOS", NAT GEO WILD HD [RU] (EDUCATIONAL) 280A
-http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a
-#EXTINF:-1 tvg-id="National Geographic HD" group-title="VARIOS", NATIONAL GEOGRAPHIC FHD HD 67E0
-http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0
 #EXTINF:-1 tvg-id="Sport NBA" group-title="VARIOS", NBA TV 8073
 http://127.0.0.1:6878/ace/getstream?id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO 7312
 http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
 http://127.0.0.1:6878/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
-#EXTINF:-1 tvg-id="" group-title="VARIOS", PARAMOUNT COMEDY RUSSIA [RU] (MOVIES) 16C5
-http://127.0.0.1:6878/ace/getstream?id=5680521f0e507f2c6f55f3de8dd79351615116c5
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1 3565
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 2" group-title="VARIOS", PREMIER SPORTS 2 9537
@@ -927,8 +465,6 @@ http://127.0.0.1:6878/ace/getstream?id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 http://127.0.0.1:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR BFF3
 http://127.0.0.1:6878/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RU.TV [RU] (MUSIC) 55F0
-http://127.0.0.1:6878/ace/getstream?id=2302f4b9327232b91a434658c24a506c88bc55f0
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA B79C
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", SKY SPORTS CRICKET 3DDD
@@ -951,54 +487,24 @@ http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEN TV FHD 4ABC
 http://127.0.0.1:6878/ace/getstream?id=19cab799c86251ae8ae5f4b4faace9b78d784abc
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL ECBF
-http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL FHD 20D0
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 8050
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TIJI [RU] (KIDS) 28C3
-http://127.0.0.1:6878/ace/getstream?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3
+#EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", TNT SPORTS HD 965E
+http://127.0.0.1:6878/ace/getstream?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", TNT SPORTS HD FHD C592
 http://127.0.0.1:6878/ace/getstream?id=363f1d119b1971237318c0d953ab6eea5eb7c592
 #EXTINF:-1 tvg-id="Torol TV" group-title="VARIOS", TOROLE TV FHD 3B0C
 http://127.0.0.1:6878/ace/getstream?id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TRAVEL CHANNEL HD [RU] (EDUCATIONAL) D5B2
-http://127.0.0.1:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TRAVEL+ADVENTURE HD [RU] (EDUCATIONAL) 9CB9
-http://127.0.0.1:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TST 4K 1786
 http://127.0.0.1:6878/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TV1000   [RU] (MOVIES) 488A
-http://127.0.0.1:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TV1000 ACTION [RU] (MOVIES) 285E
-http://127.0.0.1:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TV1000 WORLD KINO [RU] (MOVIES) C27D
-http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TV1000 [RU] (MOVIES) 4E9E
-http://127.0.0.1:6878/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e
 #EXTINF:-1 tvg-id="TVG Europa HD" group-title="VARIOS", TVG EUROPA HD 21C1
 http://127.0.0.1:6878/ace/getstream?id=d48b299bbcd811cfd14159224bf5012a305021c1
 #EXTINF:-1 tvg-id="" group-title="VARIOS", UFC FIGHT PASS 89AD
 http://127.0.0.1:6878/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VIASAT EXPLORE [RU] (EDUCATIONAL) 8636
-http://127.0.0.1:6878/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VIASAT HISTORY [RU] (EDUCATIONAL) C6AB
-http://127.0.0.1:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VIASAT NATURE [RU] (EDUCATIONAL) 7DDA
-http://127.0.0.1:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VIASAT NATURE/HISTORY HD [RU] (EDUCATIONAL) 2A7A
-http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VIP COMEDY [RU] (MOVIES) 1540
-http://127.0.0.1:6878/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VIP PREMIERE [RU] (MOVIES) 45A5
-http://127.0.0.1:6878/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VIP SERIAL [RU] (MOVIES) C076
-http://127.0.0.1:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VIVA HD [RU] (MUSIC) 1595
-http://127.0.0.1:6878/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="VARIOS", ZIGGO SPORT 0058
 http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" group-title="VARIOS", ZIGGO SPORT 2 9027
