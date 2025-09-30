@@ -737,8 +737,6 @@ plugin://script.module.horus?action=play&id=cd421b221ef7bae31a599542cd9c061fc66b
 plugin://script.module.horus?action=play&id=b85a8f5825dc7fca3e8046af445bb776541b8bd0
 #EXTINF:-1 tvg-id="Discovery" group-title="VARIOS", DISCOVERY CHANNEL D951
 plugin://script.module.horus?action=play&id=f40d450991da3daa22b7a5007603a139def6d951
-#EXTINF:-1 tvg-id="Discovery" group-title="VARIOS", DISCOVERY CHANNEL HD 73D8
-plugin://script.module.horus?action=play&id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DISCOVERY HD [RU] (EDUCATIONAL) A771
 plugin://script.module.horus?action=play&id=09f099db0453cf7517e133533aadfd5136eca771
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DISCOVERY HISTORIA [PL] (REGIONAL) B331
@@ -811,8 +809,6 @@ plugin://script.module.horus?action=play&id=ac675c82d6dfd4a201532c18b42e48dacb7c
 plugin://script.module.horus?action=play&id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT2720 ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP A53F
 plugin://script.module.horus?action=play&id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT720 ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP E78A
-plugin://script.module.horus?action=play&id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="" group-title="VARIOS", FAN [RU] (KIDS) 00D2
 plugin://script.module.horus?action=play&id=75860e73e6149fed0f781f08e7f93b19c9dc00d2
 #EXTINF:-1 tvg-id="" group-title="VARIOS", FASHION TV HD [RU] (EDUCATIONAL) AFC6
@@ -841,8 +837,6 @@ plugin://script.module.horus?action=play&id=b5e4d600404702a7d50e01e64f82ea1d26b6
 plugin://script.module.horus?action=play&id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ICONCERTS [RU] (MUSIC) 597A
 plugin://script.module.horus?action=play&id=f0757d4131090cf4b0652e9a427c350c651e597a
-#EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 4K 73D0
-plugin://script.module.horus?action=play&id=6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 40BA
 plugin://script.module.horus?action=play&id=7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 740C
@@ -967,8 +961,6 @@ plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e6
 plugin://script.module.horus?action=play&id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TIJI [RU] (KIDS) 28C3
 plugin://script.module.horus?action=play&id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3
-#EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", TNT SPORTS HD 965E
-plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", TNT SPORTS HD FHD C592
 plugin://script.module.horus?action=play&id=363f1d119b1971237318c0d953ab6eea5eb7c592
 #EXTINF:-1 tvg-id="Torol TV" group-title="VARIOS", TOROLE TV FHD 3B0C
