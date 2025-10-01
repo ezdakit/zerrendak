@@ -173,8 +173,6 @@ http://127.0.0.1:6878/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
 http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 6" group-title="LIGA CAMPEONES", L Campeones 06 FHD
 http://127.0.0.1:6878/ace/getstream?id=976983697790ab8a07b764b08843529d38bc6444
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" group-title="LIGA CAMPEONES", L Campeones 08 FHD
-http://127.0.0.1:6878/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 17" group-title="LIGA CAMPEONES", L Campeones 17 HD
 http://127.0.0.1:6878/ace/getstream?id=a15a132ffe7867a2b61b49617df39a8309cce27c
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes FHD
@@ -569,8 +567,6 @@ http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 5BE7
-http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 8050
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", TNT SPORTS HD 965E
