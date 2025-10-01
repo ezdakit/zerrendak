@@ -62,9 +62,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
@@ -101,6 +101,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Langkawi", 07:15 Etapa 4 Kuala Terengganu › Kemaman (141.5 km) DAZN 
@@ -226,9 +228,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
@@ -265,6 +267,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="01/10 Tour de Croacia", 14:00 Etapa 2 Biograd na Moru › Novalja (119 km) DAZN 
@@ -392,9 +396,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
@@ -432,6 +436,8 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="01/10 Velada Peso Crucero", 20:00 B. Glanton vs M. Browne DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
@@ -538,9 +544,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
@@ -578,6 +584,8 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Carlisle Utd. vs Hartlepool United DAZN 
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
@@ -684,9 +692,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
@@ -723,6 +731,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Brackley Town vs Wealdstone FC DAZN 
@@ -830,9 +840,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
@@ -869,6 +879,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 AFC Rochdale vs Halifax Town DAZN 
@@ -976,9 +988,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
@@ -1015,6 +1027,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 York City vs Scunthorpe Utd. DAZN 
@@ -1122,9 +1136,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
@@ -1161,6 +1175,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Altrincham vs Tamworth FC DAZN 
@@ -1268,9 +1284,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
@@ -1307,6 +1323,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="01/10 National League", 20:45 Boston United vs Forest Green Rovers DAZN 
@@ -1556,9 +1574,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Langkawi", 07:05 Etapa 5 Temerloh › Fraser's Hill (123.1 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Langkawi", 07:05 Etapa 5 Temerloh › Fraser's Hill (123.1 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="02/10 Tour de Langkawi", 07:05 Etapa 5 Temerloh › Fraser's Hill (123.1 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="02/10 Tour de Langkawi", 07:05 Etapa 5 Temerloh › Fraser's Hill (123.1 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Langkawi", 07:05 Etapa 5 Temerloh › Fraser's Hill (123.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Langkawi", 07:05 Etapa 5 Temerloh › Fraser's Hill (123.1 km) DAZN 
@@ -1595,6 +1613,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Langkawi", 07:05 Etapa 5 Temerloh › Fraser's Hill (123.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/10 Tour de Langkawi", 07:05 Etapa 5 Temerloh › Fraser's Hill (123.1 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Langkawi", 07:05 Etapa 5 Temerloh › Fraser's Hill (123.1 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Langkawi", 07:05 Etapa 5 Temerloh › Fraser's Hill (123.1 km) DAZN 
@@ -1722,9 +1742,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="02/10 Sanderson Farms Championship", 14:00 Jornada 1 PGA Tour DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="02/10 Sanderson Farms Championship", 14:00 Jornada 1 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="02/10 Sanderson Farms Championship", 14:00 Jornada 1 PGA Tour DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="02/10 Sanderson Farms Championship", 14:00 Jornada 1 PGA Tour DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="02/10 Sanderson Farms Championship", 14:00 Jornada 1 PGA Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="02/10 Sanderson Farms Championship", 14:00 Jornada 1 PGA Tour DAZN 
@@ -1761,6 +1781,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/10 Sanderson Farms Championship", 14:00 Jornada 1 PGA Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/10 Sanderson Farms Championship", 14:00 Jornada 1 PGA Tour DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/10 Sanderson Farms Championship", 14:00 Jornada 1 PGA Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="02/10 Sanderson Farms Championship", 14:00 Jornada 1 PGA Tour DAZN 
@@ -1886,9 +1908,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Croacia", 14:00 Etapa 3 Gospic › Rijeka (150.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Croacia", 14:00 Etapa 3 Gospic › Rijeka (150.5 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="02/10 Tour de Croacia", 14:00 Etapa 3 Gospic › Rijeka (150.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="02/10 Tour de Croacia", 14:00 Etapa 3 Gospic › Rijeka (150.5 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Croacia", 14:00 Etapa 3 Gospic › Rijeka (150.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Croacia", 14:00 Etapa 3 Gospic › Rijeka (150.5 km) DAZN 
@@ -1925,6 +1947,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Croacia", 14:00 Etapa 3 Gospic › Rijeka (150.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="02/10 Tour de Croacia", 14:00 Etapa 3 Gospic › Rijeka (150.5 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Croacia", 14:00 Etapa 3 Gospic › Rijeka (150.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="02/10 Tour de Croacia", 14:00 Etapa 3 Gospic › Rijeka (150.5 km) DAZN 
@@ -2056,9 +2080,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 NFL Liga Regular", 02:15 Los Angeles Rams vs San Francisco 49ers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 NFL Liga Regular", 02:15 Los Angeles Rams vs San Francisco 49ers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 NFL Liga Regular", 02:15 Los Angeles Rams vs San Francisco 49ers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 NFL Liga Regular", 02:15 Los Angeles Rams vs San Francisco 49ers DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 NFL Liga Regular", 02:15 Los Angeles Rams vs San Francisco 49ers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 NFL Liga Regular", 02:15 Los Angeles Rams vs San Francisco 49ers DAZN 
@@ -2095,6 +2119,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 NFL Liga Regular", 02:15 Los Angeles Rams vs San Francisco 49ers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 NFL Liga Regular", 02:15 Los Angeles Rams vs San Francisco 49ers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 NFL Liga Regular", 02:15 Los Angeles Rams vs San Francisco 49ers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 NFL Liga Regular", 02:15 Los Angeles Rams vs San Francisco 49ers DAZN 
@@ -2202,9 +2228,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 04:45 G.P. Indonesia (Mandalika) Libres 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 04:45 G.P. Indonesia (Mandalika) Libres 1 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 04:45 G.P. Indonesia (Mandalika) Libres 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 04:45 G.P. Indonesia (Mandalika) Libres 1 DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 04:45 G.P. Indonesia (Mandalika) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 04:45 G.P. Indonesia (Mandalika) Libres 1 DAZN 
@@ -2241,6 +2267,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 04:45 G.P. Indonesia (Mandalika) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 04:45 G.P. Indonesia (Mandalika) Libres 1 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 04:45 G.P. Indonesia (Mandalika) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 04:45 G.P. Indonesia (Mandalika) Libres 1 DAZN 
@@ -2488,9 +2516,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Libres DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Libres DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Libres DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Libres DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Libres DAZN 
@@ -2527,6 +2555,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Libres DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Libres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Libres DAZN 
@@ -2638,9 +2668,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 WTA Pekín", 09:00 1/4 de Final WTA 1000 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 WTA Pekín", 09:00 1/4 de Final WTA 1000 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 WTA Pekín", 09:00 1/4 de Final WTA 1000 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 WTA Pekín", 09:00 1/4 de Final WTA 1000 DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 WTA Pekín", 09:00 1/4 de Final WTA 1000 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 WTA Pekín", 09:00 1/4 de Final WTA 1000 DAZN 
@@ -2677,6 +2707,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 WTA Pekín", 09:00 1/4 de Final WTA 1000 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 WTA Pekín", 09:00 1/4 de Final WTA 1000 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 WTA Pekín", 09:00 1/4 de Final WTA 1000 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 WTA Pekín", 09:00 1/4 de Final WTA 1000 DAZN 
@@ -2788,9 +2820,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 11:30 G.P. Singapur (Singapur) Libres 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 11:30 G.P. Singapur (Singapur) Libres 1 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 11:30 G.P. Singapur (Singapur) Libres 1 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 11:30 G.P. Singapur (Singapur) Libres 1 DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 11:30 G.P. Singapur (Singapur) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 11:30 G.P. Singapur (Singapur) Libres 1 DAZN 
@@ -2827,6 +2859,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 11:30 G.P. Singapur (Singapur) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 11:30 G.P. Singapur (Singapur) Libres 1 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 11:30 G.P. Singapur (Singapur) Libres 1 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 11:30 G.P. Singapur (Singapur) Libres 1 DAZN 
@@ -2936,9 +2970,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Alfred Dunhill Links Championship", 13:00 Jornada 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Alfred Dunhill Links Championship", 13:00 Jornada 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 Alfred Dunhill Links Championship", 13:00 Jornada 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 Alfred Dunhill Links Championship", 13:00 Jornada 2 DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Alfred Dunhill Links Championship", 13:00 Jornada 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Alfred Dunhill Links Championship", 13:00 Jornada 2 DAZN 
@@ -2975,6 +3009,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Alfred Dunhill Links Championship", 13:00 Jornada 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Alfred Dunhill Links Championship", 13:00 Jornada 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Alfred Dunhill Links Championship", 13:00 Jornada 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Alfred Dunhill Links Championship", 13:00 Jornada 2 DAZN 
@@ -3084,9 +3120,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 F1 Academy", 13:00 G.P. Singapur (Singapur) Clasificación DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 F1 Academy", 13:00 G.P. Singapur (Singapur) Clasificación DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 F1 Academy", 13:00 G.P. Singapur (Singapur) Clasificación DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 F1 Academy", 13:00 G.P. Singapur (Singapur) Clasificación DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 F1 Academy", 13:00 G.P. Singapur (Singapur) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 F1 Academy", 13:00 G.P. Singapur (Singapur) Clasificación DAZN 
@@ -3123,6 +3159,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 F1 Academy", 13:00 G.P. Singapur (Singapur) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 F1 Academy", 13:00 G.P. Singapur (Singapur) Clasificación DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 F1 Academy", 13:00 G.P. Singapur (Singapur) Clasificación DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 F1 Academy", 13:00 G.P. Singapur (Singapur) Clasificación DAZN 
@@ -3232,9 +3270,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Sanderson Farms Championship", 14:00 Jornada 2 PGA Tour DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Sanderson Farms Championship", 14:00 Jornada 2 PGA Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 Sanderson Farms Championship", 14:00 Jornada 2 PGA Tour DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 Sanderson Farms Championship", 14:00 Jornada 2 PGA Tour DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Sanderson Farms Championship", 14:00 Jornada 2 PGA Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Sanderson Farms Championship", 14:00 Jornada 2 PGA Tour DAZN 
@@ -3271,6 +3309,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Sanderson Farms Championship", 14:00 Jornada 2 PGA Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Sanderson Farms Championship", 14:00 Jornada 2 PGA Tour DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Sanderson Farms Championship", 14:00 Jornada 2 PGA Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Sanderson Farms Championship", 14:00 Jornada 2 PGA Tour DAZN 
@@ -3396,9 +3436,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Tour de Croacia", 14:00 Etapa 4 Krk › Labin (187.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Tour de Croacia", 14:00 Etapa 4 Krk › Labin (187.5 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 Tour de Croacia", 14:00 Etapa 4 Krk › Labin (187.5 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 Tour de Croacia", 14:00 Etapa 4 Krk › Labin (187.5 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Tour de Croacia", 14:00 Etapa 4 Krk › Labin (187.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Tour de Croacia", 14:00 Etapa 4 Krk › Labin (187.5 km) DAZN 
@@ -3435,6 +3475,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Tour de Croacia", 14:00 Etapa 4 Krk › Labin (187.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Tour de Croacia", 14:00 Etapa 4 Krk › Labin (187.5 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Tour de Croacia", 14:00 Etapa 4 Krk › Labin (187.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Tour de Croacia", 14:00 Etapa 4 Krk › Labin (187.5 km) DAZN 
@@ -3560,9 +3602,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Rotterdam Open", 14:00 1/4 de final femenino Premier Padel Tour DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Rotterdam Open", 14:00 1/4 de final femenino Premier Padel Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 Rotterdam Open", 14:00 1/4 de final femenino Premier Padel Tour DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 Rotterdam Open", 14:00 1/4 de final femenino Premier Padel Tour DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Rotterdam Open", 14:00 1/4 de final femenino Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Rotterdam Open", 14:00 1/4 de final femenino Premier Padel Tour DAZN 
@@ -3599,6 +3641,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Rotterdam Open", 14:00 1/4 de final femenino Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Rotterdam Open", 14:00 1/4 de final femenino Premier Padel Tour DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Rotterdam Open", 14:00 1/4 de final femenino Premier Padel Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Rotterdam Open", 14:00 1/4 de final femenino Premier Padel Tour DAZN 
@@ -3724,9 +3768,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 15:00 G.P. Singapur (Singapur) Libres 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 15:00 G.P. Singapur (Singapur) Libres 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 15:00 G.P. Singapur (Singapur) Libres 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 15:00 G.P. Singapur (Singapur) Libres 2 DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 15:00 G.P. Singapur (Singapur) Libres 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 15:00 G.P. Singapur (Singapur) Libres 2 DAZN 
@@ -3763,6 +3807,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 15:00 G.P. Singapur (Singapur) Libres 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 15:00 G.P. Singapur (Singapur) Libres 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 15:00 G.P. Singapur (Singapur) Libres 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Fórmula 1", 15:00 G.P. Singapur (Singapur) Libres 2 DAZN 
@@ -3872,9 +3918,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Torneo de Villena", 16:00 1/4 de Final ATP Challenger Tour DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Torneo de Villena", 16:00 1/4 de Final ATP Challenger Tour DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 Torneo de Villena", 16:00 1/4 de Final ATP Challenger Tour DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 Torneo de Villena", 16:00 1/4 de Final ATP Challenger Tour DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Torneo de Villena", 16:00 1/4 de Final ATP Challenger Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Torneo de Villena", 16:00 1/4 de Final ATP Challenger Tour DAZN 
@@ -3911,6 +3957,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Torneo de Villena", 16:00 1/4 de Final ATP Challenger Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Torneo de Villena", 16:00 1/4 de Final ATP Challenger Tour DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Torneo de Villena", 16:00 1/4 de Final ATP Challenger Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Torneo de Villena", 16:00 1/4 de Final ATP Challenger Tour DAZN 
@@ -4036,9 +4084,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Sparkassen Münsterland Giro", 16:00 UCI ProSeries Stromberg › Münster (192 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Sparkassen Münsterland Giro", 16:00 UCI ProSeries Stromberg › Münster (192 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 Sparkassen Münsterland Giro", 16:00 UCI ProSeries Stromberg › Münster (192 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 Sparkassen Münsterland Giro", 16:00 UCI ProSeries Stromberg › Münster (192 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Sparkassen Münsterland Giro", 16:00 UCI ProSeries Stromberg › Münster (192 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Sparkassen Münsterland Giro", 16:00 UCI ProSeries Stromberg › Münster (192 km) DAZN 
@@ -4075,6 +4123,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Sparkassen Münsterland Giro", 16:00 UCI ProSeries Stromberg › Münster (192 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Sparkassen Münsterland Giro", 16:00 UCI ProSeries Stromberg › Münster (192 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Sparkassen Münsterland Giro", 16:00 UCI ProSeries Stromberg › Münster (192 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Sparkassen Münsterland Giro", 16:00 UCI ProSeries Stromberg › Münster (192 km) DAZN 
@@ -4200,9 +4250,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga Femenina", 18:30 Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga Femenina", 18:30 Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga Femenina", 18:30 Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga Femenina", 18:30 Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga Femenina", 18:30 Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga Femenina", 18:30 Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino DAZN 
@@ -4239,6 +4289,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga Femenina", 18:30 Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga Femenina", 18:30 Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga Femenina", 18:30 Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga Femenina", 18:30 Eintracht Frankfurt Femenino vs Carl Zeiss Jena Femenino DAZN 
@@ -4346,9 +4398,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 LaLiga Hypermotion", 20:30 AD Ceuta vs Eibar DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 LaLiga Hypermotion", 20:30 AD Ceuta vs Eibar DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 LaLiga Hypermotion", 20:30 AD Ceuta vs Eibar DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 LaLiga Hypermotion", 20:30 AD Ceuta vs Eibar DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 LaLiga Hypermotion", 20:30 AD Ceuta vs Eibar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 LaLiga Hypermotion", 20:30 AD Ceuta vs Eibar DAZN 
@@ -4385,6 +4437,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 LaLiga Hypermotion", 20:30 AD Ceuta vs Eibar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 LaLiga Hypermotion", 20:30 AD Ceuta vs Eibar DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 LaLiga Hypermotion", 20:30 AD Ceuta vs Eibar DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 LaLiga Hypermotion", 20:30 AD Ceuta vs Eibar DAZN 
@@ -4494,9 +4548,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga", 20:30 Hoffenheim vs FC Köln DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga", 20:30 Hoffenheim vs FC Köln DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga", 20:30 Hoffenheim vs FC Köln DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga", 20:30 Hoffenheim vs FC Köln DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga", 20:30 Hoffenheim vs FC Köln DAZN 
@@ -4533,6 +4587,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga", 20:30 Hoffenheim vs FC Köln DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga", 20:30 Hoffenheim vs FC Köln DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga", 20:30 Hoffenheim vs FC Köln DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Bundesliga", 20:30 Hoffenheim vs FC Köln DAZN 
@@ -4640,9 +4696,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Serie A Italiana", 20:45 Hellas Verona vs Sassuolo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Serie A Italiana", 20:45 Hellas Verona vs Sassuolo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="03/10 Serie A Italiana", 20:45 Hellas Verona vs Sassuolo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Serie A Italiana", 20:45 Hellas Verona vs Sassuolo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Serie A Italiana", 20:45 Hellas Verona vs Sassuolo DAZN 
@@ -4679,6 +4735,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Serie A Italiana", 20:45 Hellas Verona vs Sassuolo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Serie A Italiana", 20:45 Hellas Verona vs Sassuolo DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Serie A Italiana", 20:45 Hellas Verona vs Sassuolo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Serie A Italiana", 20:45 Hellas Verona vs Sassuolo DAZN 
@@ -4786,9 +4844,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Jupiler Pro League", 20:45 Gent vs Charleroi DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Jupiler Pro League", 20:45 Gent vs Charleroi DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 Jupiler Pro League", 20:45 Gent vs Charleroi DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 Jupiler Pro League", 20:45 Gent vs Charleroi DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Jupiler Pro League", 20:45 Gent vs Charleroi DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Jupiler Pro League", 20:45 Gent vs Charleroi DAZN 
@@ -4825,6 +4883,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Jupiler Pro League", 20:45 Gent vs Charleroi DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Jupiler Pro League", 20:45 Gent vs Charleroi DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Jupiler Pro League", 20:45 Gent vs Charleroi DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Jupiler Pro League", 20:45 Gent vs Charleroi DAZN 
@@ -4932,9 +4992,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 La Liga EA Sports", 21:00 Osasuna vs Getafe DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 La Liga EA Sports", 21:00 Osasuna vs Getafe DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 La Liga EA Sports", 21:00 Osasuna vs Getafe DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 La Liga EA Sports", 21:00 Osasuna vs Getafe DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 La Liga EA Sports", 21:00 Osasuna vs Getafe DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 La Liga EA Sports", 21:00 Osasuna vs Getafe DAZN 
@@ -4971,6 +5031,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 La Liga EA Sports", 21:00 Osasuna vs Getafe DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 La Liga EA Sports", 21:00 Osasuna vs Getafe DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 La Liga EA Sports", 21:00 Osasuna vs Getafe DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 La Liga EA Sports", 21:00 Osasuna vs Getafe DAZN 
@@ -5082,9 +5144,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="03/10 Premier League", 21:00 Bournemouth vs Fulham DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="03/10 Premier League", 21:00 Bournemouth vs Fulham DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
-#EXTINF:-1 tvg-id="" group-title="03/10 Premier League", 21:00 Bournemouth vs Fulham DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="03/10 Premier League", 21:00 Bournemouth vs Fulham DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="03/10 Premier League", 21:00 Bournemouth vs Fulham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="" group-title="03/10 Premier League", 21:00 Bournemouth vs Fulham DAZN 
@@ -5121,6 +5183,8 @@ http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="03/10 Premier League", 21:00 Bournemouth vs Fulham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="" group-title="03/10 Premier League", 21:00 Bournemouth vs Fulham DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="03/10 Premier League", 21:00 Bournemouth vs Fulham DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="03/10 Premier League", 21:00 Bournemouth vs Fulham DAZN 
