@@ -393,8 +393,6 @@ acestream://f0951d40eb84162014752c054ea7a1370d2169eb
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 7FA7
-acestream://186a997787dcdb76f1b17e4dd5c55910d4847fa7
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 FHD 5454
 acestream://690f0f15439c773017ace3b6979c6e518d865454
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 3" group-title="VARIOS", BEIN SPORTS 3 2CF8
@@ -483,6 +481,8 @@ acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 acestream://38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BE55
 acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BE55
+acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD C32A
 acestream://3f5b7e2f883fe4b4b973e198d147a513d5c7c32a
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD F6D1
@@ -495,6 +495,8 @@ acestream://d65257bb934b73647374224fd62d836815804be2
 acestream://d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 HD 4BE2
 acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD 1727
+acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD 1727
 acestream://ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN PVV ADB7
@@ -567,8 +569,6 @@ acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 SD A53F
 acestream://5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT21080 ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP 1551
-acestream://0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT2720 ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP A53F
 acestream://5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 1 [DE] (REGIONAL) 200C
@@ -821,8 +821,6 @@ acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 acestream://bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TELETOON+ HD [PL] (REGIONAL) CA1B
 acestream://7a8cf88f62f612d7741d5bae2d2be94573f1ca1b
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL ECBF
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
