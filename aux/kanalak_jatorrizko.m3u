@@ -95,8 +95,6 @@ http://127.0.0.1:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
 http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD 0f70 --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD 933b --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD 9b99 --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD e464 --> NEW ERA VI
@@ -235,6 +233,10 @@ http://127.0.0.1:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 http://127.0.0.1:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 3fa9 --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 9928 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD 8ec7 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD f025 --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 94b7 --> NEW ERA VI
@@ -253,8 +255,8 @@ http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 http://127.0.0.1:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DAZN 1 BAR" group-title="DAZN", DAZN 1 BAR HD e229
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD 7a35 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD a97d --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD ff37 --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 b8ab --> ELCANO
@@ -263,8 +265,6 @@ http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 f516
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" tvg-id="DAZN 2 BAR" group-title="DAZN", DAZN 2 BAR FHD b57c --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" tvg-id="DAZN 2 BAR" group-title="DAZN", DAZN 2 BAR HD 4865
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD 8eb1 --> NEW ERA
@@ -623,8 +623,6 @@ http://127.0.0.1:6878/ace/getstream?id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
 http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Fightklub HD [PL] (regional) 1b29
 http://127.0.0.1:6878/ace/getstream?id=b73da828421018c98905ed05934b77ea35aa1b29
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", FOX PREMIUM UFC e1e1 --> NEW ERA
-http://127.0.0.1:6878/ace/getstream?id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Golf Channel [PL] (regional) 6689
 http://127.0.0.1:6878/ace/getstream?id=d4acffe8f08b7728d3b489ab5ca37398a5636689
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", HR HD [DE] (regional) 089b
