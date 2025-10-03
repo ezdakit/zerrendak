@@ -133,8 +133,6 @@ plugin://script.module.horus?action=play&id=9db029dff6a9c637d1f670e78dbc1a479b9b
 plugin://script.module.horus?action=play&id=b028202ff335911db3118bceac027df3e8ef6c32
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
 plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
-plugin://script.module.horus?action=play&id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 FHD
 plugin://script.module.horus?action=play&id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 FHD
@@ -159,8 +157,6 @@ plugin://script.module.horus?action=play&id=4416843c96b7f7a1bc55c476091a60fff092
 plugin://script.module.horus?action=play&id=cfc371890bfb502737a26de5215e50929c52d0f9
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA CAMPEONES", L Campeones 03 HD
 plugin://script.module.horus?action=play&id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="LIGA CAMPEONES", L Campeones 04 HD
-plugin://script.module.horus?action=play&id=152169ce99e1fd27f2249c18384a121079cdef29
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="LIGA CAMPEONES", L Campeones 04 FHD
 plugin://script.module.horus?action=play&id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="LIGA CAMPEONES", L Campeones 04 FHD
@@ -223,6 +219,8 @@ plugin://script.module.horus?action=play&id=7b361369a40046ad3011086f9d4ae2982fb4
 plugin://script.module.horus?action=play&id=3230cdca852a10325222e3c546e499e31d547a90
 #EXTINF:-1 tvg-id="M+ Deportes 6" group-title="MOVISTAR", M+ Deportes 6 HD
 plugin://script.module.horus?action=play&id=8f982a0d6e3196c12d0034142b65008321150f7c
+#EXTINF:-1 tvg-id="M+ Deportes 7" group-title="MOVISTAR", M+ Deportes 7 FHD
+plugin://script.module.horus?action=play&id=f7fa1e42376d1d65d1bf5abca8728dff273d02d7
 #EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ Vamos FHD
 plugin://script.module.horus?action=play&id=3b2a8b41e7097c16b0468b42d7de0320886fa933
 #EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ Vamos FHD
@@ -673,8 +671,6 @@ plugin://script.module.horus?action=play&id=eb25ebc41fc51710b098f860b33b3229d119
 plugin://script.module.horus?action=play&id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION B37F
 plugin://script.module.horus?action=play&id=acd7e3ae185a376e6596e60a414bebbf3321b37f
-#EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION F404
-plugin://script.module.horus?action=play&id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOTOWIZJA [PL] (REGIONAL) F350
 plugin://script.module.horus?action=play&id=8ef4e74336a0114d6def70de9d15cc4817d2f350
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 59CE
@@ -731,8 +727,6 @@ plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781
 plugin://script.module.horus?action=play&id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO 7312
 plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
-plugin://script.module.horus?action=play&id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ORF III [DE] (REGIONAL) F86A
 plugin://script.module.horus?action=play&id=41ac7892b8fde95d5110d83d7324044145c7f86a
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ORF SPORT+ HD [DE] (REGIONAL) 6974
@@ -853,6 +847,10 @@ plugin://script.module.horus?action=play&id=3e7b1911a1f83fd869b6995650a305777825
 plugin://script.module.horus?action=play&id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TELETOON+ HD [PL] (REGIONAL) CA1B
 plugin://script.module.horus?action=play&id=7a8cf88f62f612d7741d5bae2d2be94573f1ca1b
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL ECBF
+plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL FHD 20D0
+plugin://script.module.horus?action=play&id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
