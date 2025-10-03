@@ -290,8 +290,6 @@ plugin://script.module.horus?action=play&id=14407b00d454cb7dc0d70aa26e8bbc554f45
 #EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
 plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
-plugin://script.module.horus?action=play&id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
 plugin://script.module.horus?action=play&id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
 plugin://script.module.horus?action=play&id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
@@ -399,16 +397,18 @@ plugin://script.module.horus?action=play&id=ba4597903f099695e7d6bcc5938f91cb0798
 plugin://script.module.horus?action=play&id=101c4c7e056242758b112382c4e314472795ae37
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORT 1 7C27
 plugin://script.module.horus?action=play&id=005a2f40458c51226e03d86fb3100ecbfbcd7c27
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA " group-title="VARIOS", BEIN SPORTS  68F9
-plugin://script.module.horus?action=play&id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 plugin://script.module.horus?action=play&id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 620D
+plugin://script.module.horus?action=play&id=a96a9a6ab8f4f624d66ece9fa566a5620ddd620d
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
 plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
 plugin://script.module.horus?action=play&id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 7FA7
+plugin://script.module.horus?action=play&id=186a997787dcdb76f1b17e4dd5c55910d4847fa7
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 3" group-title="VARIOS", BEIN SPORTS 3 2CF8
 plugin://script.module.horus?action=play&id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 3" group-title="VARIOS", BEIN SPORTS 3 2CF8
@@ -437,6 +437,8 @@ plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc
 plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 9BCE
 plugin://script.module.horus?action=play&id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK] 4328
+plugin://script.module.horus?action=play&id=927996b8192c7cc6bf768d52528c8e4198294328
 #EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK] A801
 plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK] A801
@@ -445,6 +447,8 @@ plugin://script.module.horus?action=play&id=d63d8a57cf471394bfa9f619bbd68b01ae27
 plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK] 2033
 plugin://script.module.horus?action=play&id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK] 9DB3
+plugin://script.module.horus?action=play&id=22fead867a8657cfb58cd84245e18954ab199db3
 #EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 1" group-title="VARIOS", BUNDESLIGA 1 HD 3F3B
 plugin://script.module.horus?action=play&id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL + [PL] (REGIONAL) 808D
@@ -495,8 +499,6 @@ plugin://script.module.horus?action=play&id=c9c18ae7a9dafba1caae5beb22060f9c92bb
 plugin://script.module.horus?action=play&id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD B8CC
 plugin://script.module.horus?action=play&id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BB29
-plugin://script.module.horus?action=play&id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BDF7
 plugin://script.module.horus?action=play&id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BE55
@@ -523,12 +525,12 @@ plugin://script.module.horus?action=play&id=4bc6f4cb6697c1defc981c0afe1a4c3a6228
 plugin://script.module.horus?action=play&id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA FHD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP 0B05
 plugin://script.module.horus?action=play&id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA FHD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP C618
+plugin://script.module.horus?action=play&id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA SD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP ED1F
 plugin://script.module.horus?action=play&id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA2 FHD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP CBA8
 plugin://script.module.horus?action=play&id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA2 SD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP 8D36
-plugin://script.module.horus?action=play&id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="Discovery" group-title="VARIOS", DISCOVERY CHANNEL HD 73D8
 plugin://script.module.horus?action=play&id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-id="" group-title="VARIOS", E! [DE] (REGIONAL) 6459
@@ -545,8 +547,6 @@ plugin://script.module.horus?action=play&id=5f9b19c57195cc28ab81e0ec8cad03b55118
 plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN" group-title="VARIOS", ESPN HD [US] F442
 plugin://script.module.horus?action=play&id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 tvg-id="ESPN.1.nl" group-title="VARIOS", ESPN [BE] EDAB
-plugin://script.module.horus?action=play&id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-id="ESPN.1.nl" group-title="VARIOS", ESPN [BE] EDAB
 plugin://script.module.horus?action=play&id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-id="ESPN 2" group-title="VARIOS", ESPN2 [US] 8394
@@ -571,6 +571,8 @@ plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe
 plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 0A62
 plugin://script.module.horus?action=play&id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 24E3
+plugin://script.module.horus?action=play&id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD F766
 plugin://script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD E78A
@@ -651,6 +653,8 @@ plugin://script.module.horus?action=play&id=4b18a3b32df5960ed950fa907f8d509b1ad2
 plugin://script.module.horus?action=play&id=ea03cc51980996ba6f2da49e30eee1de8a66ae54
 #EXTINF:-1 tvg-id="" group-title="VARIOS", M-1 GLOBAL [RU] (SPORT) 1C04
 plugin://script.module.horus?action=play&id=a7e4499c869037073c97deb47a50d1e7090b1c04
+#EXTINF:-1 tvg-id="" group-title="VARIOS", M. CHAMPIONS 1 FHD 6C6F
+plugin://script.module.horus?action=play&id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 1 HD [DE] (REGIONAL) 5072
 plugin://script.module.horus?action=play&id=501141c649a2b78c4965cbf3257224181cc55072
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 10 HD [DE] (REGIONAL) FB29
@@ -739,8 +743,6 @@ plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781
 plugin://script.module.horus?action=play&id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO 7312
 plugin://script.module.horus?action=play&id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
-plugin://script.module.horus?action=play&id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ORF III [DE] (REGIONAL) F86A
 plugin://script.module.horus?action=play&id=41ac7892b8fde95d5110d83d7324044145c7f86a
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ORF SPORT+ HD [DE] (REGIONAL) 6974
@@ -848,6 +850,8 @@ plugin://script.module.horus?action=play&id=1950633a3723cb52b17c764125decc04445b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", SPORT1+ [DE] (REGIONAL) 4C2B
 plugin://script.module.horus?action=play&id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD (SPORT) 30EE
+plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD 30EE
 plugin://script.module.horus?action=play&id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="" group-title="VARIOS", SYFY FHD CDB3
 plugin://script.module.horus?action=play&id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
