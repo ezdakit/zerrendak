@@ -40,6 +40,8 @@ plugin://script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a2f
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 plugin://script.module.horus?action=play&id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
+plugin://script.module.horus?action=play&id=8a86cd6152154a25ad4b76523160552a40313b28
+#EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 plugin://script.module.horus?action=play&id=4e401fdceebffdf1f09aef954844d09f6c62f460
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 HD
 plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
@@ -459,6 +461,10 @@ plugin://script.module.horus?action=play&id=8bdeb6055da0be3bd1e1977dbf3640408f7d
 plugin://script.module.horus?action=play&id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 0076
 plugin://script.module.horus?action=play&id=b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 4K F66D
+plugin://script.module.horus?action=play&id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 841D
+plugin://script.module.horus?action=play&id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 7494
 plugin://script.module.horus?action=play&id=515efd8115482bda8d92aa6df9a882a5e5797494
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD 7711
@@ -473,6 +479,8 @@ plugin://script.module.horus?action=play&id=c9c18ae7a9dafba1caae5beb22060f9c92bb
 plugin://script.module.horus?action=play&id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD B8CC
 plugin://script.module.horus?action=play&id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BB29
+plugin://script.module.horus?action=play&id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BDF7
 plugin://script.module.horus?action=play&id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 FHD BE55
@@ -495,6 +503,8 @@ plugin://script.module.horus?action=play&id=d65257bb934b73647374224fd62d83681580
 plugin://script.module.horus?action=play&id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD 1727
 plugin://script.module.horus?action=play&id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD 4AEE
+plugin://script.module.horus?action=play&id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN PVV ADB7
 plugin://script.module.horus?action=play&id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA FHD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP 0B05
@@ -601,6 +611,8 @@ plugin://script.module.horus?action=play&id=b73da828421018c98905ed05934b77ea35aa
 plugin://script.module.horus?action=play&id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-id="FOX SPORTS" group-title="VARIOS", FOX SPORT MX HD 0898
 plugin://script.module.horus?action=play&id=c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 0612
+plugin://script.module.horus?action=play&id=9fb99c40a2c45d5c5342b30626eb56140f980612
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 4A3A
 plugin://script.module.horus?action=play&id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 4F93
@@ -679,6 +691,8 @@ plugin://script.module.horus?action=play&id=192f2ac5b372dfddef694e48edd2d56e308b
 plugin://script.module.horus?action=play&id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MOVISTAR FESTIVAL DE SAN SEBASTIAN FHD FEE7
 plugin://script.module.horus?action=play&id=cf99e99c105162410ec6d1f68cc6f4811560fee7
+#EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD 1031
+plugin://script.module.horus?action=play&id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 #EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD 37F2
 plugin://script.module.horus?action=play&id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
 #EXTINF:-1 tvg-id="M+ Golf HD" group-title="VARIOS", MOVISTAR GOLF FHD 5174
@@ -843,8 +857,6 @@ plugin://script.module.horus?action=play&id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4
 plugin://script.module.horus?action=play&id=363f1d119b1971237318c0d953ab6eea5eb7c592
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TNT [PL] (REGIONAL) 82A4
 plugin://script.module.horus?action=play&id=d0842346aad155a78f94dffe7d4ca313c33882a4
-#EXTINF:-1 tvg-id="Torol TV" group-title="VARIOS", TOROLE TV FHD 3B0C
-plugin://script.module.horus?action=play&id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TRAVEL CHANNEL [PL] (REGIONAL) EEA8
 plugin://script.module.horus?action=play&id=70a711891dcdf1aaf7a39788a55bc5f82505eea8
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TST 4K 1786
