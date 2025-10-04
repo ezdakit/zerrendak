@@ -36,6 +36,8 @@ acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
+acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab
+#EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1
@@ -67,8 +69,6 @@ acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
 acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
-acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
 acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
@@ -99,6 +99,8 @@ acestream://4b528d10eaad747ddf52251206177573ee3e9f74
 acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV FHD
+acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 FHD
 acestream://911ad127726234b97658498a8b790fdd7516541d
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 FHD
@@ -387,6 +389,8 @@ acestream://101c4c7e056242758b112382c4e314472795ae37
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 620D
+acestream://a96a9a6ab8f4f624d66ece9fa566a5620ddd620d
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
@@ -407,6 +411,8 @@ acestream://ed81c333815247536edfcdb2755147e8c4144d62
 acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BEMAD FHD 1F60
 acestream://6e1b5fd8753352486aa932f802534a17556e1f60
+#EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 09D1
+acestream://06fd695a8353f40d6586db7c778a5862554c09d1
 #EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 3C5B
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 3C5B
@@ -417,6 +423,8 @@ acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 9BCE
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK] 4328
+acestream://927996b8192c7cc6bf768d52528c8e4198294328
 #EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK] A801
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK] A801
@@ -627,6 +635,8 @@ acestream://2bc787fab6cfce8b5c7a7c6b85e862066d967a68
 acestream://6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 80D7
 acestream://e61bed8a89628339798c32c3d591ff731f4680d7
+#EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 D90D
+acestream://ab48135410d45cd71bfdb5636a7676f9ff5ad90d
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 40BA
 acestream://7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 740C
@@ -721,8 +731,6 @@ acestream://e72d03fb9694164317260f684470be9ab781ed95
 acestream://5f595b1bbade5e7c915d99f90645f4c30d4ba540
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO 7312
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
-acestream://abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ORF III [DE] (REGIONAL) F86A
 acestream://41ac7892b8fde95d5110d83d7324044145c7f86a
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ORF SPORT+ HD [DE] (REGIONAL) 6974
