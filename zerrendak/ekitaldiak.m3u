@@ -90,8 +90,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto3", 06:00 G.P. Indonesia (Mandalika) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto3", 06:00 G.P. Indonesia (Mandalika) Carrera DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Moto3", 06:00 G.P. Indonesia (Mandalika) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto3", 06:00 G.P. Indonesia (Mandalika) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -104,9 +102,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto3", 06:00 G.P. Indonesia (Mandalika) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto3", 06:00 G.P. Indonesia (Mandalika) Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Moto3", 06:00 G.P. Indonesia (Mandalika) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Moto3", 06:00 G.P. Indonesia (Mandalika) Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto3", 06:00 G.P. Indonesia (Mandalika) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto3", 06:00 G.P. Indonesia (Mandalika) Carrera DAZN 
@@ -252,8 +250,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Jakarta International Championship", 06:00 Jornada 4 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Jakarta International Championship", 06:00 Jornada 4 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Jakarta International Championship", 06:00 Jornada 4 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Jakarta International Championship", 06:00 Jornada 4 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -266,9 +262,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Jakarta International Championship", 06:00 Jornada 4 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Jakarta International Championship", 06:00 Jornada 4 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Jakarta International Championship", 06:00 Jornada 4 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Jakarta International Championship", 06:00 Jornada 4 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Jakarta International Championship", 06:00 Jornada 4 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Jakarta International Championship", 06:00 Jornada 4 DAZN 
@@ -414,8 +410,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto2", 07:15 G.P. Indonesia (Mandalika) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto2", 07:15 G.P. Indonesia (Mandalika) Carrera DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Moto2", 07:15 G.P. Indonesia (Mandalika) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto2", 07:15 G.P. Indonesia (Mandalika) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -428,9 +422,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto2", 07:15 G.P. Indonesia (Mandalika) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto2", 07:15 G.P. Indonesia (Mandalika) Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Moto2", 07:15 G.P. Indonesia (Mandalika) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Moto2", 07:15 G.P. Indonesia (Mandalika) Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto2", 07:15 G.P. Indonesia (Mandalika) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Moto2", 07:15 G.P. Indonesia (Mandalika) Carrera DAZN 
@@ -576,8 +570,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Carrera DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -590,9 +582,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 MotoGP", 09:00 G.P. Indonesia (Mandalika) Carrera DAZN 
@@ -738,8 +730,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Langkawi", 09:15 Etapa 8 Tangkak › Kuala Lumpur (180.2 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Langkawi", 09:15 Etapa 8 Tangkak › Kuala Lumpur (180.2 km) DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Tour de Langkawi", 09:15 Etapa 8 Tangkak › Kuala Lumpur (180.2 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Langkawi", 09:15 Etapa 8 Tangkak › Kuala Lumpur (180.2 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -752,9 +742,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Langkawi", 09:15 Etapa 8 Tangkak › Kuala Lumpur (180.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Langkawi", 09:15 Etapa 8 Tangkak › Kuala Lumpur (180.2 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Tour de Langkawi", 09:15 Etapa 8 Tangkak › Kuala Lumpur (180.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Tour de Langkawi", 09:15 Etapa 8 Tangkak › Kuala Lumpur (180.2 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Langkawi", 09:15 Etapa 8 Tangkak › Kuala Lumpur (180.2 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Langkawi", 09:15 Etapa 8 Tangkak › Kuala Lumpur (180.2 km) DAZN 
@@ -908,8 +898,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 F1 Academy", 09:25 G.P. Singapur (Singapur) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 F1 Academy", 09:25 G.P. Singapur (Singapur) Carrera 2 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 F1 Academy", 09:25 G.P. Singapur (Singapur) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 F1 Academy", 09:25 G.P. Singapur (Singapur) Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -922,9 +910,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 F1 Academy", 09:25 G.P. Singapur (Singapur) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 F1 Academy", 09:25 G.P. Singapur (Singapur) Carrera 2 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 F1 Academy", 09:25 G.P. Singapur (Singapur) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 F1 Academy", 09:25 G.P. Singapur (Singapur) Carrera 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 F1 Academy", 09:25 G.P. Singapur (Singapur) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 F1 Academy", 09:25 G.P. Singapur (Singapur) Carrera 2 DAZN 
@@ -1072,8 +1060,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -1086,9 +1072,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier DAZN 
@@ -1153,8 +1139,6 @@ http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier Eurosport 2 SD
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="05/10 Torneo de Villena Final", 11:00 P. Carreño vs H. Grenier Eurosport 2 
-http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN FHD
@@ -1244,8 +1228,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -1258,9 +1240,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:00 Coviran Granada vs Joventut Badalona DAZN 
@@ -1402,8 +1384,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 12:00 Alhama CF vs Deportivo Abanca DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 12:00 Alhama CF vs Deportivo Abanca DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 12:00 Alhama CF vs Deportivo Abanca DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 12:00 Alhama CF vs Deportivo Abanca DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -1416,9 +1396,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 12:00 Alhama CF vs Deportivo Abanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 12:00 Alhama CF vs Deportivo Abanca DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 12:00 Alhama CF vs Deportivo Abanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 12:00 Alhama CF vs Deportivo Abanca DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 12:00 Alhama CF vs Deportivo Abanca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 12:00 Alhama CF vs Deportivo Abanca DAZN 
@@ -1566,8 +1546,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Femminile", 12:30 Como Femminile vs Lazio Femminile DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Femminile", 12:30 Como Femminile vs Lazio Femminile DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Femminile", 12:30 Como Femminile vs Lazio Femminile DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Femminile", 12:30 Como Femminile vs Lazio Femminile DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -1580,9 +1558,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Femminile", 12:30 Como Femminile vs Lazio Femminile DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Femminile", 12:30 Como Femminile vs Lazio Femminile DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Femminile", 12:30 Como Femminile vs Lazio Femminile DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Femminile", 12:30 Como Femminile vs Lazio Femminile DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Femminile", 12:30 Como Femminile vs Lazio Femminile DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Femminile", 12:30 Como Femminile vs Lazio Femminile DAZN 
@@ -1724,8 +1702,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:30 Real Madrid Baloncesto vs Dreamland Gran Canaria DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:30 Real Madrid Baloncesto vs Dreamland Gran Canaria DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:30 Real Madrid Baloncesto vs Dreamland Gran Canaria DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:30 Real Madrid Baloncesto vs Dreamland Gran Canaria DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -1738,9 +1714,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:30 Real Madrid Baloncesto vs Dreamland Gran Canaria DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:30 Real Madrid Baloncesto vs Dreamland Gran Canaria DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:30 Real Madrid Baloncesto vs Dreamland Gran Canaria DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:30 Real Madrid Baloncesto vs Dreamland Gran Canaria DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:30 Real Madrid Baloncesto vs Dreamland Gran Canaria DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 12:30 Real Madrid Baloncesto vs Dreamland Gran Canaria DAZN 
@@ -1882,8 +1858,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 12:30 Udinese vs Cagliari DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 12:30 Udinese vs Cagliari DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 12:30 Udinese vs Cagliari DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 12:30 Udinese vs Cagliari DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -1896,9 +1870,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 12:30 Udinese vs Cagliari DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 12:30 Udinese vs Cagliari DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 12:30 Udinese vs Cagliari DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 12:30 Udinese vs Cagliari DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 12:30 Udinese vs Cagliari DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 12:30 Udinese vs Cagliari DAZN 
@@ -2044,8 +2018,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Croacia", 13:00 Etapa 6 Samobor › Zagreb (156.5 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Croacia", 13:00 Etapa 6 Samobor › Zagreb (156.5 km) DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Tour de Croacia", 13:00 Etapa 6 Samobor › Zagreb (156.5 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Croacia", 13:00 Etapa 6 Samobor › Zagreb (156.5 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -2058,9 +2030,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Croacia", 13:00 Etapa 6 Samobor › Zagreb (156.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Croacia", 13:00 Etapa 6 Samobor › Zagreb (156.5 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Tour de Croacia", 13:00 Etapa 6 Samobor › Zagreb (156.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Tour de Croacia", 13:00 Etapa 6 Samobor › Zagreb (156.5 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Croacia", 13:00 Etapa 6 Samobor › Zagreb (156.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Tour de Croacia", 13:00 Etapa 6 Samobor › Zagreb (156.5 km) DAZN 
@@ -2214,8 +2186,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 2. Bundesliga", 13:30 Arminia Bielefeld vs Schalke 04 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 2. Bundesliga", 13:30 Arminia Bielefeld vs Schalke 04 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 2. Bundesliga", 13:30 Arminia Bielefeld vs Schalke 04 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 2. Bundesliga", 13:30 Arminia Bielefeld vs Schalke 04 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -2228,9 +2198,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 2. Bundesliga", 13:30 Arminia Bielefeld vs Schalke 04 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 2. Bundesliga", 13:30 Arminia Bielefeld vs Schalke 04 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 2. Bundesliga", 13:30 Arminia Bielefeld vs Schalke 04 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 2. Bundesliga", 13:30 Arminia Bielefeld vs Schalke 04 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 2. Bundesliga", 13:30 Arminia Bielefeld vs Schalke 04 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 2. Bundesliga", 13:30 Arminia Bielefeld vs Schalke 04 DAZN 
@@ -2372,8 +2342,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 DTM", 13:30 Hockenheimring Baden-Württemberg Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 DTM", 13:30 Hockenheimring Baden-Württemberg Carrera 2 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 DTM", 13:30 Hockenheimring Baden-Württemberg Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 DTM", 13:30 Hockenheimring Baden-Württemberg Carrera 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -2386,9 +2354,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 DTM", 13:30 Hockenheimring Baden-Württemberg Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 DTM", 13:30 Hockenheimring Baden-Württemberg Carrera 2 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 DTM", 13:30 Hockenheimring Baden-Württemberg Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 DTM", 13:30 Hockenheimring Baden-Württemberg Carrera 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 DTM", 13:30 Hockenheimring Baden-Württemberg Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 DTM", 13:30 Hockenheimring Baden-Württemberg Carrera 2 DAZN 
@@ -2530,8 +2498,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 13:30 Anderlecht vs Standard de Liège DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 13:30 Anderlecht vs Standard de Liège DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 13:30 Anderlecht vs Standard de Liège DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 13:30 Anderlecht vs Standard de Liège DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -2544,9 +2510,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 13:30 Anderlecht vs Standard de Liège DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 13:30 Anderlecht vs Standard de Liège DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 13:30 Anderlecht vs Standard de Liège DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 13:30 Anderlecht vs Standard de Liège DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 13:30 Anderlecht vs Standard de Liège DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 13:30 Anderlecht vs Standard de Liège DAZN 
@@ -2688,8 +2654,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Fórmula 1", 14:00 G.P. Singapur (Singapur) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Fórmula 1", 14:00 G.P. Singapur (Singapur) Carrera DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Fórmula 1", 14:00 G.P. Singapur (Singapur) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Fórmula 1", 14:00 G.P. Singapur (Singapur) Carrera DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -2702,9 +2666,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Fórmula 1", 14:00 G.P. Singapur (Singapur) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Fórmula 1", 14:00 G.P. Singapur (Singapur) Carrera DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Fórmula 1", 14:00 G.P. Singapur (Singapur) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Fórmula 1", 14:00 G.P. Singapur (Singapur) Carrera DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Fórmula 1", 14:00 G.P. Singapur (Singapur) Carrera DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Fórmula 1", 14:00 G.P. Singapur (Singapur) Carrera DAZN 
@@ -2848,8 +2812,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga Femenina", 14:00 1. FC Union Berlin Frauen vs Freiburg Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga Femenina", 14:00 1. FC Union Berlin Frauen vs Freiburg Femenino DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga Femenina", 14:00 1. FC Union Berlin Frauen vs Freiburg Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga Femenina", 14:00 1. FC Union Berlin Frauen vs Freiburg Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -2862,9 +2824,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga Femenina", 14:00 1. FC Union Berlin Frauen vs Freiburg Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga Femenina", 14:00 1. FC Union Berlin Frauen vs Freiburg Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga Femenina", 14:00 1. FC Union Berlin Frauen vs Freiburg Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga Femenina", 14:00 1. FC Union Berlin Frauen vs Freiburg Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga Femenina", 14:00 1. FC Union Berlin Frauen vs Freiburg Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga Femenina", 14:00 1. FC Union Berlin Frauen vs Freiburg Femenino DAZN 
@@ -3006,8 +2968,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 14:00 Alavés vs Elche DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 14:00 Alavés vs Elche DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 14:00 Alavés vs Elche DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 14:00 Alavés vs Elche DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -3020,9 +2980,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 14:00 Alavés vs Elche DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 14:00 Alavés vs Elche DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 14:00 Alavés vs Elche DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 14:00 Alavés vs Elche DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 14:00 Alavés vs Elche DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 14:00 Alavés vs Elche DAZN 
@@ -3164,8 +3124,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 14:00 Real Zaragoza vs Córdoba DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 14:00 Real Zaragoza vs Córdoba DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 14:00 Real Zaragoza vs Córdoba DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 14:00 Real Zaragoza vs Córdoba DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -3178,9 +3136,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 14:00 Real Zaragoza vs Córdoba DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 14:00 Real Zaragoza vs Córdoba DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 14:00 Real Zaragoza vs Córdoba DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 14:00 Real Zaragoza vs Córdoba DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 14:00 Real Zaragoza vs Córdoba DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 14:00 Real Zaragoza vs Córdoba DAZN 
@@ -3322,8 +3280,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Rally Extreme E", 14:00 Qiddiya City (Arabia Saudí) Día 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Rally Extreme E", 14:00 Qiddiya City (Arabia Saudí) Día 2 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Rally Extreme E", 14:00 Qiddiya City (Arabia Saudí) Día 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Rally Extreme E", 14:00 Qiddiya City (Arabia Saudí) Día 2 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -3336,9 +3292,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Rally Extreme E", 14:00 Qiddiya City (Arabia Saudí) Día 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Rally Extreme E", 14:00 Qiddiya City (Arabia Saudí) Día 2 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Rally Extreme E", 14:00 Qiddiya City (Arabia Saudí) Día 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Rally Extreme E", 14:00 Qiddiya City (Arabia Saudí) Día 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Rally Extreme E", 14:00 Qiddiya City (Arabia Saudí) Día 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Rally Extreme E", 14:00 Qiddiya City (Arabia Saudí) Día 2 DAZN 
@@ -3482,8 +3438,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Campeonato de Europa", 15:00 Carrera Masculina Ruta Privas › Guilherand-Granges (202.5 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Campeonato de Europa", 15:00 Carrera Masculina Ruta Privas › Guilherand-Granges (202.5 km) DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Campeonato de Europa", 15:00 Carrera Masculina Ruta Privas › Guilherand-Granges (202.5 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Campeonato de Europa", 15:00 Carrera Masculina Ruta Privas › Guilherand-Granges (202.5 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -3496,9 +3450,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Campeonato de Europa", 15:00 Carrera Masculina Ruta Privas › Guilherand-Granges (202.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Campeonato de Europa", 15:00 Carrera Masculina Ruta Privas › Guilherand-Granges (202.5 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Campeonato de Europa", 15:00 Carrera Masculina Ruta Privas › Guilherand-Granges (202.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Campeonato de Europa", 15:00 Carrera Masculina Ruta Privas › Guilherand-Granges (202.5 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Campeonato de Europa", 15:00 Carrera Masculina Ruta Privas › Guilherand-Granges (202.5 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Campeonato de Europa", 15:00 Carrera Masculina Ruta Privas › Guilherand-Granges (202.5 km) DAZN 
@@ -3652,8 +3606,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Everton vs Crystal Palace DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Everton vs Crystal Palace DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Everton vs Crystal Palace DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Everton vs Crystal Palace DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -3666,9 +3618,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Everton vs Crystal Palace DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Everton vs Crystal Palace DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Everton vs Crystal Palace DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Everton vs Crystal Palace DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Everton vs Crystal Palace DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Everton vs Crystal Palace DAZN 
@@ -3812,8 +3764,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Newcastle vs Nottingham Forest DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Newcastle vs Nottingham Forest DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Newcastle vs Nottingham Forest DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Newcastle vs Nottingham Forest DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -3826,9 +3776,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Newcastle vs Nottingham Forest DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Newcastle vs Nottingham Forest DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Newcastle vs Nottingham Forest DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Newcastle vs Nottingham Forest DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Newcastle vs Nottingham Forest DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Newcastle vs Nottingham Forest DAZN 
@@ -3974,8 +3924,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Aston Villa vs Burnley DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Aston Villa vs Burnley DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Aston Villa vs Burnley DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Aston Villa vs Burnley DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -3988,9 +3936,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Aston Villa vs Burnley DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Aston Villa vs Burnley DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Aston Villa vs Burnley DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Aston Villa vs Burnley DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Aston Villa vs Burnley DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Aston Villa vs Burnley DAZN 
@@ -4136,8 +4084,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Wolverhampton vs Brighton DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Wolverhampton vs Brighton DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Wolverhampton vs Brighton DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Wolverhampton vs Brighton DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -4150,9 +4096,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Wolverhampton vs Brighton DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Wolverhampton vs Brighton DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Wolverhampton vs Brighton DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Wolverhampton vs Brighton DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Wolverhampton vs Brighton DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 15:00 Wolverhampton vs Brighton DAZN 
@@ -4296,8 +4242,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Fiorentina vs AS Roma DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Fiorentina vs AS Roma DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Fiorentina vs AS Roma DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Fiorentina vs AS Roma DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -4310,9 +4254,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Fiorentina vs AS Roma DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Fiorentina vs AS Roma DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Fiorentina vs AS Roma DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Fiorentina vs AS Roma DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Fiorentina vs AS Roma DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Fiorentina vs AS Roma DAZN 
@@ -4454,8 +4398,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Bologna vs Pisa Sporting Club DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Bologna vs Pisa Sporting Club DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Bologna vs Pisa Sporting Club DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Bologna vs Pisa Sporting Club DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -4468,9 +4410,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Bologna vs Pisa Sporting Club DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Bologna vs Pisa Sporting Club DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Bologna vs Pisa Sporting Club DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Bologna vs Pisa Sporting Club DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Bologna vs Pisa Sporting Club DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 15:00 Bologna vs Pisa Sporting Club DAZN 
@@ -4612,8 +4554,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 15:30 Cleveland Browns vs Minnesota Vikings DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 15:30 Cleveland Browns vs Minnesota Vikings DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 15:30 Cleveland Browns vs Minnesota Vikings DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 15:30 Cleveland Browns vs Minnesota Vikings DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -4626,9 +4566,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 15:30 Cleveland Browns vs Minnesota Vikings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 15:30 Cleveland Browns vs Minnesota Vikings DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 15:30 Cleveland Browns vs Minnesota Vikings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 15:30 Cleveland Browns vs Minnesota Vikings DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 15:30 Cleveland Browns vs Minnesota Vikings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 15:30 Cleveland Browns vs Minnesota Vikings DAZN 
@@ -4770,8 +4710,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 15:30 Stuttgart vs Heidenheim DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 15:30 Stuttgart vs Heidenheim DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 15:30 Stuttgart vs Heidenheim DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 15:30 Stuttgart vs Heidenheim DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -4784,9 +4722,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 15:30 Stuttgart vs Heidenheim DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 15:30 Stuttgart vs Heidenheim DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 15:30 Stuttgart vs Heidenheim DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 15:30 Stuttgart vs Heidenheim DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 15:30 Stuttgart vs Heidenheim DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 15:30 Stuttgart vs Heidenheim DAZN 
@@ -4928,8 +4866,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 16:00 DUX Logroño Femenino vs Granada Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 16:00 DUX Logroño Femenino vs Granada Femenino DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 16:00 DUX Logroño Femenino vs Granada Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 16:00 DUX Logroño Femenino vs Granada Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -4942,9 +4878,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 16:00 DUX Logroño Femenino vs Granada Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 16:00 DUX Logroño Femenino vs Granada Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 16:00 DUX Logroño Femenino vs Granada Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 16:00 DUX Logroño Femenino vs Granada Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 16:00 DUX Logroño Femenino vs Granada Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 16:00 DUX Logroño Femenino vs Granada Femenino DAZN 
@@ -5092,8 +5028,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 16:15 CD Castellón vs Sporting Gijón DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 16:15 CD Castellón vs Sporting Gijón DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 16:15 CD Castellón vs Sporting Gijón DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 16:15 CD Castellón vs Sporting Gijón DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -5106,9 +5040,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 16:15 CD Castellón vs Sporting Gijón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 16:15 CD Castellón vs Sporting Gijón DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 16:15 CD Castellón vs Sporting Gijón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 16:15 CD Castellón vs Sporting Gijón DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 16:15 CD Castellón vs Sporting Gijón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 16:15 CD Castellón vs Sporting Gijón DAZN 
@@ -5250,8 +5184,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 17:00 Casademont Zaragoza vs Baskonia DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 17:00 Casademont Zaragoza vs Baskonia DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 17:00 Casademont Zaragoza vs Baskonia DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 17:00 Casademont Zaragoza vs Baskonia DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -5264,9 +5196,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 17:00 Casademont Zaragoza vs Baskonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 17:00 Casademont Zaragoza vs Baskonia DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 17:00 Casademont Zaragoza vs Baskonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 17:00 Casademont Zaragoza vs Baskonia DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 17:00 Casademont Zaragoza vs Baskonia DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 17:00 Casademont Zaragoza vs Baskonia DAZN 
@@ -5408,8 +5340,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 17:30 Brentford vs Manchester City DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 17:30 Brentford vs Manchester City DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 17:30 Brentford vs Manchester City DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 17:30 Brentford vs Manchester City DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -5422,9 +5352,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 17:30 Brentford vs Manchester City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 17:30 Brentford vs Manchester City DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 17:30 Brentford vs Manchester City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 17:30 Brentford vs Manchester City DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 17:30 Brentford vs Manchester City DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Premier League", 17:30 Brentford vs Manchester City DAZN 
@@ -5570,8 +5500,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 17:30 Hamburger SV vs Mainz 05 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 17:30 Hamburger SV vs Mainz 05 DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 17:30 Hamburger SV vs Mainz 05 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 17:30 Hamburger SV vs Mainz 05 DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -5584,9 +5512,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 17:30 Hamburger SV vs Mainz 05 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 17:30 Hamburger SV vs Mainz 05 DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 17:30 Hamburger SV vs Mainz 05 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 17:30 Hamburger SV vs Mainz 05 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 17:30 Hamburger SV vs Mainz 05 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 17:30 Hamburger SV vs Mainz 05 DAZN 
@@ -5728,8 +5656,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 18:00 UCAM Murcia CB vs MoraBanc Andorra DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 18:00 UCAM Murcia CB vs MoraBanc Andorra DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 18:00 UCAM Murcia CB vs MoraBanc Andorra DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 18:00 UCAM Murcia CB vs MoraBanc Andorra DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -5742,9 +5668,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 18:00 UCAM Murcia CB vs MoraBanc Andorra DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 18:00 UCAM Murcia CB vs MoraBanc Andorra DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 18:00 UCAM Murcia CB vs MoraBanc Andorra DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 18:00 UCAM Murcia CB vs MoraBanc Andorra DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 18:00 UCAM Murcia CB vs MoraBanc Andorra DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 18:00 UCAM Murcia CB vs MoraBanc Andorra DAZN 
@@ -5886,8 +5812,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 18:00 Napoli vs Genoa DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 18:00 Napoli vs Genoa DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 18:00 Napoli vs Genoa DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 18:00 Napoli vs Genoa DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -5900,9 +5824,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 18:00 Napoli vs Genoa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 18:00 Napoli vs Genoa DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 18:00 Napoli vs Genoa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 18:00 Napoli vs Genoa DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 18:00 Napoli vs Genoa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 18:00 Napoli vs Genoa DAZN 
@@ -6048,8 +5972,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 18:30 Espanyol vs Real Betis DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 18:30 Espanyol vs Real Betis DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 18:30 Espanyol vs Real Betis DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 18:30 Espanyol vs Real Betis DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -6062,9 +5984,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 18:30 Espanyol vs Real Betis DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 18:30 Espanyol vs Real Betis DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 18:30 Espanyol vs Real Betis DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 18:30 Espanyol vs Real Betis DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 18:30 Espanyol vs Real Betis DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 La Liga EA Sports", 18:30 Espanyol vs Real Betis DAZN 
@@ -6206,8 +6128,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Real Valladolid vs Mirandés DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Real Valladolid vs Mirandés DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Real Valladolid vs Mirandés DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Real Valladolid vs Mirandés DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -6220,9 +6140,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Real Valladolid vs Mirandés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Real Valladolid vs Mirandés DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Real Valladolid vs Mirandés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Real Valladolid vs Mirandés DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Real Valladolid vs Mirandés DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Real Valladolid vs Mirandés DAZN 
@@ -6364,8 +6284,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Racing Santander vs Málaga DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Racing Santander vs Málaga DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Racing Santander vs Málaga DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Racing Santander vs Málaga DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -6378,9 +6296,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Racing Santander vs Málaga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Racing Santander vs Málaga DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Racing Santander vs Málaga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Racing Santander vs Málaga DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Racing Santander vs Málaga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 18:30 Racing Santander vs Málaga DAZN 
@@ -6522,8 +6440,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 18:30 Madrid CFF vs Levante Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 18:30 Madrid CFF vs Levante Femenino DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 18:30 Madrid CFF vs Levante Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 18:30 Madrid CFF vs Levante Femenino DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -6536,9 +6452,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 18:30 Madrid CFF vs Levante Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 18:30 Madrid CFF vs Levante Femenino DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 18:30 Madrid CFF vs Levante Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 18:30 Madrid CFF vs Levante Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 18:30 Madrid CFF vs Levante Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga F", 18:30 Madrid CFF vs Levante Femenino DAZN 
@@ -6684,8 +6600,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 18:30 Club Brugge vs Saint-Gilloise DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 18:30 Club Brugge vs Saint-Gilloise DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 18:30 Club Brugge vs Saint-Gilloise DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 18:30 Club Brugge vs Saint-Gilloise DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -6698,9 +6612,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 18:30 Club Brugge vs Saint-Gilloise DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 18:30 Club Brugge vs Saint-Gilloise DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 18:30 Club Brugge vs Saint-Gilloise DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 18:30 Club Brugge vs Saint-Gilloise DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 18:30 Club Brugge vs Saint-Gilloise DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Jupiler Pro League", 18:30 Club Brugge vs Saint-Gilloise DAZN 
@@ -6842,8 +6756,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Houston Texans DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Houston Texans DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Houston Texans DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Houston Texans DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -6856,9 +6768,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Houston Texans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Houston Texans DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Houston Texans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Houston Texans DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Houston Texans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Houston Texans DAZN 
@@ -7000,8 +6912,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New Orleans Saints vs New York Giants DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New Orleans Saints vs New York Giants DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New Orleans Saints vs New York Giants DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New Orleans Saints vs New York Giants DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -7014,9 +6924,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New Orleans Saints vs New York Giants DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New Orleans Saints vs New York Giants DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New Orleans Saints vs New York Giants DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New Orleans Saints vs New York Giants DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New Orleans Saints vs New York Giants DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New Orleans Saints vs New York Giants DAZN 
@@ -7158,8 +7068,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Philadelphia Eagles vs Denver Broncos DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Philadelphia Eagles vs Denver Broncos DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Philadelphia Eagles vs Denver Broncos DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Philadelphia Eagles vs Denver Broncos DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -7172,9 +7080,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Philadelphia Eagles vs Denver Broncos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Philadelphia Eagles vs Denver Broncos DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Philadelphia Eagles vs Denver Broncos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Philadelphia Eagles vs Denver Broncos DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Philadelphia Eagles vs Denver Broncos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Philadelphia Eagles vs Denver Broncos DAZN 
@@ -7316,8 +7224,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Las Vegas Raiders DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Las Vegas Raiders DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Las Vegas Raiders DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Las Vegas Raiders DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -7330,9 +7236,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Las Vegas Raiders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Las Vegas Raiders DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Las Vegas Raiders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Las Vegas Raiders DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Las Vegas Raiders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Las Vegas Raiders DAZN 
@@ -7474,8 +7380,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New York Jets vs Dallas Cowboys DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New York Jets vs Dallas Cowboys DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New York Jets vs Dallas Cowboys DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New York Jets vs Dallas Cowboys DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -7488,9 +7392,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New York Jets vs Dallas Cowboys DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New York Jets vs Dallas Cowboys DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New York Jets vs Dallas Cowboys DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New York Jets vs Dallas Cowboys DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New York Jets vs Dallas Cowboys DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 New York Jets vs Dallas Cowboys DAZN 
@@ -7632,8 +7536,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Carolina Panthers vs Miami Dolphins DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Carolina Panthers vs Miami Dolphins DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Carolina Panthers vs Miami Dolphins DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Carolina Panthers vs Miami Dolphins DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -7646,9 +7548,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Carolina Panthers vs Miami Dolphins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Carolina Panthers vs Miami Dolphins DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Carolina Panthers vs Miami Dolphins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Carolina Panthers vs Miami Dolphins DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Carolina Panthers vs Miami Dolphins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 19:00 Carolina Panthers vs Miami Dolphins DAZN 
@@ -7790,8 +7692,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 19:00 Valencia Basket vs Barça Basket DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 19:00 Valencia Basket vs Barça Basket DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 19:00 Valencia Basket vs Barça Basket DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 19:00 Valencia Basket vs Barça Basket DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -7804,9 +7704,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 19:00 Valencia Basket vs Barça Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 19:00 Valencia Basket vs Barça Basket DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 19:00 Valencia Basket vs Barça Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 19:00 Valencia Basket vs Barça Basket DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 19:00 Valencia Basket vs Barça Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Liga Endesa Liga Regular", 19:00 Valencia Basket vs Barça Basket DAZN 
@@ -7948,8 +7848,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 19:30 Borussia M'gladbach vs Freiburg DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 19:30 Borussia M'gladbach vs Freiburg DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 19:30 Borussia M'gladbach vs Freiburg DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 19:30 Borussia M'gladbach vs Freiburg DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -7962,9 +7860,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 19:30 Borussia M'gladbach vs Freiburg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 19:30 Borussia M'gladbach vs Freiburg DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 19:30 Borussia M'gladbach vs Freiburg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 19:30 Borussia M'gladbach vs Freiburg DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 19:30 Borussia M'gladbach vs Freiburg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Bundesliga", 19:30 Borussia M'gladbach vs Freiburg DAZN 
@@ -8106,8 +8004,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 20:45 Juventus vs AC Milan DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 20:45 Juventus vs AC Milan DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 20:45 Juventus vs AC Milan DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 20:45 Juventus vs AC Milan DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -8120,9 +8016,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 20:45 Juventus vs AC Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 20:45 Juventus vs AC Milan DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 20:45 Juventus vs AC Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 20:45 Juventus vs AC Milan DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 20:45 Juventus vs AC Milan DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 Serie A Italiana", 20:45 Juventus vs AC Milan DAZN 
@@ -8272,8 +8168,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 21:00 UD Las Palmas vs Cádiz CF DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 21:00 UD Las Palmas vs Cádiz CF DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 21:00 UD Las Palmas vs Cádiz CF DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 21:00 UD Las Palmas vs Cádiz CF DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -8286,9 +8180,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 21:00 UD Las Palmas vs Cádiz CF DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 21:00 UD Las Palmas vs Cádiz CF DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 21:00 UD Las Palmas vs Cádiz CF DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 21:00 UD Las Palmas vs Cádiz CF DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 21:00 UD Las Palmas vs Cádiz CF DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 LaLiga Hypermotion", 21:00 UD Las Palmas vs Cádiz CF DAZN 
@@ -8430,8 +8324,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NASCAR Cup Series", 21:00 Charlotte Road Course (Concord) Carrera de Playoff DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NASCAR Cup Series", 21:00 Charlotte Road Course (Concord) Carrera de Playoff DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NASCAR Cup Series", 21:00 Charlotte Road Course (Concord) Carrera de Playoff DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NASCAR Cup Series", 21:00 Charlotte Road Course (Concord) Carrera de Playoff DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -8444,9 +8336,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NASCAR Cup Series", 21:00 Charlotte Road Course (Concord) Carrera de Playoff DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NASCAR Cup Series", 21:00 Charlotte Road Course (Concord) Carrera de Playoff DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NASCAR Cup Series", 21:00 Charlotte Road Course (Concord) Carrera de Playoff DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NASCAR Cup Series", 21:00 Charlotte Road Course (Concord) Carrera de Playoff DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NASCAR Cup Series", 21:00 Charlotte Road Course (Concord) Carrera de Playoff DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NASCAR Cup Series", 21:00 Charlotte Road Course (Concord) Carrera de Playoff DAZN 
@@ -8588,8 +8480,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Seattle Seahawks vs Tampa Bay Buccaneers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Seattle Seahawks vs Tampa Bay Buccaneers DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Seattle Seahawks vs Tampa Bay Buccaneers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Seattle Seahawks vs Tampa Bay Buccaneers DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -8602,9 +8492,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Seattle Seahawks vs Tampa Bay Buccaneers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Seattle Seahawks vs Tampa Bay Buccaneers DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Seattle Seahawks vs Tampa Bay Buccaneers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Seattle Seahawks vs Tampa Bay Buccaneers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Seattle Seahawks vs Tampa Bay Buccaneers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Seattle Seahawks vs Tampa Bay Buccaneers DAZN 
@@ -8746,8 +8636,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Arizona Cardinals vs Tennessee Titans DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Arizona Cardinals vs Tennessee Titans DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Arizona Cardinals vs Tennessee Titans DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Arizona Cardinals vs Tennessee Titans DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -8760,9 +8648,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Arizona Cardinals vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Arizona Cardinals vs Tennessee Titans DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Arizona Cardinals vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Arizona Cardinals vs Tennessee Titans DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Arizona Cardinals vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:05 Arizona Cardinals vs Tennessee Titans DAZN 
@@ -8904,8 +8792,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Cincinnati Bengals vs Detroit Lions DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Cincinnati Bengals vs Detroit Lions DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Cincinnati Bengals vs Detroit Lions DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Cincinnati Bengals vs Detroit Lions DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -8918,9 +8804,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Cincinnati Bengals vs Detroit Lions DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Cincinnati Bengals vs Detroit Lions DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Cincinnati Bengals vs Detroit Lions DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Cincinnati Bengals vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Cincinnati Bengals vs Detroit Lions DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Cincinnati Bengals vs Detroit Lions DAZN 
@@ -9062,8 +8948,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Los Angeles Chargers vs Washington Commanders DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Los Angeles Chargers vs Washington Commanders DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Los Angeles Chargers vs Washington Commanders DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Los Angeles Chargers vs Washington Commanders DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -9076,9 +8960,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Los Angeles Chargers vs Washington Commanders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Los Angeles Chargers vs Washington Commanders DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Los Angeles Chargers vs Washington Commanders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Los Angeles Chargers vs Washington Commanders DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Los Angeles Chargers vs Washington Commanders DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="05/10 NFL Liga Regular", 22:25 Los Angeles Chargers vs Washington Commanders DAZN 
@@ -9220,8 +9104,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="06/10 NFL Liga Regular", 02:20 Buffalo Bills vs New England Patriots DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="06/10 NFL Liga Regular", 02:20 Buffalo Bills vs New England Patriots DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="06/10 NFL Liga Regular", 02:20 Buffalo Bills vs New England Patriots DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="06/10 NFL Liga Regular", 02:20 Buffalo Bills vs New England Patriots DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -9234,9 +9116,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="06/10 NFL Liga Regular", 02:20 Buffalo Bills vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="06/10 NFL Liga Regular", 02:20 Buffalo Bills vs New England Patriots DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="06/10 NFL Liga Regular", 02:20 Buffalo Bills vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="06/10 NFL Liga Regular", 02:20 Buffalo Bills vs New England Patriots DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="06/10 NFL Liga Regular", 02:20 Buffalo Bills vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="06/10 NFL Liga Regular", 02:20 Buffalo Bills vs New England Patriots DAZN 
@@ -9490,8 +9372,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="06/10 Coppa Bernocchi", 15:25 UCI ProSeries Legnano › Legnano (191.6 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="06/10 Coppa Bernocchi", 15:25 UCI ProSeries Legnano › Legnano (191.6 km) DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="06/10 Coppa Bernocchi", 15:25 UCI ProSeries Legnano › Legnano (191.6 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="06/10 Coppa Bernocchi", 15:25 UCI ProSeries Legnano › Legnano (191.6 km) DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -9504,9 +9384,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="06/10 Coppa Bernocchi", 15:25 UCI ProSeries Legnano › Legnano (191.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="06/10 Coppa Bernocchi", 15:25 UCI ProSeries Legnano › Legnano (191.6 km) DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="06/10 Coppa Bernocchi", 15:25 UCI ProSeries Legnano › Legnano (191.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="06/10 Coppa Bernocchi", 15:25 UCI ProSeries Legnano › Legnano (191.6 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="06/10 Coppa Bernocchi", 15:25 UCI ProSeries Legnano › Legnano (191.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="06/10 Coppa Bernocchi", 15:25 UCI ProSeries Legnano › Legnano (191.6 km) DAZN 
@@ -9664,8 +9544,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="06/10 LaLiga Hypermotion", 20:30 Cultural Leonesa vs Albacete DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="06/10 LaLiga Hypermotion", 20:30 Cultural Leonesa vs Albacete DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="06/10 LaLiga Hypermotion", 20:30 Cultural Leonesa vs Albacete DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="06/10 LaLiga Hypermotion", 20:30 Cultural Leonesa vs Albacete DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -9678,9 +9556,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="06/10 LaLiga Hypermotion", 20:30 Cultural Leonesa vs Albacete DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="06/10 LaLiga Hypermotion", 20:30 Cultural Leonesa vs Albacete DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="06/10 LaLiga Hypermotion", 20:30 Cultural Leonesa vs Albacete DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="06/10 LaLiga Hypermotion", 20:30 Cultural Leonesa vs Albacete DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="06/10 LaLiga Hypermotion", 20:30 Cultural Leonesa vs Albacete DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="06/10 LaLiga Hypermotion", 20:30 Cultural Leonesa vs Albacete DAZN 
@@ -9822,8 +9700,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -9836,9 +9712,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN 
@@ -10088,8 +9964,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -10102,9 +9976,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina DAZN 
@@ -10169,8 +10043,6 @@ http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina Eurosport 2 SD
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina Eurosport 2 
-http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN FHD
@@ -10260,8 +10132,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -10274,9 +10144,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina DAZN 
@@ -10341,8 +10211,6 @@ http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina Eurosport 2 SD
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina Eurosport 2 
-http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN FHD
@@ -10432,8 +10300,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -10446,9 +10312,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour DAZN 
@@ -10513,8 +10379,6 @@ http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour Eurosport 2 SD
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour Eurosport 2 
-http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN FHD
@@ -10604,8 +10468,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -10618,9 +10480,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN 
@@ -10762,8 +10624,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -10776,9 +10636,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN 
@@ -10920,8 +10780,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -10934,9 +10792,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN 
@@ -11078,8 +10936,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -11092,9 +10948,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN 
@@ -11236,8 +11092,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -11250,9 +11104,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN 
@@ -11398,8 +11252,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -11412,9 +11264,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN 
@@ -11556,8 +11408,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -11570,9 +11420,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN 
@@ -11714,8 +11564,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -11728,9 +11576,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN 
@@ -11872,8 +11720,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -11886,9 +11732,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN 
@@ -12030,8 +11876,6 @@ http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL", 23:00 Florida Panthers vs Chicago Blackhawks DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL", 23:00 Florida Panthers vs Chicago Blackhawks DAZN SD
-http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="" group-title="07/10 NHL", 23:00 Florida Panthers vs Chicago Blackhawks DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL", 23:00 Florida Panthers vs Chicago Blackhawks DAZN SD
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
@@ -12044,9 +11888,9 @@ http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL", 23:00 Florida Panthers vs Chicago Blackhawks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL", 23:00 Florida Panthers vs Chicago Blackhawks DAZN 
-http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
-#EXTINF:-1 tvg-id="" group-title="07/10 NHL", 23:00 Florida Panthers vs Chicago Blackhawks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
+#EXTINF:-1 tvg-id="" group-title="07/10 NHL", 23:00 Florida Panthers vs Chicago Blackhawks DAZN 
+http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL", 23:00 Florida Panthers vs Chicago Blackhawks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL", 23:00 Florida Panthers vs Chicago Blackhawks DAZN 
