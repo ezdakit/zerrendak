@@ -96,6 +96,8 @@ http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
 #EXTINF:-1 tvg-id="M+ LaLiga TV 4" group-title="LALIGA", M+ LaLiga TV 4 HD
 http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-id="M+ LaLiga TV 4" group-title="LALIGA", M+ LaLiga TV 4 HD
+http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" group-title="LALIGA", M+ LaLiga TV 4 HD
 http://127.0.0.1:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
 http://127.0.0.1:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
@@ -345,10 +347,14 @@ http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845
 http://127.0.0.1:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ARTE HD [DE] (REGIONAL) AE37
 http://127.0.0.1:6878/ace/getstream?id=101c4c7e056242758b112382c4e314472795ae37
+#EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORT 1 7C27
+http://127.0.0.1:6878/ace/getstream?id=005a2f40458c51226e03d86fb3100ecbfbcd7c27
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 620D
+http://127.0.0.1:6878/ace/getstream?id=a96a9a6ab8f4f624d66ece9fa566a5620ddd620d
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
@@ -379,6 +385,8 @@ http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-id="UK | TNT Sports 1" group-title="VARIOS", BT SPORT 1 [UK] 9BCE
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK] 4328
+http://127.0.0.1:6878/ace/getstream?id=927996b8192c7cc6bf768d52528c8e4198294328
 #EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK] A801
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="UK | TNT Sports 2" group-title="VARIOS", BT SPORT 2 [UK] A801
@@ -461,8 +469,6 @@ http://127.0.0.1:6878/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="VARIOS", DAZN F1 SD 4AEE
 http://127.0.0.1:6878/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN PVV 242A
-http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA FHD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP 0B05
 http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA FHD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP C618
@@ -522,6 +528,8 @@ http://127.0.0.1:6878/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 HD B8E0
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 SD A53F
+http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT2720 ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP A53F
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 1 [DE] (REGIONAL) 200C
 http://127.0.0.1:6878/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
@@ -595,6 +603,8 @@ http://127.0.0.1:6878/ace/getstream?id=11c5823d4196a90b509f03df1fe78e13cfbbb175
 http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MIXED TV (SOLO EVENTOS) 21B3
 http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD DF98
+http://127.0.0.1:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION B37F
 http://127.0.0.1:6878/ace/getstream?id=acd7e3ae185a376e6596e60a414bebbf3321b37f
 #EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION F404
