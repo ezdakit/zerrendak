@@ -82,9 +82,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 NFL Liga Regular", 02:15 Jacksonville Jaguars vs Kansas City Chiefs DAZN 
@@ -187,9 +187,9 @@ http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
 #EXTINF:-1 tvg-id="" group-title="07/10 NBA Pretemporada", 04:00 Toronto Raptors vs Denver Nuggets Amazon Prime Video 
 http://127.0.0.1:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b
-#EXTINF:-1 tvg-id="" group-title="07/10 WTA Torneo de Mallorca 2ª Ronda", 10:00 M. Carle vs N. Brancaccio Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="07/10 WTA Torneo de Mallorca 2ª Ronda", 10:10 M. Carle vs N. Brancaccio Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="07/10 WTA Torneo de Mallorca 2ª Ronda", 10:00 M. Carle vs N. Brancaccio Teledeporte FHD
+#EXTINF:-1 tvg-id="" group-title="07/10 WTA Torneo de Mallorca 2ª Ronda", 10:10 M. Carle vs N. Brancaccio Teledeporte FHD
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina Busto Arsizio › Varese (137 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
@@ -270,9 +270,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina Busto Arsizio › Varese (137 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina Busto Arsizio › Varese (137 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina Busto Arsizio › Varese (137 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina Busto Arsizio › Varese (137 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina Busto Arsizio › Varese (137 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina Busto Arsizio › Varese (137 km) DAZN 
@@ -391,12 +391,6 @@ http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 11:00 Carrera Femenina Busto Arsizio › Varese (137 km) Eurosport 2 
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="07/10 WTA Torneo de Mallorca 1ª Ronda", 12:00 M. Hodzic vs S. Bejlek Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="07/10 WTA Torneo de Mallorca 1ª Ronda", 12:00 M. Hodzic vs S. Bejlek Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="07/10 Masters Shanghai 1/8 de final", 12:30 J. Munar vs N. Djokovic Movistar Plus+ (M7): VER PARTIDO 
-http://127.0.0.1:6878/ace/getstream?id=96efcc0185c54003ef34c915f6896b92fee9f07a
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina Chimay › Binche (121.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina Chimay › Binche (121.4 km) DAZN FHD
@@ -476,9 +470,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina Chimay › Binche (121.4 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina Chimay › Binche (121.4 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina Chimay › Binche (121.4 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina Chimay › Binche (121.4 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina Chimay › Binche (121.4 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina Chimay › Binche (121.4 km) DAZN 
@@ -597,6 +591,12 @@ http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="07/10 Binche–Chimay–Binche", 13:00 Carrera Femenina Chimay › Binche (121.4 km) Eurosport 2 
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
+#EXTINF:-1 tvg-id="" group-title="07/10 Masters Shanghai 1/8 de final", 13:20 J. Munar vs N. Djokovic Movistar Plus+ (M7): VER PARTIDO 
+http://127.0.0.1:6878/ace/getstream?id=96efcc0185c54003ef34c915f6896b92fee9f07a
+#EXTINF:-1 tvg-id="" group-title="07/10 WTA Torneo de Mallorca 1ª Ronda", 13:30 M. Hodzic vs S. Bejlek Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="07/10 WTA Torneo de Mallorca 1ª Ronda", 13:30 M. Hodzic vs S. Bejlek Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour Busto Arsizio › Varese (200.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour Busto Arsizio › Varese (200.3 km) DAZN FHD
@@ -676,9 +676,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour Busto Arsizio › Varese (200.3 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour Busto Arsizio › Varese (200.3 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour Busto Arsizio › Varese (200.3 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour Busto Arsizio › Varese (200.3 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour Busto Arsizio › Varese (200.3 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 Tre Valli Varesine", 15:25 UCI Europe Tour Busto Arsizio › Varese (200.3 km) DAZN 
@@ -876,9 +876,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:00 Promitheas Patras BC vs USC Heidelberg DAZN 
@@ -1058,9 +1058,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs Trieste Pallacanestro DAZN 
@@ -1240,9 +1240,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs BC Sabah DAZN 
@@ -1422,9 +1422,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Rytas Vilnius vs Legia Warszawa BC DAZN 
@@ -1604,9 +1604,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 19:00 Galatasaray Istanbul vs KK Igokea DAZN 
@@ -1790,9 +1790,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:00 VEF Riga vs AEK BC DAZN 
@@ -1972,9 +1972,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 20:30 Joventut Badalona vs Cholet Basket DAZN 
@@ -2154,9 +2154,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 National League", 20:45 Scunthorpe Utd. vs Morecambe DAZN 
@@ -2340,9 +2340,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 Basketball Champions League Liga Regular", 21:30 Benfica CB vs Dreamland Gran Canaria DAZN 
@@ -2522,9 +2522,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL Regular Season", 23:00 Florida Panthers vs Chicago Blackhawks DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL Regular Season", 23:00 Florida Panthers vs Chicago Blackhawks DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL Regular Season", 23:00 Florida Panthers vs Chicago Blackhawks DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL Regular Season", 23:00 Florida Panthers vs Chicago Blackhawks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="07/10 NHL Regular Season", 23:00 Florida Panthers vs Chicago Blackhawks DAZN 
@@ -2704,9 +2704,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 02:00 New York Rangers vs Pittsburgh Penguins DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 02:00 New York Rangers vs Pittsburgh Penguins DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 02:00 New York Rangers vs Pittsburgh Penguins DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 02:00 New York Rangers vs Pittsburgh Penguins DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 02:00 New York Rangers vs Pittsburgh Penguins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 02:00 New York Rangers vs Pittsburgh Penguins DAZN 
@@ -2886,9 +2886,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 04:30 Los Angeles Kings vs Colorado Avalanche DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 04:30 Los Angeles Kings vs Colorado Avalanche DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 04:30 Los Angeles Kings vs Colorado Avalanche DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 04:30 Los Angeles Kings vs Colorado Avalanche DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 04:30 Los Angeles Kings vs Colorado Avalanche DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 04:30 Los Angeles Kings vs Colorado Avalanche DAZN 
@@ -2989,148 +2989,12 @@ http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="08/10 NHL Regular Season", 04:30 Los Angeles Kings vs Colorado Avalanche DAZN 
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=cf0cb321eed6765c2eadbd9983570f6674ce5df6
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=a6de6a4977d7801bbddc9c7739d822f4beb358ae
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=3f97bafa133b10cfe5c62311e11501326d886a53
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=e4124b2143ed75e5ce902bed61be08cc5e5c3c03
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=f7fa1e42376d1d65d1bf5abca8728dff273d02d7
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=594b59d435527327c9b6965f247995b907bfc285
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=9be118a64eb603b5eb62be6cf27631d3891b5174
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ FHD
-http://127.0.0.1:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ 
-http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ SD
-http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ SD
-http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ SD
-http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ SD
-http://127.0.0.1:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
-#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai", 09:05 1/4 de Final ATP Masters 1000 Movistar+ 
+#EXTINF:-1 tvg-id="" group-title="08/10 WTA Torneo de Mallorca", 10:05 2ª Ronda WTA 125 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
+#EXTINF:-1 tvg-id="" group-title="08/10 WTA Torneo de Mallorca", 10:05 2ª Ronda WTA 125 Teledeporte FHD
+http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-id="" group-title="08/10 Masters Shanghai 1/8 de final", 12:30 F. Auger-Aliassime vs L. Musetti Movistar Plus+ (M7): VER PARTIDO 
 http://127.0.0.1:6878/ace/getstream?id=96efcc0185c54003ef34c915f6896b92fee9f07a
-#EXTINF:-1 tvg-id="" group-title="08/10 WTA Torneo de Mallorca", 10:05 2ª Ronda WTA 125 Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
-#EXTINF:-1 tvg-id="" group-title="08/10 WTA Torneo de Mallorca", 10:05 2ª Ronda WTA 125 Teledeporte FHD
-http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 17:00 Hapoel Holon vs Frutti Extra Bursaspor DAZN 
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 17:00 Hapoel Holon vs Frutti Extra Bursaspor DAZN FHD
@@ -3210,9 +3074,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 17:00 Hapoel Holon vs Frutti Extra Bursaspor DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 17:00 Hapoel Holon vs Frutti Extra Bursaspor DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 17:00 Hapoel Holon vs Frutti Extra Bursaspor DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 17:00 Hapoel Holon vs Frutti Extra Bursaspor DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 17:00 Hapoel Holon vs Frutti Extra Bursaspor DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 17:00 Hapoel Holon vs Frutti Extra Bursaspor DAZN 
@@ -3392,9 +3256,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 18:00 Szolnoki Olaj vs Patrioti Levice DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 18:00 Szolnoki Olaj vs Patrioti Levice DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 18:00 Szolnoki Olaj vs Patrioti Levice DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 18:00 Szolnoki Olaj vs Patrioti Levice DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 18:00 Szolnoki Olaj vs Patrioti Levice DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 18:00 Szolnoki Olaj vs Patrioti Levice DAZN 
@@ -3574,9 +3438,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 19:00 Tofas Bursa vs Bnei Herzliya DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 19:00 Tofas Bursa vs Bnei Herzliya DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 19:00 Tofas Bursa vs Bnei Herzliya DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 19:00 Tofas Bursa vs Bnei Herzliya DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 19:00 Tofas Bursa vs Bnei Herzliya DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 19:00 Tofas Bursa vs Bnei Herzliya DAZN 
@@ -3760,9 +3624,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 ALBA Berlin vs Elan Chalon DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 ALBA Berlin vs Elan Chalon DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 ALBA Berlin vs Elan Chalon DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 ALBA Berlin vs Elan Chalon DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 ALBA Berlin vs Elan Chalon DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 ALBA Berlin vs Elan Chalon DAZN 
@@ -3942,9 +3806,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 KK Spartak Subotica BC vs Le Mans Sarthe Basket DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 KK Spartak Subotica BC vs Le Mans Sarthe Basket DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 KK Spartak Subotica BC vs Le Mans Sarthe Basket DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 KK Spartak Subotica BC vs Le Mans Sarthe Basket DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 KK Spartak Subotica BC vs Le Mans Sarthe Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:00 KK Spartak Subotica BC vs Le Mans Sarthe Basket DAZN 
@@ -4124,9 +3988,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Unicaja Málaga vs Mersin Yenisehir Bld DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Unicaja Málaga vs Mersin Yenisehir Bld DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Unicaja Málaga vs Mersin Yenisehir Bld DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Unicaja Málaga vs Mersin Yenisehir Bld DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Unicaja Málaga vs Mersin Yenisehir Bld DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Unicaja Málaga vs Mersin Yenisehir Bld DAZN 
@@ -4306,9 +4170,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Filou Oostende vs ASK Karditsas BC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Filou Oostende vs ASK Karditsas BC DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Filou Oostende vs ASK Karditsas BC DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Filou Oostende vs ASK Karditsas BC DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Filou Oostende vs ASK Karditsas BC DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Filou Oostende vs ASK Karditsas BC DAZN 
@@ -4488,9 +4352,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs La Laguna Tenerife DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs La Laguna Tenerife DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs La Laguna Tenerife DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs La Laguna Tenerife DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs La Laguna Tenerife DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="08/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs La Laguna Tenerife DAZN 
@@ -4676,9 +4540,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:00 Toronto Maple Leafs vs Montréal Canadiens DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:00 Toronto Maple Leafs vs Montréal Canadiens DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:00 Toronto Maple Leafs vs Montréal Canadiens DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:00 Toronto Maple Leafs vs Montréal Canadiens DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:00 Toronto Maple Leafs vs Montréal Canadiens DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:00 Toronto Maple Leafs vs Montréal Canadiens DAZN 
@@ -4858,9 +4722,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:30 Washington Capitals vs Boston Bruins DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:30 Washington Capitals vs Boston Bruins DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:30 Washington Capitals vs Boston Bruins DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:30 Washington Capitals vs Boston Bruins DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:30 Washington Capitals vs Boston Bruins DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 01:30 Washington Capitals vs Boston Bruins DAZN 
@@ -5040,9 +4904,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Edmonton Oilers vs Calgary Flames DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Edmonton Oilers vs Calgary Flames DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Edmonton Oilers vs Calgary Flames DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Edmonton Oilers vs Calgary Flames DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Edmonton Oilers vs Calgary Flames DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Edmonton Oilers vs Calgary Flames DAZN 
@@ -5222,9 +5086,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Vegas Golden Knights vs Los Angeles Kings DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Vegas Golden Knights vs Los Angeles Kings DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Vegas Golden Knights vs Los Angeles Kings DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Vegas Golden Knights vs Los Angeles Kings DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Vegas Golden Knights vs Los Angeles Kings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="09/10 NHL Regular Season", 04:00 Vegas Golden Knights vs Los Angeles Kings DAZN 
@@ -5546,9 +5410,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="09/10 Giro del Piemonte", 14:50 UCI ProSeries Dogliani › Acqui Terme (179 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="09/10 Giro del Piemonte", 14:50 UCI ProSeries Dogliani › Acqui Terme (179 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="09/10 Giro del Piemonte", 14:50 UCI ProSeries Dogliani › Acqui Terme (179 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="09/10 Giro del Piemonte", 14:50 UCI ProSeries Dogliani › Acqui Terme (179 km) DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="09/10 Giro del Piemonte", 14:50 UCI ProSeries Dogliani › Acqui Terme (179 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="09/10 Giro del Piemonte", 14:50 UCI ProSeries Dogliani › Acqui Terme (179 km) DAZN 
@@ -5746,9 +5610,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 18:45 Veszprém HC vs KS Kielce DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 18:45 Veszprém HC vs KS Kielce DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 18:45 Veszprém HC vs KS Kielce DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 18:45 Veszprém HC vs KS Kielce DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 18:45 Veszprém HC vs KS Kielce DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 18:45 Veszprém HC vs KS Kielce DAZN 
@@ -5928,9 +5792,9 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 20:45 Barça BM vs SC Pick Szeged DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 20:45 Barça BM vs SC Pick Szeged DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 20:45 Barça BM vs SC Pick Szeged DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 20:45 Barça BM vs SC Pick Szeged DAZN FHD
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 20:45 Barça BM vs SC Pick Szeged DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="09/10 EHF Champions League Fase de grupos", 20:45 Barça BM vs SC Pick Szeged DAZN 
