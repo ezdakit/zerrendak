@@ -77,6 +77,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-08,02:00-New York Rangers-Pittsburgh Penguins,02:00,NHL Regular Season,New York Rangers vs Pittsburgh Penguins,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-08,02:00-New York Rangers-Pittsburgh Penguins,02:00,NHL Regular Season,New York Rangers vs Pittsburgh Penguins,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-08,02:00-New York Rangers-Pittsburgh Penguins,02:00,NHL Regular Season,New York Rangers vs Pittsburgh Penguins,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-08,02:00-New York Rangers-Pittsburgh Penguins,02:00,NHL Regular Season,New York Rangers vs Pittsburgh Penguins,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-08,02:00-New York Rangers-Pittsburgh Penguins,02:00,NHL Regular Season,New York Rangers vs Pittsburgh Penguins,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-08,02:00-New York Rangers-Pittsburgh Penguins,02:00,NHL Regular Season,New York Rangers vs Pittsburgh Penguins,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-08,02:00-New York Rangers-Pittsburgh Penguins,02:00,NHL Regular Season,New York Rangers vs Pittsburgh Penguins,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -86,7 +87,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-08,02:00-New York Rangers-Pittsburgh Penguins,02:00,NHL Regular Season,New York Rangers vs Pittsburgh Penguins,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-08,02:00-New York Rangers-Pittsburgh Penguins,02:00,NHL Regular Season,New York Rangers vs Pittsburgh Penguins,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-08,02:00-New York Rangers-Pittsburgh Penguins,02:00,NHL Regular Season,New York Rangers vs Pittsburgh Penguins,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-08,02:00-New York Rangers-Pittsburgh Penguins,02:00,NHL Regular Season,New York Rangers vs Pittsburgh Penguins,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -165,6 +165,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -174,9 +175,8 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-08,04:30-Los Angeles Kings-Colorado Avalanche,04:30,NHL Regular Season,Los Angeles Kings vs Colorado Avalanche,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
-2025-10-08,10:00-D. Semenistaja-A. Lázaro García,10:00,WTA Torneo de Mallorca 2ª Ronda,D. Semenistaja vs A. Lázaro García,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
-2025-10-08,11:30-E. Gorgodze-O. Selekhmeteva,11:30,WTA Torneo de Mallorca 2ª Ronda,E. Gorgodze vs O. Selekhmeteva,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-10-08,10:10-D. Semenistaja-A. Lázaro García,10:10,WTA Torneo de Mallorca 2ª Ronda,D. Semenistaja vs A. Lázaro García,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
+2025-10-08,13:20-E. Gorgodze-O. Selekhmeteva,13:20,WTA Torneo de Mallorca 2ª Ronda,E. Gorgodze vs O. Selekhmeteva,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-10-08,19:30-España-Portugal,19:30,Amistoso Femenino,España vs Portugal,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-10-08,21:30-Argentina-Nigeria,21:30,FIFA Mundial Sub-20 1/8 de final,Argentina vs Nigeria,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
@@ -257,6 +257,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -266,7 +267,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-09,01:00-Toronto Maple Leafs-Montréal Canadiens,01:00,NHL Regular Season,Toronto Maple Leafs vs Montréal Canadiens,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -345,6 +345,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -354,7 +355,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-09,01:30-Washington Capitals-Boston Bruins,01:30,NHL Regular Season,Washington Capitals vs Boston Bruins,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -433,6 +433,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -442,7 +443,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-09,04:00-Edmonton Oilers-Calgary Flames,04:00,NHL Regular Season,Edmonton Oilers vs Calgary Flames,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -521,6 +521,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -530,7 +531,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-09,04:00-Vegas Golden Knights-Los Angeles Kings,04:00,NHL Regular Season,Vegas Golden Knights vs Los Angeles Kings,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-09,10:05-2ª Ronda WTA 125,10:05,WTA Torneo de Mallorca,2ª Ronda WTA 125,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-10-09,13:45-Jornada 1,13:45,Open de España,Jornada 1,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
@@ -611,6 +611,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -620,7 +621,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),Eurosport 2,dc4ccb9e72550bc72be9360aa7d77e337ad11ecc,FHD
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),Eurosport 2,2773b39926d15dd3d9495d94c4050604792d7031,FHD
 2025-10-09,14:50-UCI ProSeries Dogliani › Acqui Terme (179 km),14:50,Giro del Piemonte,UCI ProSeries Dogliani › Acqui Terme (179 km),Eurosport 2,37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf,FHD
@@ -708,6 +708,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,18:45-Veszprém HC-KS Kielce,18:45,EHF Champions League Fase de grupos,Veszprém HC vs KS Kielce,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-09,18:45-Veszprém HC-KS Kielce,18:45,EHF Champions League Fase de grupos,Veszprém HC vs KS Kielce,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-09,18:45-Veszprém HC-KS Kielce,18:45,EHF Champions League Fase de grupos,Veszprém HC vs KS Kielce,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-09,18:45-Veszprém HC-KS Kielce,18:45,EHF Champions League Fase de grupos,Veszprém HC vs KS Kielce,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-09,18:45-Veszprém HC-KS Kielce,18:45,EHF Champions League Fase de grupos,Veszprém HC vs KS Kielce,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-09,18:45-Veszprém HC-KS Kielce,18:45,EHF Champions League Fase de grupos,Veszprém HC vs KS Kielce,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-09,18:45-Veszprém HC-KS Kielce,18:45,EHF Champions League Fase de grupos,Veszprém HC vs KS Kielce,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -717,7 +718,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,18:45-Veszprém HC-KS Kielce,18:45,EHF Champions League Fase de grupos,Veszprém HC vs KS Kielce,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-09,18:45-Veszprém HC-KS Kielce,18:45,EHF Champions League Fase de grupos,Veszprém HC vs KS Kielce,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-09,18:45-Veszprém HC-KS Kielce,18:45,EHF Champions League Fase de grupos,Veszprém HC vs KS Kielce,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-09,18:45-Veszprém HC-KS Kielce,18:45,EHF Champions League Fase de grupos,Veszprém HC vs KS Kielce,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-09,19:00-Jornada 1,19:00,Open de España,Jornada 1,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
@@ -797,6 +797,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -806,7 +807,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-09,20:45-Barça BM-SC Pick Szeged,20:45,EHF Champions League Fase de grupos,Barça BM vs SC Pick Szeged,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-09,21:30-Estados Unidos-Italia,21:30,FIFA Mundial Sub-20 1/8 de final,Estados Unidos vs Italia,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
@@ -886,6 +886,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -895,7 +896,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,01:00-Tampa Bay Lightning-Ottawa Senators,01:00,NHL Regular Season,Tampa Bay Lightning vs Ottawa Senators,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -974,6 +974,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -983,7 +984,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,01:00-Florida Panthers-Philadelphia Flyers,01:00,NHL Regular Season,Florida Panthers vs Philadelphia Flyers,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -1062,6 +1062,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -1071,7 +1072,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,01:00-Pittsburgh Penguins-New York Islanders,01:00,NHL Regular Season,Pittsburgh Penguins vs New York Islanders,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -1150,6 +1150,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -1159,7 +1160,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,01:00-Boston Bruins-Chicago Blackhawks,01:00,NHL Regular Season,Boston Bruins vs Chicago Blackhawks,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -1238,6 +1238,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -1247,7 +1248,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,01:00-Buffalo Sabres-New York Rangers,01:00,NHL Regular Season,Buffalo Sabres vs New York Rangers,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -1326,6 +1326,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -1335,7 +1336,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,01:00-Detroit Red Wings-Montréal Canadiens,01:00,NHL Regular Season,Detroit Red Wings vs Montréal Canadiens,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -1414,6 +1414,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -1423,7 +1424,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,01:30-Carolina Hurricanes-New Jersey Devils,01:30,NHL Regular Season,Carolina Hurricanes vs New Jersey Devils,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -1502,6 +1502,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -1511,7 +1512,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,02:00-Winnipeg Jets-Dallas Stars,02:00,NHL Regular Season,Winnipeg Jets vs Dallas Stars,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -1590,6 +1590,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -1599,7 +1600,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,02:00-Nashville Predators-Columbus Blue Jackets,02:00,NHL Regular Season,Nashville Predators vs Columbus Blue Jackets,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -1678,6 +1678,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -1687,7 +1688,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,02:00-St. Louis Blues-Minnesota Wild,02:00,NHL Regular Season,St. Louis Blues vs Minnesota Wild,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -1766,6 +1766,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -1775,7 +1776,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,02:15-New York Giants-Philadelphia Eagles,02:15,NFL Liga Regular,New York Giants vs Philadelphia Eagles,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -1854,6 +1854,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -1863,7 +1864,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,03:00-Colorado Avalanche-Utah Mammoth,03:00,NHL Regular Season,Colorado Avalanche vs Utah Mammoth,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -1942,6 +1942,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -1951,7 +1952,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,04:00-San Jose Sharks-Vegas Golden Knights,04:00,NHL Regular Season,San Jose Sharks vs Vegas Golden Knights,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -2030,6 +2030,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -2039,7 +2040,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,04:00-Vancouver Canucks-Calgary Flames,04:00,NHL Regular Season,Vancouver Canucks vs Calgary Flames,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -2118,6 +2118,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -2127,7 +2128,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,04:00-Seattle Kraken-Anaheim Ducks,04:00,NHL Regular Season,Seattle Kraken vs Anaheim Ducks,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,09:00-1/4 de Final ATP Masters 1000,09:00,Masters Shanghai,1/4 de Final ATP Masters 1000,Movistar+,102bcb79ca391e37ac1fc9ee77dc53440d0a59ce,FHD
 2025-10-10,09:00-1/4 de Final ATP Masters 1000,09:00,Masters Shanghai,1/4 de Final ATP Masters 1000,Movistar+,089673779de9fa7a18ac8dc26eb4a79cf5a86f96,FHD
 2025-10-10,09:00-1/4 de Final ATP Masters 1000,09:00,Masters Shanghai,1/4 de Final ATP Masters 1000,Movistar+,e4bce95dd4faeb9cb09ade36a0636bc4b22b691c,FHD
@@ -2354,6 +2354,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,14:55-Pirelli Estoril Round (Portugal) Superpole,14:55,Supersport,Pirelli Estoril Round (Portugal) Superpole,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,14:55-Pirelli Estoril Round (Portugal) Superpole,14:55,Supersport,Pirelli Estoril Round (Portugal) Superpole,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,14:55-Pirelli Estoril Round (Portugal) Superpole,14:55,Supersport,Pirelli Estoril Round (Portugal) Superpole,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,14:55-Pirelli Estoril Round (Portugal) Superpole,14:55,Supersport,Pirelli Estoril Round (Portugal) Superpole,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,14:55-Pirelli Estoril Round (Portugal) Superpole,14:55,Supersport,Pirelli Estoril Round (Portugal) Superpole,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,14:55-Pirelli Estoril Round (Portugal) Superpole,14:55,Supersport,Pirelli Estoril Round (Portugal) Superpole,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,14:55-Pirelli Estoril Round (Portugal) Superpole,14:55,Supersport,Pirelli Estoril Round (Portugal) Superpole,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -2363,7 +2364,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,14:55-Pirelli Estoril Round (Portugal) Superpole,14:55,Supersport,Pirelli Estoril Round (Portugal) Superpole,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,14:55-Pirelli Estoril Round (Portugal) Superpole,14:55,Supersport,Pirelli Estoril Round (Portugal) Superpole,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,14:55-Pirelli Estoril Round (Portugal) Superpole,14:55,Supersport,Pirelli Estoril Round (Portugal) Superpole,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,14:55-Pirelli Estoril Round (Portugal) Superpole,14:55,Supersport,Pirelli Estoril Round (Portugal) Superpole,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d,
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,0e50439e68aa2435b38f0563bb2f2e98f32ff4b1,FHD
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884,FHD
@@ -2442,6 +2442,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -2451,7 +2452,6 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,17:00-Pirelli Estoril Round (Portugal) Superpole,17:00,Supersport 300,Pirelli Estoril Round (Portugal) Superpole,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
 2025-10-10,19:00-Jornada 2,19:00,Open de España,Jornada 2,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-10-10,19:00-Real Madrid B Baloncesto-Unicaja Málaga B,19:00,Liga U Primera Fase,Real Madrid B Baloncesto vs Unicaja Málaga B,Teledeporte,138b30c93e8a780ac490a4f6d2181c41f3670230,FHD
 2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,Ten TV,19cab799c86251ae8ae5f4b4faace9b78d784abc,FHD
@@ -2533,6 +2533,7 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,DAZN,36cad67fed5a739757a9db844a551aa845a8d51b,
 2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,DAZN,d08013df6e437a1fdf1e0c34f573fdf6a40c7fce,
 2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
+2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,DAZN,dae7d1251f069516cc0a9c8f15f6639d2a17df1e,
 2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,DAZN,0f32c0131a2d9444996410801f4e18b04384db98,
 2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,DAZN,4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a,
 2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,DAZN,50b6d2b5fd59fefb9f4fd2176994d418f2b94a80,
@@ -2542,4 +2543,3 @@ date,event_id,time,competition,match,group,acestream_id,quality
 2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,DAZN,4b048bcfaed7daec454e88f0e29b56756300447d,
 2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,DAZN,0f86119f233fd64fe85cc0b4a9059590d06d242a,
 2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,DAZN,34944c86bad01c3963ef113c28c033858085adb7,
-2025-10-10,20:30-Granada CF-UD Las Palmas,20:30,LaLiga Hypermotion,Granada CF vs UD Las Palmas,DAZN,99171f30c83bf7ab5df28b39607c91334cc60e4b,
