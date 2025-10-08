@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
 #EXTVLCOPT:network-caching=2000
 
+#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD
+http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD
 http://127.0.0.1:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD
@@ -19,8 +21,8 @@ http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 http://127.0.0.1:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD
 http://127.0.0.1:6878/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
-#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD
-http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
+http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD
@@ -33,8 +35,8 @@ http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
 http://127.0.0.1:6878/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 HD
-http://127.0.0.1:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 HD
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
@@ -43,8 +45,8 @@ http://127.0.0.1:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28
 http://127.0.0.1:6878/ace/getstream?id=4e401fdceebffdf1f09aef954844d09f6c62f460
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 HD
 http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 HD
-http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 HD
+http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD
@@ -53,8 +55,8 @@ http://127.0.0.1:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 http://127.0.0.1:6878/ace/getstream?id=eb884f77ce8815cf1028c4d85e8b092c27ea1693
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 HD
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 HD
-http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
+http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
 http://127.0.0.1:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
@@ -69,8 +71,6 @@ http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 http://127.0.0.1:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga FHD
 http://127.0.0.1:6878/ace/getstream?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="LALIGA", DAZN LaLiga HD
-http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=635b61c1f240449163260cd914d10d886a54fee3
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
@@ -81,8 +81,8 @@ http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="LALIGA", DAZN LaLiga 2 HD
-http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
+http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV FHD
 http://127.0.0.1:6878/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f31e
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV FHD
@@ -99,6 +99,10 @@ http://127.0.0.1:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 http://127.0.0.1:6878/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV HD
 http://127.0.0.1:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" group-title="LALIGA", M+ LaLiga TV FHD
+http://127.0.0.1:6878/ace/getstream?id=99171f30c83bf7ab5df28b39607c91334cc60e4b
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 HD
+http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 FHD
@@ -107,6 +111,8 @@ http://127.0.0.1:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec
 http://127.0.0.1:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" group-title="LALIGA", M+ LaLiga TV 2 HD
 http://127.0.0.1:6878/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" group-title="LALIGA", M+ LaLiga TV 3 HD
+http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" group-title="LALIGA", M+ LaLiga TV 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" group-title="LALIGA", M+ LaLiga TV 3 HD
@@ -114,9 +120,11 @@ http://127.0.0.1:6878/ace/getstream?id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" group-title="LALIGA", M+ LaLiga TV 3 HD
 http://127.0.0.1:6878/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
 #EXTINF:-1 tvg-id="M+ LaLiga TV 4" group-title="LALIGA", M+ LaLiga TV 4 HD
-http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+http://127.0.0.1:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-id="M+ LaLiga TV 4" group-title="LALIGA", M+ LaLiga TV 4 HD
 http://127.0.0.1:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
 http://127.0.0.1:6878/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones FHD
@@ -133,6 +141,8 @@ http://127.0.0.1:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
 http://127.0.0.1:6878/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="LIGA CAMPEONES", L Campeones HD
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 HD
+http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 FHD
 http://127.0.0.1:6878/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 FHD
@@ -141,6 +151,8 @@ http://127.0.0.1:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
 http://127.0.0.1:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA CAMPEONES", L Campeones 02 HD
 http://127.0.0.1:6878/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA CAMPEONES", L Campeones 03 HD
+http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA CAMPEONES", L Campeones 03 FHD
 http://127.0.0.1:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA CAMPEONES", L Campeones 03 FHD
@@ -149,6 +161,8 @@ http://127.0.0.1:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
 http://127.0.0.1:6878/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA CAMPEONES", L Campeones 03 HD
 http://127.0.0.1:6878/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="LIGA CAMPEONES", L Campeones 04 HD
+http://127.0.0.1:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="LIGA CAMPEONES", L Campeones 04 FHD
 http://127.0.0.1:6878/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" group-title="LIGA CAMPEONES", L Campeones 04 HD
@@ -161,6 +175,8 @@ http://127.0.0.1:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes FHD
 http://127.0.0.1:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
+#EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes FHD
 http://127.0.0.1:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes FHD
@@ -171,10 +187,10 @@ http://127.0.0.1:6878/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 http://127.0.0.1:6878/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ Deportes HD
-http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M+ Deportes 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M+ Deportes 2 HD
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M+ Deportes 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
 #EXTINF:-1 tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", M+ Deportes 2 FHD
@@ -185,6 +201,8 @@ http://127.0.0.1:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-id="M+ Deportes 3" group-title="MOVISTAR", M+ Deportes 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee
+#EXTINF:-1 tvg-id="M+ Deportes 3" group-title="MOVISTAR", M+ Deportes 3 HD
+http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 tvg-id="M+ Deportes 3" group-title="MOVISTAR", M+ Deportes 3 FHD
 http://127.0.0.1:6878/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f
 #EXTINF:-1 tvg-id="M+ Deportes 3" group-title="MOVISTAR", M+ Deportes 3 FHD
@@ -197,6 +215,8 @@ http://127.0.0.1:6878/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
 http://127.0.0.1:6878/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4
 #EXTINF:-1 tvg-id="M+ Deportes 4" group-title="MOVISTAR", M+ Deportes 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=3f97bafa133b10cfe5c62311e11501326d886a53
+#EXTINF:-1 tvg-id="M+ Deportes 4" group-title="MOVISTAR", M+ Deportes 4 HD
+http://127.0.0.1:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869
 #EXTINF:-1 tvg-id="M+ Deportes 4" group-title="MOVISTAR", M+ Deportes 4 FHD
 http://127.0.0.1:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5
 #EXTINF:-1 tvg-id="M+ Deportes 4" group-title="MOVISTAR", M+ Deportes 4 FHD
@@ -207,6 +227,8 @@ http://127.0.0.1:6878/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869
 http://127.0.0.1:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916
 #EXTINF:-1 tvg-id="M+ Deportes 5" group-title="MOVISTAR", M+ Deportes 5 FHD
 http://127.0.0.1:6878/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2
+#EXTINF:-1 tvg-id="M+ Deportes 5" group-title="MOVISTAR", M+ Deportes 5 HD
+http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90
 #EXTINF:-1 tvg-id="M+ Deportes 5" group-title="MOVISTAR", M+ Deportes 5 FHD
 http://127.0.0.1:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c
 #EXTINF:-1 tvg-id="M+ Deportes 5" group-title="MOVISTAR", M+ Deportes 5 FHD
@@ -217,6 +239,8 @@ http://127.0.0.1:6878/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90
 http://127.0.0.1:6878/ace/getstream?id=e4124b2143ed75e5ce902bed61be08cc5e5c3c03
 #EXTINF:-1 tvg-id="M+ Deportes 6" group-title="MOVISTAR", M+ Deportes 6 FHD
 http://127.0.0.1:6878/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
+#EXTINF:-1 tvg-id="M+ Deportes 6" group-title="MOVISTAR", M+ Deportes 6 HD
+http://127.0.0.1:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTINF:-1 tvg-id="M+ Deportes 6" group-title="MOVISTAR", M+ Deportes 6 HD
 http://127.0.0.1:6878/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTINF:-1 tvg-id="M+ Vamos HD" group-title="MOVISTAR", M+ Vamos FHD
@@ -245,8 +269,6 @@ http://127.0.0.1:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 http://127.0.0.1:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ FHD
 http://127.0.0.1:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", Movistar Plus+ HD
-http://127.0.0.1:6878/ace/getstream?id=96efcc0185c54003ef34c915f6896b92fee9f07a
 #EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" group-title="MOVISTAR", Movistar Plus+ 2 FHD
 http://127.0.0.1:6878/ace/getstream?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 #EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" group-title="MOVISTAR", Movistar Plus+ 2 FHD
@@ -272,13 +294,13 @@ http://127.0.0.1:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" group-title="SEGUNDA+1RFEF", LaLiga TV Hyp 3 HD
 http://127.0.0.1:6878/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e
 #EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
 http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-id="PT | DAZN 1" group-title="VARIOS", ELEVEN DAZN 1 HD
+http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-id="PT | DAZN 2" group-title="VARIOS", ELEVEN DAZN 2 HD
@@ -286,11 +308,7 @@ http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
 #EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-id="PT | DAZN 3" group-title="VARIOS", ELEVEN DAZN 3 HD
 http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-id="PT | DAZN 4" group-title="VARIOS", ELEVEN DAZN 4 HD
@@ -301,81 +319,53 @@ http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-id="PT | DAZN 6" group-title="VARIOS", ELEVEN DAZN 6 HD
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-id="" group-title="VARIOS",    [RU] (REGIONAL) 88C0
-http://127.0.0.1:6878/ace/getstream?id=16201468d380dafc1921287db09289dc83d688c0
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   4K [RU] (REGIONAL) 4AE6
-http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   HD [RU] (SPORT) 7017
-http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (REGIONAL) 0237
-http://127.0.0.1:6878/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (SPORT) 2DC0
+#EXTINF:-1 tvg-id="" group-title="VARIOS", (RU) SPORT_TV_28 2DC0
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (SPORT) 6C3D
+#EXTINF:-1 tvg-id="" group-title="VARIOS", (RU) SPORT_TV_28 6C3D
 http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (SPORT) B0B2
+#EXTINF:-1 tvg-id="" group-title="VARIOS", (RU) SPORT_TV_28 B0B2
 http://127.0.0.1:6878/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (SPORT) E413
+#EXTINF:-1 tvg-id="" group-title="VARIOS", (RU) SPORT_TV_28 E413
 http://127.0.0.1:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413
-#EXTINF:-1 tvg-id="" group-title="VARIOS",   [RU] (SPORT) F570
+#EXTINF:-1 tvg-id="" group-title="VARIOS", (RU) SPORT_TV_28 F570
 http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  (+7) [RU] (REGIONAL) D291
-http://127.0.0.1:6878/ace/getstream?id=e8c4dc3309c32e58d0235919620180e9eea9d291
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  3 [RU] (REGIONAL) 236B
-http://127.0.0.1:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  4K [RU] (REGIONAL) E379
-http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (REGIONAL) 094B
-http://127.0.0.1:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (SPORT) 3857
-http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (SPORT) 56DD
-http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (SPORT) 693F
-http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  HD [RU] (SPORT) AB3B
-http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  LOVE [RU] (REGIONAL) 201D
-http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (REGIONAL) 057C
-http://127.0.0.1:6878/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (REGIONAL) 0FCE
-http://127.0.0.1:6878/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (REGIONAL) 63C7
-http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (REGIONAL) 83E4
-http://127.0.0.1:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (SPORT) 39DC
+#EXTINF:-1 tvg-id="" group-title="VARIOS", HD (RU) SPORT_TV_28 7017
+http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017
+#EXTINF:-1 tvg-id="" group-title="VARIOS", (RU) SPORT_TV_28 39DC
 http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
-#EXTINF:-1 tvg-id="" group-title="VARIOS",  [RU] (SPORT) 40D3
+#EXTINF:-1 tvg-id="" group-title="VARIOS", (RU) SPORT_TV_28 40D3
 http://127.0.0.1:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", !  1 ( ORIGINAL ) [RU] (SPORT) F0A9
-http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-id="" group-title="VARIOS", !  2 ( ORIGINAL ) [RU] (SPORT) 3F04
-http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 tvg-id="" group-title="VARIOS", !  3 ( ORIGINAL ) [RU] (SPORT) 540E
-http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", !  HD [RU] (SPORT) 673C
-http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
-#EXTINF:-1 tvg-id="" group-title="VARIOS", !  HD [RU] (SPORT) 8EF2
-http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-id="" group-title="VARIOS", !  HD [RU] (SPORT) BA12
-http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-id="" group-title="VARIOS", !  HD [RU] (SPORT) CAB5
-http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", !  [RU] (SPORT) 11AF
+#EXTINF:-1 tvg-id="" group-title="VARIOS", HD (RU) SPORT_TV_28 3857
+http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857
+#EXTINF:-1 tvg-id="" group-title="VARIOS", HD (RU) SPORT_TV_28 56DD
+http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+#EXTINF:-1 tvg-id="" group-title="VARIOS", HD (RU) SPORT_TV_28 693F
+http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
+#EXTINF:-1 tvg-id="" group-title="VARIOS", HD (RU) SPORT_TV_28 AB3B
+http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
+#EXTINF:-1 tvg-id="" group-title="VARIOS", !  (RU) SPORT_TV_28 11AF
 http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af
-#EXTINF:-1 tvg-id="" group-title="VARIOS", !  [RU] (SPORT) 82D1
+#EXTINF:-1 tvg-id="" group-title="VARIOS", !  (RU) SPORT_TV_28 82D1
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
-#EXTINF:-1 tvg-id="" group-title="VARIOS", !  [RU] (SPORT) FBFA
+#EXTINF:-1 tvg-id="" group-title="VARIOS", !  (RU) SPORT_TV_28 FBFA
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ! [RU] (REGIONAL) 0F69
-http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69
+#EXTINF:-1 tvg-id="" group-title="VARIOS", !  1 ( ORIGINAL ) (RU) SPORT_TV_28 F0A9
+http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-id="" group-title="VARIOS", !  2 ( ORIGINAL ) (RU) SPORT_TV_28 3F04
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-id="" group-title="VARIOS", !  3 ( ORIGINAL ) (RU) SPORT_TV_28 540E
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-id="" group-title="VARIOS", !  HD (RU) SPORT_TV_28 673C
+http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1 tvg-id="" group-title="VARIOS", !  HD (RU) SPORT_TV_28 8EF2
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-id="" group-title="VARIOS", !  HD (RU) SPORT_TV_28 BA12
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-id="" group-title="VARIOS", !  HD (RU) SPORT_TV_28 CAB5
+http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
 #EXTINF:-1 tvg-id="24 Horas" group-title="VARIOS", 24 HORAS HD 6CCA
 http://127.0.0.1:6878/ace/getstream?id=cc5ed178702605513cd18b4899c4be954d306cca
-#EXTINF:-1 tvg-id="" group-title="VARIOS", 4 [RU] (REGIONAL) D845
-http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AMAZON PRIME VIDEO 6 HD [BE] (SPORT) DA5B
+#EXTINF:-1 tvg-id="" group-title="VARIOS", AMAZON PRIME VIDEO 6 HD (BE) SPORT_TV_28 DA5B
 http://127.0.0.1:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b
 #EXTINF:-1 tvg-id="AMC HD" group-title="VARIOS", AMC HD 20F3
 http://127.0.0.1:6878/ace/getstream?id=55ff9ee631af351f365f51cf3601695bf1fd20f3
@@ -383,18 +373,12 @@ http://127.0.0.1:6878/ace/getstream?id=55ff9ee631af351f365f51cf3601695bf1fd20f3
 http://127.0.0.1:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-id="Aragn TV" group-title="VARIOS", ARAGON TV HD 006B
 http://127.0.0.1:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ARTE HD [DE] (REGIONAL) AE37
-http://127.0.0.1:6878/ace/getstream?id=101c4c7e056242758b112382c4e314472795ae37
-#EXTINF:-1 tvg-id="" group-title="VARIOS", AUTOMOTORSPORT HD F54C
-http://127.0.0.1:6878/ace/getstream?id=610993aea3a2bfd509594334b7461ce96900f54c
 #EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORT 1 7C27
 http://127.0.0.1:6878/ace/getstream?id=005a2f40458c51226e03d86fb3100ecbfbcd7c27
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 3FE0
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 620D
-http://127.0.0.1:6878/ace/getstream?id=a96a9a6ab8f4f624d66ece9fa566a5620ddd620d
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" group-title="VARIOS", BEIN SPORTS 1 FHD 69EB
 http://127.0.0.1:6878/ace/getstream?id=f0951d40eb84162014752c054ea7a1370d2169eb
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 2" group-title="VARIOS", BEIN SPORTS 2 10BC
@@ -407,15 +391,15 @@ http://127.0.0.1:6878/ace/getstream?id=690f0f15439c773017ace3b6979c6e518d865454
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 3" group-title="VARIOS", BEIN SPORTS 3 2CF8
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORTS HABER [TR] (REGIONAL) 95F3
+#EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORTS HABER (TR) SPORT_TV_28 95F3
 http://127.0.0.1:6878/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORTS HD 1 [TR] (REGIONAL) 3A52
+#EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORTS HD 1 (TR) SPORT_TV_28 3A52
 http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORTS HD 2 [TR] (REGIONAL) 1A05
+#EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORTS HD 2 (TR) SPORT_TV_28 1A05
 http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORTS HD 3 [TR] (REGIONAL) 4D62
+#EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORTS HD 3 (TR) SPORT_TV_28 4D62
 http://127.0.0.1:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORTS HD 4 [TR] (REGIONAL) CF9D
+#EXTINF:-1 tvg-id="" group-title="VARIOS", BEIN SPORTS HD 4 (TR) SPORT_TV_28 CF9D
 http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1 tvg-id="Be Mad" group-title="VARIOS", BEMAD FHD 1F60
 http://127.0.0.1:6878/ace/getstream?id=6e1b5fd8753352486aa932f802534a17556e1f60
@@ -437,28 +421,18 @@ http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK] 2033
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-id="UK | TNT Sports 3" group-title="VARIOS", BT SPORT 3 [UK] 9DB3
-http://127.0.0.1:6878/ace/getstream?id=22fead867a8657cfb58cd84245e18954ab199db3
-#EXTINF:-1 tvg-id="DE | Sky Sport Bundesliga 1" group-title="VARIOS", BUNDESLIGA 1 HD 3F3B
-http://127.0.0.1:6878/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL + [PL] (REGIONAL) 808D
-http://127.0.0.1:6878/ace/getstream?id=7a2c53a15cbd5b694759bb107dd099db6f84808d
 #EXTINF:-1 tvg-id="Canal Cocina" group-title="VARIOS", CANAL COCINA FHD 849B
 http://127.0.0.1:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
-http://127.0.0.1:6878/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ 1 [PL] (REGIONAL) CA4E
-http://127.0.0.1:6878/ace/getstream?id=9def614ad2e9dab30a710ecb6868b4ed3746ca4e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ FAMILY HD [PL] (REGIONAL) 657D
-http://127.0.0.1:6878/ace/getstream?id=1613812c13e27c7748272e2a156ad88da3e0657d
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT 2 HD [PL] (REGIONAL) 01D3
-http://127.0.0.1:6878/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT 3 [PL] (REGIONAL) 8944
-http://127.0.0.1:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT 4 [PL] (REGIONAL) 1BD7
-http://127.0.0.1:6878/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT [PL] (REGIONAL) 6ED7
+#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL DE TENIS HD (ES) SPORT_TV_28 23AC
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT (PL) SPORT_TV_28 6ED7
 http://127.0.0.1:6878/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT 2 HD (PL) SPORT_TV_28 01D3
+http://127.0.0.1:6878/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
+#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT 3 (PL) SPORT_TV_28 8944
+http://127.0.0.1:6878/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
+#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT 4 (PL) SPORT_TV_28 1BD7
+http://127.0.0.1:6878/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
 #EXTINF:-1 tvg-id="Caza y Pesca HD" group-title="VARIOS", CAZA Y PESCA FHD HD 3E9C
 http://127.0.0.1:6878/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
 #EXTINF:-1 tvg-id="Caza y Pesca HD" group-title="VARIOS", CAZA Y PESCA FHD HD 8CAA
@@ -529,30 +503,30 @@ http://127.0.0.1:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN PVV ADB7
 http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA FHD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP 0B05
+http://127.0.0.1:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA FHD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP C618
+http://127.0.0.1:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA SD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP ED1F
 http://127.0.0.1:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA2 FHD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP CBA8
 http://127.0.0.1:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZNLIGA2 SD ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP 8D36
-http://127.0.0.1:6878/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-id="Discovery" group-title="VARIOS", DISCOVERY CHANNEL HD 73D8
 http://127.0.0.1:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
-#EXTINF:-1 tvg-id="" group-title="VARIOS", E! [DE] (REGIONAL) 6459
-http://127.0.0.1:6878/ace/getstream?id=70cd3b5f96fb8d415099263226309aab3c616459
-#EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE] 7E63
-http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE] 7E63
-http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-id="ESPN.4.nl" group-title="VARIOS", ESPN 4 [BE] 687A
-http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
-#EXTINF:-1 tvg-id="ESPN.4.nl" group-title="VARIOS", ESPN 4 [BE] 687A
-http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
-#EXTINF:-1 tvg-id="ESPN" group-title="VARIOS", ESPN HD [US] F442
-http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 tvg-id="ESPN" group-title="VARIOS", ESPN HD [US] F442
-http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 tvg-id="ESPN.1.nl" group-title="VARIOS", ESPN [BE] EDAB
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ESPN (BE) SPORT_TV_28 EDAB
 http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE] 7E63
+http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-id="ESPN.2.nl" group-title="VARIOS", ESPN 2 [BE] 7E63
+http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-id="ESPN.4.nl" group-title="VARIOS", ESPN 4 [BE] 687A
+http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-id="ESPN.4.nl" group-title="VARIOS", ESPN 4 [BE] 687A
+http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-id="ESPN" group-title="VARIOS", ESPN HD [US] F442
+http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-id="ESPN" group-title="VARIOS", ESPN HD [US] F442
+http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-id="ESPN.1.nl" group-title="VARIOS", ESPN [BE] EDAB
 http://127.0.0.1:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-id="ESPN 2" group-title="VARIOS", ESPN2 [US] 8394
@@ -567,7 +541,7 @@ http://127.0.0.1:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
 http://127.0.0.1:6878/ace/getstream?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 #EXTINF:-1 tvg-id="" group-title="VARIOS", ESSPN LAT DEPORT 8AF8
 http://127.0.0.1:6878/ace/getstream?id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 127F
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT (PL) SPORT_TV_28 127F
 http://127.0.0.1:6878/ace/getstream?id=314eb626864faf52e01624361bd6906b5406127f
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 126A
 http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
@@ -577,12 +551,10 @@ http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 http://127.0.0.1:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD F909
 http://127.0.0.1:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 0A62
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 24E3
-http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD F766
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT 1 HD (DE) SPORT_TV_28 F766
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT 1 HD (RU) SPORT_TV_28 0A62
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD E78A
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 1551
@@ -603,34 +575,30 @@ http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT2720 ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP A53F
 http://127.0.0.1:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 1 [DE] (REGIONAL) 200C
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 1 (DE) SPORT_TV_28 200C
 http://127.0.0.1:6878/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 2 [DE] (REGIONAL) 728C
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 2 (DE) SPORT_TV_28 728C
 http://127.0.0.1:6878/ace/getstream?id=57f95543ac41656d473b1a27123fc413388a728c
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 3 [DE] (REGIONAL) BE0C
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 3 (DE) SPORT_TV_28 BE0C
 http://127.0.0.1:6878/ace/getstream?id=7adbca42657ace1fe228142d351d0896974bbe0c
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 4 [DE] (REGIONAL) 1F64
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 4 (DE) SPORT_TV_28 1F64
 http://127.0.0.1:6878/ace/getstream?id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 5 [DE] (REGIONAL) 5809
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 5 (DE) SPORT_TV_28 5809
 http://127.0.0.1:6878/ace/getstream?id=148921c4dda96df445e253d6f26c4d092bf85809
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 6 [DE] (REGIONAL) DC3F
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 6 (DE) SPORT_TV_28 DC3F
 http://127.0.0.1:6878/ace/getstream?id=005ac522315699bd93bbf743329eb2f3c347dc3f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 7 [DE] (REGIONAL) E791
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 7 (DE) SPORT_TV_28 E791
 http://127.0.0.1:6878/ace/getstream?id=b18657f64507cc859cd7edef1aef90feb053e791
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 8 [DE] (REGIONAL) B5FE
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT360 HD 8 (DE) SPORT_TV_28 B5FE
 http://127.0.0.1:6878/ace/getstream?id=8f4f572005ca2557743474087aa622693ba9b5fe
 #EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT720 ELCANO.TOP ZERONET HTTP://127.0.0.1:43110/18D6DPCSJLRJG2HHNYQKZNH2W6QTXRDWF/ HTTPS://IPFS.IO/IPNS/ELCANO.TOP E78A
 http://127.0.0.1:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", EXTREME SPORTS [PL] (REGIONAL) A082
+#EXTINF:-1 tvg-id="" group-title="VARIOS", EXTREME SPORTS (PL) SPORT_TV_28 A082
 http://127.0.0.1:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082
-#EXTINF:-1 tvg-id="" group-title="VARIOS", FAST&FUNBOX HD [RU] (SPORT) 3D18
+#EXTINF:-1 tvg-id="" group-title="VARIOS", FAST&FUNBOX HD (RU) SPORT_TV_28 3D18
 http://127.0.0.1:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18
-#EXTINF:-1 tvg-id="" group-title="VARIOS", FIGHTBOX HD [RU] (SPORT) B640
+#EXTINF:-1 tvg-id="" group-title="VARIOS", FIGHTBOX HD (RU) SPORT_TV_28 B640
 http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
-#EXTINF:-1 tvg-id="" group-title="VARIOS", FIGHTBOX [PL] (REGIONAL) 017A
-http://127.0.0.1:6878/ace/getstream?id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", FIGHTKLUB HD [PL] (REGIONAL) 1B29
-http://127.0.0.1:6878/ace/getstream?id=b73da828421018c98905ed05934b77ea35aa1b29
 #EXTINF:-1 tvg-id="" group-title="VARIOS", FOX PREMIUM UFC E1E1
 http://127.0.0.1:6878/ace/getstream?id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1
 #EXTINF:-1 tvg-id="FOX SPORTS" group-title="VARIOS", FOX SPORT MX 4DA9
@@ -647,12 +615,6 @@ http://127.0.0.1:6878/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f980612
 http://127.0.0.1:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 4F93
 http://127.0.0.1:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93
-#EXTINF:-1 tvg-id="" group-title="VARIOS", GOLF CHANNEL [PL] (REGIONAL) 6689
-http://127.0.0.1:6878/ace/getstream?id=d4acffe8f08b7728d3b489ab5ca37398a5636689
-#EXTINF:-1 tvg-id="" group-title="VARIOS", HR HD [DE] (REGIONAL) 089B
-http://127.0.0.1:6878/ace/getstream?id=8385abc4f836cc502de197789426ba1d7eba089b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", INSIGHT 4K [RU] (REGIONAL) 7A68
-http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 4K 73D0
 http://127.0.0.1:6878/ace/getstream?id=6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
 #EXTINF:-1 tvg-id="La 1 HD" group-title="VARIOS", LA 1 FHD 40BA
@@ -667,38 +629,34 @@ http://127.0.0.1:6878/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b457f
 http://127.0.0.1:6878/ace/getstream?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188
 #EXTINF:-1 tvg-id="" group-title="VARIOS", M+ LIGA DE CAMPEONBES 2 FHD AE54
 http://127.0.0.1:6878/ace/getstream?id=ea03cc51980996ba6f2da49e30eee1de8a66ae54
-#EXTINF:-1 tvg-id="" group-title="VARIOS", M-1 GLOBAL [RU] (SPORT) 1C04
+#EXTINF:-1 tvg-id="" group-title="VARIOS", M-1 GLOBAL (RU) SPORT_TV_28 1C04
 http://127.0.0.1:6878/ace/getstream?id=a7e4499c869037073c97deb47a50d1e7090b1c04
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 1 HD [DE] (REGIONAL) 5072
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 1 HD (DE) SPORT_TV_28 5072
 http://127.0.0.1:6878/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 10 HD [DE] (REGIONAL) FB29
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 10 HD (DE) SPORT_TV_28 FB29
 http://127.0.0.1:6878/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 11 HD [DE] (REGIONAL) 6CC6
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 11 HD (DE) SPORT_TV_28 6CC6
 http://127.0.0.1:6878/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 2 HD [DE] (REGIONAL) A9AB
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 2 HD (DE) SPORT_TV_28 A9AB
 http://127.0.0.1:6878/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 3 HD [DE] (REGIONAL) 95B8
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 3 HD (DE) SPORT_TV_28 95B8
 http://127.0.0.1:6878/ace/getstream?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 4 HD [DE] (REGIONAL) 8849
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 4 HD (DE) SPORT_TV_28 8849
 http://127.0.0.1:6878/ace/getstream?id=1fb794b1503c5955b75ea0106ee6360b80d78849
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 5 HD [DE] (REGIONAL) 2730
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 5 HD (DE) SPORT_TV_28 2730
 http://127.0.0.1:6878/ace/getstream?id=428b92f3c71cd3cbf66ef6193808b39d16a52730
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 6 HD [DE] (REGIONAL) 2CD8
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 6 HD (DE) SPORT_TV_28 2CD8
 http://127.0.0.1:6878/ace/getstream?id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 7 HD [DE] (REGIONAL) A9E4
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 7 HD (DE) SPORT_TV_28 A9E4
 http://127.0.0.1:6878/ace/getstream?id=ac839cda9709255c21a98af455731f037e77a9e4
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 8 HD [DE] (REGIONAL) B175
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 8 HD (DE) SPORT_TV_28 B175
 http://127.0.0.1:6878/ace/getstream?id=11c5823d4196a90b509f03df1fe78e13cfbbb175
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 9 HD [DE] (REGIONAL) 37D1
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MAGENTA SPORT 9 HD (DE) SPORT_TV_28 37D1
 http://127.0.0.1:6878/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MIXED TV (SOLO EVENTOS) 21B3
 http://127.0.0.1:6878/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
-#EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION B37F
-http://127.0.0.1:6878/ace/getstream?id=acd7e3ae185a376e6596e60a414bebbf3321b37f
-#EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION F404
-http://127.0.0.1:6878/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTOWIZJA [PL] (REGIONAL) F350
-http://127.0.0.1:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
+#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD DF98
+http://127.0.0.1:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 59CE
 http://127.0.0.1:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-id="M+ Clsicos HD" group-title="VARIOS", MOVISTAR ACCION FHD 6F96
@@ -741,36 +699,28 @@ http://127.0.0.1:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065
 http://127.0.0.1:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
 #EXTINF:-1 tvg-id="M+ Originales HD" group-title="VARIOS", MOVISTAR ORIGINALES FHD 3162
 http://127.0.0.1:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MTV 90S [PL] (REGIONAL) 77BF
-http://127.0.0.1:6878/ace/getstream?id=6de86153b53f8abcc16f56b479f26e79f7bf77bf
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MTV LIVE HD [PL] (REGIONAL) E782
-http://127.0.0.1:6878/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782
-#EXTINF:-1 tvg-id="" group-title="VARIOS", N-TV HD [DE] (REGIONAL) 36A8
-http://127.0.0.1:6878/ace/getstream?id=b69ee17ee716edaabd5dd32934c71be4d23736a8
 #EXTINF:-1 tvg-id="Sport NBA" group-title="VARIOS", NBA TV ED95
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 tvg-id="" group-title="VARIOS", NSPORT+ [PL] (REGIONAL) A540
+#EXTINF:-1 tvg-id="" group-title="VARIOS", NSPORT+ (PL) SPORT_TV_28 A540
 http://127.0.0.1:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO 7312
 http://127.0.0.1:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-id="Onetoro" group-title="VARIOS", ONETORO FHD 1079
 http://127.0.0.1:6878/ace/getstream?id=cd0188292b6b3876ff66c99bd3d25eab88b41079
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ORANGE TV 24FA
-http://127.0.0.1:6878/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ORF III [DE] (REGIONAL) F86A
-http://127.0.0.1:6878/ace/getstream?id=41ac7892b8fde95d5110d83d7324044145c7f86a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ORF SPORT+ HD [DE] (REGIONAL) 6974
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ORF SPORT+ HD (DE) SPORT_TV_28 6974
 http://127.0.0.1:6878/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
-#EXTINF:-1 tvg-id="" group-title="VARIOS", POLSAT SPORT EXTRA [PL] (REGIONAL) 122F
-http://127.0.0.1:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", POLSAT SPORT FIGHT [PL] (REGIONAL) 0B4B
-http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", POLSAT SPORT PREMIUM 1 [PL] (REGIONAL) A99F
-http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", POLSAT SPORT PREMIUM 2 [PL] (REGIONAL) C95F
-http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", POLSAT SPORT [PL] (REGIONAL) 80EE
+#EXTINF:-1 tvg-id="" group-title="VARIOS", PLUTO TV AUTO MOTOR SPORT (720P) 2595
+http://127.0.0.1:6878/ace/getstream?id=ffa09e597804001f634dd1829f031823411a2595
+#EXTINF:-1 tvg-id="" group-title="VARIOS", POLSAT SPORT (PL) SPORT_TV_28 80EE
 http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 tvg-id="" group-title="VARIOS", POLSAT SPORT EXTRA (PL) SPORT_TV_28 122F
+http://127.0.0.1:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 tvg-id="" group-title="VARIOS", POLSAT SPORT FIGHT (PL) SPORT_TV_28 0B4B
+http://127.0.0.1:6878/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
+#EXTINF:-1 tvg-id="" group-title="VARIOS", POLSAT SPORT PREMIUM 1 (PL) SPORT_TV_28 A99F
+http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 tvg-id="" group-title="VARIOS", POLSAT SPORT PREMIUM 2 (PL) SPORT_TV_28 C95F
+http://127.0.0.1:6878/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1 3565
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-id="UK | Premier Sports 1" group-title="VARIOS", PREMIER SPORTS 1 3565
@@ -787,49 +737,35 @@ http://127.0.0.1:6878/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 http://127.0.0.1:6878/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1 tvg-id="DE | Rally TV" group-title="VARIOS", RALLY TV B2EA
 http://127.0.0.1:6878/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RETROVISION MOTOR BFF3
-http://127.0.0.1:6878/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 1 [DE] (REGIONAL) 23D3
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 1 (DE) SPORT_TV_28 23D3
 http://127.0.0.1:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 10 [DE] (REGIONAL) AB7E
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 10 (DE) SPORT_TV_28 AB7E
 http://127.0.0.1:6878/ace/getstream?id=e6cce13cb4005ec3c7d77db47865385927a7ab7e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 2 [DE] (REGIONAL) C466
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 2 (DE) SPORT_TV_28 C466
 http://127.0.0.1:6878/ace/getstream?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 3 [DE] (REGIONAL) BD5B
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 3 (DE) SPORT_TV_28 BD5B
 http://127.0.0.1:6878/ace/getstream?id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 4 [DE] (REGIONAL) 30A6
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 4 (DE) SPORT_TV_28 30A6
 http://127.0.0.1:6878/ace/getstream?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 5 [DE] (REGIONAL) 0FE5
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 5 (DE) SPORT_TV_28 0FE5
 http://127.0.0.1:6878/ace/getstream?id=81284e9a279ee23cbc4a7400bd9531f127d20fe5
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 6 [DE] (REGIONAL) 3E30
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 6 (DE) SPORT_TV_28 3E30
 http://127.0.0.1:6878/ace/getstream?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 7 [DE] (REGIONAL) 8A3E
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 7 (DE) SPORT_TV_28 8A3E
 http://127.0.0.1:6878/ace/getstream?id=eec3f8107e008cec3679f76e078deeefd1348a3e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 8 [DE] (REGIONAL) 516B
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 8 (DE) SPORT_TV_28 516B
 http://127.0.0.1:6878/ace/getstream?id=ce4ae0c3491acd4272340029139ba25642e2516b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 9 [DE] (REGIONAL) EC2F
+#EXTINF:-1 tvg-id="" group-title="VARIOS", RTL+ SPORT EVENT 9 (DE) SPORT_TV_28 EC2F
 http://127.0.0.1:6878/ace/getstream?id=a435581e6cba56972e48cf4519d1b2af735eec2f
-#EXTINF:-1 tvg-id="" group-title="VARIOS", RUSSIAN EXTREME ULTRA [RU] (REGIONAL) CE6E
-http://127.0.0.1:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SAT.1 HD [DE] (REGIONAL) C024
-http://127.0.0.1:6878/ace/getstream?id=58616a92d5b871848dd6e66321da89062140c024
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SAT1 GOLD [DE] (REGIONAL) 7F8B
-http://127.0.0.1:6878/ace/getstream?id=80db6eb9c3c0da5ddf03e2912e502a1ff8927f8b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SERVUS TV [DE] (REGIONAL) 1115
-http://127.0.0.1:6878/ace/getstream?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SETANTA LIVE 1 [RU] (SPORT) E707
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SETANTA LIVE 1 (RU) SPORT_TV_28 E707
 http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SETANTA LIVE 2 [RU] (SPORT) 880C
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SETANTA LIVE 2 (RU) SPORT_TV_28 880C
 http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SIXX HD [DE] (REGIONAL) A1FB
-http://127.0.0.1:6878/ace/getstream?id=80ccf9375ef9b8a71d77d21e3bfca7a794eca1fb
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SKY DOCUMENTARIES HD [DE] (REGIONAL) 15AA
-http://127.0.0.1:6878/ace/getstream?id=b7f02e90a06047dff0a8470db1327a9c43f715aa
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SKY SPORT 1 HD [DE] (REGIONAL) C65D
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SKY SPORT 1 HD (DE) SPORT_TV_28 C65D
 http://127.0.0.1:6878/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SKY SPORT 2 HD [DE] (REGIONAL) 9F69
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SKY SPORT 2 HD (DE) SPORT_TV_28 9F69
 http://127.0.0.1:6878/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SKY SPORT NEWS [DE] (REGIONAL) 16A8
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SKY SPORT NEWS (DE) SPORT_TV_28 16A8
 http://127.0.0.1:6878/ace/getstream?id=07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
 #EXTINF:-1 tvg-id="UK | Sky Sport Arena" group-title="VARIOS", SKY SPORTS ARENA B79C
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
@@ -847,19 +783,17 @@ http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="UK | Sky Sport Main Event" group-title="VARIOS", SKY SPORTS MAIN EVENT DF5E
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SKYSP PL [UK] (SPORT) 638E
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SKYSP PL (UK) SPORT_TV_28 638E
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SPIEGEL GESCHICHTE HD [DE] (REGIONAL) ADD3
-http://127.0.0.1:6878/ace/getstream?id=74612cfcc8fedbb06381deaf79edbcee971cadd3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SPORT DIGITAL [DE] (REGIONAL) D4E7
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SPORT DIGITAL (DE) SPORT_TV_28 D4E7
 http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SPORT KLUB [PL] (REGIONAL) F2EE
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SPORT KLUB (PL) SPORT_TV_28 F2EE
 http://127.0.0.1:6878/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SPORT1 [DE] (REGIONAL) D5FF
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SPORT1 (DE) SPORT_TV_28 D5FF
 http://127.0.0.1:6878/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SPORT1+ [DE] (REGIONAL) 4C2B
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SPORT1+ (DE) SPORT_TV_28 4C2B
 http://127.0.0.1:6878/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD (SPORT) 30EE
+#EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD (ES) SPORT_TV_28 30EE
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-id="" group-title="VARIOS", SUPERTENNIS HD 30EE
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
@@ -873,14 +807,10 @@ http://127.0.0.1:6878/ace/getstream?id=3e7b1911a1f83fd869b6995650a3057778259ca7
 http://127.0.0.1:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 #EXTINF:-1 tvg-id="Teledeporte" group-title="VARIOS", TELEDEPORTE FHD 0230
 http://127.0.0.1:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TELETOON+ HD [PL] (REGIONAL) CA1B
-http://127.0.0.1:6878/ace/getstream?id=7a8cf88f62f612d7741d5bae2d2be94573f1ca1b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TEN TV FHD 4ABC
 http://127.0.0.1:6878/ace/getstream?id=19cab799c86251ae8ae5f4b4faace9b78d784abc
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL FHD 20D0
 http://127.0.0.1:6878/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
-#EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 23AC
 http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", TENNIS CHANNEL HD 5BE7
@@ -889,93 +819,23 @@ http://127.0.0.1:6878/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 http://127.0.0.1:6878/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-id="UK | Sky Sport Cricket" group-title="VARIOS", TNT SPORTS HD FHD C592
 http://127.0.0.1:6878/ace/getstream?id=363f1d119b1971237318c0d953ab6eea5eb7c592
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TNT [PL] (REGIONAL) 82A4
-http://127.0.0.1:6878/ace/getstream?id=d0842346aad155a78f94dffe7d4ca313c33882a4
 #EXTINF:-1 tvg-id="Torol TV" group-title="VARIOS", TOROLE TV FHD 3B0C
 http://127.0.0.1:6878/ace/getstream?id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: BEIN SPORTS 4 FHD F01B
 http://127.0.0.1:6878/ace/getstream?id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TR: S SPORT 2 HD C0A4
 http://127.0.0.1:6878/ace/getstream?id=999db87cb68b0a671d61a858da7d79dd97b0c0a4
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TRAVEL CHANNEL [PL] (REGIONAL) EEA8
-http://127.0.0.1:6878/ace/getstream?id=70a711891dcdf1aaf7a39788a55bc5f82505eea8
 #EXTINF:-1 tvg-id="" group-title="VARIOS", TST 4K 1786
 http://127.0.0.1:6878/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TTV [PL] (REGIONAL) 5D27
-http://127.0.0.1:6878/ace/getstream?id=1680930cfa77a0b262ab116702278c05c52a5d27
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TV 6 [PL] (REGIONAL) 6AF0
-http://127.0.0.1:6878/ace/getstream?id=2cce15d162684894f043da9bb6631ee9081f6af0
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TV PULS 2 [PL] (REGIONAL) D759
-http://127.0.0.1:6878/ace/getstream?id=a28e1f7e87ba7ca186f4ecaeab959c698fe1d759
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TV PULS [PL] (REGIONAL) 3A87
-http://127.0.0.1:6878/ace/getstream?id=350406cf5abc907f820e55f7dd576317609a3a87
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TV4 HD [PL] (REGIONAL) 8B83
-http://127.0.0.1:6878/ace/getstream?id=35ff81559d433f7ba8dbcee7b8ddb61082e88b83
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVN 24 BIS [PL] (REGIONAL) C9AB
-http://127.0.0.1:6878/ace/getstream?id=02aa440de4e830af786d76f90c4695015130c9ab
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVN 24 [PL] (REGIONAL) 143D
-http://127.0.0.1:6878/ace/getstream?id=b40887a75fbb511f95a43c33b24e058b3050143d
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVN 7 [PL] (REGIONAL) 834D
-http://127.0.0.1:6878/ace/getstream?id=6e7d38341a3c8b7bed8ef0792cbae4bedd77834d
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVN FABULA [PL] (REGIONAL) 5857
-http://127.0.0.1:6878/ace/getstream?id=584961f4e6fd89e1a07253a1848c867203215857
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVN STYLE [PL] (REGIONAL) 4D0D
-http://127.0.0.1:6878/ace/getstream?id=f0736374096137942d6befa8577390d6c40a4d0d
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVN TURBO [PL] (REGIONAL) F9CF
-http://127.0.0.1:6878/ace/getstream?id=7231e7cafb290ee9190178678a4cda75603af9cf
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVN [PL] (REGIONAL) 6702
-http://127.0.0.1:6878/ace/getstream?id=87ea602f75b96aebc06bdc96b135e21756706702
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVP 1 HD [PL] (REGIONAL) 1859
-http://127.0.0.1:6878/ace/getstream?id=d31d828052a432246e59e7d0d640bd55a64f1859
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVP 2 [PL] (REGIONAL) BB18
-http://127.0.0.1:6878/ace/getstream?id=dad9d9e595bcfd251469ed58d380e53bfb46bb18
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVP ABC [PL] (REGIONAL) 3B0A
-http://127.0.0.1:6878/ace/getstream?id=fa070b8e13fd3a8a863b2e18dcc85ede6a6c3b0a
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVP HD [PL] (REGIONAL) CAF0
-http://127.0.0.1:6878/ace/getstream?id=0273a9a25ecde79d7bda2dafb897c7ca86afcaf0
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVP HISTORIA [PL] (REGIONAL) 5F08
-http://127.0.0.1:6878/ace/getstream?id=a392b5865031ec8bbdd6120b3418879b0b035f08
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVP ROZRYWKA [PL] (REGIONAL) 43BB
-http://127.0.0.1:6878/ace/getstream?id=89a38a74e88c5f468e05812253d64ac197d643bb
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVP SPORT HD [PL] (REGIONAL) 5867
+#EXTINF:-1 tvg-id="" group-title="VARIOS", TVP SPORT HD (PL) SPORT_TV_28 5867
 http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVP-INFO [PL] (REGIONAL) ADCD
-http://127.0.0.1:6878/ace/getstream?id=54c5166475563784a367313ffd231402eeedadcd
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVP-KULTURA [PL] (REGIONAL) 0BAB
-http://127.0.0.1:6878/ace/getstream?id=d585b59b042293dd37494daf7cee7eb647ad0bab
-#EXTINF:-1 tvg-id="" group-title="VARIOS", TVP3 [PL] (REGIONAL) 764C
-http://127.0.0.1:6878/ace/getstream?id=38efc26a90d79b2d8c70024ab13631829292764c
-#EXTINF:-1 tvg-id="" group-title="VARIOS", UFC HD [RU] (SPORT) CB64
+#EXTINF:-1 tvg-id="" group-title="VARIOS", UFC HD (RU) SPORT_TV_28 CB64
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
-#EXTINF:-1 tvg-id="" group-title="VARIOS", UNIVERSAL TV HD [DE] (REGIONAL) 2BB6
-http://127.0.0.1:6878/ace/getstream?id=7f8a688bbe9367c1ecbe733116a6aefb1bd22bb6
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VIASAT EXPLORER [PL] (REGIONAL) 6ED4
-http://127.0.0.1:6878/ace/getstream?id=de32b979b7d44350a0444f20c70352b4ece06ed4
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VIASAT SPORT HD [RU] (SPORT) 7A0B
+#EXTINF:-1 tvg-id="" group-title="VARIOS", VIASAT SPORT HD (RU) SPORT_TV_28 7A0B
 http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VOX HD [DE] (REGIONAL) CEB6
-http://127.0.0.1:6878/ace/getstream?id=85abb9490b27b56d5ceb3c554a47ccb3af60ceb6
-#EXTINF:-1 tvg-id="" group-title="VARIOS", VOXUP [DE] (REGIONAL) CCFD
-http://127.0.0.1:6878/ace/getstream?id=edb7eea337e2b6d6aee8838a3936a7451dfaccfd
-#EXTINF:-1 tvg-id="" group-title="VARIOS", WALDWERK [DE] (REGIONAL) 4A51
-http://127.0.0.1:6878/ace/getstream?id=0f9a44fbf18f7f50006d8348d6e2f0194f104a51
-#EXTINF:-1 tvg-id="" group-title="VARIOS", WARNER TV SERIE [DE] (REGIONAL) 5555
-http://127.0.0.1:6878/ace/getstream?id=6f8beb8b4f5e4b9166b6208a6b0a2faa12085555
-#EXTINF:-1 tvg-id="" group-title="VARIOS", WDR HD AACHEN [DE] (REGIONAL) 1802
-http://127.0.0.1:6878/ace/getstream?id=eba141d913e4a32251b490273c9cfc48d76e1802
-#EXTINF:-1 tvg-id="" group-title="VARIOS", WELT [DE] (REGIONAL) D63E
-http://127.0.0.1:6878/ace/getstream?id=e16d2e6743d96f34350711f10780080a002ed63e
-#EXTINF:-1 tvg-id="" group-title="VARIOS", WP [PL] (REGIONAL) 610A
-http://127.0.0.1:6878/ace/getstream?id=443c632ed7952434279c77fead90b5124ea1610a
 #EXTINF:-1 tvg-id="" group-title="VARIOS", XTRM FHD 76A0
 http://127.0.0.1:6878/ace/getstream?id=d7d3830018cfd93c7430c19ba703a053680476a0
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ZDF HD [DE] (REGIONAL) A316
-http://127.0.0.1:6878/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ZDF INFO [DE] (REGIONAL) D299
-http://127.0.0.1:6878/ace/getstream?id=fcfb2b67793235ff4ff265f541a34a237a01d299
-#EXTINF:-1 tvg-id="" group-title="VARIOS", ZDF NEO [DE] (REGIONAL) 6E7F
-http://127.0.0.1:6878/ace/getstream?id=b39c136256356dd88f812114587f0ed3b7846e7f
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="VARIOS", ZIGGO SPORT 0058
+#EXTINF:-1 tvg-id="" group-title="VARIOS", ZIGGO SPORT (ES) SPORT_TV_28 0058
 http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" group-title="VARIOS", ZIGGO SPORT 0058
 http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
