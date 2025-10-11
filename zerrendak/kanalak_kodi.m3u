@@ -36,8 +36,6 @@ plugin://script.module.horus?action=play&id=b0eabe0fdd02fdd165896236765a9b753a2f
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 HD
 plugin://script.module.horus?action=play&id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
-plugin://script.module.horus?action=play&id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
-#EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 plugin://script.module.horus?action=play&id=8a86cd6152154a25ad4b76523160552a40313b28
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 plugin://script.module.horus?action=play&id=4e401fdceebffdf1f09aef954844d09f6c62f460
@@ -425,8 +423,6 @@ plugin://script.module.horus?action=play&id=8670df538a11c6ec97b3f634981ddc4409ca
 plugin://script.module.horus?action=play&id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-id="DARK" group-title="VARIOS", DARK HD DC20
 plugin://script.module.horus?action=play&id=25465ea2deba65c623b7659136abf6fcc9f5dc20
-#EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 1 8FB5
-plugin://script.module.horus?action=play&id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 2 0267
 plugin://script.module.horus?action=play&id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-id="" group-title="VARIOS", DAZN EVENTOS 3 447D
@@ -503,8 +499,6 @@ plugin://script.module.horus?action=play&id=ef2abf419586d9876370be127ad592dbb41b
 plugin://script.module.horus?action=play&id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD 705D
 plugin://script.module.horus?action=play&id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 FHD F909
-plugin://script.module.horus?action=play&id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT 1 HD (DE) F766
 plugin://script.module.horus?action=play&id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-id="" group-title="VARIOS", EUROSPORT 1 HD (RU) 0A62
