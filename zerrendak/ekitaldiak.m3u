@@ -65,10 +65,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 00:00 V. Luque vs J. Álvarez DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 00:00 V. Luque vs J. Álvarez DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 00:00 V. Luque vs J. Álvarez DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 00:00 V. Luque vs J. Álvarez DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 00:00 V. Luque vs J. Álvarez DAZN 
@@ -121,6 +117,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 00:00 V. Luque vs J. Álvarez DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 00:00 V. Luque vs J. Álvarez DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 00:00 V. Luque vs J. Álvarez DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 00:00 V. Luque vs J. Álvarez DAZN 
@@ -239,10 +237,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Tampa Bay Lightning vs New Jersey Devils DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Tampa Bay Lightning vs New Jersey Devils DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Tampa Bay Lightning vs New Jersey Devils DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Tampa Bay Lightning vs New Jersey Devils DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Tampa Bay Lightning vs New Jersey Devils DAZN 
@@ -296,6 +290,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Tampa Bay Lightning vs New Jersey Devils DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Tampa Bay Lightning vs New Jersey Devils DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Tampa Bay Lightning vs New Jersey Devils DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Tampa Bay Lightning vs New Jersey Devils DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -397,10 +393,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Chicago Blackhawks vs Montréal Canadiens DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Chicago Blackhawks vs Montréal Canadiens DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Chicago Blackhawks vs Montréal Canadiens DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Chicago Blackhawks vs Montréal Canadiens DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Chicago Blackhawks vs Montréal Canadiens DAZN 
@@ -454,6 +446,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Chicago Blackhawks vs Montréal Canadiens DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Chicago Blackhawks vs Montréal Canadiens DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Chicago Blackhawks vs Montréal Canadiens DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Chicago Blackhawks vs Montréal Canadiens DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -555,10 +549,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Florida Panthers vs Ottawa Senators DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Florida Panthers vs Ottawa Senators DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Florida Panthers vs Ottawa Senators DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Florida Panthers vs Ottawa Senators DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Florida Panthers vs Ottawa Senators DAZN 
@@ -612,6 +602,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Florida Panthers vs Ottawa Senators DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Florida Panthers vs Ottawa Senators DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Florida Panthers vs Ottawa Senators DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Florida Panthers vs Ottawa Senators DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -713,10 +705,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 New York Islanders vs Washington Capitals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 New York Islanders vs Washington Capitals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 New York Islanders vs Washington Capitals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 New York Islanders vs Washington Capitals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 New York Islanders vs Washington Capitals DAZN 
@@ -770,6 +758,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 New York Islanders vs Washington Capitals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 New York Islanders vs Washington Capitals DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 New York Islanders vs Washington Capitals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 New York Islanders vs Washington Capitals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -871,10 +861,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Pittsburgh Penguins vs New York Rangers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Pittsburgh Penguins vs New York Rangers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Pittsburgh Penguins vs New York Rangers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Pittsburgh Penguins vs New York Rangers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Pittsburgh Penguins vs New York Rangers DAZN 
@@ -928,6 +914,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Pittsburgh Penguins vs New York Rangers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Pittsburgh Penguins vs New York Rangers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Pittsburgh Penguins vs New York Rangers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Pittsburgh Penguins vs New York Rangers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -1029,10 +1017,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Carolina Hurricanes vs Philadelphia Flyers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Carolina Hurricanes vs Philadelphia Flyers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Carolina Hurricanes vs Philadelphia Flyers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Carolina Hurricanes vs Philadelphia Flyers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Carolina Hurricanes vs Philadelphia Flyers DAZN 
@@ -1085,6 +1069,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Carolina Hurricanes vs Philadelphia Flyers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Carolina Hurricanes vs Philadelphia Flyers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Carolina Hurricanes vs Philadelphia Flyers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Carolina Hurricanes vs Philadelphia Flyers DAZN 
@@ -1187,10 +1173,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Boston Bruins vs Buffalo Sabres DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Boston Bruins vs Buffalo Sabres DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Boston Bruins vs Buffalo Sabres DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Boston Bruins vs Buffalo Sabres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Boston Bruins vs Buffalo Sabres DAZN 
@@ -1243,6 +1225,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Boston Bruins vs Buffalo Sabres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Boston Bruins vs Buffalo Sabres DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Boston Bruins vs Buffalo Sabres DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Boston Bruins vs Buffalo Sabres DAZN 
@@ -1345,10 +1329,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Detroit Red Wings vs Toronto Maple Leafs DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Detroit Red Wings vs Toronto Maple Leafs DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Detroit Red Wings vs Toronto Maple Leafs DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Detroit Red Wings vs Toronto Maple Leafs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Detroit Red Wings vs Toronto Maple Leafs DAZN 
@@ -1401,6 +1381,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Detroit Red Wings vs Toronto Maple Leafs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Detroit Red Wings vs Toronto Maple Leafs DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Detroit Red Wings vs Toronto Maple Leafs DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 01:00 Detroit Red Wings vs Toronto Maple Leafs DAZN 
@@ -1503,10 +1485,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:00 At. Madrid Academy vs Valencia CF Academy DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:00 At. Madrid Academy vs Valencia CF Academy DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:00 At. Madrid Academy vs Valencia CF Academy DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:00 At. Madrid Academy vs Valencia CF Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:00 At. Madrid Academy vs Valencia CF Academy DAZN 
@@ -1559,6 +1537,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:00 At. Madrid Academy vs Valencia CF Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:00 At. Madrid Academy vs Valencia CF Academy DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:00 At. Madrid Academy vs Valencia CF Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:00 At. Madrid Academy vs Valencia CF Academy DAZN 
@@ -1723,10 +1703,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:45 Palmeiras Academy vs CR Flamengo Academy DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:45 Palmeiras Academy vs CR Flamengo Academy DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:45 Palmeiras Academy vs CR Flamengo Academy DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:45 Palmeiras Academy vs CR Flamengo Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:45 Palmeiras Academy vs CR Flamengo Academy DAZN 
@@ -1779,6 +1755,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:45 Palmeiras Academy vs CR Flamengo Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:45 Palmeiras Academy vs CR Flamengo Academy DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:45 Palmeiras Academy vs CR Flamengo Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Semifinales", 01:45 Palmeiras Academy vs CR Flamengo Academy DAZN 
@@ -1943,10 +1921,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Minnesota Wild vs Columbus Blue Jackets DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Minnesota Wild vs Columbus Blue Jackets DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Minnesota Wild vs Columbus Blue Jackets DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Minnesota Wild vs Columbus Blue Jackets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Minnesota Wild vs Columbus Blue Jackets DAZN 
@@ -1999,6 +1973,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Minnesota Wild vs Columbus Blue Jackets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Minnesota Wild vs Columbus Blue Jackets DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Minnesota Wild vs Columbus Blue Jackets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Minnesota Wild vs Columbus Blue Jackets DAZN 
@@ -2101,10 +2077,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Nashville Predators vs Utah Mammoth DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Nashville Predators vs Utah Mammoth DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Nashville Predators vs Utah Mammoth DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Nashville Predators vs Utah Mammoth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Nashville Predators vs Utah Mammoth DAZN 
@@ -2157,6 +2129,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Nashville Predators vs Utah Mammoth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Nashville Predators vs Utah Mammoth DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Nashville Predators vs Utah Mammoth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 02:00 Nashville Predators vs Utah Mammoth DAZN 
@@ -2259,10 +2233,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Título Interino Peso Superwelter", 02:00 J. Ennis vs U. Lima DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Título Interino Peso Superwelter", 02:00 J. Ennis vs U. Lima DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Título Interino Peso Superwelter", 02:00 J. Ennis vs U. Lima DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Título Interino Peso Superwelter", 02:00 J. Ennis vs U. Lima DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Título Interino Peso Superwelter", 02:00 J. Ennis vs U. Lima DAZN 
@@ -2315,6 +2285,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Título Interino Peso Superwelter", 02:00 J. Ennis vs U. Lima DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Título Interino Peso Superwelter", 02:00 J. Ennis vs U. Lima DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Título Interino Peso Superwelter", 02:00 J. Ennis vs U. Lima DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Título Interino Peso Superwelter", 02:00 J. Ennis vs U. Lima DAZN 
@@ -2417,10 +2389,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 03:00 Colorado Avalanche vs Dallas Stars DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 03:00 Colorado Avalanche vs Dallas Stars DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 03:00 Colorado Avalanche vs Dallas Stars DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 03:00 Colorado Avalanche vs Dallas Stars DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 03:00 Colorado Avalanche vs Dallas Stars DAZN 
@@ -2473,6 +2441,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 03:00 Colorado Avalanche vs Dallas Stars DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 03:00 Colorado Avalanche vs Dallas Stars DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 03:00 Colorado Avalanche vs Dallas Stars DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 03:00 Colorado Avalanche vs Dallas Stars DAZN 
@@ -2575,10 +2545,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 03:00 C. Oliveira vs M. Gamrot DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 03:00 C. Oliveira vs M. Gamrot DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 03:00 C. Oliveira vs M. Gamrot DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 03:00 C. Oliveira vs M. Gamrot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 03:00 C. Oliveira vs M. Gamrot DAZN 
@@ -2631,6 +2597,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 03:00 C. Oliveira vs M. Gamrot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 03:00 C. Oliveira vs M. Gamrot DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 03:00 C. Oliveira vs M. Gamrot DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 UFC UFC Fight Night", 03:00 C. Oliveira vs M. Gamrot DAZN 
@@ -2749,10 +2717,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Edmonton Oilers vs Vancouver Canucks DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Edmonton Oilers vs Vancouver Canucks DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Edmonton Oilers vs Vancouver Canucks DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Edmonton Oilers vs Vancouver Canucks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Edmonton Oilers vs Vancouver Canucks DAZN 
@@ -2805,6 +2769,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Edmonton Oilers vs Vancouver Canucks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Edmonton Oilers vs Vancouver Canucks DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Edmonton Oilers vs Vancouver Canucks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Edmonton Oilers vs Vancouver Canucks DAZN 
@@ -2907,10 +2873,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 San Jose Sharks vs Anaheim Ducks DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 San Jose Sharks vs Anaheim Ducks DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 San Jose Sharks vs Anaheim Ducks DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 San Jose Sharks vs Anaheim Ducks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 San Jose Sharks vs Anaheim Ducks DAZN 
@@ -2963,6 +2925,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 San Jose Sharks vs Anaheim Ducks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 San Jose Sharks vs Anaheim Ducks DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 San Jose Sharks vs Anaheim Ducks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 San Jose Sharks vs Anaheim Ducks DAZN 
@@ -3065,10 +3029,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Seattle Kraken vs Vegas Golden Knights DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Seattle Kraken vs Vegas Golden Knights DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Seattle Kraken vs Vegas Golden Knights DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Seattle Kraken vs Vegas Golden Knights DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Seattle Kraken vs Vegas Golden Knights DAZN 
@@ -3121,6 +3081,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Seattle Kraken vs Vegas Golden Knights DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Seattle Kraken vs Vegas Golden Knights DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Seattle Kraken vs Vegas Golden Knights DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NHL Regular Season", 04:00 Seattle Kraken vs Vegas Golden Knights DAZN 
@@ -3229,10 +3191,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 12:00 Pirelli Estoril Round (Portugal) Carrera Superpole DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 12:00 Pirelli Estoril Round (Portugal) Carrera Superpole DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 12:00 Pirelli Estoril Round (Portugal) Carrera Superpole DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 12:00 Pirelli Estoril Round (Portugal) Carrera Superpole DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 12:00 Pirelli Estoril Round (Portugal) Carrera Superpole DAZN 
@@ -3285,6 +3243,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 12:00 Pirelli Estoril Round (Portugal) Carrera Superpole DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 12:00 Pirelli Estoril Round (Portugal) Carrera Superpole DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 12:00 Pirelli Estoril Round (Portugal) Carrera Superpole DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 12:00 Pirelli Estoril Round (Portugal) Carrera Superpole DAZN 
@@ -3387,10 +3347,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:00 Joventut Badalona vs Casademont Zaragoza DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:00 Joventut Badalona vs Casademont Zaragoza DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:00 Joventut Badalona vs Casademont Zaragoza DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:00 Joventut Badalona vs Casademont Zaragoza DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:00 Joventut Badalona vs Casademont Zaragoza DAZN 
@@ -3443,6 +3399,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:00 Joventut Badalona vs Casademont Zaragoza DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:00 Joventut Badalona vs Casademont Zaragoza DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:00 Joventut Badalona vs Casademont Zaragoza DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:00 Joventut Badalona vs Casademont Zaragoza DAZN 
@@ -3545,10 +3503,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Costa Adeje Tenerife vs Eibar Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Costa Adeje Tenerife vs Eibar Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Costa Adeje Tenerife vs Eibar Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Costa Adeje Tenerife vs Eibar Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Costa Adeje Tenerife vs Eibar Femenino DAZN 
@@ -3601,6 +3555,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Costa Adeje Tenerife vs Eibar Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Costa Adeje Tenerife vs Eibar Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Costa Adeje Tenerife vs Eibar Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Costa Adeje Tenerife vs Eibar Femenino DAZN 
@@ -3703,10 +3659,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 At. Madrid Femenino vs FC Barcelona Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 At. Madrid Femenino vs FC Barcelona Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 At. Madrid Femenino vs FC Barcelona Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 At. Madrid Femenino vs FC Barcelona Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 At. Madrid Femenino vs FC Barcelona Femenino DAZN 
@@ -3759,6 +3711,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 At. Madrid Femenino vs FC Barcelona Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 At. Madrid Femenino vs FC Barcelona Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 At. Madrid Femenino vs FC Barcelona Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 At. Madrid Femenino vs FC Barcelona Femenino DAZN 
@@ -3861,10 +3815,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Levante Femenino vs Sevilla FC Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Levante Femenino vs Sevilla FC Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Levante Femenino vs Sevilla FC Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Levante Femenino vs Sevilla FC Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Levante Femenino vs Sevilla FC Femenino DAZN 
@@ -3917,6 +3867,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Levante Femenino vs Sevilla FC Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Levante Femenino vs Sevilla FC Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Levante Femenino vs Sevilla FC Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 12:00 Levante Femenino vs Sevilla FC Femenino DAZN 
@@ -4023,10 +3975,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 12:30 AC Milan Femenino vs AS Roma Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 12:30 AC Milan Femenino vs AS Roma Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 12:30 AC Milan Femenino vs AS Roma Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 12:30 AC Milan Femenino vs AS Roma Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 12:30 AC Milan Femenino vs AS Roma Femenino DAZN 
@@ -4079,6 +4027,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 12:30 AC Milan Femenino vs AS Roma Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 12:30 AC Milan Femenino vs AS Roma Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 12:30 AC Milan Femenino vs AS Roma Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 12:30 AC Milan Femenino vs AS Roma Femenino DAZN 
@@ -4181,10 +4131,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:30 Barça Basket vs Força Lleida DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:30 Barça Basket vs Força Lleida DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:30 Barça Basket vs Força Lleida DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:30 Barça Basket vs Força Lleida DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:30 Barça Basket vs Força Lleida DAZN 
@@ -4237,6 +4183,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:30 Barça Basket vs Força Lleida DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:30 Barça Basket vs Força Lleida DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:30 Barça Basket vs Força Lleida DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 12:30 Barça Basket vs Força Lleida DAZN 
@@ -4343,10 +4291,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport", 13:35 Pirelli Estoril Round (Portugal) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Supersport", 13:35 Pirelli Estoril Round (Portugal) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Supersport", 13:35 Pirelli Estoril Round (Portugal) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport", 13:35 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport", 13:35 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
@@ -4399,6 +4343,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport", 13:35 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Supersport", 13:35 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport", 13:35 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport", 13:35 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
@@ -4501,10 +4447,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Bundesliga Femenina", 14:00 Freiburg Femenino vs Eintracht Frankfurt Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Bundesliga Femenina", 14:00 Freiburg Femenino vs Eintracht Frankfurt Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Bundesliga Femenina", 14:00 Freiburg Femenino vs Eintracht Frankfurt Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Bundesliga Femenina", 14:00 Freiburg Femenino vs Eintracht Frankfurt Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Bundesliga Femenina", 14:00 Freiburg Femenino vs Eintracht Frankfurt Femenino DAZN 
@@ -4557,6 +4499,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Bundesliga Femenina", 14:00 Freiburg Femenino vs Eintracht Frankfurt Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Bundesliga Femenina", 14:00 Freiburg Femenino vs Eintracht Frankfurt Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Bundesliga Femenina", 14:00 Freiburg Femenino vs Eintracht Frankfurt Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Bundesliga Femenina", 14:00 Freiburg Femenino vs Eintracht Frankfurt Femenino DAZN 
@@ -4659,10 +4603,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 14:00 Albacete vs AD Ceuta DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 14:00 Albacete vs AD Ceuta DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 14:00 Albacete vs AD Ceuta DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 14:00 Albacete vs AD Ceuta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 14:00 Albacete vs AD Ceuta DAZN 
@@ -4715,6 +4655,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 14:00 Albacete vs AD Ceuta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 14:00 Albacete vs AD Ceuta DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 14:00 Albacete vs AD Ceuta DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 14:00 Albacete vs AD Ceuta DAZN 
@@ -4821,10 +4763,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 15:00 Pirelli Estoril Round (Portugal) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 15:00 Pirelli Estoril Round (Portugal) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 15:00 Pirelli Estoril Round (Portugal) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 15:00 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 15:00 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
@@ -4877,6 +4815,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 15:00 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 15:00 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 15:00 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Superbike", 15:00 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
@@ -4979,10 +4919,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 15:00 Ternana Femminile vs Napoli Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 15:00 Ternana Femminile vs Napoli Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 15:00 Ternana Femminile vs Napoli Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 15:00 Ternana Femminile vs Napoli Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 15:00 Ternana Femminile vs Napoli Femenino DAZN 
@@ -5035,6 +4971,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 15:00 Ternana Femminile vs Napoli Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 15:00 Ternana Femminile vs Napoli Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 15:00 Ternana Femminile vs Napoli Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 15:00 Ternana Femminile vs Napoli Femenino DAZN 
@@ -5137,10 +5075,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 París-Tours", 15:05 UCI ProSeries Chartres › Tours (211.6 km) DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 París-Tours", 15:05 UCI ProSeries Chartres › Tours (211.6 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 París-Tours", 15:05 UCI ProSeries Chartres › Tours (211.6 km) DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 París-Tours", 15:05 UCI ProSeries Chartres › Tours (211.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 París-Tours", 15:05 UCI ProSeries Chartres › Tours (211.6 km) DAZN 
@@ -5193,6 +5127,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 París-Tours", 15:05 UCI ProSeries Chartres › Tours (211.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 París-Tours", 15:05 UCI ProSeries Chartres › Tours (211.6 km) DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 París-Tours", 15:05 UCI ProSeries Chartres › Tours (211.6 km) DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 París-Tours", 15:05 UCI ProSeries Chartres › Tours (211.6 km) DAZN 
@@ -5315,10 +5251,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 15:30 New York Jets vs Denver Broncos DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 15:30 New York Jets vs Denver Broncos DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 15:30 New York Jets vs Denver Broncos DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 15:30 New York Jets vs Denver Broncos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 15:30 New York Jets vs Denver Broncos DAZN 
@@ -5371,6 +5303,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 15:30 New York Jets vs Denver Broncos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 15:30 New York Jets vs Denver Broncos DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 15:30 New York Jets vs Denver Broncos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 15:30 New York Jets vs Denver Broncos DAZN 
@@ -5473,10 +5407,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures 3er Puesto", 15:30 Valencia CF Academy vs CR Flamengo Academy DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures 3er Puesto", 15:30 Valencia CF Academy vs CR Flamengo Academy DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures 3er Puesto", 15:30 Valencia CF Academy vs CR Flamengo Academy DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures 3er Puesto", 15:30 Valencia CF Academy vs CR Flamengo Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures 3er Puesto", 15:30 Valencia CF Academy vs CR Flamengo Academy DAZN 
@@ -5529,6 +5459,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures 3er Puesto", 15:30 Valencia CF Academy vs CR Flamengo Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures 3er Puesto", 15:30 Valencia CF Academy vs CR Flamengo Academy DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures 3er Puesto", 15:30 Valencia CF Academy vs CR Flamengo Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures 3er Puesto", 15:30 Valencia CF Academy vs CR Flamengo Academy DAZN 
@@ -5693,10 +5625,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Final", 16:00 At. Madrid Academy vs Palmeiras Academy DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Final", 16:00 At. Madrid Academy vs Palmeiras Academy DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Final", 16:00 At. Madrid Academy vs Palmeiras Academy DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Final", 16:00 At. Madrid Academy vs Palmeiras Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Final", 16:00 At. Madrid Academy vs Palmeiras Academy DAZN 
@@ -5749,6 +5677,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Final", 16:00 At. Madrid Academy vs Palmeiras Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Final", 16:00 At. Madrid Academy vs Palmeiras Academy DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Final", 16:00 At. Madrid Academy vs Palmeiras Academy DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Futures Final", 16:00 At. Madrid Academy vs Palmeiras Academy DAZN 
@@ -5913,10 +5843,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Eibar vs CD Castellón DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Eibar vs CD Castellón DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Eibar vs CD Castellón DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Eibar vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Eibar vs CD Castellón DAZN 
@@ -5970,6 +5896,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Eibar vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Eibar vs CD Castellón DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Eibar vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Eibar vs CD Castellón DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -6071,10 +5999,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Sporting Gijón vs Racing Santander DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Sporting Gijón vs Racing Santander DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Sporting Gijón vs Racing Santander DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Sporting Gijón vs Racing Santander DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Sporting Gijón vs Racing Santander DAZN 
@@ -6128,6 +6052,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Sporting Gijón vs Racing Santander DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Sporting Gijón vs Racing Santander DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Sporting Gijón vs Racing Santander DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 16:15 Sporting Gijón vs Racing Santander DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -6229,10 +6155,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport 300", 16:15 Pirelli Estoril Round (Portugal) Carrera 2 DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Supersport 300", 16:15 Pirelli Estoril Round (Portugal) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Supersport 300", 16:15 Pirelli Estoril Round (Portugal) Carrera 2 DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport 300", 16:15 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport 300", 16:15 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
@@ -6286,6 +6208,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport 300", 16:15 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport 300", 16:15 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 Supersport 300", 16:15 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Supersport 300", 16:15 Pirelli Estoril Round (Portugal) Carrera 2 DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -6387,10 +6311,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 17:00 Río Breogán vs Valencia Basket DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 17:00 Río Breogán vs Valencia Basket DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 17:00 Río Breogán vs Valencia Basket DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 17:00 Río Breogán vs Valencia Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 17:00 Río Breogán vs Valencia Basket DAZN 
@@ -6444,6 +6364,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 17:00 Río Breogán vs Valencia Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 17:00 Río Breogán vs Valencia Basket DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 17:00 Río Breogán vs Valencia Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 17:00 Río Breogán vs Valencia Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -6545,10 +6467,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 17:00 Athletic Femenino vs Real Madrid Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 17:00 Athletic Femenino vs Real Madrid Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 17:00 Athletic Femenino vs Real Madrid Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 17:00 Athletic Femenino vs Real Madrid Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 17:00 Athletic Femenino vs Real Madrid Femenino DAZN 
@@ -6602,6 +6520,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 17:00 Athletic Femenino vs Real Madrid Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 17:00 Athletic Femenino vs Real Madrid Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 17:00 Athletic Femenino vs Real Madrid Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga F", 17:00 Athletic Femenino vs Real Madrid Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -6703,10 +6623,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 18:00 Parma Femminile vs Sassuolo Femenino DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 18:00 Parma Femminile vs Sassuolo Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 18:00 Parma Femminile vs Sassuolo Femenino DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 18:00 Parma Femminile vs Sassuolo Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 18:00 Parma Femminile vs Sassuolo Femenino DAZN 
@@ -6760,6 +6676,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 18:00 Parma Femminile vs Sassuolo Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 18:00 Parma Femminile vs Sassuolo Femenino DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 18:00 Parma Femminile vs Sassuolo Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Serie A Femminile", 18:00 Parma Femminile vs Sassuolo Femenino DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -6861,10 +6779,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 18:00 Bilbao Basket vs San Pablo Burgos DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 18:00 Bilbao Basket vs San Pablo Burgos DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 18:00 Bilbao Basket vs San Pablo Burgos DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 18:00 Bilbao Basket vs San Pablo Burgos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 18:00 Bilbao Basket vs San Pablo Burgos DAZN 
@@ -6918,6 +6832,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 18:00 Bilbao Basket vs San Pablo Burgos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 18:00 Bilbao Basket vs San Pablo Burgos DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 18:00 Bilbao Basket vs San Pablo Burgos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 18:00 Bilbao Basket vs San Pablo Burgos DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -7019,10 +6935,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Cádiz CF vs Huesca DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Cádiz CF vs Huesca DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Cádiz CF vs Huesca DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Cádiz CF vs Huesca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Cádiz CF vs Huesca DAZN 
@@ -7076,6 +6988,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Cádiz CF vs Huesca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Cádiz CF vs Huesca DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Cádiz CF vs Huesca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Cádiz CF vs Huesca DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -7177,10 +7091,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Burgos CF vs Real Valladolid DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Burgos CF vs Real Valladolid DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Burgos CF vs Real Valladolid DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Burgos CF vs Real Valladolid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Burgos CF vs Real Valladolid DAZN 
@@ -7234,6 +7144,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Burgos CF vs Real Valladolid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Burgos CF vs Real Valladolid DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Burgos CF vs Real Valladolid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 18:30 Burgos CF vs Real Valladolid DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -7335,10 +7247,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Los Angeles Rams DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Los Angeles Rams DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Los Angeles Rams DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Los Angeles Rams DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Los Angeles Rams DAZN 
@@ -7392,6 +7300,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Los Angeles Rams DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Los Angeles Rams DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Los Angeles Rams DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Baltimore Ravens vs Los Angeles Rams DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -7493,10 +7403,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 New Orleans Saints vs New England Patriots DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 New Orleans Saints vs New England Patriots DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 New Orleans Saints vs New England Patriots DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 New Orleans Saints vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 New Orleans Saints vs New England Patriots DAZN 
@@ -7550,6 +7456,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 New Orleans Saints vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 New Orleans Saints vs New England Patriots DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 New Orleans Saints vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 New Orleans Saints vs New England Patriots DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -7651,10 +7559,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Pittsburgh Steelers vs Cleveland Browns DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Pittsburgh Steelers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Pittsburgh Steelers vs Cleveland Browns DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Pittsburgh Steelers vs Cleveland Browns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Pittsburgh Steelers vs Cleveland Browns DAZN 
@@ -7708,6 +7612,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Pittsburgh Steelers vs Cleveland Browns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Pittsburgh Steelers vs Cleveland Browns DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Pittsburgh Steelers vs Cleveland Browns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Pittsburgh Steelers vs Cleveland Browns DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -7809,10 +7715,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Arizona Cardinals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Arizona Cardinals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Arizona Cardinals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Arizona Cardinals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Arizona Cardinals DAZN 
@@ -7866,6 +7768,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Arizona Cardinals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Arizona Cardinals DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Arizona Cardinals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Indianápolis Colts vs Arizona Cardinals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -7967,10 +7871,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Miami Dolphins vs Los Angeles Chargers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Miami Dolphins vs Los Angeles Chargers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Miami Dolphins vs Los Angeles Chargers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Miami Dolphins vs Los Angeles Chargers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Miami Dolphins vs Los Angeles Chargers DAZN 
@@ -8023,6 +7923,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Miami Dolphins vs Los Angeles Chargers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Miami Dolphins vs Los Angeles Chargers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Miami Dolphins vs Los Angeles Chargers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Miami Dolphins vs Los Angeles Chargers DAZN 
@@ -8125,10 +8027,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Carolina Panthers vs Dallas Cowboys DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Carolina Panthers vs Dallas Cowboys DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Carolina Panthers vs Dallas Cowboys DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Carolina Panthers vs Dallas Cowboys DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Carolina Panthers vs Dallas Cowboys DAZN 
@@ -8181,6 +8079,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Carolina Panthers vs Dallas Cowboys DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Carolina Panthers vs Dallas Cowboys DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Carolina Panthers vs Dallas Cowboys DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Carolina Panthers vs Dallas Cowboys DAZN 
@@ -8283,10 +8183,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Seattle Seahawks DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Seattle Seahawks DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Seattle Seahawks DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Seattle Seahawks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Seattle Seahawks DAZN 
@@ -8339,6 +8235,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Seattle Seahawks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Seattle Seahawks DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Seattle Seahawks DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 19:00 Jacksonville Jaguars vs Seattle Seahawks DAZN 
@@ -8441,10 +8339,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 19:00 Baskonia vs Real Madrid Baloncesto DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 19:00 Baskonia vs Real Madrid Baloncesto DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 19:00 Baskonia vs Real Madrid Baloncesto DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 19:00 Baskonia vs Real Madrid Baloncesto DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 19:00 Baskonia vs Real Madrid Baloncesto DAZN 
@@ -8497,6 +8391,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 19:00 Baskonia vs Real Madrid Baloncesto DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 19:00 Baskonia vs Real Madrid Baloncesto DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 19:00 Baskonia vs Real Madrid Baloncesto DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 Liga Endesa Liga Regular", 19:00 Baskonia vs Real Madrid Baloncesto DAZN 
@@ -8603,10 +8499,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 21:00 Málaga vs Deportivo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 21:00 Málaga vs Deportivo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 21:00 Málaga vs Deportivo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 21:00 Málaga vs Deportivo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 21:00 Málaga vs Deportivo DAZN 
@@ -8659,6 +8551,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 21:00 Málaga vs Deportivo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 21:00 Málaga vs Deportivo DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 21:00 Málaga vs Deportivo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 LaLiga Hypermotion", 21:00 Málaga vs Deportivo DAZN 
@@ -8765,10 +8659,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:05 Las Vegas Raiders vs Tennessee Titans DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:05 Las Vegas Raiders vs Tennessee Titans DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:05 Las Vegas Raiders vs Tennessee Titans DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:05 Las Vegas Raiders vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:05 Las Vegas Raiders vs Tennessee Titans DAZN 
@@ -8822,6 +8712,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:05 Las Vegas Raiders vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:05 Las Vegas Raiders vs Tennessee Titans DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:05 Las Vegas Raiders vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:05 Las Vegas Raiders vs Tennessee Titans DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -8923,10 +8815,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Green Bay Packers vs Cincinnati Bengals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Green Bay Packers vs Cincinnati Bengals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Green Bay Packers vs Cincinnati Bengals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Green Bay Packers vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Green Bay Packers vs Cincinnati Bengals DAZN 
@@ -8980,6 +8868,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Green Bay Packers vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Green Bay Packers vs Cincinnati Bengals DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Green Bay Packers vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Green Bay Packers vs Cincinnati Bengals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -9081,10 +8971,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Tampa Bay Buccaneers vs San Francisco 49ers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Tampa Bay Buccaneers vs San Francisco 49ers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Tampa Bay Buccaneers vs San Francisco 49ers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Tampa Bay Buccaneers vs San Francisco 49ers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Tampa Bay Buccaneers vs San Francisco 49ers DAZN 
@@ -9137,6 +9023,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Tampa Bay Buccaneers vs San Francisco 49ers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Tampa Bay Buccaneers vs San Francisco 49ers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Tampa Bay Buccaneers vs San Francisco 49ers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NFL Liga Regular", 22:25 Tampa Bay Buccaneers vs San Francisco 49ers DAZN 
@@ -9239,10 +9127,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="12/10 NASCAR Cup Series", 23:30 Las Vegas Speedway Carrera de Playoff DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="12/10 NASCAR Cup Series", 23:30 Las Vegas Speedway Carrera de Playoff DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="12/10 NASCAR Cup Series", 23:30 Las Vegas Speedway Carrera de Playoff DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="12/10 NASCAR Cup Series", 23:30 Las Vegas Speedway Carrera de Playoff DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="12/10 NASCAR Cup Series", 23:30 Las Vegas Speedway Carrera de Playoff DAZN 
@@ -9295,6 +9179,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="12/10 NASCAR Cup Series", 23:30 Las Vegas Speedway Carrera de Playoff DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="12/10 NASCAR Cup Series", 23:30 Las Vegas Speedway Carrera de Playoff DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="12/10 NASCAR Cup Series", 23:30 Las Vegas Speedway Carrera de Playoff DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="12/10 NASCAR Cup Series", 23:30 Las Vegas Speedway Carrera de Playoff DAZN 
@@ -9397,10 +9283,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 01:00 New York Rangers vs Washington Capitals DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 01:00 New York Rangers vs Washington Capitals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 01:00 New York Rangers vs Washington Capitals DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 01:00 New York Rangers vs Washington Capitals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 01:00 New York Rangers vs Washington Capitals DAZN 
@@ -9453,6 +9335,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 01:00 New York Rangers vs Washington Capitals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 01:00 New York Rangers vs Washington Capitals DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 01:00 New York Rangers vs Washington Capitals DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 01:00 New York Rangers vs Washington Capitals DAZN 
@@ -9555,10 +9439,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="13/10 NFL Liga Regular", 02:20 Kansas City Chiefs vs Detroit Lions DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="13/10 NFL Liga Regular", 02:20 Kansas City Chiefs vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="13/10 NFL Liga Regular", 02:20 Kansas City Chiefs vs Detroit Lions DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="13/10 NFL Liga Regular", 02:20 Kansas City Chiefs vs Detroit Lions DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="13/10 NFL Liga Regular", 02:20 Kansas City Chiefs vs Detroit Lions DAZN 
@@ -9611,6 +9491,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="13/10 NFL Liga Regular", 02:20 Kansas City Chiefs vs Detroit Lions DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="13/10 NFL Liga Regular", 02:20 Kansas City Chiefs vs Detroit Lions DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="13/10 NFL Liga Regular", 02:20 Kansas City Chiefs vs Detroit Lions DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="13/10 NFL Liga Regular", 02:20 Kansas City Chiefs vs Detroit Lions DAZN 
@@ -9717,10 +9599,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 18:30 Buffalo Sabres vs Colorado Avalanche DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 18:30 Buffalo Sabres vs Colorado Avalanche DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 18:30 Buffalo Sabres vs Colorado Avalanche DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 18:30 Buffalo Sabres vs Colorado Avalanche DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 18:30 Buffalo Sabres vs Colorado Avalanche DAZN 
@@ -9774,6 +9652,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 18:30 Buffalo Sabres vs Colorado Avalanche DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 18:30 Buffalo Sabres vs Colorado Avalanche DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 18:30 Buffalo Sabres vs Colorado Avalanche DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 18:30 Buffalo Sabres vs Colorado Avalanche DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -9875,10 +9755,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 New York Islanders vs Winnipeg Jets DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 New York Islanders vs Winnipeg Jets DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 New York Islanders vs Winnipeg Jets DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 New York Islanders vs Winnipeg Jets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 New York Islanders vs Winnipeg Jets DAZN 
@@ -9932,6 +9808,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 New York Islanders vs Winnipeg Jets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 New York Islanders vs Winnipeg Jets DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 New York Islanders vs Winnipeg Jets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 New York Islanders vs Winnipeg Jets DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -10033,10 +9911,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Boston Bruins vs Tampa Bay Lightning DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Boston Bruins vs Tampa Bay Lightning DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Boston Bruins vs Tampa Bay Lightning DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Boston Bruins vs Tampa Bay Lightning DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Boston Bruins vs Tampa Bay Lightning DAZN 
@@ -10090,6 +9964,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Boston Bruins vs Tampa Bay Lightning DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Boston Bruins vs Tampa Bay Lightning DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Boston Bruins vs Tampa Bay Lightning DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Boston Bruins vs Tampa Bay Lightning DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -10191,10 +10067,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Ottawa Senators vs Nashville Predators DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Ottawa Senators vs Nashville Predators DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Ottawa Senators vs Nashville Predators DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Ottawa Senators vs Nashville Predators DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Ottawa Senators vs Nashville Predators DAZN 
@@ -10248,6 +10120,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Ottawa Senators vs Nashville Predators DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Ottawa Senators vs Nashville Predators DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Ottawa Senators vs Nashville Predators DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 19:00 Ottawa Senators vs Nashville Predators DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -10349,10 +10223,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 20:00 Toronto Maple Leafs vs Detroit Red Wings DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 20:00 Toronto Maple Leafs vs Detroit Red Wings DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 20:00 Toronto Maple Leafs vs Detroit Red Wings DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 20:00 Toronto Maple Leafs vs Detroit Red Wings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 20:00 Toronto Maple Leafs vs Detroit Red Wings DAZN 
@@ -10406,6 +10276,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 20:00 Toronto Maple Leafs vs Detroit Red Wings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 20:00 Toronto Maple Leafs vs Detroit Red Wings DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 20:00 Toronto Maple Leafs vs Detroit Red Wings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="13/10 NHL Regular Season", 20:00 Toronto Maple Leafs vs Detroit Red Wings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -10507,10 +10379,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="13/10 LaLiga Hypermotion", 20:30 Córdoba vs Cultural Leonesa DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="13/10 LaLiga Hypermotion", 20:30 Córdoba vs Cultural Leonesa DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="13/10 LaLiga Hypermotion", 20:30 Córdoba vs Cultural Leonesa DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="13/10 LaLiga Hypermotion", 20:30 Córdoba vs Cultural Leonesa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="13/10 LaLiga Hypermotion", 20:30 Córdoba vs Cultural Leonesa DAZN 
@@ -10564,6 +10432,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="13/10 LaLiga Hypermotion", 20:30 Córdoba vs Cultural Leonesa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="13/10 LaLiga Hypermotion", 20:30 Córdoba vs Cultural Leonesa DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="13/10 LaLiga Hypermotion", 20:30 Córdoba vs Cultural Leonesa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="13/10 LaLiga Hypermotion", 20:30 Córdoba vs Cultural Leonesa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -10665,10 +10535,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Philadelphia Flyers vs Florida Panthers DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Philadelphia Flyers vs Florida Panthers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Philadelphia Flyers vs Florida Panthers DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Philadelphia Flyers vs Florida Panthers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Philadelphia Flyers vs Florida Panthers DAZN 
@@ -10722,6 +10588,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Philadelphia Flyers vs Florida Panthers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Philadelphia Flyers vs Florida Panthers DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Philadelphia Flyers vs Florida Panthers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Philadelphia Flyers vs Florida Panthers DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -10823,10 +10691,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Columbus Blue Jackets vs New Jersey Devils DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Columbus Blue Jackets vs New Jersey Devils DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Columbus Blue Jackets vs New Jersey Devils DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Columbus Blue Jackets vs New Jersey Devils DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Columbus Blue Jackets vs New Jersey Devils DAZN 
@@ -10880,6 +10744,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Columbus Blue Jackets vs New Jersey Devils DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Columbus Blue Jackets vs New Jersey Devils DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Columbus Blue Jackets vs New Jersey Devils DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:00 Columbus Blue Jackets vs New Jersey Devils DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -10981,10 +10847,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 01:15 Atlanta Falcons vs Buffalo Bills DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 01:15 Atlanta Falcons vs Buffalo Bills DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 01:15 Atlanta Falcons vs Buffalo Bills DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 01:15 Atlanta Falcons vs Buffalo Bills DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 01:15 Atlanta Falcons vs Buffalo Bills DAZN 
@@ -11038,6 +10900,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 01:15 Atlanta Falcons vs Buffalo Bills DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 01:15 Atlanta Falcons vs Buffalo Bills DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 01:15 Atlanta Falcons vs Buffalo Bills DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 01:15 Atlanta Falcons vs Buffalo Bills DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -11139,10 +11003,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:30 Vancouver Canucks vs St. Louis Blues DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:30 Vancouver Canucks vs St. Louis Blues DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:30 Vancouver Canucks vs St. Louis Blues DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:30 Vancouver Canucks vs St. Louis Blues DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:30 Vancouver Canucks vs St. Louis Blues DAZN 
@@ -11196,6 +11056,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:30 Vancouver Canucks vs St. Louis Blues DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:30 Vancouver Canucks vs St. Louis Blues DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:30 Vancouver Canucks vs St. Louis Blues DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 01:30 Vancouver Canucks vs St. Louis Blues DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -11297,10 +11159,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:00 Minnesota Wild vs Los Angeles Kings DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:00 Minnesota Wild vs Los Angeles Kings DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:00 Minnesota Wild vs Los Angeles Kings DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:00 Minnesota Wild vs Los Angeles Kings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:00 Minnesota Wild vs Los Angeles Kings DAZN 
@@ -11353,6 +11211,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:00 Minnesota Wild vs Los Angeles Kings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:00 Minnesota Wild vs Los Angeles Kings DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:00 Minnesota Wild vs Los Angeles Kings DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:00 Minnesota Wild vs Los Angeles Kings DAZN 
@@ -11455,10 +11315,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 02:15 Washington Commanders vs Chicago Bears DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 02:15 Washington Commanders vs Chicago Bears DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 02:15 Washington Commanders vs Chicago Bears DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 02:15 Washington Commanders vs Chicago Bears DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 02:15 Washington Commanders vs Chicago Bears DAZN 
@@ -11511,6 +11367,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 02:15 Washington Commanders vs Chicago Bears DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 02:15 Washington Commanders vs Chicago Bears DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 02:15 Washington Commanders vs Chicago Bears DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 NFL Liga Regular", 02:15 Washington Commanders vs Chicago Bears DAZN 
@@ -11613,10 +11471,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:30 Chicago Blackhawks vs Utah Mammoth DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:30 Chicago Blackhawks vs Utah Mammoth DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:30 Chicago Blackhawks vs Utah Mammoth DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:30 Chicago Blackhawks vs Utah Mammoth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:30 Chicago Blackhawks vs Utah Mammoth DAZN 
@@ -11669,6 +11523,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:30 Chicago Blackhawks vs Utah Mammoth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:30 Chicago Blackhawks vs Utah Mammoth DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:30 Chicago Blackhawks vs Utah Mammoth DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 NHL Regular Season", 02:30 Chicago Blackhawks vs Utah Mammoth DAZN 
@@ -11771,10 +11627,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:00 VEF Riga vs Patrioti Levice DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:00 VEF Riga vs Patrioti Levice DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:00 VEF Riga vs Patrioti Levice DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:00 VEF Riga vs Patrioti Levice DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:00 VEF Riga vs Patrioti Levice DAZN 
@@ -11827,6 +11679,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:00 VEF Riga vs Patrioti Levice DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:00 VEF Riga vs Patrioti Levice DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:00 VEF Riga vs Patrioti Levice DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:00 VEF Riga vs Patrioti Levice DAZN 
@@ -11933,10 +11787,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs KK Igokea DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs KK Igokea DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs KK Igokea DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs KK Igokea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs KK Igokea DAZN 
@@ -11990,6 +11840,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs KK Igokea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs KK Igokea DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs KK Igokea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 S. Oliver Baskets vs KK Igokea DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -12091,10 +11943,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs Elan Chalon DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs Elan Chalon DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs Elan Chalon DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs Elan Chalon DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs Elan Chalon DAZN 
@@ -12148,6 +11996,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs Elan Chalon DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs Elan Chalon DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs Elan Chalon DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 CEZl Nymburk vs Elan Chalon DAZN 
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
@@ -12249,10 +12099,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 Hapoel Holon vs Joventut Badalona DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 Hapoel Holon vs Joventut Badalona DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 Hapoel Holon vs Joventut Badalona DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 Hapoel Holon vs Joventut Badalona DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 Hapoel Holon vs Joventut Badalona DAZN 
@@ -12305,6 +12151,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 Hapoel Holon vs Joventut Badalona DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 Hapoel Holon vs Joventut Badalona DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 Hapoel Holon vs Joventut Badalona DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 18:30 Hapoel Holon vs Joventut Badalona DAZN 
@@ -12407,10 +12255,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 Kadetten Schaffhausen vs Ademar León DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 Kadetten Schaffhausen vs Ademar León DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 Kadetten Schaffhausen vs Ademar León DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 Kadetten Schaffhausen vs Ademar León DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 Kadetten Schaffhausen vs Ademar León DAZN 
@@ -12463,6 +12307,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 Kadetten Schaffhausen vs Ademar León DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 Kadetten Schaffhausen vs Ademar León DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 Kadetten Schaffhausen vs Ademar León DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 Kadetten Schaffhausen vs Ademar León DAZN 
@@ -12565,10 +12411,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 AHC Potaissa Turda vs Bidasoa Irún DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 AHC Potaissa Turda vs Bidasoa Irún DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 AHC Potaissa Turda vs Bidasoa Irún DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 AHC Potaissa Turda vs Bidasoa Irún DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 AHC Potaissa Turda vs Bidasoa Irún DAZN 
@@ -12621,6 +12463,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 AHC Potaissa Turda vs Bidasoa Irún DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 AHC Potaissa Turda vs Bidasoa Irún DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 AHC Potaissa Turda vs Bidasoa Irún DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 18:45 AHC Potaissa Turda vs Bidasoa Irún DAZN 
@@ -12723,10 +12567,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo DAZN 
@@ -12779,6 +12619,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo DAZN 
@@ -12825,6 +12667,8 @@ http://127.0.0.1:6878/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b126a
 http://127.0.0.1:6878/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo Eurosport 1 
+http://127.0.0.1:6878/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo Eurosport 1 
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 tvg-id="" group-title="14/10 Tour de Holanda", 18:50 Etapa Prólogo Eurosport 1 
@@ -12895,10 +12739,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:00 ASK Karditsas BC vs Unicaja Málaga DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:00 ASK Karditsas BC vs Unicaja Málaga DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:00 ASK Karditsas BC vs Unicaja Málaga DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:00 ASK Karditsas BC vs Unicaja Málaga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:00 ASK Karditsas BC vs Unicaja Málaga DAZN 
@@ -12951,6 +12791,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:00 ASK Karditsas BC vs Unicaja Málaga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:00 ASK Karditsas BC vs Unicaja Málaga DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:00 ASK Karditsas BC vs Unicaja Málaga DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:00 ASK Karditsas BC vs Unicaja Málaga DAZN 
@@ -13053,10 +12895,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:30 Frutti Extra Bursaspor vs Cholet Basket DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:30 Frutti Extra Bursaspor vs Cholet Basket DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:30 Frutti Extra Bursaspor vs Cholet Basket DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:30 Frutti Extra Bursaspor vs Cholet Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:30 Frutti Extra Bursaspor vs Cholet Basket DAZN 
@@ -13109,6 +12947,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:30 Frutti Extra Bursaspor vs Cholet Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:30 Frutti Extra Bursaspor vs Cholet Basket DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:30 Frutti Extra Bursaspor vs Cholet Basket DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 19:30 Frutti Extra Bursaspor vs Cholet Basket DAZN 
@@ -13211,10 +13051,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs Tofas Bursa DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs Tofas Bursa DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs Tofas Bursa DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs Tofas Bursa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs Tofas Bursa DAZN 
@@ -13267,6 +13103,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs Tofas Bursa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs Tofas Bursa DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs Tofas Bursa DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 20:30 Trapani Shark vs Tofas Bursa DAZN 
@@ -13369,10 +13207,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 20:45 BM Granollers vs Skanderborg-Aarhus DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 20:45 BM Granollers vs Skanderborg-Aarhus DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 20:45 BM Granollers vs Skanderborg-Aarhus DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 20:45 BM Granollers vs Skanderborg-Aarhus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 20:45 BM Granollers vs Skanderborg-Aarhus DAZN 
@@ -13425,6 +13259,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 20:45 BM Granollers vs Skanderborg-Aarhus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 20:45 BM Granollers vs Skanderborg-Aarhus DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 20:45 BM Granollers vs Skanderborg-Aarhus DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 EHF European League Fase de grupos", 20:45 BM Granollers vs Skanderborg-Aarhus DAZN 
@@ -13527,10 +13363,6 @@ http://127.0.0.1:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 http://127.0.0.1:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 21:00 La Laguna Tenerife vs Bnei Herzliya DAZN FHD
 http://127.0.0.1:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 21:00 La Laguna Tenerife vs Bnei Herzliya DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
-#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 21:00 La Laguna Tenerife vs Bnei Herzliya DAZN FHD
-http://127.0.0.1:6878/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71f
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 21:00 La Laguna Tenerife vs Bnei Herzliya DAZN 
 http://127.0.0.1:6878/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 21:00 La Laguna Tenerife vs Bnei Herzliya DAZN 
@@ -13583,6 +13415,8 @@ http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 http://127.0.0.1:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 21:00 La Laguna Tenerife vs Bnei Herzliya DAZN 
 http://127.0.0.1:6878/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
+#EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 21:00 La Laguna Tenerife vs Bnei Herzliya DAZN 
+http://127.0.0.1:6878/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 21:00 La Laguna Tenerife vs Bnei Herzliya DAZN 
 http://127.0.0.1:6878/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
 #EXTINF:-1 tvg-id="" group-title="14/10 Basketball Champions League Liga Regular", 21:00 La Laguna Tenerife vs Bnei Herzliya DAZN 
