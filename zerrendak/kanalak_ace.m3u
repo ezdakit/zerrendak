@@ -112,6 +112,8 @@ acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39
 #EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" group-title="LALIGA", M+ LaLiga TV 3 HD
 acestream://571ce113b9d600a145766443d7417eccab2e1846
 #EXTINF:-1 tvg-id="M+ LaLiga TV 4" group-title="LALIGA", M+ LaLiga TV 4 HD
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" group-title="LALIGA", M+ LaLiga TV 4 HD
 acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-id="M+ LaLiga TV 4" group-title="LALIGA", M+ LaLiga TV 4 HD
 acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
@@ -199,8 +201,6 @@ acestream://29d786d72d4b53dbc333af3a50f8fb021aa0296f
 acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
 #EXTINF:-1 tvg-id="M+ Deportes 3" group-title="MOVISTAR", M+ Deportes 3 HD
 acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
-#EXTINF:-1 tvg-id="M+ Deportes 3" group-title="MOVISTAR", M+ Deportes 3 HD
-acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 tvg-id="M+ Deportes 4" group-title="MOVISTAR", M+ Deportes 4 HD
 acestream://8b5f9d967384afab226dd759e6e9dfaee9993869
 #EXTINF:-1 tvg-id="M+ Deportes 4" group-title="MOVISTAR", M+ Deportes 4 FHD
@@ -405,8 +405,6 @@ acestream://5f966c123759de46dff29c379266b7a403452033
 acestream://5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-id="Tennis Channel" group-title="VARIOS", CANAL DE TENIS HD (ES) 23AC
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL MOTOR F2D5
-acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT (PL) 6ED7
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1 tvg-id="" group-title="VARIOS", CANAL+ SPORT 2 (PL) HD 01D3
@@ -515,8 +513,6 @@ acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 0A62
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 HD 24E3
-acestream://547ab7146a86d6119c9332c011669544720124e3
 #EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="VARIOS", EUROSPORT 1 SD E78A
 acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="VARIOS", EUROSPORT 2 FHD 1551
@@ -607,10 +603,6 @@ acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
 acestream://86495fe134ff065d5217497babe6be33f81d37d1
 #EXTINF:-1 tvg-id="" group-title="VARIOS", MIXED TV (SOLO EVENTOS) 21B3
 acestream://eb25ebc41fc51710b098f860b33b3229d11921b3
-#EXTINF:-1 tvg-id="" group-title="VARIOS", MOTORS TV HD DF98
-acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
-#EXTINF:-1 tvg-id="Motorvision tv" group-title="VARIOS", MOTORVISION F404
-acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-id="M+ Accin HD" group-title="VARIOS", MOVISTAR ACCION FHD 59CE
 acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
 #EXTINF:-1 tvg-id="M+ Accin HD" group-title="VARIOS", MOVISTAR ACCION FHD 6F96
