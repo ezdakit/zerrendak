@@ -32,8 +32,6 @@ acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1
 #EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
-acestream://8a86cd6152154a25ad4b76523160552a40313b28
-#EXTINF:-1 tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD
 acestream://4e401fdceebffdf1f09aef954844d09f6c62f460
 #EXTINF:-1 tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 HD
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
@@ -295,6 +293,8 @@ acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF:-1 tvg-id="" group-title="VARIOS", !  HD (RU) SPORT_TV_28 BA12
 acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-id="24 Horas" group-title="VARIOS", 24 HORAS HD 6CCA
+acestream://cc5ed178702605513cd18b4899c4be954d306cca
 #EXTINF:-1 tvg-id="AMC HD" group-title="VARIOS", AMC HD 20F3
 acestream://55ff9ee631af351f365f51cf3601695bf1fd20f3
 #EXTINF:-1 tvg-id="Antena 3 HD" group-title="VARIOS", ANTENA 3 FHD 40E9
@@ -455,10 +455,14 @@ acestream://c811cde690d467a2e45d3c263c4f0960a3933d18
 acestream://49b734a5a3365674480089264be00ae28fabb640
 #EXTINF:-1 tvg-id="" group-title="VARIOS", FOX PREMIUM UFC E1E1
 acestream://ade70f2c51cca519a4d8de1bb181af6e8532e1e1
-#EXTINF:-1 tvg-id="" group-title="VARIOS", FOX SPORT MX HD 03B7
-acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 tvg-id="" group-title="VARIOS", FOX SPORT MX HD 0898
+#EXTINF:-1 tvg-id="" group-title="VARIOS", FOX SPORTS 1 HD (US) SPORT_TV_28 0898
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 tvg-id="" group-title="VARIOS", FOX SPORTS 2 ARG HD 08AC
+acestream://0b48cd93de3c714e36961a93805798307a5608ac
+#EXTINF:-1 tvg-id="" group-title="VARIOS", FOX SPORTS 2 COL HD 9090
+acestream://3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
+#EXTINF:-1 tvg-id="" group-title="VARIOS", FOX SPORTS 2 HD (US) SPORT_TV_28 03B7
+acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 0612
 acestream://9fb99c40a2c45d5c5342b30626eb56140f980612
 #EXTINF:-1 tvg-id="GOL PLAY" group-title="VARIOS", GOL PLAY FHD 4A3A
